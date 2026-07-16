@@ -1,0 +1,43 @@
+name: Weekly roundup
+
+on:
+  schedule:
+    # 12:30 UTC Friday = 18:00 IST Friday
+    - cron: "30 12 * * 5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  roundup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Build weekly roundup
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/weekly_roundup.py
+
+      - name: Rebuild index + RSS
+        run: python scripts/build_site.py
+
+      - name: Commit
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "actions@github.com"
+          git add data feed.xml
+          git diff --staged --quiet || git commit -m "Weekly roundup: $(date -u +%Y-%m-%d)"
+          git push
