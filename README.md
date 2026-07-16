@@ -154,3 +154,37 @@ posts/              Your markdown posts  ← you edit this
 scripts/            The bots (llm.py = shared Gemini call)
 .github/workflows/  Schedules
 ```
+
+## 6. Newsletter — auto-email the digest (optional)
+
+Two parts: the signup form, and the sending bot.
+
+**a. Signup form.** Create a free account at **buttondown.com** (free to 100
+subscribers). Note your username, then edit `index.html` and replace
+`YOUR_USERNAME` in the form's `action` URL:
+
+```html
+action="https://buttondown.email/api/emails/embed-subscribe/praviveek"
+```
+
+That username is *your newsletter's* name — anyone can subscribe through it.
+
+**b. Auto-send.** Buttondown → **Settings → Programming → API** → copy your API key.
+Then GitHub → **Settings → Secrets and variables → Actions → New repository secret**:
+- Name: `BUTTONDOWN_API_KEY`
+- Value: your key
+
+That's it. Every weekday the digest publishes to the site *and* emails your
+subscribers. Friday's roundup does the same.
+
+**Safety notes:**
+- `data/sent.json` records what's been emailed. Re-running a workflow will
+  **not** double-send.
+- No `BUTTONDOWN_API_KEY`? The step skips quietly and the site still publishes.
+- A Buttondown API error never fails the workflow — the site is the source of
+  truth, email is best-effort.
+- Test before going live: `python scripts/send_newsletter.py --dry-run` prints
+  the email instead of sending it.
+- The script pins Buttondown API version `2026-04-01`. On that version a POST
+  defaults to *draft*, so it explicitly sets `about_to_send` and passes the
+  one-time `X-Buttondown-Live-Dangerously` confirmation header.
