@@ -1,0 +1,48 @@
+name: Daily digest
+
+on:
+  schedule:
+    # 01:30 UTC = 07:00 IST, Monday–Friday
+    - cron: "30 1 * * 1-5"
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch news digest
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_news.py
+
+      - name: Fetch arXiv papers
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_papers.py
+
+      - name: Rebuild index + RSS
+        run: python scripts/build_site.py
+
+      - name: Commit
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "actions@github.com"
+          git add data feed.xml
+          git diff --staged --quiet || git commit -m "Digest: $(date -u +%Y-%m-%d)"
+          git push
