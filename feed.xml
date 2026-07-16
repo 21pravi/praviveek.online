@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Praviveek Ray — Notes</title>
+    <link>https://praviveek.online/</link>
+    <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Jul 2026 04:50:50 +0000</lastBuildDate>
+    <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why I&#x27;m publishing this</title>
+      <link>https://praviveek.online/post.html?p=welcome</link>
+      <guid isPermaLink="false">https://praviveek.online/post.html?p=welcome</guid>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <description>A weekday AI digest, the papers I&#x27;m actually reading, and notes from building ML that touches 70M+ subscribers.</description>
+    </item>
+  </channel>
+</rss>

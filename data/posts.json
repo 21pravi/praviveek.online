@@ -1,0 +1,14 @@
+[
+  {
+    "slug": "welcome",
+    "type": "writing",
+    "title": "Why I'm publishing this",
+    "date": "2026-07-16",
+    "tags": [
+      "meta",
+      "ai"
+    ],
+    "excerpt": "A weekday AI digest, the papers I'm actually reading, and notes from building ML that touches 70M+ subscribers.",
+    "pdf": null
+  }
+]

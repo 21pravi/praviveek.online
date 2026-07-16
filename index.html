@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<title>Notes — Praviveek Ray</title>
+<meta name="description" content="Daily AI and tech digest, research papers, and writing by Praviveek Ray, Data Scientist at Mahindra Comviva.">
+<link rel="alternate" type="application/rss+xml" title="Praviveek Ray — Notes" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=Figtree:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwQTI1NDAiLz48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNTgiIGhlaWdodD0iNiIgcng9IjMiIGZpbGw9IiMwMjg0QzciLz48dGV4dCB4PSIzMiIgeT0iNDQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCdUaW1lcyBOZXcgUm9tYW4nLHNlcmlmIiBmb250LXNpemU9IjMwIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iLTEiPlBSPC90ZXh0Pjwvc3ZnPg==">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Praviveek Ray — Notes">
+<meta property="og:url" content="https://praviveek.online/">
+<meta property="og:title" content="Notes — Praviveek Ray">
+<meta property="og:description" content="Daily AI and tech digest, research papers, and writing by a working data scientist.">
+<meta property="og:image" content="https://praviveek.online/og-image.png">
+<meta name="twitter:card" content="summary_large_image">
+
+<style>
+:root{
+  --base:#EDF2F7; --panel:#FFFFFF; --navy:#0A2540; --navy-2:#10375C;
+  --azure:#0284C7; --azure-deep:#026AA2; --sky:#E1EFF8; --slate:#4A5C6E; --hair:#DCE5EE;
+  --disp:"Newsreader",serif; --body:"Figtree",sans-serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{background:var(--base);color:var(--navy);font-family:var(--body);font-size:16.5px;line-height:1.7;-webkit-font-smoothing:antialiased}
+::selection{background:var(--azure);color:#fff}
+a{color:inherit}
+.wrap{max-width:1000px;margin:0 auto;padding:0 32px}
+.caps{font-size:11.5px;font-weight:600;letter-spacing:.22em;text-transform:uppercase;color:var(--azure-deep)}
+
+/* nav */
+header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--hair)}
+.bar{max-width:1000px;margin:0 auto;padding:0 32px;height:70px;display:flex;align-items:center;justify-content:space-between}
+.wordmark{font-family:var(--disp);font-size:19px;font-weight:500;letter-spacing:.13em;text-transform:uppercase;text-decoration:none;color:var(--navy)}
+.wordmark span{color:var(--azure)}
+nav.main{display:flex;align-items:center;gap:30px}
+nav.main a{font-size:12px;font-weight:600;letter-spacing:.16em;text-transform:uppercase;text-decoration:none;color:var(--slate);transition:color .2s;position:relative;padding:6px 0}
+nav.main a::after{content:"";position:absolute;left:0;bottom:0;height:1.5px;width:0;background:var(--azure);transition:width .25s}
+nav.main a:hover{color:var(--navy)}nav.main a:hover::after{width:100%}
+.nav-cta{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;background:var(--azure);color:#fff!important;padding:11px 22px;border-radius:4px;box-shadow:0 4px 14px -4px rgba(2,132,199,.5);transition:background .2s}
+.nav-cta::after{display:none}
+.nav-cta:hover{background:var(--azure-deep)}
+
+/* hero */
+.hero{padding:70px 0 44px}
+.hero .caps{display:block;margin-bottom:18px}
+h1{font-family:var(--disp);font-weight:400;font-size:clamp(38px,5vw,60px);line-height:1.08;letter-spacing:-.01em}
+h1 em{font-style:italic;color:var(--azure-deep)}
+.hero p{color:var(--slate);font-size:18px;font-weight:300;max-width:60ch;margin-top:22px}
+.hero p b{font-weight:600;color:var(--navy)}
+
+/* newsletter */
+.subscribe{margin-top:34px;background:var(--panel);border:1px solid var(--hair);border-radius:8px;padding:24px 28px;display:flex;align-items:center;gap:22px;flex-wrap:wrap;justify-content:space-between}
+.subscribe .st{font-family:var(--disp);font-size:20px}
+.subscribe .ss{font-size:13.5px;color:var(--slate);font-weight:300}
+.sub-form{display:flex;gap:10px;flex-wrap:wrap}
+.sub-form input{font-family:var(--body);font-size:14px;padding:12px 16px;border:1px solid var(--hair);border-radius:4px;min-width:230px;color:var(--navy);background:var(--base)}
+.sub-form input:focus{outline:2px solid var(--azure);outline-offset:1px}
+.sub-form button{font-family:var(--body);font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;padding:12px 24px;border:none;border-radius:4px;background:var(--navy);color:#fff;cursor:pointer;transition:background .2s}
+.sub-form button:hover{background:var(--azure-deep)}
+
+/* controls */
+.controls{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap;padding:26px 0;border-bottom:1px solid var(--hair);position:sticky;top:70px;background:var(--base);z-index:50}
+.tabs{display:flex;gap:8px;flex-wrap:wrap}
+.tab{font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:9px 16px;border:1px solid var(--hair);background:var(--panel);border-radius:999px;cursor:pointer;color:var(--slate);transition:all .18s;font-family:var(--body)}
+.tab:hover{border-color:var(--azure);color:var(--navy)}
+.tab.on{background:var(--navy);color:#fff;border-color:var(--navy)}
+.search{font-family:var(--body);font-size:14px;padding:10px 16px;border:1px solid var(--hair);border-radius:999px;background:var(--panel);min-width:200px;color:var(--navy)}
+.search:focus{outline:2px solid var(--azure);outline-offset:1px}
+
+/* feed */
+.feed{padding:36px 0 80px;display:flex;flex-direction:column;gap:22px}
+.card{background:var(--panel);border:1px solid var(--hair);border-radius:8px;overflow:hidden;transition:box-shadow .25s,transform .25s}
+.card:hover{box-shadow:0 22px 46px -20px rgba(10,37,64,.18);transform:translateY(-2px)}
+.card-head{padding:26px 30px 0;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.badge{font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:5px 11px;border-radius:4px;background:var(--sky);color:var(--azure-deep)}
+.badge.digest{background:var(--navy);color:#fff}
+.badge.roundup{background:var(--azure);color:#fff}
+.badge.paper{background:#EAF3EC;color:#12885E}
+.badge.writing{background:#FBEFE3;color:#A35B12}
+.badge.research{background:#EDE7F8;color:#5B3FA8}
+.meta{font-size:12.5px;color:var(--slate);font-weight:300}
+.card h2{font-family:var(--disp);font-weight:400;font-size:26px;line-height:1.25;padding:14px 30px 0}
+.card h2 a{text-decoration:none}
+.card h2 a:hover{color:var(--azure-deep)}
+.card .excerpt{padding:10px 30px 0;color:var(--slate);font-weight:300;font-size:15.5px}
+.card-foot{padding:20px 30px 26px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.tagrow{display:flex;gap:7px;flex-wrap:wrap;flex:1}
+.tag{font-size:11px;font-weight:600;letter-spacing:.06em;color:var(--azure-deep);background:var(--sky);border-radius:3px;padding:4px 10px}
+.readlink{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;color:var(--azure-deep)}
+.readlink:hover{color:var(--navy)}
+
+/* digest items */
+.items{border-top:1px solid var(--hair);margin-top:20px}
+.item{padding:20px 30px;border-bottom:1px solid var(--hair);display:flex;gap:18px}
+.item:last-child{border-bottom:none}
+.item .num{font-family:var(--disp);font-size:15px;color:var(--azure);min-width:26px;padding-top:2px}
+.item h3{font-size:16px;font-weight:600;line-height:1.4;margin-bottom:5px}
+.item h3 a{text-decoration:none}
+.item h3 a:hover{color:var(--azure-deep)}
+.item p{font-size:14.5px;color:var(--slate);font-weight:300}
+.item .src{font-size:11.5px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--slate);margin-top:8px;display:inline-block}
+.item .src b{color:var(--azure-deep)}
+
+.empty{text-align:center;padding:70px 20px;color:var(--slate);font-weight:300}
+.empty .big{font-family:var(--disp);font-size:26px;color:var(--navy);margin-bottom:8px}
+
+footer{border-top:1px solid var(--hair);background:var(--panel);padding:30px 32px;text-align:center;font-size:13px;color:var(--slate);font-weight:300}
+footer a{color:var(--azure-deep);text-decoration:none}
+:is(a,button):focus-visible{outline:2.5px solid var(--azure);outline-offset:3px}
+
+@media (max-width:760px){
+  nav.main a:not(.nav-cta){display:none}
+  .bar{height:62px;padding:0 20px}
+  .wrap{padding:0 20px}
+  .hero{padding:46px 0 32px}
+  .controls{top:62px}
+  .card-head,.card h2,.card .excerpt,.card-foot,.item{padding-left:20px;padding-right:20px}
+  .subscribe{flex-direction:column;align-items:flex-start}
+  .sub-form input{min-width:0;flex:1}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="bar">
+    <a class="wordmark" href="./">Notes<span>.</span></a>
+    <nav class="main" aria-label="Main">
+      <a href="#feed" data-jump="digest">Digest</a>
+      <a href="#feed" data-jump="paper">Papers</a>
+      <a href="#feed" data-jump="writing">Writing</a>
+      <a href="feed.xml">RSS</a>
+      <a class="nav-cta" href="https://praviveek.com" target="_blank" rel="noopener">Portfolio ↗</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <section class="hero">
+      <span class="caps">Praviveek Ray · Data Scientist</span>
+      <h1>What's actually moving in <em>AI and tech</em>.</h1>
+      <p>A weekday digest of the news worth your time, fresh research papers, and my own <b>writing and studies</b> — from someone shipping ML in production, not just reading about it.</p>
+
+      <div class="subscribe">
+        <div>
+          <div class="st">Get it in your inbox</div>
+          <div class="ss">Weekday digest + new essays. No spam, unsubscribe anytime.</div>
+        </div>
+        <!-- Replace YOUR_USERNAME with your Buttondown username (see README) -->
+        <form class="sub-form" action="https://buttondown.email/api/emails/embed-subscribe/YOUR_USERNAME" method="post" target="_blank">
+          <input type="email" name="email" placeholder="you@example.com" required aria-label="Email address">
+          <button type="submit">Subscribe</button>
+        </form>
+      </div>
+    </section>
+  </div>
+
+  <div class="wrap">
+    <div class="controls" id="feed">
+      <div class="tabs" role="tablist">
+        <button class="tab on" data-f="all">All</button>
+        <button class="tab" data-f="digest">Daily digest</button>
+        <button class="tab" data-f="roundup">Weekly</button>
+        <button class="tab" data-f="paper">Papers</button>
+        <button class="tab" data-f="writing">Writing</button>
+        <button class="tab" data-f="research">Research</button>
+      </div>
+      <input class="search" type="search" placeholder="Search…" aria-label="Search posts">
+    </div>
+    <div class="feed" id="list"></div>
+  </div>
+</main>
+
+<footer>© <span id="yr"></span> Praviveek Ray · <a href="https://praviveek.com">praviveek.com</a> · <a href="feed.xml">RSS</a> · Digest items link to their original sources.</footer>
+
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+
+/* Fallback seed so the page renders before the bot's first run. */
+const SEED = {
+  news: {issues:[]},
+  papers: {items:[]},
+  posts: [{
+    slug:"welcome", type:"writing", title:"Why I'm publishing this",
+    date:new Date().toISOString().slice(0,10),
+    tags:["meta"],
+    excerpt:"A weekday AI digest, papers I'm reading, and notes from building ML for 70M+ subscribers."
+  }]
+};
+
+const esc = s => String(s??'').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = d => { try { return new Date(d+'T00:00:00').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'}); } catch { return d; } };
+
+async function grab(url, fb){ try{ const r = await fetch(url,{cache:'no-store'}); if(!r.ok) throw 0; return await r.json(); }catch{ return fb; } }
+
+let ENTRIES = [];
+
+function buildEntries(news, papers, posts){
+  const out = [];
+  (news.issues||[]).forEach(i => out.push({
+    kind: i.type==='roundup' ? 'roundup' : 'digest',
+    title: i.title, date: i.date, slug: i.slug,
+    excerpt: i.intro || `${(i.items||[]).length} stories worth knowing today.`,
+    items: i.items||[], tags: i.tags||[]
+  }));
+  (papers.items||[]).forEach(p => out.push({
+    kind:'paper', title:p.title, date:p.date, url:p.url,
+    excerpt:p.summary, tags:p.tags||[], authors:p.authors
+  }));
+  (posts||[]).forEach(p => out.push({
+    kind: p.type==='research' ? 'research' : 'writing',
+    title:p.title, date:p.date, slug:p.slug, excerpt:p.excerpt,
+    tags:p.tags||[], pdf:p.pdf
+  }));
+  out.sort((a,b) => (b.date||'').localeCompare(a.date||''));
+  return out;
+}
+
+function cardHTML(e){
+  const label = {digest:'Daily digest', roundup:'Weekly roundup', paper:'Paper', writing:'Writing', research:'Research'}[e.kind];
+  const tags = (e.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('');
+  let title = esc(e.title), link='';
+  if(e.kind==='paper'){ title = `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`; link = `<a class="readlink" href="${esc(e.url)}" target="_blank" rel="noopener">Read on arXiv →</a>`; }
+  else if(e.slug && (e.kind==='writing'||e.kind==='research')){ title = `<a href="post.html?p=${encodeURIComponent(e.slug)}">${esc(e.title)}</a>`; link = `<a class="readlink" href="post.html?p=${encodeURIComponent(e.slug)}">Read →</a>`;
+    if(e.pdf) link += ` <a class="readlink" href="${esc(e.pdf)}" target="_blank" rel="noopener">PDF ↗</a>`; }
+
+  let items='';
+  if(e.items && e.items.length){
+    items = '<div class="items">' + e.items.map((it,n)=>`
+      <div class="item">
+        <div class="num">${String(n+1).padStart(2,'0')}</div>
+        <div>
+          <h3><a href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a></h3>
+          <p>${esc(it.summary)}</p>
+          <span class="src">Source: <b>${esc(it.source)}</b> ↗</span>
+        </div>
+      </div>`).join('') + '</div>';
+  }
+
+  return `<article class="card">
+    <div class="card-head"><span class="badge ${e.kind}">${label}</span><span class="meta">${fmt(e.date)}</span></div>
+    <h2>${title}</h2>
+    ${e.excerpt?`<p class="excerpt">${esc(e.excerpt)}</p>`:''}
+    ${(tags||link)?`<div class="card-foot"><div class="tagrow">${tags}</div>${link}</div>`:''}
+    ${items}
+  </article>`;
+}
+
+let filter='all', query='';
+function render(){
+  const q = query.trim().toLowerCase();
+  const rows = ENTRIES.filter(e=>{
+    if(filter!=='all' && e.kind!==filter) return false;
+    if(!q) return true;
+    const hay = [e.title,e.excerpt,(e.tags||[]).join(' '),(e.items||[]).map(i=>i.title+' '+i.summary).join(' ')].join(' ').toLowerCase();
+    return hay.includes(q);
+  });
+  const list = document.getElementById('list');
+  list.innerHTML = rows.length ? rows.map(cardHTML).join('')
+    : `<div class="empty"><div class="big">Nothing here yet.</div><div>The digest bot posts every weekday morning — check back soon.</div></div>`;
+}
+
+document.querySelectorAll('.tab').forEach(t=>t.addEventListener('click',()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('on'));
+  t.classList.add('on'); filter=t.dataset.f; render();
+}));
+document.querySelector('.search').addEventListener('input',e=>{ query=e.target.value; render(); });
+document.querySelectorAll('[data-jump]').forEach(a=>a.addEventListener('click',()=>{
+  const f=a.dataset.jump; const btn=[...document.querySelectorAll('.tab')].find(b=>b.dataset.f===f);
+  if(btn) btn.click();
+}));
+
+(async ()=>{
+  const [news,papers,posts] = await Promise.all([
+    grab('data/news.json', SEED.news),
+    grab('data/papers.json', SEED.papers),
+    grab('data/posts.json', SEED.posts)
+  ]);
+  ENTRIES = buildEntries(news,papers,posts);
+  render();
+})();
+</script>
+</body>
+</html>

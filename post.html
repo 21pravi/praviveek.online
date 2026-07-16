@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light">
+<title>Praviveek Ray — Notes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,300;0,6..72,400;0,6..72,500;1,6..72,300;1,6..72,400&family=Figtree:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9IiMwQTI1NDAiLz48cmVjdCB4PSIzIiB5PSIzIiB3aWR0aD0iNTgiIGhlaWdodD0iNiIgcng9IjMiIGZpbGw9IiMwMjg0QzciLz48dGV4dCB4PSIzMiIgeT0iNDQiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLCdUaW1lcyBOZXcgUm9tYW4nLHNlcmlmIiBmb250LXNpemU9IjMwIiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjRkZGRkZGIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iLTEiPlBSPC90ZXh0Pjwvc3ZnPg==">
+<style>
+:root{
+  --base:#EDF2F7; --panel:#FFFFFF; --navy:#0A2540; --azure:#0284C7; --azure-deep:#026AA2;
+  --sky:#E1EFF8; --slate:#4A5C6E; --hair:#DCE5EE;
+  --disp:"Newsreader",serif; --body:"Figtree",sans-serif; --mono:"JetBrains Mono",monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--base);color:var(--navy);font-family:var(--body);font-size:17px;line-height:1.75;-webkit-font-smoothing:antialiased}
+::selection{background:var(--azure);color:#fff}
+a{color:var(--azure-deep)}
+img{max-width:100%;height:auto;border-radius:6px;display:block}
+.wrap{max-width:760px;margin:0 auto;padding:0 32px}
+
+header{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.94);backdrop-filter:blur(10px);border-bottom:1px solid var(--hair)}
+.bar{max-width:1000px;margin:0 auto;padding:0 32px;height:70px;display:flex;align-items:center;justify-content:space-between}
+.wordmark{font-family:var(--disp);font-size:19px;font-weight:500;letter-spacing:.13em;text-transform:uppercase;text-decoration:none;color:var(--navy)}
+.wordmark span{color:var(--azure)}
+.back{font-size:12px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;text-decoration:none;color:var(--slate)}
+.back:hover{color:var(--navy)}
+
+article{background:var(--panel);border:1px solid var(--hair);border-radius:8px;padding:56px 60px;margin:44px 0}
+.badge{font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;padding:5px 11px;border-radius:4px;background:#FBEFE3;color:#A35B12}
+.badge.research{background:#EDE7F8;color:#5B3FA8}
+.head-meta{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin-bottom:18px}
+.head-meta .meta{font-size:13px;color:var(--slate);font-weight:300}
+h1{font-family:var(--disp);font-weight:400;font-size:clamp(32px,4.4vw,46px);line-height:1.12;letter-spacing:-.01em;margin-bottom:16px}
+.tagrow{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:26px}
+.tag{font-size:11px;font-weight:600;color:var(--azure-deep);background:var(--sky);border-radius:3px;padding:4px 10px}
+.pdf-btn{display:inline-block;font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;text-decoration:none;background:var(--navy);color:#fff;padding:12px 24px;border-radius:4px;margin-bottom:30px}
+.pdf-btn:hover{background:var(--azure-deep)}
+
+.md{border-top:1px solid var(--hair);padding-top:34px}
+.md h2{font-family:var(--disp);font-weight:400;font-size:30px;line-height:1.25;margin:38px 0 14px}
+.md h3{font-family:var(--disp);font-weight:500;font-size:23px;margin:30px 0 10px}
+.md p{margin-bottom:20px;color:#22384D}
+.md ul,.md ol{margin:0 0 20px 22px;color:#22384D}
+.md li{margin-bottom:8px}
+.md blockquote{border-left:3px solid var(--azure);padding:6px 0 6px 22px;margin:24px 0;color:var(--slate);font-style:italic}
+.md code{font-family:var(--mono);font-size:14px;background:var(--sky);padding:2px 7px;border-radius:4px;color:var(--azure-deep)}
+.md pre{background:var(--navy);color:#E1EFF8;padding:22px 24px;border-radius:8px;overflow-x:auto;margin-bottom:22px}
+.md pre code{background:none;color:inherit;padding:0;font-size:13.5px;line-height:1.7}
+.md table{width:100%;border-collapse:collapse;margin-bottom:24px;font-size:15px}
+.md th,.md td{border:1px solid var(--hair);padding:10px 14px;text-align:left}
+.md th{background:var(--sky);font-weight:600}
+.md hr{border:none;border-top:1px solid var(--hair);margin:34px 0}
+.md img{margin:24px 0}
+.md a{text-decoration:underline;text-underline-offset:3px}
+
+.comments{background:var(--panel);border:1px solid var(--hair);border-radius:8px;padding:36px 40px;margin-bottom:56px}
+.comments h3{font-family:var(--disp);font-weight:400;font-size:24px;margin-bottom:20px}
+.loading{text-align:center;padding:70px 20px;color:var(--slate);font-weight:300}
+footer{border-top:1px solid var(--hair);background:var(--panel);padding:30px 32px;text-align:center;font-size:13px;color:var(--slate);font-weight:300}
+footer a{color:var(--azure-deep);text-decoration:none}
+@media (max-width:760px){
+  .wrap{padding:0 18px}.bar{height:62px;padding:0 18px}
+  article{padding:34px 24px;margin:26px 0}
+  .comments{padding:26px 20px}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="wordmark" href="./">Notes<span>.</span></a>
+    <a class="back" href="./">← All posts</a>
+  </div>
+</header>
+
+<main class="wrap">
+  <div id="out"><div class="loading">Loading…</div></div>
+</main>
+
+<footer>© <span id="yr"></span> Praviveek Ray · <a href="https://praviveek.com">praviveek.com</a></footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dompurify/3.0.9/purify.min.js"></script>
+<script>
+document.getElementById('yr').textContent = new Date().getFullYear();
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmt = d => { try{ return new Date(d+'T00:00:00').toLocaleDateString('en-US',{month:'long',day:'numeric',year:'numeric'});}catch{return d;} };
+const slug = new URLSearchParams(location.search).get('p');
+
+(async ()=>{
+  const out = document.getElementById('out');
+  if(!slug){ out.innerHTML = '<div class="loading">No post specified. <a href="./">Back to all posts</a></div>'; return; }
+  try{
+    const posts = await (await fetch('data/posts.json',{cache:'no-store'})).json();
+    const meta = posts.find(p=>p.slug===slug);
+    if(!meta) throw new Error('not found');
+    const md = await (await fetch(`posts/${slug}.md`,{cache:'no-store'})).text();
+
+    document.title = meta.title + ' — Praviveek Ray';
+    const kind = meta.type==='research' ? 'research' : 'writing';
+    const label = kind==='research' ? 'Research' : 'Writing';
+    const words = md.trim().split(/\s+/).length;
+    const mins = Math.max(1, Math.round(words/220));
+
+    out.innerHTML = `
+      <article>
+        <div class="head-meta">
+          <span class="badge ${kind}">${label}</span>
+          <span class="meta">${fmt(meta.date)} · ${mins} min read</span>
+        </div>
+        <h1>${esc(meta.title)}</h1>
+        <div class="tagrow">${(meta.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div>
+        ${meta.pdf?`<a class="pdf-btn" href="${esc(meta.pdf)}" target="_blank" rel="noopener">Download PDF ↗</a>`:''}
+        <div class="md" id="md"></div>
+      </article>
+      <div class="comments"><h3>Comments</h3><div id="giscus"></div></div>`;
+
+    document.getElementById('md').innerHTML = DOMPurify.sanitize(marked.parse(md));
+
+    /* Giscus — replace the data-repo-id / data-category-id values (see README) */
+    const g = document.createElement('script');
+    g.src = 'https://giscus.app/client.js';
+    g.async = true; g.crossOrigin = 'anonymous';
+    Object.entries({
+      'data-repo':'21pravi/praviveek.online',
+      'data-repo-id':'YOUR_REPO_ID',
+      'data-category':'Announcements',
+      'data-category-id':'YOUR_CATEGORY_ID',
+      'data-mapping':'pathname','data-strict':'1','data-reactions-enabled':'1',
+      'data-emit-metadata':'0','data-input-position':'top','data-theme':'light',
+      'data-lang':'en','data-loading':'lazy'
+    }).forEach(([k,v])=>g.setAttribute(k,v));
+    document.getElementById('giscus').appendChild(g);
+  }catch(e){
+    out.innerHTML = '<div class="loading">Post not found. <a href="./">Back to all posts</a></div>';
+  }
+})();
+</script>
+</body>
+</html>
