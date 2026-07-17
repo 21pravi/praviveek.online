@@ -1,6 +1,42 @@
 {
-  "updated": "2026-07-17T04:36:26.639879+00:00",
+  "updated": "2026-07-17T14:12:03.545177+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-07-17",
+      "slug": "roundup-2026-07-17",
+      "title": "The Week in AI — July 17, 2026",
+      "intro": "This week's developments reveal a pivot from raw model capability toward the messy, high-stakes realities of enterprise security, vertical specialization, and sustainable deployment.",
+      "tags": [
+        "enterprise-ai",
+        "agentic-workflows",
+        "model-security",
+        "vertical-ai"
+      ],
+      "items": [
+        {
+          "title": "The Agentic Reality Gap",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Enterprises are rushing to deploy autonomous agents despite glaring security vulnerabilities and a lack of reliable evaluation frameworks. For data scientists, this signals that the challenge is no longer just building models, but architecting robust, secure, and verifiable agentic workflows that won't fail in production.",
+          "tags": []
+        },
+        {
+          "title": "Verticalization Over Generalization",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Capital is flowing toward specialized foundation models and implementation services, signaling that the era of 'one-size-fits-all' AI is fading. Data scientists should focus on domain-specific data and integration, as the real value is shifting from general LLM performance to solving complex, industry-specific operational problems.",
+          "tags": []
+        },
+        {
+          "title": "The Commoditization of Intelligence",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Microsoft’s push to undercut OpenAI and Anthropic suggests that foundational models are becoming a commodity, forcing providers to differentiate through brand, price, and deep enterprise integration. This shift forces practitioners to move beyond model-centric development and prioritize cost-efficiency and strategic vendor alignment.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-17",

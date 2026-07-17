@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 04:36:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:12:03 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — July 17, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-07-17</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-17</guid>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This week&#x27;s developments reveal a pivot from raw model capability toward the messy, high-stakes realities of enterprise security, vertical specialization, and sustainable deployment. The Agentic Reality Gap · Verticalization Over Generalization · The Commoditization of Intelligence</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 17, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-17</link>
