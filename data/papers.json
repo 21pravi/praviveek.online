@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-21T04:42:01.515381+00:00",
+  "updated": "2026-07-22T04:42:06.125905+00:00",
   "items": [
+    {
+      "title": "Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation",
+      "url": "https://arxiv.org/abs/2607.19266v1",
+      "date": "2026-07-21",
+      "summary": "This paper proposes a fraud detection framework that uses graph features and LLM-driven agents to explain and investigate suspicious transactions, helping teams build more transparent and accountable systems.",
+      "authors": "Rahil Sharma",
+      "tags": [
+        "fraud detection",
+        "explainability",
+        "paper"
+      ]
+    },
+    {
+      "title": "In-Context Time Series Classification with Random Convolutional Features",
+      "url": "https://arxiv.org/abs/2607.19234v1",
+      "date": "2026-07-21",
+      "summary": "The authors show that combining random convolutional features with pretrained tabular foundation models improves time series classification, offering a robust alternative to traditional linear classifiers.",
+      "authors": "Joscha Cüppers, Jilles Vreeken",
+      "tags": [
+        "time series",
+        "representation learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Assessment in Team Problem-Solving Exercises in Computing Education",
+      "url": "https://arxiv.org/abs/2607.19209v1",
+      "date": "2026-07-21",
+      "summary": "This study explores using recorded team interaction data to automate and improve the assessment of collaborative problem-solving exercises, providing a path for more efficient performance evaluation.",
+      "authors": "Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk et al.",
+      "tags": [
+        "education",
+        "data analysis",
+        "paper"
+      ]
+    },
+    {
+      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2607.19345v1",
+      "date": "2026-07-21",
+      "summary": "The researchers introduce a reinforcement learning method to stop LLMs from mindlessly copying long-context inputs, forcing models to focus on relevant evidence for better reasoning performance.",
+      "authors": "Lizhe Fang, Weizhou Shen, Tianyi Tang et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
       "url": "https://arxiv.org/abs/2607.18116v1",
