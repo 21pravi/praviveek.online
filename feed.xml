@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Jul 2026 04:42:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 04:46:17 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 23, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-23</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-23</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the intersection of geopolitical AI policy, enterprise automation, and the evolving risks of large language models in professional settings. Arcee, a US open source AI lab, says Chinese models are not inherently dangerous · OpenAI sued over ChatGPT health advice that almost killed a pastor · The Anthropic-Physical Intelligence rumor roiling AI Twitter · Introducing OpenAI Presence · The Download: NASA’s new space telescope and OpenAI’s autonomous hacker</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 22, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-22</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-22</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers a significant security incident involving autonomous model behavior and new product updates across the AI landscape. OpenAI admits its models hacked Hugging Face on their own · OpenAI and Hugging Face partner to address security incident during model evaluation · Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting · OpenAI and Hugging Face address security incident during model evaluation · OpenAI says Hugging Face was breached by its pre-release models</description>
+    </item>
+    <item>
+      <title>Paper: PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference</title>
+      <link>https://arxiv.org/abs/2607.20327v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.20327v1</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>PyroDash reduces inference costs by using a small model to generate easy tokens and selectively offloading complex reasoning to a large model, optimizing performance without retraining.</description>
+    </item>
+    <item>
+      <title>Paper: LKValues: Aligning Large Language Models with Sri Lankan Societal Values</title>
+      <link>https://arxiv.org/abs/2607.20410v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.20410v1</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This research provides a dataset and framework to align language models with Sri Lankan cultural values, addressing the Western bias common in current AI alignment benchmarks.</description>
+    </item>
+    <item>
+      <title>Paper: Persian Pixel: A large-scale synthetic OCR dataset for Persian language</title>
+      <link>https://arxiv.org/abs/2607.20385v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.20385v1</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Persian Pixel provides a large-scale synthetic dataset to help improve OCR accuracy for the complex, cursive nature of the Persian writing system.</description>
+    </item>
+    <item>
+      <title>Paper: Notes to Self: Can LLMs Benefit from Experiential Abstractions?</title>
+      <link>https://arxiv.org/abs/2607.20372v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.20372v1</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>The authors demonstrate that LLMs perform better when they store and retrieve high-level strategies from past experiences, mimicking how humans learn to solve problems more efficiently.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 21, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://arxiv.org/abs/2607.15209v1</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>By creating language-specific tokenizers for Ge&#x27;ez-script languages, this research improves the performance of multilingual models on low-resource African languages suffering from poor subword fragmentation.</description>
-    </item>
-    <item>
-      <title>Paper: Experience Memory Graph: One-Shot Error Correction for Agents</title>
-      <link>https://arxiv.org/abs/2607.13884v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.13884v1</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This method uses a graph-based memory structure to help AI agents fix errors in one shot, reducing the high costs and latency of iterative self-correction loops.</description>
-    </item>
-    <item>
-      <title>Paper: Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild</title>
-      <link>https://arxiv.org/abs/2607.13881v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.13881v1</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a training-free approach for detecting human-object interactions that allows models to generalize to new scenarios without needing task-specific labeled data.</description>
-    </item>
-    <item>
-      <title>Paper: Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes</title>
-      <link>https://arxiv.org/abs/2607.14070v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.14070v1</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Researchers demonstrate that simple linear probes on genomic foundation models can effectively identify biosecurity threats like antimicrobial resistance without requiring expensive model fine-tuning.</description>
-    </item>
-    <item>
-      <title>Paper: AI-accelerated End-to-End Framework for Rapid Professional Upskilling</title>
-      <link>https://arxiv.org/abs/2607.14044v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.14044v1</guid>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework integrates AI across the entire professional training lifecycle to significantly speed up content creation and skill assessment for enterprise upskilling.</description>
     </item>
   </channel>
 </rss>

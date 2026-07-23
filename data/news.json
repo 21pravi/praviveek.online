@@ -1,6 +1,102 @@
 {
-  "updated": "2026-07-22T04:42:02.622390+00:00",
+  "updated": "2026-07-23T04:46:13.381390+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-23",
+      "slug": "digest-2026-07-23",
+      "title": "AI & Tech Digest — July 23, 2026",
+      "intro": "Today's digest covers the intersection of geopolitical AI policy, enterprise automation, and the evolving risks of large language models in professional settings.",
+      "tags": [
+        "agents",
+        "ai",
+        "automation",
+        "business",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+          "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+          "source": "TechCrunch AI",
+          "summary": "An American AI lab argues that Chinese-developed models do not inherently pose unique security risks, complicating ongoing policy debates regarding international AI competition.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI sued over ChatGPT health advice that almost killed a pastor",
+          "url": "https://www.engadget.com/2221044/openai-sued-over-chatgpt-health-advice-that-almost-killed-a-pastor/",
+          "source": "Engadget",
+          "summary": "A lawsuit against OpenAI highlights the legal and safety risks associated with users relying on LLMs for critical medical advice.",
+          "tags": [
+            "safety",
+            "lawsuit"
+          ]
+        },
+        {
+          "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+          "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "source": "TechCrunch AI",
+          "summary": "Speculation regarding potential acquisitions by major AI labs reflects the current industry trend of aggressive consolidation and expansion.",
+          "tags": [
+            "business",
+            "ai"
+          ]
+        },
+        {
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI",
+          "summary": "OpenAI has launched an enterprise platform designed to help organizations integrate voice and chat agents into their internal and customer-facing workflows.",
+          "tags": [
+            "enterprise",
+            "agents"
+          ]
+        },
+        {
+          "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+          "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+          "source": "MIT Tech Review",
+          "summary": "Technological advancements in space observation and autonomous cybersecurity tools represent the latest milestones in current research and development efforts.",
+          "tags": [
+            "research",
+            "tech"
+          ]
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "source": "TechCrunch AI",
+          "summary": "Venture capital investors are observing unprecedented revenue growth in top-tier AI companies, prompting a shift in how founders should approach startup strategy.",
+          "tags": [
+            "funding",
+            "business"
+          ]
+        },
+        {
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "source": "TechCrunch AI",
+          "summary": "The U.S. government is considering sanctions following allegations that intellectual property from a major AI lab was misappropriated for other model development.",
+          "tags": [
+            "policy",
+            "security"
+          ]
+        },
+        {
+          "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+          "url": "https://openai.com/index/ntt-data",
+          "source": "OpenAI",
+          "summary": "NTT DATA Group has successfully reduced incident analysis time by utilizing OpenAI’s enterprise tools to automate internal technical workflows.",
+          "tags": [
+            "enterprise",
+            "automation"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-22",

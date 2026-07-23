@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-22T04:42:06.125905+00:00",
+  "updated": "2026-07-23T04:46:16.874701+00:00",
   "items": [
+    {
+      "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
+      "url": "https://arxiv.org/abs/2607.20327v1",
+      "date": "2026-07-22",
+      "summary": "PyroDash reduces inference costs by using a small model to generate easy tokens and selectively offloading complex reasoning to a large model, optimizing performance without retraining.",
+      "authors": "Niqi Lyu, Pengtao Shi, Wei Qiu et al.",
+      "tags": [
+        "llm",
+        "inference",
+        "paper"
+      ]
+    },
+    {
+      "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
+      "url": "https://arxiv.org/abs/2607.20410v1",
+      "date": "2026-07-22",
+      "summary": "This research provides a dataset and framework to align language models with Sri Lankan cultural values, addressing the Western bias common in current AI alignment benchmarks.",
+      "authors": "Nethmi Muthugala, Supryadi, Surangika Ranathunga et al.",
+      "tags": [
+        "alignment",
+        "multilingual",
+        "paper"
+      ]
+    },
+    {
+      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+      "url": "https://arxiv.org/abs/2607.20385v1",
+      "date": "2026-07-22",
+      "summary": "Persian Pixel provides a large-scale synthetic dataset to help improve OCR accuracy for the complex, cursive nature of the Persian writing system.",
+      "authors": "Pouria Mahdi, Haq Nawaz Malik",
+      "tags": [
+        "ocr",
+        "dataset",
+        "paper"
+      ]
+    },
+    {
+      "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
+      "url": "https://arxiv.org/abs/2607.20372v1",
+      "date": "2026-07-22",
+      "summary": "The authors demonstrate that LLMs perform better when they store and retrieve high-level strategies from past experiences, mimicking how humans learn to solve problems more efficiently.",
+      "authors": "Chang Liu, Xinyu Li, Artur Dubrawski",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation",
       "url": "https://arxiv.org/abs/2607.19266v1",
