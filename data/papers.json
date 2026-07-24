@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-23T04:46:16.874701+00:00",
+  "updated": "2026-07-24T04:43:00.105587+00:00",
   "items": [
+    {
+      "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
+      "url": "https://arxiv.org/abs/2607.21488v1",
+      "date": "2026-07-23",
+      "summary": "This hierarchical reinforcement learning framework simplifies multi-agent coordination for autonomous vehicles by using a centralized master agent to generate compact global strategies for decentralized workers.",
+      "authors": "Gil Lifshits, Igal Bilik, Gilad Katz",
+      "tags": [
+        "reinforcement learning",
+        "autonomous vehicles",
+        "paper"
+      ]
+    },
+    {
+      "title": "Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks",
+      "url": "https://arxiv.org/abs/2607.21482v1",
+      "date": "2026-07-23",
+      "summary": "This framework evaluates open-weight LLMs for local data processing tasks, providing a secure way to automate research workflows without exposing sensitive data to third-party cloud services.",
+      "authors": "Mack Nixon, Liam Wright, Yevgeniya Kovalchuk et al.",
+      "tags": [
+        "llm",
+        "data privacy",
+        "paper"
+      ]
+    },
+    {
+      "title": "Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog",
+      "url": "https://arxiv.org/abs/2607.21412v1",
+      "date": "2026-07-23",
+      "summary": "Euclid-MCP bridges the gap between LLM reasoning and symbolic logic by providing a standardized interface to link neural models with Prolog for reliable, deterministic decision-making.",
+      "authors": "Bartolomeo Bogliolo",
+      "tags": [
+        "llm",
+        "neuro-symbolic",
+        "paper"
+      ]
+    },
+    {
+      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+      "url": "https://arxiv.org/abs/2607.21570v1",
+      "date": "2026-07-23",
+      "summary": "MedGame uses LLMs to turn static clinical case studies into interactive, decision-based storytelling games, offering a more engaging and structured approach to medical training.",
+      "authors": "Qian Wu, Xinrong Zhou, Zizhan Ma et al.",
+      "tags": [
+        "llm",
+        "education",
+        "paper"
+      ]
+    },
     {
       "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
       "url": "https://arxiv.org/abs/2607.20327v1",

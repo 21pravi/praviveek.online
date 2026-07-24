@@ -1,6 +1,93 @@
 {
-  "updated": "2026-07-23T04:46:13.381390+00:00",
+  "updated": "2026-07-24T04:42:56.694297+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-24",
+      "slug": "digest-2026-07-24",
+      "title": "AI & Tech Digest — July 24, 2026",
+      "intro": "Today's updates highlight advancements in specialized hardware, personal health data integration, and the evolving utility of voice-enabled AI models.",
+      "tags": [
+        "chips",
+        "generative ai",
+        "hardware",
+        "healthcare",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+          "source": "TechCrunch AI",
+          "summary": "Etched secured a significant valuation for its specialized hardware designed to accelerate AI inference without relying on traditional GPU architectures.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        },
+        {
+          "title": "OpenAI makes ChatGPT Health available to all US users",
+          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is expanding its health-focused features to all US users, enabling the integration of personal medical records and fitness tracking data into its chatbot.",
+          "tags": [
+            "healthcare",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "source": "The Verge",
+          "summary": "Anthropic has upgraded its voice interface by incorporating its more powerful Opus and Sonnet models, expanding functionality across third-party productivity applications.",
+          "tags": [
+            "llm",
+            "voice"
+          ]
+        },
+        {
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "source": "TechCrunch AI",
+          "summary": "Runway introduced a model routing tool that helps developers optimize generative media workflows by automatically selecting models based on specific performance or cost requirements.",
+          "tags": [
+            "generative ai",
+            "tools"
+          ]
+        },
+        {
+          "title": "Claude’s voice mode is now available for Opus and Sonnet",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "source": "The Verge",
+          "summary": "Cybersecurity researchers report that current AI safety guardrails are creating unintended obstacles when attempting to identify and analyze software vulnerabilities.",
+          "tags": [
+            "security",
+            "policy"
+          ]
+        },
+        {
+          "title": "Runway launches AI model router as generative media gets crowded",
+          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI once again makes the case for giving ChatGPT your health records",
+          "url": "https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/",
+          "source": "Engadget",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-23",
