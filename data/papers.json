@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-24T04:43:00.105587+00:00",
+  "updated": "2026-07-27T05:04:04.620347+00:00",
   "items": [
+    {
+      "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
+      "url": "https://arxiv.org/abs/2607.22465v1",
+      "date": "2026-07-24",
+      "summary": "This framework optimizes LLM routing for multi-step agent workflows by evaluating decisions based on final task outcomes rather than individual prompt responses, improving overall efficiency and accuracy.",
+      "authors": "Ritik Raj, Souvik Kundu, Sarbartha Banerjee et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
+      "url": "https://arxiv.org/abs/2607.22375v1",
+      "date": "2026-07-24",
+      "summary": "The authors introduce a search-based approach for AI research ideation that balances both high-quality output and conceptual diversity to avoid generating redundant or low-value ideas.",
+      "authors": "Varun Gumma, Navonil Majumder, Soumitra Sinhahajari et al.",
+      "tags": [
+        "ideation",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG",
+      "url": "https://arxiv.org/abs/2607.22319v1",
+      "date": "2026-07-24",
+      "summary": "This paper proposes an agentic RAG architecture that improves data integration accuracy and cost-efficiency by requiring models to provide verifiable, evidence-based reasoning for their outputs.",
+      "authors": "Chuangtao Ma, Arijit Khan",
+      "tags": [
+        "rag",
+        "data-integration",
+        "paper"
+      ]
+    },
+    {
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "url": "https://arxiv.org/abs/2607.22529v1",
+      "date": "2026-07-24",
+      "summary": "The authors propose using co-evolving agent skills to bridge the gap between narrow, verifiable tasks and broad, unreliable self-generation, enabling more robust LLM self-improvement.",
+      "authors": "Siyuan Huang, Pengyu Cheng, Haotian Liu et al.",
+      "tags": [
+        "llm",
+        "self-evolution",
+        "paper"
+      ]
+    },
     {
       "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
       "url": "https://arxiv.org/abs/2607.21488v1",

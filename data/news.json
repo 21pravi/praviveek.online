@@ -1,6 +1,101 @@
 {
-  "updated": "2026-07-24T14:20:49.646677+00:00",
+  "updated": "2026-07-27T05:04:00.891073+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-27",
+      "slug": "digest-2026-07-27",
+      "title": "AI & Tech Digest — July 27, 2026",
+      "intro": "Today's digest covers the intersection of cybersecurity, hardware efficiency, and the shifting economic impact of artificial intelligence on the labor market.",
+      "tags": [
+        "ai",
+        "business",
+        "chips",
+        "hardware",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face's leadership is advocating for increased openness in security protocols following a significant breach involving autonomous AI agents.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        },
+        {
+          "title": "Are brain waves the next unlock for physical AI?",
+          "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Researchers are exploring the integration of neural data as a new training input to improve the spatial and physical reasoning capabilities of robotics models.",
+          "tags": [
+            "robotics",
+            "ai"
+          ]
+        },
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "source": "TechCrunch AI",
+          "summary": "An increasing number of technology firms are citing the adoption of automated systems as a primary justification for recent workforce reductions.",
+          "tags": [
+            "policy",
+            "business"
+          ]
+        },
+        {
+          "title": "The reason why the MacBook Air doesn't need a fan",
+          "url": "https://www.engadget.com/2218722/macbook-air-missing-fan-reason-why/",
+          "source": "Engadget",
+          "summary": "Apple's custom silicon architecture achieves thermal efficiency that eliminates the necessity for active cooling components in its ultra-portable laptop line.",
+          "tags": [
+            "hardware",
+            "chips"
+          ]
+        },
+        {
+          "title": "Carrie is just trying to make a friend in the new trailer",
+          "url": "https://www.theverge.com/entertainment/971069/carrie-amazon-mike-flanagan-trailer-comic-con",
+          "source": "The Verge",
+          "summary": "A new adaptation of the novel Carrie is scheduled for release on Amazon Prime, following the standard narrative beats of previous versions.",
+          "tags": [
+            "media"
+          ]
+        },
+        {
+          "title": "The US is charging an American citizen for wiping his phone at the border",
+          "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
+          "source": "The Verge",
+          "summary": "Federal prosecutors have charged a traveler for using a security feature that erased data on his device during a border search.",
+          "tags": [
+            "security",
+            "privacy"
+          ]
+        },
+        {
+          "title": "Making sense of the panic over Chinese AI",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Analysts are examining the competitive implications of Chinese AI models and why their rapid development has triggered concern among Western investors.",
+          "tags": [
+            "ai",
+            "policy"
+          ]
+        },
+        {
+          "title": "US citizen charged after GrapheneOS phone wipes during airport search",
+          "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
+          "source": "Hacker News",
+          "summary": "The legal case regarding a GrapheneOS device wipe highlights the ongoing conflict between personal data privacy tools and border security enforcement.",
+          "tags": [
+            "security",
+            "privacy"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-07-24",
