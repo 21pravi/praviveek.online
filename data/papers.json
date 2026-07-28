@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-27T05:04:04.620347+00:00",
+  "updated": "2026-07-28T04:37:25.020951+00:00",
   "items": [
+    {
+      "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
+      "url": "https://arxiv.org/abs/2607.24663v1",
+      "date": "2026-07-27",
+      "summary": "The authors built a hybrid RAG system that combines multiple search methods to help staff query complex, fragmented technical data, providing a blueprint for managing institutional knowledge.",
+      "authors": "Rajat Sainju, Dariusz Jarosz, Hairong Shang et al.",
+      "tags": [
+        "rag",
+        "knowledge-graph",
+        "paper"
+      ]
+    },
+    {
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "https://arxiv.org/abs/2607.24743v1",
+      "date": "2026-07-27",
+      "summary": "ClinFusion is a specialized multimodal model designed to interpret complex 2D and 3D medical images, offering a more clinically accurate approach for automated diagnostic assistance.",
+      "authors": "Hangjie Yuan, Yichen Qian, Zhiwei Tang et al.",
+      "tags": [
+        "multimodal",
+        "healthcare",
+        "paper"
+      ]
+    },
+    {
+      "title": "DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "url": "https://arxiv.org/abs/2607.24717v1",
+      "date": "2026-07-27",
+      "summary": "DataOrchestra improves LLM pretraining by using an automated agent to decide whether to clean or discard individual data chunks, moving away from uniform, corpus-wide processing strategies.",
+      "authors": "Zhen Huang, Yikun Wang, Shijie Xia et al.",
+      "tags": [
+        "data-curation",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Beyond Scale and Generation: Understanding Language Model-based Entity Matching",
+      "url": "https://arxiv.org/abs/2607.24688v1",
+      "date": "2026-07-27",
+      "summary": "This study systematically compares different language model architectures for entity matching, helping practitioners choose the right model structure without relying solely on increasing parameter counts.",
+      "authors": "Zeyu Zhang, Xue Li, Iacer Calixto et al.",
+      "tags": [
+        "entity-matching",
+        "llm",
+        "paper"
+      ]
+    },
     {
       "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
       "url": "https://arxiv.org/abs/2607.22465v1",

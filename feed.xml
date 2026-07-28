@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 05:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 04:37:25 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 28, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-28</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-28</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system · NVIDIA launches &#x27;Open Secure AI Alliance&#x27; initiative to improve cyber defense · Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · How AI is expanding what people do at work</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 27, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-27</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-27</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of cybersecurity, hardware efficiency, and the shifting economic impact of artificial intelligence on the labor market. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack · Are brain waves the next unlock for physical AI? · Monday.com is the latest tech company to blame AI for layoffs — here are 20 others · The reason why the MacBook Air doesn&#x27;t need a fan · Carrie is just trying to make a friend in the new trailer</description>
+    </item>
+    <item>
+      <title>Paper: A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility</title>
+      <link>https://arxiv.org/abs/2607.24663v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.24663v1</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>The authors built a hybrid RAG system that combines multiple search methods to help staff query complex, fragmented technical data, providing a blueprint for managing institutional knowledge.</description>
+    </item>
+    <item>
+      <title>Paper: ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding</title>
+      <link>https://arxiv.org/abs/2607.24743v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.24743v1</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>ClinFusion is a specialized multimodal model designed to interpret complex 2D and 3D medical images, offering a more clinically accurate approach for automated diagnostic assistance.</description>
+    </item>
+    <item>
+      <title>Paper: DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data</title>
+      <link>https://arxiv.org/abs/2607.24717v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.24717v1</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>DataOrchestra improves LLM pretraining by using an automated agent to decide whether to clean or discard individual data chunks, moving away from uniform, corpus-wide processing strategies.</description>
+    </item>
+    <item>
+      <title>Paper: Beyond Scale and Generation: Understanding Language Model-based Entity Matching</title>
+      <link>https://arxiv.org/abs/2607.24688v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.24688v1</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This study systematically compares different language model architectures for entity matching, helping practitioners choose the right model structure without relying solely on increasing parameter counts.</description>
     </item>
     <item>
       <title>The Week in AI — July 24, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of hardware development, AI ethics, and the psychological impact of automated decision-making. Can an Apple lawsuit derail OpenAI’s hardware plans? · Claude Code uses Bun written in Rust now · Nonprofit Current AI is racing to build the World Wide Web of AI, free for all · ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ · How To use Claude&#x27;s Reflect dashboard and learn when it&#x27;s time to touch grass</description>
-    </item>
-    <item>
-      <title>Paper: SGA: Plug&amp;Play Geometric Verification for Educational Video Synthesis</title>
-      <link>https://arxiv.org/abs/2607.18116v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.18116v1</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This tool automatically detects and fixes spatial errors in LLM-generated educational animations, ensuring that visual elements do not overlap incorrectly.</description>
-    </item>
-    <item>
-      <title>Paper: The Shared Discovery Paradox: How a One-Answer Rule Turns Better Information into Worse Search</title>
-      <link>https://arxiv.org/abs/2607.18045v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.18045v1</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This study reveals that sharing a single best-guess recommendation among a group can paradoxically reduce overall search success compared to decentralized, diverse exploration.</description>
-    </item>
-    <item>
-      <title>Paper: Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation</title>
-      <link>https://arxiv.org/abs/2607.18029v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.18029v1</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>By mapping domain-specific metadata to an ontology, you can enable LLMs to generate accurate database queries without needing expensive fine-tuning or complex retrieval setups.</description>
-    </item>
-    <item>
-      <title>Paper: Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference</title>
-      <link>https://arxiv.org/abs/2607.18225v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.18225v1</guid>
-      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework treats RAG as a nearest-neighbor matching problem, allowing data scientists to optimize decision-making policies by retrieving and analyzing action-specific evidence.</description>
     </item>
     <item>
       <title>The Week in AI — July 17, 2026</title>

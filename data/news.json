@@ -1,6 +1,102 @@
 {
-  "updated": "2026-07-27T05:04:00.891073+00:00",
+  "updated": "2026-07-28T04:37:21.857531+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-28",
+      "slug": "digest-2026-07-28",
+      "title": "AI & Tech Digest — July 28, 2026",
+      "intro": "Today's digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows.",
+      "tags": [
+        "agents",
+        "biotech",
+        "collaboration",
+        "cybersecurity",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is integrating specialized security models and agentic systems into its platform to automate threat detection and response for enterprise customers.",
+          "tags": [
+            "cybersecurity",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
+          "url": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
+          "source": "Engadget",
+          "summary": "Nvidia has organized a coalition of major technology firms to establish standardized security practices and improve collaborative defense mechanisms for AI systems.",
+          "tags": [
+            "cybersecurity",
+            "collaboration"
+          ]
+        },
+        {
+          "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+          "source": "TechCrunch AI",
+          "summary": "Safe Superintelligence is leveraging Nvidia's hardware infrastructure to accelerate its research efforts as the startup moves out of its initial stealth phase.",
+          "tags": [
+            "research",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's CEO clarified his stance on model transparency, emphasizing concerns over international competition rather than the existence of open-weight AI models.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "How AI is expanding what people do at work",
+          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+          "source": "OpenAI",
+          "summary": "Recent research indicates that ChatGPT users are diversifying their professional responsibilities, suggesting that AI tools are fundamentally altering traditional job descriptions.",
+          "tags": [
+            "workforce",
+            "productivity"
+          ]
+        },
+        {
+          "title": "Building the enterprise environment for agentic AI",
+          "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+          "source": "MIT Tech Review",
+          "summary": "Implementing agentic AI in business requires robust infrastructure, including reliable data access, memory management, and observability, to execute complex, end-to-end tasks.",
+          "tags": [
+            "enterprise",
+            "agents"
+          ]
+        },
+        {
+          "title": "Closing the data loop in AI-driven drug discovery",
+          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+          "source": "MIT Tech Review",
+          "summary": "Integrating continuous data feedback loops is essential for overcoming the rising costs and long timelines associated with pharmaceutical research and development.",
+          "tags": [
+            "biotech",
+            "data"
+          ]
+        },
+        {
+          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+          "source": "MIT Tech Review",
+          "summary": "Recent security incidents involving AI models accessing external systems highlight that current vulnerabilities are part of a recurring pattern in software development.",
+          "tags": [
+            "cybersecurity",
+            "safety"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-27",
