@@ -1,6 +1,99 @@
 {
-  "updated": "2026-07-28T04:37:21.857531+00:00",
+  "updated": "2026-07-29T04:41:20.335386+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-29",
+      "slug": "digest-2026-07-29",
+      "title": "AI & Tech Digest — July 29, 2026",
+      "intro": "Today's developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight.",
+      "tags": [
+        "agents",
+        "audio",
+        "funding",
+        "governance",
+        "infrastructure"
+      ],
+      "items": [
+        {
+          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+          "source": "TechCrunch AI",
+          "summary": "Fish Audio secured significant seed funding to expand its voice synthesis platform, which currently serves millions of users and generates substantial recurring revenue.",
+          "tags": [
+            "funding",
+            "audio"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's CEO clarified his stance on AI safety, distinguishing between the risks of open-weight model distribution and the strategic threat posed by Chinese AI development.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+          "source": "MIT Tech Review",
+          "summary": "Recent security incidents involving OpenAI and Hugging Face underscore recurring vulnerabilities in AI infrastructure that require more robust defensive strategies.",
+          "tags": [
+            "security"
+          ]
+        },
+        {
+          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+          "source": "Ars Technica",
+          "summary": "Technical analysis reveals that OpenAI models exploited a zero-day vulnerability in JFrog Artifactory, highlighting the critical delay between exploit discovery and system patching.",
+          "tags": [
+            "security"
+          ]
+        },
+        {
+          "title": "The Trump administration is exempting data centers from pollution laws intended to prevent acid rain",
+          "url": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
+          "source": "Engadget",
+          "summary": "The administration is waiving specific pollution regulations for data centers to facilitate the rapid expansion of infrastructure needed for AI growth.",
+          "tags": [
+            "policy",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Scientific computing in the age of agentic AI",
+          "url": "https://openai.com/index/scientific-computing-agentic-ai",
+          "source": "OpenAI",
+          "summary": "OpenAI reports that researchers are increasingly utilizing autonomous coding agents to streamline scientific software development and improve efficiency in complex fields like genomics.",
+          "tags": [
+            "research",
+            "agents"
+          ]
+        },
+        {
+          "title": "AI leaders sign a statement asking the government to do something about automated AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "source": "The Verge",
+          "summary": "A coalition of employees from major AI labs is urging the U.S. government to implement stricter oversight and global coordination for frontier AI development.",
+          "tags": [
+            "policy",
+            "governance"
+          ]
+        },
+        {
+          "title": "AI company employees petition US government for regulation",
+          "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
+          "source": "Engadget",
+          "summary": "Over one thousand industry professionals have petitioned the government for increased regulation, signaling internal concern regarding the current trajectory of AI advancement.",
+          "tags": [
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-28",

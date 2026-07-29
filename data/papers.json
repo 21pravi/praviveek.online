@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-28T04:37:25.020951+00:00",
+  "updated": "2026-07-29T04:41:23.838054+00:00",
   "items": [
+    {
+      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
+      "url": "https://arxiv.org/abs/2607.25947v1",
+      "date": "2026-07-28",
+      "summary": "This framework improves how LLMs interpret irregular, sparse clinical data, providing a more efficient way to perform automated medical question answering.",
+      "authors": "Frank Nie, Ethan B Liu, Yuan Zhu et al.",
+      "tags": [
+        "healthcare",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
+      "url": "https://arxiv.org/abs/2607.26041v1",
+      "date": "2026-07-28",
+      "summary": "This benchmark evaluates whether AI agents can accurately track desktop GUI changes, helping developers build more reliable automation tools that recover from errors.",
+      "authors": "Abhishek Pillai, Samir Kumar Nayak, Yuan Chen",
+      "tags": [
+        "agents",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
+      "url": "https://arxiv.org/abs/2607.26023v1",
+      "date": "2026-07-28",
+      "summary": "This graph foundation model enables zero-shot learning across diverse multimodal datasets, allowing data scientists to apply pre-trained models to new graph domains without extra training.",
+      "authors": "Ankang Yang, Jitao Zhao, Di Jin et al.",
+      "tags": [
+        "graphs",
+        "foundation-models",
+        "paper"
+      ]
+    },
+    {
+      "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
+      "url": "https://arxiv.org/abs/2607.26017v1",
+      "date": "2026-07-28",
+      "summary": "UniMem combines retrieval-based and parametric memory to help LLM agents learn from ongoing task streams without forgetting past strategies or requiring constant retraining.",
+      "authors": "Siyu Xia, Chenheng Zhang, Yanting Wu et al.",
+      "tags": [
+        "llm",
+        "memory",
+        "paper"
+      ]
+    },
     {
       "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
       "url": "https://arxiv.org/abs/2607.24663v1",

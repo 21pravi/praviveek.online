@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 04:37:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 04:41:24 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 29, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-29</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-29</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight. Fish Audio raises $52M seed to build AI voice models for creators and enterprises · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · The Download: OpenAI’s predictable hack, and an AI stock sell-off · We now have a better understanding how OpenAI hacked into Hugging Face · The Trump administration is exempting data centers from pollution laws intended to prevent acid rain</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 28, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-28</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-28</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system · NVIDIA launches &#x27;Open Secure AI Alliance&#x27; initiative to improve cyber defense · Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · How AI is expanding what people do at work</description>
+    </item>
+    <item>
+      <title>Paper: A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series</title>
+      <link>https://arxiv.org/abs/2607.25947v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.25947v1</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves how LLMs interpret irregular, sparse clinical data, providing a more efficient way to perform automated medical question answering.</description>
+    </item>
+    <item>
+      <title>Paper: Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?</title>
+      <link>https://arxiv.org/abs/2607.26041v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.26041v1</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This benchmark evaluates whether AI agents can accurately track desktop GUI changes, helping developers build more reliable automation tools that recover from errors.</description>
+    </item>
+    <item>
+      <title>Paper: CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer</title>
+      <link>https://arxiv.org/abs/2607.26023v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.26023v1</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This graph foundation model enables zero-shot learning across diverse multimodal datasets, allowing data scientists to apply pre-trained models to new graph domains without extra training.</description>
+    </item>
+    <item>
+      <title>Paper: UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams</title>
+      <link>https://arxiv.org/abs/2607.26017v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.26017v1</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <description>UniMem combines retrieval-based and parametric memory to help LLM agents learn from ongoing task streams without forgetting past strategies or requiring constant retraining.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 27, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-21</guid>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the intersection of geopolitical strategy, hardware innovation, and the persistent challenges of algorithmic bias and safety. OpenAI is scared of open-weight models. Should the US be? · Google is working on a new AI chip designed to make Gemini more efficient · AI is more likely than humans to form biases when hiring · Safety and alignment in an era of long-horizon models · Who&#x27;s afraid of Chinese models?</description>
-    </item>
-    <item>
-      <title>Paper: Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation</title>
-      <link>https://arxiv.org/abs/2607.19266v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.19266v1</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This paper proposes a fraud detection framework that uses graph features and LLM-driven agents to explain and investigate suspicious transactions, helping teams build more transparent and accountable systems.</description>
-    </item>
-    <item>
-      <title>Paper: In-Context Time Series Classification with Random Convolutional Features</title>
-      <link>https://arxiv.org/abs/2607.19234v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.19234v1</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors show that combining random convolutional features with pretrained tabular foundation models improves time series classification, offering a robust alternative to traditional linear classifiers.</description>
-    </item>
-    <item>
-      <title>Paper: Assessment in Team Problem-Solving Exercises in Computing Education</title>
-      <link>https://arxiv.org/abs/2607.19209v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.19209v1</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This study explores using recorded team interaction data to automate and improve the assessment of collaborative problem-solving exercises, providing a path for more efficient performance evaluation.</description>
-    </item>
-    <item>
-      <title>Paper: Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2607.19345v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.19345v1</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The researchers introduce a reinforcement learning method to stop LLMs from mindlessly copying long-context inputs, forcing models to focus on relevant evidence for better reasoning performance.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 20, 2026</title>
