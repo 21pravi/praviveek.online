@@ -1,6 +1,53 @@
 {
-  "updated": "2026-07-29T04:41:23.838054+00:00",
+  "updated": "2026-07-30T04:27:54.234305+00:00",
   "items": [
+    {
+      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
+      "url": "https://arxiv.org/abs/2607.27155v1",
+      "date": "2026-07-29",
+      "summary": "This benchmark evaluates how efficiently LLM agents perform complex office tasks, helping practitioners measure both the capability and the economic cost of deploying automated assistants.",
+      "authors": "Jingbo Zhou, Yusai Zhao, Qi Bao et al.",
+      "tags": [
+        "llm",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
+      "url": "https://arxiv.org/abs/2607.27146v1",
+      "date": "2026-07-29",
+      "summary": "The authors propose a new training framework to help small language models master full-cycle software engineering, addressing the current inability of models to build complete programs from scratch.",
+      "authors": "Yihao Chen, Shi Chang, Khaled Chawa et al.",
+      "tags": [
+        "coding",
+        "slm",
+        "paper"
+      ]
+    },
+    {
+      "title": "InferScale: GPU-Native KV Injection for Personalized LLM Serving",
+      "url": "https://arxiv.org/abs/2607.27090v1",
+      "date": "2026-07-29",
+      "summary": "InferScale optimizes LLM serving by caching personalized memory directly on the GPU, significantly reducing latency for applications that frequently reuse long user histories or profiles.",
+      "authors": "Peter Li, Prashant Pandey",
+      "tags": [
+        "llm",
+        "inference",
+        "paper"
+      ]
+    },
+    {
+      "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+      "url": "https://arxiv.org/abs/2607.27203v1",
+      "date": "2026-07-29",
+      "summary": "This study challenges the necessity of pretraining Q-functions in reinforcement learning, suggesting that starting with a random initialization can still yield high-performing policies during fine-tuning.",
+      "authors": "Perry Dong, Ron Polonsky, Dorsa Sadigh et al.",
+      "tags": [
+        "reinforcement learning",
+        "paper"
+      ]
+    },
     {
       "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
       "url": "https://arxiv.org/abs/2607.25947v1",

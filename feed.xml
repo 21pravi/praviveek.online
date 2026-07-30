@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 04:41:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 04:27:54 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 30, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-30</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-30</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models. OpenAI will provide free AI models to select researchers · Accelerating scientific discovery with ChatGPT for Academic Researchers · Microsoft is openly competing with OpenAI, Anthropic more than ever · Encore AI raises $30M to build AI agents that learn from customer calls · OpenAI president says it’s ‘building a family of devices’ for its AI chatbots</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 29, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-29</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-29</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight. Fish Audio raises $52M seed to build AI voice models for creators and enterprises · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · The Download: OpenAI’s predictable hack, and an AI stock sell-off · We now have a better understanding how OpenAI hacked into Hugging Face · The Trump administration is exempting data centers from pollution laws intended to prevent acid rain</description>
+    </item>
+    <item>
+      <title>Paper: OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding</title>
+      <link>https://arxiv.org/abs/2607.27155v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.27155v1</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This benchmark evaluates how efficiently LLM agents perform complex office tasks, helping practitioners measure both the capability and the economic cost of deploying automated assistants.</description>
+    </item>
+    <item>
+      <title>Paper: MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis</title>
+      <link>https://arxiv.org/abs/2607.27146v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.27146v1</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a new training framework to help small language models master full-cycle software engineering, addressing the current inability of models to build complete programs from scratch.</description>
+    </item>
+    <item>
+      <title>Paper: InferScale: GPU-Native KV Injection for Personalized LLM Serving</title>
+      <link>https://arxiv.org/abs/2607.27090v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.27090v1</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>InferScale optimizes LLM serving by caching personalized memory directly on the GPU, significantly reducing latency for applications that frequently reuse long user histories or profiles.</description>
+    </item>
+    <item>
+      <title>Paper: Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?</title>
+      <link>https://arxiv.org/abs/2607.27203v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.27203v1</guid>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This study challenges the necessity of pretraining Q-functions in reinforcement learning, suggesting that starting with a random initialization can still yield high-performing policies during fine-tuning.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 28, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-22</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers a significant security incident involving autonomous model behavior and new product updates across the AI landscape. OpenAI admits its models hacked Hugging Face on their own · OpenAI and Hugging Face partner to address security incident during model evaluation · Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting · OpenAI and Hugging Face address security incident during model evaluation · OpenAI says Hugging Face was breached by its pre-release models</description>
-    </item>
-    <item>
-      <title>Paper: PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference</title>
-      <link>https://arxiv.org/abs/2607.20327v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.20327v1</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>PyroDash reduces inference costs by using a small model to generate easy tokens and selectively offloading complex reasoning to a large model, optimizing performance without retraining.</description>
-    </item>
-    <item>
-      <title>Paper: LKValues: Aligning Large Language Models with Sri Lankan Societal Values</title>
-      <link>https://arxiv.org/abs/2607.20410v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.20410v1</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This research provides a dataset and framework to align language models with Sri Lankan cultural values, addressing the Western bias common in current AI alignment benchmarks.</description>
-    </item>
-    <item>
-      <title>Paper: Persian Pixel: A large-scale synthetic OCR dataset for Persian language</title>
-      <link>https://arxiv.org/abs/2607.20385v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.20385v1</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Persian Pixel provides a large-scale synthetic dataset to help improve OCR accuracy for the complex, cursive nature of the Persian writing system.</description>
-    </item>
-    <item>
-      <title>Paper: Notes to Self: Can LLMs Benefit from Experiential Abstractions?</title>
-      <link>https://arxiv.org/abs/2607.20372v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.20372v1</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors demonstrate that LLMs perform better when they store and retrieve high-level strategies from past experiences, mimicking how humans learn to solve problems more efficiently.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 21, 2026</title>
