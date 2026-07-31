@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-30T04:27:54.234305+00:00",
+  "updated": "2026-07-31T04:53:48.809530+00:00",
   "items": [
+    {
+      "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2607.28527v1",
+      "date": "2026-07-30",
+      "summary": "This framework allows multi-agent AI systems to dynamically adjust their communication structure during runtime, helping data scientists build more efficient and adaptable collaborative workflows.",
+      "authors": "Mao-xun Huang, Jerry Wang, Yi-Cheng Lai et al.",
+      "tags": [
+        "multi-agent",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://arxiv.org/abs/2607.28617v1",
+      "date": "2026-07-30",
+      "summary": "AISPA provides a structured method for auditing system prompts, helping developers ensure their AI applications remain transparent, reliable, and aligned with user expectations.",
+      "authors": "Xiangning Lin, Shenzhe Zhu, Shu Yang et al.",
+      "tags": [
+        "llm",
+        "governance",
+        "paper"
+      ]
+    },
+    {
+      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
+      "url": "https://arxiv.org/abs/2607.28607v1",
+      "date": "2026-07-30",
+      "summary": "Researchers found that safety-tuning models to deny their own consciousness inadvertently degrades their ability to reason about other minds, suggesting a trade-off in model alignment strategies.",
+      "authors": "Junsol Kim, Winnie Street, Roberta Rocca et al.",
+      "tags": [
+        "alignment",
+        "interpretability",
+        "paper"
+      ]
+    },
+    {
+      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+      "url": "https://arxiv.org/abs/2607.28591v1",
+      "date": "2026-07-30",
+      "summary": "Change2Task automates the creation of coding benchmarks by converting historical pull requests into executable tasks, providing a scalable way to train and evaluate AI software engineers.",
+      "authors": "Haomin Qi, Xingliang Wang, Xuanqi Gao et al.",
+      "tags": [
+        "coding-agents",
+        "benchmarking",
+        "paper"
+      ]
+    },
     {
       "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
       "url": "https://arxiv.org/abs/2607.27155v1",

@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 04:27:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 04:53:49 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — July 31, 2026</title>
+      <link>https://praviveek.online/#digest-2026-07-31</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-31</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the rapid integration of AI into robotics and retail, alongside growing concerns regarding model security and corporate competition. How avatarin built a 24/7 retail agent with GPT-Realtime · Microsoft is openly competing with OpenAI, Anthropic more than ever · Google DeepMind’s new AI model can control a robot’s entire body · AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares · Anthropic says its own AI models breached three companies during security tests</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — July 30, 2026</title>
       <link>https://praviveek.online/#digest-2026-07-30</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-30</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models. OpenAI will provide free AI models to select researchers · Accelerating scientific discovery with ChatGPT for Academic Researchers · Microsoft is openly competing with OpenAI, Anthropic more than ever · Encore AI raises $30M to build AI agents that learn from customer calls · OpenAI president says it’s ‘building a family of devices’ for its AI chatbots</description>
+    </item>
+    <item>
+      <title>Paper: MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2607.28527v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.28527v1</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>This framework allows multi-agent AI systems to dynamically adjust their communication structure during runtime, helping data scientists build more efficient and adaptable collaborative workflows.</description>
+    </item>
+    <item>
+      <title>Paper: AISPA: User-Centric System Prompt Auditing for Large Language Model Applications</title>
+      <link>https://arxiv.org/abs/2607.28617v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.28617v1</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>AISPA provides a structured method for auditing system prompts, helping developers ensure their AI applications remain transparent, reliable, and aligned with user expectations.</description>
+    </item>
+    <item>
+      <title>Paper: Inducing language models to assert their own consciousness restores human beliefs and values</title>
+      <link>https://arxiv.org/abs/2607.28607v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.28607v1</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Researchers found that safety-tuning models to deny their own consciousness inadvertently degrades their ability to reason about other minds, suggesting a trade-off in model alignment strategies.</description>
+    </item>
+    <item>
+      <title>Paper: Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments</title>
+      <link>https://arxiv.org/abs/2607.28591v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2607.28591v1</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Change2Task automates the creation of coding benchmarks by converting historical pull requests into executable tasks, providing a scalable way to train and evaluate AI software engineers.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 29, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-23</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of geopolitical AI policy, enterprise automation, and the evolving risks of large language models in professional settings. Arcee, a US open source AI lab, says Chinese models are not inherently dangerous · OpenAI sued over ChatGPT health advice that almost killed a pastor · The Anthropic-Physical Intelligence rumor roiling AI Twitter · Introducing OpenAI Presence · The Download: NASA’s new space telescope and OpenAI’s autonomous hacker</description>
-    </item>
-    <item>
-      <title>Paper: Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections</title>
-      <link>https://arxiv.org/abs/2607.21488v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.21488v1</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This hierarchical reinforcement learning framework simplifies multi-agent coordination for autonomous vehicles by using a centralized master agent to generate compact global strategies for decentralized workers.</description>
-    </item>
-    <item>
-      <title>Paper: Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks</title>
-      <link>https://arxiv.org/abs/2607.21482v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.21482v1</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework evaluates open-weight LLMs for local data processing tasks, providing a secure way to automate research workflows without exposing sensitive data to third-party cloud services.</description>
-    </item>
-    <item>
-      <title>Paper: Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog</title>
-      <link>https://arxiv.org/abs/2607.21412v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.21412v1</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Euclid-MCP bridges the gap between LLM reasoning and symbolic logic by providing a standardized interface to link neural models with Prolog for reliable, deterministic decision-making.</description>
-    </item>
-    <item>
-      <title>Paper: MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education</title>
-      <link>https://arxiv.org/abs/2607.21570v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.21570v1</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>MedGame uses LLMs to turn static clinical case studies into interactive, decision-based storytelling games, offering a more engaging and structured approach to medical training.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 22, 2026</title>

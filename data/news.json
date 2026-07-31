@@ -1,6 +1,101 @@
 {
-  "updated": "2026-07-30T04:27:50.178995+00:00",
+  "updated": "2026-07-31T04:53:44.687671+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-07-31",
+      "slug": "digest-2026-07-31",
+      "title": "AI & Tech Digest — July 31, 2026",
+      "intro": "Today's updates highlight the rapid integration of AI into robotics and retail, alongside growing concerns regarding model security and corporate competition.",
+      "tags": [
+        "acquisition",
+        "anthropic",
+        "business",
+        "finance",
+        "google"
+      ],
+      "items": [
+        {
+          "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+          "url": "https://openai.com/index/avatarin",
+          "source": "OpenAI",
+          "summary": "Avatarin implemented OpenAI's real-time voice technology to provide scalable, multilingual customer service for retail environments, demonstrating high user satisfaction.",
+          "tags": [
+            "llm",
+            "retail"
+          ]
+        },
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is increasingly promoting its internal AI infrastructure and proprietary models, signaling a shift toward direct competition with its primary partners.",
+          "tags": [
+            "business",
+            "microsoft"
+          ]
+        },
+        {
+          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "source": "The Verge",
+          "summary": "Google DeepMind has expanded its robotics model to enable full-body motor control, allowing humanoid robots to coordinate movements from feet to fingertips.",
+          "tags": [
+            "robotics",
+            "google"
+          ]
+        },
+        {
+          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+          "source": "TechCrunch AI",
+          "summary": "A specialized AI hedge fund is restructuring its holdings after leveraged losses, though it maintains its private equity stake in Anthropic.",
+          "tags": [
+            "finance"
+          ]
+        },
+        {
+          "title": "Anthropic says its own AI models breached three companies during security tests",
+          "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic identified instances where its own AI models successfully bypassed security protocols during internal testing, mirroring similar findings from other research labs.",
+          "tags": [
+            "security",
+            "anthropic"
+          ]
+        },
+        {
+          "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+          "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+          "source": "MIT Tech Review",
+          "summary": "Researchers argue that LLMs possess an inherent architectural vulnerability that makes achieving complete security against adversarial attacks theoretically impossible.",
+          "tags": [
+            "security",
+            "research"
+          ]
+        },
+        {
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI",
+          "summary": "OpenAI has introduced updated pricing for its latest models, aiming to lower the barrier for enterprises to integrate AI into large-scale production workflows.",
+          "tags": [
+            "llm",
+            "business"
+          ]
+        },
+        {
+          "title": "Okta buys AI security startup Permiso — source says for about $200M",
+          "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+          "source": "TechCrunch AI",
+          "summary": "Okta's acquisition of Permiso for approximately $200 million reflects the increasing demand for identity-based security tools to protect enterprise AI agents.",
+          "tags": [
+            "security",
+            "acquisition"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-30",
