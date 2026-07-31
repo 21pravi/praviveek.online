@@ -1,6 +1,43 @@
 {
-  "updated": "2026-07-31T04:53:44.687671+00:00",
+  "updated": "2026-07-31T14:58:48.583262+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-07-31",
+      "slug": "roundup-2026-07-31",
+      "title": "The Week in AI — July 31, 2026",
+      "intro": "The industry is shifting from pure model experimentation to the messy, high-stakes reality of securing, scaling, and physically integrating autonomous AI agents into the enterprise.",
+      "tags": [
+        "agentic-ai",
+        "ai-security",
+        "inference-optimization",
+        "enterprise-ai",
+        "robotics"
+      ],
+      "items": [
+        {
+          "title": "The Security-Agent Paradox",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As we deploy autonomous agents that interact with external systems, security breaches like the Hugging Face incident are becoming inevitable. For data scientists, this means building 'agentic' systems now requires a shift toward defensive architecture, identity-based access control, and observability, rather than just optimizing model performance.",
+          "tags": []
+        },
+        {
+          "title": "Infrastructure Beyond the GPU",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The focus is moving from training massive models to optimizing inference and specialized hardware, as evidenced by the rise of custom chips and agent-specific platforms. Data scientists must now account for cost-per-inference and hardware-level constraints, as efficiency becomes the primary lever for enterprise-grade AI adoption.",
+          "tags": []
+        },
+        {
+          "title": "The Closing of the Research Loop",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Leading labs are increasingly keeping their methodologies proprietary while simultaneously pushing for government regulation. This creates a challenging environment for practitioners who must navigate a landscape where state-of-the-art techniques are less transparent, making internal validation and rigorous testing more critical than ever.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-07-31",
