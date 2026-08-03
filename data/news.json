@@ -1,6 +1,99 @@
 {
-  "updated": "2026-07-31T14:58:48.583262+00:00",
+  "updated": "2026-08-03T04:58:00.093418+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-03",
+      "slug": "digest-2026-08-03",
+      "title": "AI & Tech Digest — August 3, 2026",
+      "intro": "Today's digest examines the intersection of creative labor, corporate strategy, and the evolving discourse surrounding artificial intelligence development.",
+      "tags": [
+        "ai",
+        "ethics",
+        "gaming",
+        "hardware",
+        "music"
+      ],
+      "items": [
+        {
+          "title": "Is paying artists enough to convince them to embrace AI?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "source": "The Verge",
+          "summary": "Tech companies are exploring financial compensation models to address concerns from artists regarding the unauthorized use of their work in generative model training.",
+          "tags": [
+            "ai",
+            "ethics"
+          ]
+        },
+        {
+          "title": "Fender’s CEO seems to think your bandmates are just analog AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "source": "The Verge",
+          "summary": "Fender's CEO faces backlash after suggesting that AI could eventually replace human bandmates in musical performance.",
+          "tags": [
+            "ai",
+            "music"
+          ]
+        },
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "source": "TechCrunch AI",
+          "summary": "Industry leaders are debating the necessity of slowing down the pace of artificial intelligence research to better manage potential societal risks.",
+          "tags": [
+            "ai",
+            "policy"
+          ]
+        },
+        {
+          "title": "Common problems with Bluetooth speakers and how to fix them",
+          "url": "https://www.engadget.com/2225770/bluetooth-speakers-common-problems-fixes/",
+          "source": "Engadget",
+          "summary": "Troubleshooting common connectivity and pairing issues can resolve frequent performance disruptions in consumer Bluetooth audio hardware.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "Xbox prices are increasing by up to €200 or £170",
+          "url": "https://www.theverge.com/games/974253/xbox-prices-increasing-200-euros",
+          "source": "The Verge",
+          "summary": "Microsoft is implementing significant price increases for its Xbox consoles across European and UK markets.",
+          "tags": [
+            "gaming",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Here's where you want to be to see the 2026 solar eclipse",
+          "url": "https://www.engadget.com/2226181/2026-solar-eclipse-what-part-of-united-states-can-see/",
+          "source": "Engadget",
+          "summary": "Travelers planning to observe the 2026 solar eclipse should target specific locations in Iceland and Spain for optimal viewing conditions.",
+          "tags": [
+            "science"
+          ]
+        },
+        {
+          "title": "Rachika Nayar’s Heaven Come Crashing is an instrumental epic of desperate longing",
+          "url": "https://www.theverge.com/entertainment/974271/rachika-nayars-heaven-come-crashing-music-review",
+          "source": "The Verge",
+          "summary": "Rachika Nayar's latest album marks a significant stylistic shift by incorporating heavy percussion into her previously ambient instrumental compositions.",
+          "tags": [
+            "music"
+          ]
+        },
+        {
+          "title": "Karpathy’s Pelican",
+          "url": "https://twitter.com/karpathy/status/2083749667410727319",
+          "source": "Hacker News",
+          "summary": "Andrej Karpathy's recent project, Pelican, has generated significant technical discussion within the developer community.",
+          "tags": [
+            "ai",
+            "software"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-07-31",

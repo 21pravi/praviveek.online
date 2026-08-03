@@ -1,6 +1,54 @@
 {
-  "updated": "2026-07-31T04:53:48.809530+00:00",
+  "updated": "2026-08-03T04:58:03.739240+00:00",
   "items": [
+    {
+      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
+      "url": "https://arxiv.org/abs/2607.29549v1",
+      "date": "2026-07-31",
+      "summary": "This framework improves LLM mathematical accuracy by decoupling problem modeling from code execution, allowing agents to verify steps through a structured tool-flow process.",
+      "authors": "Rui Zou, Yutao Zhu, Mengqi Wei et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+      "url": "https://arxiv.org/abs/2607.29675v1",
+      "date": "2026-07-31",
+      "summary": "The authors introduce a privacy-preserving method for identifying data clusters and regression modes, providing a robust way to analyze sensitive datasets without compromising individual privacy.",
+      "authors": "Arkajyoti Bhattacharjee, Arnab Auddy",
+      "tags": [
+        "privacy",
+        "clustering",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
+      "url": "https://arxiv.org/abs/2607.29601v1",
+      "date": "2026-07-31",
+      "summary": "This approach optimizes multi-task LLM fine-tuning by organizing adapter paths to prevent interference and catastrophic forgetting when training models on diverse, sequential tasks.",
+      "authors": "Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina et al.",
+      "tags": [
+        "llm",
+        "peft",
+        "paper"
+      ]
+    },
+    {
+      "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
+      "url": "https://arxiv.org/abs/2607.29577v1",
+      "date": "2026-07-31",
+      "summary": "DungeonBench provides a new evaluation framework for testing how well AI models handle complex, rule-heavy tactical decision-making in simulated environments.",
+      "authors": "Ismayil Ismayilov, Atakan Kara, Kaan Oktay",
+      "tags": [
+        "benchmarking",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
       "url": "https://arxiv.org/abs/2607.28527v1",
