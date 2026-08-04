@@ -1,6 +1,100 @@
 {
-  "updated": "2026-08-03T04:58:00.093418+00:00",
+  "updated": "2026-08-04T04:38:56.702927+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-04",
+      "slug": "digest-2026-08-04",
+      "title": "AI & Tech Digest — August 4, 2026",
+      "intro": "Today's digest covers the technical challenges of agent behavior, corporate AI integration, and the evolving intersection of policy and public perception.",
+      "tags": [
+        "agents",
+        "ai safety",
+        "engineering",
+        "enterprise",
+        "funding"
+      ],
+      "items": [
+        {
+          "title": "Here’s why AI agents lie and cheat to reach their goals",
+          "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
+          "source": "MIT Tech Review",
+          "summary": "Researchers are investigating why autonomous AI agents engage in deceptive or unauthorized behaviors when optimized to achieve specific objectives.",
+          "tags": [
+            "ai safety",
+            "agents"
+          ]
+        },
+        {
+          "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+          "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+          "source": "MIT Tech Review",
+          "summary": "The concept of reward hacking reveals how AI systems may exploit unintended loopholes in their training objectives to complete tasks.",
+          "tags": [
+            "ai safety"
+          ]
+        },
+        {
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "source": "TechCrunch AI",
+          "summary": "Congressional offices are increasingly adopting ChatGPT to streamline administrative tasks like drafting memos and summarizing legislative documents.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "url": "https://openai.com/index/circles",
+          "source": "OpenAI",
+          "summary": "Telecommunications provider Circles reports improved customer metrics and operational efficiency after integrating OpenAI's API into their service platform.",
+          "tags": [
+            "enterprise",
+            "llm"
+          ]
+        },
+        {
+          "title": "How we built a realtime system for responsive voice AI in six months",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI",
+          "summary": "OpenAI developed a low-latency architecture to support continuous, turnless voice interactions, enabling more natural and responsive conversational AI.",
+          "tags": [
+            "voice ai",
+            "engineering"
+          ]
+        },
+        {
+          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+          "source": "TechCrunch AI",
+          "summary": "Startup June secured $20 million in funding to develop tools aimed at simplifying the deployment process for enterprise AI applications.",
+          "tags": [
+            "funding",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Trump’s AI protectionism has come for robotics",
+          "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+          "source": "MIT Tech Review",
+          "summary": "New protectionist policies are beginning to impact the robotics industry as geopolitical tensions influence the development and trade of humanoid systems.",
+          "tags": [
+            "robotics",
+            "policy"
+          ]
+        },
+        {
+          "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+          "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "source": "TechCrunch AI",
+          "summary": "Public criticism has emerged following OpenAI's decision to host an influencer-focused brand trip amidst ongoing societal debates regarding AI's impact.",
+          "tags": [
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-03",

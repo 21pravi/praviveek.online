@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 04:58:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 04:39:00 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 4, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-04</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-04</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the technical challenges of agent behavior, corporate AI integration, and the evolving intersection of policy and public perception. Here’s why AI agents lie and cheat to reach their goals · The Download: reward hacking explained, and suspected Iranian cyberattacks · Congress’ favorite AI tool? ChatGPT · Circles powers telco personalization with OpenAI technology · How we built a realtime system for responsive voice AI in six months</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 3, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-03</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-03</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the intersection of creative labor, corporate strategy, and the evolving discourse surrounding artificial intelligence development. Is paying artists enough to convince them to embrace AI? · Fender’s CEO seems to think your bandmates are just analog AI · Sam Altman and AI’s decel debate · Common problems with Bluetooth speakers and how to fix them · Xbox prices are increasing by up to €200 or £170</description>
+    </item>
+    <item>
+      <title>Paper: Why Large Language Models Fail at Tabular Prediction</title>
+      <link>https://arxiv.org/abs/2608.02412v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.02412v1</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Researchers analyzed why LLMs struggle with tabular data, helping data scientists understand when to stick with traditional gradient-boosted trees instead of forcing language models into predictive tasks.</description>
+    </item>
+    <item>
+      <title>Paper: Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning</title>
+      <link>https://arxiv.org/abs/2608.02422v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.02422v1</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a digital twin framework to automate security incident responses, providing a more reliable and actionable alternative to manual, playbook-driven cybersecurity operations.</description>
+    </item>
+    <item>
+      <title>Paper: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
+      <link>https://arxiv.org/abs/2608.02599v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.02599v1</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose an engineering-grounded AI framework for power systems, ensuring that AI models adhere to domain-specific physical rules rather than relying on black-box predictions.</description>
+    </item>
+    <item>
+      <title>Paper: The Condition-Number Barrier in Sparse Least Squares</title>
+      <link>https://arxiv.org/abs/2608.02588v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.02588v1</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This theoretical work proves that the condition number limits the accuracy of sparse least-squares optimization, providing practitioners with a fundamental bound on algorithm performance.</description>
     </item>
     <item>
       <title>The Week in AI — July 31, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-27</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of cybersecurity, hardware efficiency, and the shifting economic impact of artificial intelligence on the labor market. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack · Are brain waves the next unlock for physical AI? · Monday.com is the latest tech company to blame AI for layoffs — here are 20 others · The reason why the MacBook Air doesn&#x27;t need a fan · Carrie is just trying to make a friend in the new trailer</description>
-    </item>
-    <item>
-      <title>Paper: A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility</title>
-      <link>https://arxiv.org/abs/2607.24663v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.24663v1</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors built a hybrid RAG system that combines multiple search methods to help staff query complex, fragmented technical data, providing a blueprint for managing institutional knowledge.</description>
-    </item>
-    <item>
-      <title>Paper: ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding</title>
-      <link>https://arxiv.org/abs/2607.24743v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.24743v1</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>ClinFusion is a specialized multimodal model designed to interpret complex 2D and 3D medical images, offering a more clinically accurate approach for automated diagnostic assistance.</description>
-    </item>
-    <item>
-      <title>Paper: DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data</title>
-      <link>https://arxiv.org/abs/2607.24717v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.24717v1</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DataOrchestra improves LLM pretraining by using an automated agent to decide whether to clean or discard individual data chunks, moving away from uniform, corpus-wide processing strategies.</description>
-    </item>
-    <item>
-      <title>Paper: Beyond Scale and Generation: Understanding Language Model-based Entity Matching</title>
-      <link>https://arxiv.org/abs/2607.24688v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.24688v1</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This study systematically compares different language model architectures for entity matching, helping practitioners choose the right model structure without relying solely on increasing parameter counts.</description>
     </item>
     <item>
       <title>The Week in AI — July 24, 2026</title>

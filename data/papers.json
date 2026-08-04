@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-03T04:58:03.739240+00:00",
+  "updated": "2026-08-04T04:39:00.298444+00:00",
   "items": [
+    {
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412v1",
+      "date": "2026-08-03",
+      "summary": "Researchers analyzed why LLMs struggle with tabular data, helping data scientists understand when to stick with traditional gradient-boosted trees instead of forcing language models into predictive tasks.",
+      "authors": "Marta Garnelo, Wojciech M. Czarnecki",
+      "tags": [
+        "tabular data",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning",
+      "url": "https://arxiv.org/abs/2608.02422v1",
+      "date": "2026-08-03",
+      "summary": "This paper introduces a digital twin framework to automate security incident responses, providing a more reliable and actionable alternative to manual, playbook-driven cybersecurity operations.",
+      "authors": "Yiran Gao, Tao Li, Kim Hammar",
+      "tags": [
+        "cybersecurity",
+        "automation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+      "url": "https://arxiv.org/abs/2608.02599v1",
+      "date": "2026-08-03",
+      "summary": "The authors propose an engineering-grounded AI framework for power systems, ensuring that AI models adhere to domain-specific physical rules rather than relying on black-box predictions.",
+      "authors": "Junjie Yin, Buxin She, Xinyu Feng et al.",
+      "tags": [
+        "energy",
+        "ai",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Condition-Number Barrier in Sparse Least Squares",
+      "url": "https://arxiv.org/abs/2608.02588v1",
+      "date": "2026-08-03",
+      "summary": "This theoretical work proves that the condition number limits the accuracy of sparse least-squares optimization, providing practitioners with a fundamental bound on algorithm performance.",
+      "authors": "Honghao Lin, Vahab Mirrokni, David P. Woodruff",
+      "tags": [
+        "optimization",
+        "math",
+        "paper"
+      ]
+    },
     {
       "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
       "url": "https://arxiv.org/abs/2607.29549v1",
