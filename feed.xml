@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 04:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:38:25 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 5, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-05</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-05</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest highlights shifting corporate strategies, infrastructure innovation, and the evolving ethical landscape surrounding AI development and deployment. Apple says more ex-employees may have taken confidential data to OpenAI · Third-party cyber evaluations involving OpenAI models · Anthropic signs $10B deal with AI cloud startup Volta · Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress · Is the future of data centers portable? Runware builds a pod to find out</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 4, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-04</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-04</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the technical challenges of agent behavior, corporate AI integration, and the evolving intersection of policy and public perception. Here’s why AI agents lie and cheat to reach their goals · The Download: reward hacking explained, and suspected Iranian cyberattacks · Congress’ favorite AI tool? ChatGPT · Circles powers telco personalization with OpenAI technology · How we built a realtime system for responsive voice AI in six months</description>
+    </item>
+    <item>
+      <title>Paper: WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament</title>
+      <link>https://arxiv.org/abs/2608.04008v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.04008v1</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors evaluated LLM forecasting accuracy using live World Cup matches to prevent data leakage from training sets, offering a reliable way to test real-world predictive reasoning.</description>
+    </item>
+    <item>
+      <title>Paper: Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent</title>
+      <link>https://arxiv.org/abs/2608.03979v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.03979v1</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves multimodal agents by forcing them to prioritize video analysis over text-based search, reducing reliance on outdated internal memory for complex tasks.</description>
+    </item>
+    <item>
+      <title>Paper: MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning</title>
+      <link>https://arxiv.org/abs/2608.03882v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.03882v1</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This multilingual benchmark helps data scientists measure how well LLMs handle real-world geospatial reasoning, such as calculating distances and spatial relationships across diverse global regions.</description>
+    </item>
+    <item>
+      <title>Paper: ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?</title>
+      <link>https://arxiv.org/abs/2608.03874v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.03874v1</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework tests whether LLM agents can actually improve their performance over time by learning and reusing skills across increasingly difficult, interconnected tasks.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 3, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-28</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system · NVIDIA launches &#x27;Open Secure AI Alliance&#x27; initiative to improve cyber defense · Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · How AI is expanding what people do at work</description>
-    </item>
-    <item>
-      <title>Paper: A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series</title>
-      <link>https://arxiv.org/abs/2607.25947v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.25947v1</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves how LLMs interpret irregular, sparse clinical data, providing a more efficient way to perform automated medical question answering.</description>
-    </item>
-    <item>
-      <title>Paper: Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?</title>
-      <link>https://arxiv.org/abs/2607.26041v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.26041v1</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This benchmark evaluates whether AI agents can accurately track desktop GUI changes, helping developers build more reliable automation tools that recover from errors.</description>
-    </item>
-    <item>
-      <title>Paper: CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer</title>
-      <link>https://arxiv.org/abs/2607.26023v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.26023v1</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This graph foundation model enables zero-shot learning across diverse multimodal datasets, allowing data scientists to apply pre-trained models to new graph domains without extra training.</description>
-    </item>
-    <item>
-      <title>Paper: UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams</title>
-      <link>https://arxiv.org/abs/2607.26017v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.26017v1</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>UniMem combines retrieval-based and parametric memory to help LLM agents learn from ongoing task streams without forgetting past strategies or requiring constant retraining.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 27, 2026</title>

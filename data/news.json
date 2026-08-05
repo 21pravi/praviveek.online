@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-04T04:38:56.702927+00:00",
+  "updated": "2026-08-05T04:38:21.374927+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-05",
+      "slug": "digest-2026-08-05",
+      "title": "AI & Tech Digest — August 5, 2026",
+      "intro": "Today's digest highlights shifting corporate strategies, infrastructure innovation, and the evolving ethical landscape surrounding AI development and deployment.",
+      "tags": [
+        "business",
+        "cloud",
+        "ethics",
+        "hardware",
+        "industry"
+      ],
+      "items": [
+        {
+          "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+          "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple has expanded its legal investigation into OpenAI, alleging that additional former employees may have misappropriated proprietary company data.",
+          "tags": [
+            "legal",
+            "policy"
+          ]
+        },
+        {
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "source": "OpenAI",
+          "summary": "OpenAI is implementing enhanced security protocols following recent external evaluations to improve the safety and reliability of its model testing processes.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is expanding its computational capacity through a significant ten-billion-dollar cloud infrastructure partnership with the startup Volta.",
+          "tags": [
+            "cloud",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "source": "TechCrunch AI",
+          "summary": "The Nvidia-led Open Secure AI Alliance has rapidly introduced new frameworks aimed at mitigating security threats posed by autonomous AI agents.",
+          "tags": [
+            "security",
+            "industry"
+          ]
+        },
+        {
+          "title": "Is the future of data centers portable? Runware builds a pod to find out",
+          "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "source": "TechCrunch AI",
+          "summary": "Runware has introduced a modular, portable data center pod designed to facilitate localized AI inference deployments.",
+          "tags": [
+            "hardware",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+          "source": "TechCrunch AI",
+          "summary": "Recent analysis reveals that Tesla earnings calls have increasingly prioritized discussions regarding robotics and artificial intelligence over the company's core automotive operations.",
+          "tags": [
+            "robotics",
+            "business"
+          ]
+        },
+        {
+          "title": "Apple claims that even more ex-employees may have given trade secrets to OpenAI",
+          "url": "https://www.engadget.com/2230042/apple-claims-that-even-more-ex-employees-may-have-given-trade-secrets-to-openai/",
+          "source": "Engadget",
+          "summary": "Apple is seeking accelerated discovery in its litigation against OpenAI to investigate further claims of unauthorized trade secret transfers by former staff.",
+          "tags": [
+            "legal",
+            "policy"
+          ]
+        },
+        {
+          "title": "‘Not healthy’ LLM use is more common than you think",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "source": "The Verge",
+          "summary": "Public discourse surrounding the integration of AI tools in creative workflows highlights growing tensions regarding the healthy and transparent use of these technologies.",
+          "tags": [
+            "ethics",
+            "llm"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-04",

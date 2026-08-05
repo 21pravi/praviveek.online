@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-04T04:39:00.298444+00:00",
+  "updated": "2026-08-05T04:38:24.959969+00:00",
   "items": [
+    {
+      "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
+      "url": "https://arxiv.org/abs/2608.04008v1",
+      "date": "2026-08-04",
+      "summary": "The authors evaluated LLM forecasting accuracy using live World Cup matches to prevent data leakage from training sets, offering a reliable way to test real-world predictive reasoning.",
+      "authors": "Zhenran Wang, Zhonghan Bian, Jinsong Li et al.",
+      "tags": [
+        "llm",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "url": "https://arxiv.org/abs/2608.03979v1",
+      "date": "2026-08-04",
+      "summary": "This framework improves multimodal agents by forcing them to prioritize video analysis over text-based search, reducing reliance on outdated internal memory for complex tasks.",
+      "authors": "Zhen Fang, Yu Zeng, Wenxuan Huang et al.",
+      "tags": [
+        "multimodal",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
+      "url": "https://arxiv.org/abs/2608.03882v1",
+      "date": "2026-08-04",
+      "summary": "This multilingual benchmark helps data scientists measure how well LLMs handle real-world geospatial reasoning, such as calculating distances and spatial relationships across diverse global regions.",
+      "authors": "Martin Böckling, Elizaveta Nosova, Heiko Paulheim et al.",
+      "tags": [
+        "geospatial",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
+      "url": "https://arxiv.org/abs/2608.03874v1",
+      "date": "2026-08-04",
+      "summary": "This framework tests whether LLM agents can actually improve their performance over time by learning and reusing skills across increasingly difficult, interconnected tasks.",
+      "authors": "Tianyi Guan, Yiding Wang, Haotong Yang et al.",
+      "tags": [
+        "agents",
+        "continual-learning",
+        "paper"
+      ]
+    },
     {
       "title": "Why Large Language Models Fail at Tabular Prediction",
       "url": "https://arxiv.org/abs/2608.02412v1",
