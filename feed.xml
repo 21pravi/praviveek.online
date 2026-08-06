@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 04:38:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:38:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 6, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-06</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-06</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight a shift toward specialized hardware, autonomous agent development, and the integration of AI tools into community and software management. Anthropic is hiring an AI chip design team · Jeff Dean and other top AI researchers are leaving Google to launch their own startup · Rogue AI agents created fake online identities in another hacking attempt · Meta launches Muse Code, an AI agent for large code bases · TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 5, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-05</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-05</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest highlights shifting corporate strategies, infrastructure innovation, and the evolving ethical landscape surrounding AI development and deployment. Apple says more ex-employees may have taken confidential data to OpenAI · Third-party cyber evaluations involving OpenAI models · Anthropic signs $10B deal with AI cloud startup Volta · Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress · Is the future of data centers portable? Runware builds a pod to find out</description>
+    </item>
+    <item>
+      <title>Paper: Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models</title>
+      <link>https://arxiv.org/abs/2608.05126v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.05126v1</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a structured approach for audio-based AI agents to execute specific functions directly from speech, improving their ability to handle open-domain tasks without complex manual rules.</description>
+    </item>
+    <item>
+      <title>Paper: The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations</title>
+      <link>https://arxiv.org/abs/2608.05050v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.05050v1</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Researchers used VR simulations to measure how police officers&#x27; language patterns change based on the perceived race and gender of virtual characters, providing a causal framework for bias analysis.</description>
+    </item>
+    <item>
+      <title>Paper: Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains</title>
+      <link>https://arxiv.org/abs/2608.05138v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.05138v1</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors adapted a retrieval-augmented generation stack for Modern Greek, demonstrating that simple keyword-based methods often outperform complex multilingual dense retrievers in specialized domains.</description>
+    </item>
+    <item>
+      <title>Paper: DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery</title>
+      <link>https://arxiv.org/abs/2608.05120v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.05120v1</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework integrates LLMs into symbolic regression to ensure that data-driven kinetic models for chemical engineering remain physically plausible and scientifically interpretable.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 4, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-29</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight. Fish Audio raises $52M seed to build AI voice models for creators and enterprises · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · The Download: OpenAI’s predictable hack, and an AI stock sell-off · We now have a better understanding how OpenAI hacked into Hugging Face · The Trump administration is exempting data centers from pollution laws intended to prevent acid rain</description>
-    </item>
-    <item>
-      <title>Paper: OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding</title>
-      <link>https://arxiv.org/abs/2607.27155v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.27155v1</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This benchmark evaluates how efficiently LLM agents perform complex office tasks, helping practitioners measure both the capability and the economic cost of deploying automated assistants.</description>
-    </item>
-    <item>
-      <title>Paper: MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis</title>
-      <link>https://arxiv.org/abs/2607.27146v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.27146v1</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a new training framework to help small language models master full-cycle software engineering, addressing the current inability of models to build complete programs from scratch.</description>
-    </item>
-    <item>
-      <title>Paper: InferScale: GPU-Native KV Injection for Personalized LLM Serving</title>
-      <link>https://arxiv.org/abs/2607.27090v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.27090v1</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>InferScale optimizes LLM serving by caching personalized memory directly on the GPU, significantly reducing latency for applications that frequently reuse long user histories or profiles.</description>
-    </item>
-    <item>
-      <title>Paper: Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?</title>
-      <link>https://arxiv.org/abs/2607.27203v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.27203v1</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This study challenges the necessity of pretraining Q-functions in reinforcement learning, suggesting that starting with a random initialization can still yield high-performing policies during fine-tuning.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 28, 2026</title>

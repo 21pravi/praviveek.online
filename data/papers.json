@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-05T04:38:24.959969+00:00",
+  "updated": "2026-08-06T04:38:41.053169+00:00",
   "items": [
+    {
+      "title": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
+      "url": "https://arxiv.org/abs/2608.05126v1",
+      "date": "2026-08-05",
+      "summary": "This paper introduces a structured approach for audio-based AI agents to execute specific functions directly from speech, improving their ability to handle open-domain tasks without complex manual rules.",
+      "authors": "Yuezhang Peng, Yuxin Liu, Changfeng Gao et al.",
+      "tags": [
+        "audio",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations",
+      "url": "https://arxiv.org/abs/2608.05050v1",
+      "date": "2026-08-05",
+      "summary": "Researchers used VR simulations to measure how police officers' language patterns change based on the perceived race and gender of virtual characters, providing a causal framework for bias analysis.",
+      "authors": "Sandra C. Sandoval, Navita Goyal, Rashawn Ray et al.",
+      "tags": [
+        "causal inference",
+        "nlp",
+        "paper"
+      ]
+    },
+    {
+      "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
+      "url": "https://arxiv.org/abs/2608.05138v1",
+      "date": "2026-08-05",
+      "summary": "The authors adapted a retrieval-augmented generation stack for Modern Greek, demonstrating that simple keyword-based methods often outperform complex multilingual dense retrievers in specialized domains.",
+      "authors": "Ayoub Kirouane, Christos Petrocheilos",
+      "tags": [
+        "rag",
+        "retrieval",
+        "paper"
+      ]
+    },
+    {
+      "title": "DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery",
+      "url": "https://arxiv.org/abs/2608.05120v1",
+      "date": "2026-08-05",
+      "summary": "This framework integrates LLMs into symbolic regression to ensure that data-driven kinetic models for chemical engineering remain physically plausible and scientifically interpretable.",
+      "authors": "Roberto Aliaga Medina, Paulina Quintanilla, Antonio del Rio Chanona",
+      "tags": [
+        "llm",
+        "symbolic regression",
+        "paper"
+      ]
+    },
     {
       "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
       "url": "https://arxiv.org/abs/2608.04008v1",
@@ -669,54 +717,6 @@
       "tags": [
         "nlp",
         "multilingual",
-        "paper"
-      ]
-    },
-    {
-      "title": "Experience Memory Graph: One-Shot Error Correction for Agents",
-      "url": "https://arxiv.org/abs/2607.13884v1",
-      "date": "2026-07-15",
-      "summary": "This method uses a graph-based memory structure to help AI agents fix errors in one shot, reducing the high costs and latency of iterative self-correction loops.",
-      "authors": "Wenjun Wang, Yuchen Fang, Fengrui Liu et al.",
-      "tags": [
-        "agents",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
-      "url": "https://arxiv.org/abs/2607.13881v1",
-      "date": "2026-07-15",
-      "summary": "The authors introduce a training-free approach for detecting human-object interactions that allows models to generalize to new scenarios without needing task-specific labeled data.",
-      "authors": "Ting Lei, Jialin Liu, Zhu Xu et al.",
-      "tags": [
-        "computer vision",
-        "multimodal",
-        "paper"
-      ]
-    },
-    {
-      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
-      "url": "https://arxiv.org/abs/2607.14070v1",
-      "date": "2026-07-15",
-      "summary": "Researchers demonstrate that simple linear probes on genomic foundation models can effectively identify biosecurity threats like antimicrobial resistance without requiring expensive model fine-tuning.",
-      "authors": "Jeremy Guntoro, Alexander Dack, Dylan Danno et al.",
-      "tags": [
-        "genomics",
-        "bioinformatics",
-        "paper"
-      ]
-    },
-    {
-      "title": "AI-accelerated End-to-End Framework for Rapid Professional Upskilling",
-      "url": "https://arxiv.org/abs/2607.14044v1",
-      "date": "2026-07-15",
-      "summary": "This framework integrates AI across the entire professional training lifecycle to significantly speed up content creation and skill assessment for enterprise upskilling.",
-      "authors": "Tam Nguyen, Hung Nguyen, Robert Ogburn",
-      "tags": [
-        "edtech",
-        "productivity",
         "paper"
       ]
     }

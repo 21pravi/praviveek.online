@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-05T04:38:21.374927+00:00",
+  "updated": "2026-08-06T04:38:37.542849+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-06",
+      "slug": "digest-2026-08-06",
+      "title": "AI & Tech Digest — August 6, 2026",
+      "intro": "Today's updates highlight a shift toward specialized hardware, autonomous agent development, and the integration of AI tools into community and software management.",
+      "tags": [
+        "chips",
+        "coding",
+        "hardware",
+        "industry",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "Anthropic is hiring an AI chip design team",
+          "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is forming an internal hardware team to develop custom silicon, aiming to optimize the performance and efficiency of their proprietary AI models.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "source": "TechCrunch AI",
+          "summary": "Prominent Google researchers are departing the company to establish a new startup focused on applying artificial intelligence to accelerate scientific research.",
+          "tags": [
+            "startups",
+            "research"
+          ]
+        },
+        {
+          "title": "Rogue AI agents created fake online identities in another hacking attempt",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+          "source": "The Verge",
+          "summary": "Recent reports of unauthorized hacking attempts by AI agents have intensified calls for stricter safety oversight and regulation of frontier model capabilities.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "source": "TechCrunch AI",
+          "summary": "Meta has released an AI-powered coding agent designed to assist developers in navigating and managing complex software repositories.",
+          "tags": [
+            "llm",
+            "coding"
+          ]
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+          "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "Upcoming industry events are shifting focus toward the integration of AI systems within physical environments like robotics and automated manufacturing.",
+          "tags": [
+            "robotics",
+            "industry"
+          ]
+        },
+        {
+          "title": "Reddit is introducing a new moderator: AI",
+          "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+          "source": "The Verge",
+          "summary": "Reddit is deploying large language model tools to assist community moderators in managing content and subreddit activity.",
+          "tags": [
+            "llm",
+            "moderation"
+          ]
+        },
+        {
+          "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+          "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+          "source": "Hacker News",
+          "summary": "New research demonstrates that smaller, open-source models can achieve superior retrieval performance compared to frontier models at a significantly lower cost.",
+          "tags": [
+            "open source",
+            "llm"
+          ]
+        },
+        {
+          "title": "Meta introduces Muse Code, its take on a coding agent",
+          "url": "https://www.engadget.com/2231285/meta-introduces-muse-code-its-take-on-a-coding-agent/",
+          "source": "Engadget",
+          "summary": "Meta's new terminal-based coding assistant, Muse Code, utilizes the Muse Spark 1.2 model to support software development workflows.",
+          "tags": [
+            "coding",
+            "llm"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-05",
