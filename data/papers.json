@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-06T04:38:41.053169+00:00",
+  "updated": "2026-08-07T04:07:23.775570+00:00",
   "items": [
+    {
+      "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
+      "url": "https://arxiv.org/abs/2608.06223v1",
+      "date": "2026-08-06",
+      "summary": "This paper introduces a retrieval-augmented approach for time series forecasting, allowing models to improve accuracy by referencing similar historical patterns from external datasets.",
+      "authors": "Yixiong Xiao, Congxi Xiao, Jingbo Zhou",
+      "tags": [
+        "time-series",
+        "rag",
+        "paper"
+      ]
+    },
+    {
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "url": "https://arxiv.org/abs/2608.06366v1",
+      "date": "2026-08-06",
+      "summary": "The authors created a multi-agent system that automates clinical feature engineering by linking electronic health records to medical guidelines, significantly reducing manual data preparation time.",
+      "authors": "Soorya Ram Shimgekar, Michelle Hu, Dorisa Shehi et al.",
+      "tags": [
+        "healthcare",
+        "automation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents",
+      "url": "https://arxiv.org/abs/2608.06312v1",
+      "date": "2026-08-06",
+      "summary": "This study evaluates and improves how LLMs handle complex, rule-heavy professional documents, providing a framework for automating quality reviews of technical standards.",
+      "authors": "Tao Wang, Qihao Yang, Rongjiao Liang et al.",
+      "tags": [
+        "llm",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction",
+      "url": "https://arxiv.org/abs/2608.06294v1",
+      "date": "2026-08-06",
+      "summary": "This framework combines quantum-inspired computing with agentic AI to better predict cardiac arrest mortality by analyzing the full temporal progression of patient health data.",
+      "authors": "Mutasim Fuad Sarker, Adiba Rahman Namira, Wafa Binte Alam et al.",
+      "tags": [
+        "healthcare",
+        "ai-agents",
+        "paper"
+      ]
+    },
     {
       "title": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
       "url": "https://arxiv.org/abs/2608.05126v1",
@@ -669,54 +717,6 @@
       "tags": [
         "healthcare",
         "multimodal",
-        "paper"
-      ]
-    },
-    {
-      "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
-      "url": "https://arxiv.org/abs/2607.15095v1",
-      "date": "2026-07-16",
-      "summary": "This framework uses fine-tuning and retrieval to help LLM agents maintain consistent ideological stances, offering a way to simulate complex political negotiations without the usual neutrality bias.",
-      "authors": "Dylan Van Mulders, Matthias Bogaert, Dirk Van den Poel",
-      "tags": [
-        "llm",
-        "alignment",
-        "paper"
-      ]
-    },
-    {
-      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
-      "url": "https://arxiv.org/abs/2607.15257v1",
-      "date": "2026-07-16",
-      "summary": "SearchOS improves information-seeking agents by using a persistent, shared state to prevent repetitive search loops, making automated web research more reliable and efficient.",
-      "authors": "Yuyao Zhang, Junjie Gao, Zhengxian Wu et al.",
-      "tags": [
-        "agents",
-        "search",
-        "paper"
-      ]
-    },
-    {
-      "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
-      "url": "https://arxiv.org/abs/2607.15242v1",
-      "date": "2026-07-16",
-      "summary": "This method uses mutable low-rank sketches to update user embeddings in real-time without full model retraining, significantly reducing staleness in recommendation systems.",
-      "authors": "Hector J. Garcia, Nick Clayton",
-      "tags": [
-        "recsys",
-        "embeddings",
-        "paper"
-      ]
-    },
-    {
-      "title": "Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya",
-      "url": "https://arxiv.org/abs/2607.15209v1",
-      "date": "2026-07-16",
-      "summary": "By creating language-specific tokenizers for Ge'ez-script languages, this research improves the performance of multilingual models on low-resource African languages suffering from poor subword fragmentation.",
-      "authors": "Hailay Kidu Teklehaymanot, Debela Desalegn Yadeta, Wolfgang Nejdl",
-      "tags": [
-        "nlp",
-        "multilingual",
         "paper"
       ]
     }

@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-06T04:38:37.542849+00:00",
+  "updated": "2026-08-07T04:07:20.572868+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-07",
+      "slug": "digest-2026-08-07",
+      "title": "AI & Tech Digest — August 7, 2026",
+      "intro": "Today's updates highlight the expansion of AI accessibility, emerging hardware form factors, and ongoing concerns regarding the security of autonomous agent permissions.",
+      "tags": [
+        "agents",
+        "ai",
+        "analytics",
+        "benchmarking",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "Adobe's new ChatGPT plugin brings 70 of its tools to OpenAI's chatbot",
+          "url": "https://www.engadget.com/2231088/adobe-new-chatgpt-plugin-brings-70-of-its-tools-to-openai-chatbot/",
+          "source": "Engadget",
+          "summary": "Adobe is integrating its creative software suite directly into OpenAI's interface, allowing users to execute complex design tasks through conversational prompts.",
+          "tags": [
+            "generative ai",
+            "software"
+          ]
+        },
+        {
+          "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "source": "The Verge",
+          "summary": "OpenAI has removed message caps for free-tier users, significantly increasing the accessibility of its core text-based conversational model.",
+          "tags": [
+            "llm",
+            "openai"
+          ]
+        },
+        {
+          "title": "OpenAI will no longer limit how many texts free accounts can send to ChatGPT",
+          "url": "https://www.engadget.com/2231807/openai-no-longer-limit-how-many-texts-free-accounts-send-chatgpt/",
+          "source": "Engadget",
+          "summary": "By lifting text message restrictions for non-paying users, OpenAI is prioritizing broader model adoption while maintaining usage caps on specialized features like image generation.",
+          "tags": [
+            "llm",
+            "product"
+          ]
+        },
+        {
+          "title": "From asking to doing: How the world is putting ChatGPT to work",
+          "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+          "source": "OpenAI",
+          "summary": "OpenAI released global usage data providing insights into how different regions are integrating conversational AI into their daily workflows and professional tasks.",
+          "tags": [
+            "data",
+            "analytics"
+          ]
+        },
+        {
+          "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+          "url": "https://artificialanalysis.ai/",
+          "source": "Hacker News",
+          "summary": "The Qwen3.8 Max model has achieved top performance rankings on the agentic index, signaling progress in models designed for autonomous task execution.",
+          "tags": [
+            "llm",
+            "benchmarking"
+          ]
+        },
+        {
+          "title": "Jony Ive’s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "source": "The Verge",
+          "summary": "Reports suggest OpenAI and Jony Ive are collaborating on a portable, screenless AI hardware device scheduled for release in 2027.",
+          "tags": [
+            "hardware",
+            "ai"
+          ]
+        },
+        {
+          "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+          "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+          "source": "Hacker News",
+          "summary": "Experimental data reveals that human operators frequently fail to identify malicious commands when reviewing actions taken by autonomous AI agents.",
+          "tags": [
+            "security",
+            "agents"
+          ]
+        },
+        {
+          "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+          "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+          "source": "MIT Tech Review",
+          "summary": "Industry analysis examines the internal restructuring at Google and the broader implications of Meta's open-weights model strategy on the competitive landscape.",
+          "tags": [
+            "policy",
+            "industry"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-06",

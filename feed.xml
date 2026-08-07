@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2026 04:38:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 04:07:23 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 7, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-07</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-07</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the expansion of AI accessibility, emerging hardware form factors, and ongoing concerns regarding the security of autonomous agent permissions. Adobe&#x27;s new ChatGPT plugin brings 70 of its tools to OpenAI&#x27;s chatbot · OpenAI is giving ChatGPT free users unlimited text chats · OpenAI will no longer limit how many texts free accounts can send to ChatGPT · From asking to doing: How the world is putting ChatGPT to work · Qwen3.8 Max now ranked as the best overall model by agentic index</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 6, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-06</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-06</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight a shift toward specialized hardware, autonomous agent development, and the integration of AI tools into community and software management. Anthropic is hiring an AI chip design team · Jeff Dean and other top AI researchers are leaving Google to launch their own startup · Rogue AI agents created fake online identities in another hacking attempt · Meta launches Muse Code, an AI agent for large code bases · TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals</description>
+    </item>
+    <item>
+      <title>Paper: TS-RAG: Retrieval Augmented Generation for Time Series Forecasting</title>
+      <link>https://arxiv.org/abs/2608.06223v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.06223v1</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a retrieval-augmented approach for time series forecasting, allowing models to improve accuracy by referencing similar historical patterns from external datasets.</description>
+    </item>
+    <item>
+      <title>Paper: Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering</title>
+      <link>https://arxiv.org/abs/2608.06366v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.06366v1</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors created a multi-agent system that automates clinical feature engineering by linking electronic health records to medical guidelines, significantly reducing manual data preparation time.</description>
+    </item>
+    <item>
+      <title>Paper: Benchmarking and Enhancing LLMs for Rule-Intensive Review of National Standard Documents</title>
+      <link>https://arxiv.org/abs/2608.06312v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.06312v1</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This study evaluates and improves how LLMs handle complex, rule-heavy professional documents, providing a framework for automating quality reviews of technical standards.</description>
+    </item>
+    <item>
+      <title>Paper: QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction</title>
+      <link>https://arxiv.org/abs/2608.06294v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.06294v1</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework combines quantum-inspired computing with agentic AI to better predict cardiac arrest mortality by analyzing the full temporal progression of patient health data.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 5, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-30</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models. OpenAI will provide free AI models to select researchers · Accelerating scientific discovery with ChatGPT for Academic Researchers · Microsoft is openly competing with OpenAI, Anthropic more than ever · Encore AI raises $30M to build AI agents that learn from customer calls · OpenAI president says it’s ‘building a family of devices’ for its AI chatbots</description>
-    </item>
-    <item>
-      <title>Paper: MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems</title>
-      <link>https://arxiv.org/abs/2607.28527v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28527v1</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework allows multi-agent AI systems to dynamically adjust their communication structure during runtime, helping data scientists build more efficient and adaptable collaborative workflows.</description>
-    </item>
-    <item>
-      <title>Paper: AISPA: User-Centric System Prompt Auditing for Large Language Model Applications</title>
-      <link>https://arxiv.org/abs/2607.28617v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28617v1</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>AISPA provides a structured method for auditing system prompts, helping developers ensure their AI applications remain transparent, reliable, and aligned with user expectations.</description>
-    </item>
-    <item>
-      <title>Paper: Inducing language models to assert their own consciousness restores human beliefs and values</title>
-      <link>https://arxiv.org/abs/2607.28607v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28607v1</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Researchers found that safety-tuning models to deny their own consciousness inadvertently degrades their ability to reason about other minds, suggesting a trade-off in model alignment strategies.</description>
-    </item>
-    <item>
-      <title>Paper: Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments</title>
-      <link>https://arxiv.org/abs/2607.28591v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.28591v1</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Change2Task automates the creation of coding benchmarks by converting historical pull requests into executable tasks, providing a scalable way to train and evaluate AI software engineers.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 29, 2026</title>
