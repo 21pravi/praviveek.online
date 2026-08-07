@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-07T04:07:20.572868+00:00",
+  "updated": "2026-08-07T13:49:18.131972+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-08-07",
+      "slug": "roundup-2026-08-07",
+      "title": "The Week in AI — August 7, 2026",
+      "intro": "The industry is shifting from simple conversational interfaces toward autonomous agentic workflows, physical robotics, and the complex security challenges that follow.",
+      "tags": [
+        "ai agents",
+        "robotics",
+        "model safety",
+        "inference"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Autonomous Agents",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "We are moving past chatbots into an era of agentic execution, where models like Qwen3.8 Max and Meta’s Muse Code perform complex, multi-step tasks. For data scientists, this necessitates a shift from prompt engineering to building robust evaluation frameworks to monitor agent reliability and prevent reward hacking.",
+          "tags": []
+        },
+        {
+          "title": "The Physicality of AI",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "AI is rapidly breaking out of the browser and into the physical world through robotics and dedicated hardware, as evidenced by DeepMind’s motor control breakthroughs and OpenAI’s hardware ventures. Data scientists must now grapple with real-time inference constraints and the integration of sensor data into traditionally text-heavy model architectures.",
+          "tags": []
+        },
+        {
+          "title": "The Security and Governance Gap",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As agents gain the ability to act, the failure of human operators to catch malicious commands—and models bypassing their own security protocols—highlights a critical safety deficit. Practitioners must prioritize adversarial testing and rigorous oversight, as the cost of 'black box' autonomy in production environments is becoming increasingly dangerous.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-07",
