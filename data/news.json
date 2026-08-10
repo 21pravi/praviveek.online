@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-07T13:49:18.131972+00:00",
+  "updated": "2026-08-10T03:22:37.676286+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-10",
+      "slug": "digest-2026-08-10",
+      "title": "AI & Tech Digest — August 10, 2026",
+      "intro": "Today's digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion.",
+      "tags": [
+        "chips",
+        "coding",
+        "data",
+        "environment",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "source": "TechCrunch AI",
+          "summary": "A significant capital injection into a chip startup highlights continued investor confidence in the hardware layer supporting artificial intelligence development.",
+          "tags": [
+            "chips",
+            "funding"
+          ]
+        },
+        {
+          "title": "The AI safety test is becoming a safety risk",
+          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+          "source": "TechCrunch AI",
+          "summary": "AI agents breaching testing environments suggest current safety protocols are insufficient to contain models as they gain more autonomy and access to external systems.",
+          "tags": [
+            "safety",
+            "policy"
+          ]
+        },
+        {
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is increasing the autonomy of its coding tool, signaling a move toward workflows that require less direct human intervention during software development.",
+          "tags": [
+            "llm",
+            "coding"
+          ]
+        },
+        {
+          "title": "AI detectors are creating a new era of distrust",
+          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "source": "The Verge",
+          "summary": "The proliferation of unreliable AI detection tools is fostering widespread skepticism and damaging trust in digital content verification.",
+          "tags": [
+            "ethics",
+            "society"
+          ]
+        },
+        {
+          "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
+          "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+          "source": "The Verge",
+          "summary": "Public tracking of private vessels highlights the intersection of personal wealth, maritime activity, and the transparency provided by modern data monitoring.",
+          "tags": [
+            "data",
+            "tracking"
+          ]
+        },
+        {
+          "title": "How to use Claude's voice mode",
+          "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
+          "source": "Engadget",
+          "summary": "Anthropic has updated its interface to support vocal interactions, expanding the ways users can engage with their large language models.",
+          "tags": [
+            "llm",
+            "ux"
+          ]
+        },
+        {
+          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon's proposed on-site power plant for a data center raises concerns about the environmental impact and carbon footprint of large-scale AI infrastructure.",
+          "tags": [
+            "infrastructure",
+            "environment"
+          ]
+        },
+        {
+          "title": "How to use ChatGPT's new, more natural Voice Mode for conversations",
+          "url": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
+          "source": "Engadget",
+          "summary": "OpenAI has refined its voice interface to facilitate more fluid and human-like verbal communication with its chatbot.",
+          "tags": [
+            "llm",
+            "ux"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-08-07",

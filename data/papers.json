@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-07T04:07:23.775570+00:00",
+  "updated": "2026-08-10T03:22:41.311793+00:00",
   "items": [
+    {
+      "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
+      "url": "https://arxiv.org/abs/2608.07437v1",
+      "date": "2026-08-07",
+      "summary": "The researchers developed a benchmark to identify and fix common statistical errors made by LLM agents when performing automated data analysis and hypothesis testing.",
+      "authors": "Jiacheng Miao, Jin Mu, Guanhua Chen et al.",
+      "tags": [
+        "llm",
+        "statistics",
+        "paper"
+      ]
+    },
+    {
+      "title": "An End-to-End Agent Auditing Engine",
+      "url": "https://arxiv.org/abs/2608.07346v1",
+      "date": "2026-08-07",
+      "summary": "This paper introduces a systematic framework for auditing and evaluating the performance of LLM-based agents, helping developers build more reliable and robust deployment pipelines.",
+      "authors": "Haoning Wang, Mingxun Zhang, Chenyue Yu et al.",
+      "tags": [
+        "agents",
+        "evaluation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Strategy-first synthesis planning for complex natural products",
+      "url": "https://arxiv.org/abs/2608.07454v1",
+      "date": "2026-08-07",
+      "summary": "The authors propose a new strategy-first approach to automated chemical synthesis that mimics human planning, overcoming limitations in existing tools that rely solely on reaction databases.",
+      "authors": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al.",
+      "tags": [
+        "chemistry",
+        "automation",
+        "paper"
+      ]
+    },
+    {
+      "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
+      "url": "https://arxiv.org/abs/2608.07449v1",
+      "date": "2026-08-07",
+      "summary": "SkillProx improves how LLM agents refine their procedural knowledge by using a gradient-inspired feedback loop to better manage and consolidate reusable task skills.",
+      "authors": "Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
     {
       "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
       "url": "https://arxiv.org/abs/2608.06223v1",
@@ -669,54 +717,6 @@
       "tags": [
         "rag",
         "causal-inference",
-        "paper"
-      ]
-    },
-    {
-      "title": "CRAFT: Clustering Rubrics to Diagnose Weak LLM Capabilities and Generate Targeted Fine-Tuning Data",
-      "url": "https://arxiv.org/abs/2607.16122v1",
-      "date": "2026-07-17",
-      "summary": "The authors introduce a method to diagnose specific LLM weaknesses by analyzing rubric-based evaluations, helping practitioners generate targeted training data to fix model failures.",
-      "authors": "Vipul Gupta, Zihao Wang, Razvan-Gabriel Dumitru et al.",
-      "tags": [
-        "llm",
-        "fine-tuning",
-        "paper"
-      ]
-    },
-    {
-      "title": "LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization",
-      "url": "https://arxiv.org/abs/2607.16066v1",
-      "date": "2026-07-17",
-      "summary": "This survey explores how agentic AI can automate 5G and 6G network management, providing a roadmap for integrating autonomous reasoning and planning into telecommunications infrastructure.",
-      "authors": "Mazene Ameur, Abdelkader Mekrache, Bouziane Brik et al.",
-      "tags": [
-        "agentic-ai",
-        "networks",
-        "paper"
-      ]
-    },
-    {
-      "title": "BayesPO: Bayesian Prompt Optimization via Parallel-Tempered Gradient-Guided Discrete MCMC",
-      "url": "https://arxiv.org/abs/2607.16001v1",
-      "date": "2026-07-17",
-      "summary": "The researchers treat prompt optimization as a Bayesian sampling problem, offering a more rigorous mathematical approach to finding effective instructions without retraining model weights.",
-      "authors": "Junjie Zhou, Zhijian Ou",
-      "tags": [
-        "llm",
-        "prompt-engineering",
-        "paper"
-      ]
-    },
-    {
-      "title": "Knowledge-Guided Cross-Modal Fusion for Adult-to-Pediatric ECG Transfer via Label-Conditioned Contrastive Alignment",
-      "url": "https://arxiv.org/abs/2607.15928v1",
-      "date": "2026-07-17",
-      "summary": "This framework improves pediatric ECG diagnosis by using knowledge-guided alignment to bridge the data gap between adult-heavy training sets and the unique requirements of pediatric patients.",
-      "authors": "Xinran Liu, Yuwen Li, Hongxiang Gao et al.",
-      "tags": [
-        "healthcare",
-        "multimodal",
         "paper"
       ]
     }

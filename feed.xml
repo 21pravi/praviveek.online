@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 13:49:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 03:22:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 10, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-10</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-10</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry · The AI safety test is becoming a safety risk · Anthropic is turning Claude Code’s auto mode on by default · AI detectors are creating a new era of distrust · Zuckerberg’s yacht was closer, but someone else saved a stranded boat</description>
+    </item>
     <item>
       <title>The Week in AI — August 7, 2026</title>
       <link>https://praviveek.online/#roundup-2026-08-07</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-07</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the expansion of AI accessibility, emerging hardware form factors, and ongoing concerns regarding the security of autonomous agent permissions. Adobe&#x27;s new ChatGPT plugin brings 70 of its tools to OpenAI&#x27;s chatbot · OpenAI is giving ChatGPT free users unlimited text chats · OpenAI will no longer limit how many texts free accounts can send to ChatGPT · From asking to doing: How the world is putting ChatGPT to work · Qwen3.8 Max now ranked as the best overall model by agentic index</description>
+    </item>
+    <item>
+      <title>Paper: Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing</title>
+      <link>https://arxiv.org/abs/2608.07437v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.07437v1</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a benchmark to identify and fix common statistical errors made by LLM agents when performing automated data analysis and hypothesis testing.</description>
+    </item>
+    <item>
+      <title>Paper: An End-to-End Agent Auditing Engine</title>
+      <link>https://arxiv.org/abs/2608.07346v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.07346v1</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a systematic framework for auditing and evaluating the performance of LLM-based agents, helping developers build more reliable and robust deployment pipelines.</description>
+    </item>
+    <item>
+      <title>Paper: Strategy-first synthesis planning for complex natural products</title>
+      <link>https://arxiv.org/abs/2608.07454v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.07454v1</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a new strategy-first approach to automated chemical synthesis that mimics human planning, overcoming limitations in existing tools that rely solely on reaction databases.</description>
+    </item>
+    <item>
+      <title>Paper: SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent</title>
+      <link>https://arxiv.org/abs/2608.07449v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.07449v1</guid>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <description>SkillProx improves how LLM agents refine their procedural knowledge by using a gradient-inspired feedback loop to better manage and consolidate reusable task skills.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 6, 2026</title>
@@ -174,34 +209,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-31</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the rapid integration of AI into robotics and retail, alongside growing concerns regarding model security and corporate competition. How avatarin built a 24/7 retail agent with GPT-Realtime · Microsoft is openly competing with OpenAI, Anthropic more than ever · Google DeepMind’s new AI model can control a robot’s entire body · AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares · Anthropic says its own AI models breached three companies during security tests</description>
-    </item>
-    <item>
-      <title>Paper: AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction</title>
-      <link>https://arxiv.org/abs/2607.29549v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29549v1</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves LLM mathematical accuracy by decoupling problem modeling from code execution, allowing agents to verify steps through a structured tool-flow process.</description>
-    </item>
-    <item>
-      <title>Paper: Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering</title>
-      <link>https://arxiv.org/abs/2607.29675v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29675v1</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a privacy-preserving method for identifying data clusters and regression modes, providing a robust way to analyze sensitive datasets without compromising individual privacy.</description>
-    </item>
-    <item>
-      <title>Paper: The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs</title>
-      <link>https://arxiv.org/abs/2607.29601v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29601v1</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This approach optimizes multi-task LLM fine-tuning by organizing adapter paths to prevent interference and catastrophic forgetting when training models on diverse, sequential tasks.</description>
-    </item>
-    <item>
-      <title>Paper: DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons &amp; Dragons Combat</title>
-      <link>https://arxiv.org/abs/2607.29577v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2607.29577v1</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>DungeonBench provides a new evaluation framework for testing how well AI models handle complex, rule-heavy tactical decision-making in simulated environments.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — July 30, 2026</title>
