@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-10T03:22:41.311793+00:00",
+  "updated": "2026-08-11T03:15:28.464783+00:00",
   "items": [
+    {
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867v1",
+      "date": "2026-08-10",
+      "summary": "Researchers discovered that encrypted reasoning traces from LLM APIs can be intercepted and reused across sessions, posing a significant security risk for proprietary model architectures.",
+      "authors": "Alexander Panfilov, David Schmotz, Ilia Shumailov et al.",
+      "tags": [
+        "llm",
+        "security",
+        "paper"
+      ]
+    },
+    {
+      "title": "Multimodal Model Diffing for Feature Discovery and Control",
+      "url": "https://arxiv.org/abs/2608.09928v1",
+      "date": "2026-08-10",
+      "summary": "This framework helps data scientists identify and manipulate specific visual features within multimodal models, providing better control over how these systems interpret and process images.",
+      "authors": "Hunar Batra, Lachin Naghashyar, Ashkan Khakzar et al.",
+      "tags": [
+        "multimodal",
+        "interpretability",
+        "paper"
+      ]
+    },
+    {
+      "title": "SHE: Trajectory-driven Safety Harness Evolution for LLM Agents",
+      "url": "https://arxiv.org/abs/2608.09885v1",
+      "date": "2026-08-10",
+      "summary": "The authors propose a framework that treats agent safety as an evolving system, learning safe boundaries dynamically from execution trajectories rather than relying on static, hard-coded rules.",
+      "authors": "Wanying Qu, Qinghua Mao, Yu Li et al.",
+      "tags": [
+        "agents",
+        "safety",
+        "paper"
+      ]
+    },
+    {
+      "title": "Agentic Auto-Research is Fuzz Testing",
+      "url": "https://arxiv.org/abs/2608.09855v1",
+      "date": "2026-08-10",
+      "summary": "This paper reframes autonomous research agents as fuzzers, suggesting that tracking execution coverage provides more reliable feedback than standard generate-and-rank methods for complex research tasks.",
+      "authors": "Yifeng He, Jicheng Wang, Yinzhe Zhao et al.",
+      "tags": [
+        "agents",
+        "testing",
+        "paper"
+      ]
+    },
     {
       "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
       "url": "https://arxiv.org/abs/2608.07437v1",
@@ -669,54 +717,6 @@
       "tags": [
         "llm",
         "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "SGA: Plug&Play Geometric Verification for Educational Video Synthesis",
-      "url": "https://arxiv.org/abs/2607.18116v1",
-      "date": "2026-07-20",
-      "summary": "This tool automatically detects and fixes spatial errors in LLM-generated educational animations, ensuring that visual elements do not overlap incorrectly.",
-      "authors": "Lopez Jhon, Hinojosa Carlos, Ghanem Bernard",
-      "tags": [
-        "llm",
-        "animation",
-        "paper"
-      ]
-    },
-    {
-      "title": "The Shared Discovery Paradox: How a One-Answer Rule Turns Better Information into Worse Search",
-      "url": "https://arxiv.org/abs/2607.18045v1",
-      "date": "2026-07-20",
-      "summary": "This study reveals that sharing a single best-guess recommendation among a group can paradoxically reduce overall search success compared to decentralized, diverse exploration.",
-      "authors": "Yohei Nakajima",
-      "tags": [
-        "decision-making",
-        "search",
-        "paper"
-      ]
-    },
-    {
-      "title": "Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation",
-      "url": "https://arxiv.org/abs/2607.18029v1",
-      "date": "2026-07-20",
-      "summary": "By mapping domain-specific metadata to an ontology, you can enable LLMs to generate accurate database queries without needing expensive fine-tuning or complex retrieval setups.",
-      "authors": "Blake G. Fitch, Cato Elia Kurtz",
-      "tags": [
-        "llm",
-        "knowledge-graph",
-        "paper"
-      ]
-    },
-    {
-      "title": "Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference",
-      "url": "https://arxiv.org/abs/2607.18225v1",
-      "date": "2026-07-20",
-      "summary": "This framework treats RAG as a nearest-neighbor matching problem, allowing data scientists to optimize decision-making policies by retrieving and analyzing action-specific evidence.",
-      "authors": "Masahiro Kato, Taka Kato",
-      "tags": [
-        "rag",
-        "causal-inference",
         "paper"
       ]
     }

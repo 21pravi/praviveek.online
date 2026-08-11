@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-10T03:22:37.676286+00:00",
+  "updated": "2026-08-11T03:15:24.114436+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-11",
+      "slug": "digest-2026-08-11",
+      "title": "AI & Tech Digest — August 11, 2026",
+      "intro": "Today's updates highlight the intersection of specialized AI model development, cybersecurity risks, and the evolving role of reasoning in scientific research.",
+      "tags": [
+        "ai for science",
+        "automation",
+        "cybersecurity",
+        "finance",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is deploying a specialized cybersecurity model to assist security researchers in identifying and validating system vulnerabilities.",
+          "tags": [
+            "cybersecurity",
+            "openai"
+          ]
+        },
+        {
+          "title": "These startups are chasing the next big thing in LLMs",
+          "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "source": "MIT Tech Review",
+          "summary": "Emerging startups are exploring new architectural directions beyond standard transformer models to advance the next generation of large language models.",
+          "tags": [
+            "llm",
+            "startups"
+          ]
+        },
+        {
+          "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+          "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+          "source": "Hacker News",
+          "summary": "Meta introduced a 30B-parameter model designed specifically to handle persistent, local agentic tasks efficiently.",
+          "tags": [
+            "open source",
+            "llm"
+          ]
+        },
+        {
+          "title": "AI for science needs reasoning, not just data",
+          "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+          "source": "MIT Tech Review",
+          "summary": "Effective scientific discovery requires AI systems to prioritize logical reasoning capabilities over simple pattern matching within large datasets.",
+          "tags": [
+            "ai for science",
+            "research"
+          ]
+        },
+        {
+          "title": "OpenAI slows down Astra development due to cybersecurity concerns",
+          "url": "https://www.engadget.com/2233237/openai-slows-down-astra-development-due-to-cybersecurity-concerns/",
+          "source": "Engadget",
+          "summary": "Meta has decelerated the development of its Astra model to mitigate potential security risks associated with its advanced capabilities.",
+          "tags": [
+            "policy",
+            "cybersecurity"
+          ]
+        },
+        {
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI",
+          "summary": "OpenAI's new cyber-focused model provides authorized users with tools for automated vulnerability research and security testing.",
+          "tags": [
+            "cybersecurity",
+            "openai"
+          ]
+        },
+        {
+          "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+          "url": "https://openai.com/index/model-ml",
+          "source": "OpenAI",
+          "summary": "The GPT-5.6 Sol model enables automated financial workflows by generating traceable, editable documents like Excel and PowerPoint files.",
+          "tags": [
+            "finance",
+            "automation"
+          ]
+        },
+        {
+          "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+          "source": "MIT Tech Review",
+          "summary": "Recent industry discourse emphasizes the necessity of reasoning-based AI for scientific breakthroughs and examines the broader implications of technology regulation.",
+          "tags": [
+            "ai for science",
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-10",

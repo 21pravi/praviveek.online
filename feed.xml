@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 03:22:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 03:15:28 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 11, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-11</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-11</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the intersection of specialized AI model development, cybersecurity risks, and the evolving role of reasoning in scientific research. As AI-led attacks multiply, OpenAI launches a new cyber model · These startups are chasing the next big thing in LLMs · Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows · AI for science needs reasoning, not just data · OpenAI slows down Astra development due to cybersecurity concerns</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 10, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-10</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-10</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry · The AI safety test is becoming a safety risk · Anthropic is turning Claude Code’s auto mode on by default · AI detectors are creating a new era of distrust · Zuckerberg’s yacht was closer, but someone else saved a stranded boat</description>
+    </item>
+    <item>
+      <title>Paper: Stealing Reasoning Traces from Proprietary LLM APIs</title>
+      <link>https://arxiv.org/abs/2608.09867v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.09867v1</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Researchers discovered that encrypted reasoning traces from LLM APIs can be intercepted and reused across sessions, posing a significant security risk for proprietary model architectures.</description>
+    </item>
+    <item>
+      <title>Paper: Multimodal Model Diffing for Feature Discovery and Control</title>
+      <link>https://arxiv.org/abs/2608.09928v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.09928v1</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework helps data scientists identify and manipulate specific visual features within multimodal models, providing better control over how these systems interpret and process images.</description>
+    </item>
+    <item>
+      <title>Paper: SHE: Trajectory-driven Safety Harness Evolution for LLM Agents</title>
+      <link>https://arxiv.org/abs/2608.09885v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.09885v1</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a framework that treats agent safety as an evolving system, learning safe boundaries dynamically from execution trajectories rather than relying on static, hard-coded rules.</description>
+    </item>
+    <item>
+      <title>Paper: Agentic Auto-Research is Fuzz Testing</title>
+      <link>https://arxiv.org/abs/2608.09855v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.09855v1</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper reframes autonomous research agents as fuzzers, suggesting that tracking execution coverage provides more reliable feedback than standard generate-and-rank methods for complex research tasks.</description>
     </item>
     <item>
       <title>The Week in AI — August 7, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-03</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the intersection of creative labor, corporate strategy, and the evolving discourse surrounding artificial intelligence development. Is paying artists enough to convince them to embrace AI? · Fender’s CEO seems to think your bandmates are just analog AI · Sam Altman and AI’s decel debate · Common problems with Bluetooth speakers and how to fix them · Xbox prices are increasing by up to €200 or £170</description>
-    </item>
-    <item>
-      <title>Paper: Why Large Language Models Fail at Tabular Prediction</title>
-      <link>https://arxiv.org/abs/2608.02412v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.02412v1</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Researchers analyzed why LLMs struggle with tabular data, helping data scientists understand when to stick with traditional gradient-boosted trees instead of forcing language models into predictive tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning</title>
-      <link>https://arxiv.org/abs/2608.02422v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.02422v1</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a digital twin framework to automate security incident responses, providing a more reliable and actionable alternative to manual, playbook-driven cybersecurity operations.</description>
-    </item>
-    <item>
-      <title>Paper: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework</title>
-      <link>https://arxiv.org/abs/2608.02599v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.02599v1</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose an engineering-grounded AI framework for power systems, ensuring that AI models adhere to domain-specific physical rules rather than relying on black-box predictions.</description>
-    </item>
-    <item>
-      <title>Paper: The Condition-Number Barrier in Sparse Least Squares</title>
-      <link>https://arxiv.org/abs/2608.02588v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.02588v1</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This theoretical work proves that the condition number limits the accuracy of sparse least-squares optimization, providing practitioners with a fundamental bound on algorithm performance.</description>
     </item>
     <item>
       <title>The Week in AI — July 31, 2026</title>
