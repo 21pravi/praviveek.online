@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-11T03:15:28.464783+00:00",
+  "updated": "2026-08-12T03:33:41.614383+00:00",
   "items": [
+    {
+      "title": "Mapping and Measuring the Behavioral Evolution of Large Language Models",
+      "url": "https://arxiv.org/abs/2608.11027v1",
+      "date": "2026-08-11",
+      "summary": "The authors developed a method to quantify and track how LLM behaviors diverge or converge over time, helping practitioners understand model evolution beyond simple leaderboard scores.",
+      "authors": "Dong Qiao, Chris Ding, Jicong Fan",
+      "tags": [
+        "llm",
+        "evaluation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
+      "url": "https://arxiv.org/abs/2608.11030v1",
+      "date": "2026-08-11",
+      "summary": "This framework improves patent matching accuracy by using a self-knowledge RAG approach, avoiding the high costs and performance degradation associated with traditional fine-tuning.",
+      "authors": "Jian Zhang, Songlin Lei, Zhuohao Yang et al.",
+      "tags": [
+        "rag",
+        "nlp",
+        "paper"
+      ]
+    },
+    {
+      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
+      "url": "https://arxiv.org/abs/2608.11191v1",
+      "date": "2026-08-11",
+      "summary": "This method allows GUI agents to improve their visual grounding capabilities post-deployment through an automated reflection loop, enabling adaptation to new interfaces without human feedback.",
+      "authors": "Shiyu Xuan, Zechao Li",
+      "tags": [
+        "gui",
+        "agent",
+        "paper"
+      ]
+    },
+    {
+      "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
+      "url": "https://arxiv.org/abs/2608.11162v1",
+      "date": "2026-08-11",
+      "summary": "The researchers introduced an adaptive smoothing method for Naive Bayes that automatically adjusts to data characteristics, significantly improving classification performance on complex tabular datasets.",
+      "authors": "Nguyen Thai Anh, Truong Viet Vu, Tran Thien Thanh et al.",
+      "tags": [
+        "classification",
+        "statistics",
+        "paper"
+      ]
+    },
     {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://arxiv.org/abs/2608.09867v1",
@@ -666,54 +714,6 @@
       "date": "2026-07-22",
       "summary": "The authors demonstrate that LLMs perform better when they store and retrieve high-level strategies from past experiences, mimicking how humans learn to solve problems more efficiently.",
       "authors": "Chang Liu, Xinyu Li, Artur Dubrawski",
-      "tags": [
-        "llm",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation",
-      "url": "https://arxiv.org/abs/2607.19266v1",
-      "date": "2026-07-21",
-      "summary": "This paper proposes a fraud detection framework that uses graph features and LLM-driven agents to explain and investigate suspicious transactions, helping teams build more transparent and accountable systems.",
-      "authors": "Rahil Sharma",
-      "tags": [
-        "fraud detection",
-        "explainability",
-        "paper"
-      ]
-    },
-    {
-      "title": "In-Context Time Series Classification with Random Convolutional Features",
-      "url": "https://arxiv.org/abs/2607.19234v1",
-      "date": "2026-07-21",
-      "summary": "The authors show that combining random convolutional features with pretrained tabular foundation models improves time series classification, offering a robust alternative to traditional linear classifiers.",
-      "authors": "Joscha Cüppers, Jilles Vreeken",
-      "tags": [
-        "time series",
-        "representation learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Assessment in Team Problem-Solving Exercises in Computing Education",
-      "url": "https://arxiv.org/abs/2607.19209v1",
-      "date": "2026-07-21",
-      "summary": "This study explores using recorded team interaction data to automate and improve the assessment of collaborative problem-solving exercises, providing a path for more efficient performance evaluation.",
-      "authors": "Valdemar Švábenský, Jan Vykopal, Sukrit Leelaluk et al.",
-      "tags": [
-        "education",
-        "data analysis",
-        "paper"
-      ]
-    },
-    {
-      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.19345v1",
-      "date": "2026-07-21",
-      "summary": "The researchers introduce a reinforcement learning method to stop LLMs from mindlessly copying long-context inputs, forcing models to focus on relevant evidence for better reasoning performance.",
-      "authors": "Lizhe Fang, Weizhou Shen, Tianyi Tang et al.",
       "tags": [
         "llm",
         "reasoning",
