@@ -1,6 +1,99 @@
 {
-  "updated": "2026-08-12T03:33:33.446260+00:00",
+  "updated": "2026-08-13T03:37:04.431374+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-13",
+      "slug": "digest-2026-08-13",
+      "title": "AI & Tech Digest — August 13, 2026",
+      "intro": "Today's digest covers the shift toward agentic AI implementation, enterprise infrastructure challenges, and significant capital flowing into the AI software ecosystem.",
+      "tags": [
+        "agents",
+        "data",
+        "engineering",
+        "enterprise",
+        "funding"
+      ],
+      "items": [
+        {
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "source": "OpenAI",
+          "summary": "Enterprises are transitioning from simple AI assistance to using autonomous agents to perform complex workflows, highlighting a shift in how companies integrate frontier models.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Scaling AI agents with trustworthy data",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "source": "MIT Tech Review",
+          "summary": "Organizations are struggling to achieve ROI on agentic AI deployments due to foundational gaps in their existing data infrastructure and management systems.",
+          "tags": [
+            "data",
+            "agents"
+          ]
+        },
+        {
+          "title": "Honor launches its long-awaited Robot Phone and yes it can wiggle at you",
+          "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
+          "source": "Engadget",
+          "summary": "Honor introduced a smartphone featuring a mechanical gimbal camera, demonstrating a hardware-focused approach to integrating automated physical movement into consumer devices.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "source": "TechCrunch AI",
+          "summary": "Thrive Holdings secured a $2 billion investment to accelerate the integration of artificial intelligence tools within large-scale corporate environments.",
+          "tags": [
+            "funding",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's implementation of watermarking in Claude has sparked user backlash regarding privacy and the potential for tracking AI usage in professional or academic settings.",
+          "tags": [
+            "llm",
+            "policy"
+          ]
+        },
+        {
+          "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+          "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+          "source": "TechCrunch AI",
+          "summary": "Blacksmith experienced a significant valuation increase following rapid revenue growth, underscoring the high market demand for automated software testing solutions.",
+          "tags": [
+            "funding",
+            "software"
+          ]
+        },
+        {
+          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+          "source": "Hacker News",
+          "summary": "Tailscale identified a long-standing SQLite bug as the source of recent database corruption, illustrating the risks of relying on legacy code in modern infrastructure.",
+          "tags": [
+            "engineering"
+          ]
+        },
+        {
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+          "source": "TechCrunch AI",
+          "summary": "Lovable reached a $13.3 billion valuation after securing additional funding, reflecting strong investor confidence in its recent revenue performance.",
+          "tags": [
+            "funding"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-12",

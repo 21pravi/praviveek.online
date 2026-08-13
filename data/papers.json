@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-12T03:33:41.614383+00:00",
+  "updated": "2026-08-13T03:37:10.331543+00:00",
   "items": [
+    {
+      "title": "SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges",
+      "url": "https://arxiv.org/abs/2608.12129v1",
+      "date": "2026-08-12",
+      "summary": "This method uses SQL-based retrieval to handle structured data queries more effectively than traditional vector search, offering a more flexible way to ground LLMs in complex datasets.",
+      "authors": "Yuchao Wu, Junqin Li, XingCheng Liang et al.",
+      "tags": [
+        "rag",
+        "sql",
+        "paper"
+      ]
+    },
+    {
+      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+      "url": "https://arxiv.org/abs/2608.12290v1",
+      "date": "2026-08-12",
+      "summary": "This framework replaces manual trial-and-error in video generation with an agentic feedback loop, helping data scientists automate and stabilize the output of image-to-video models.",
+      "authors": "Aman Tyagi, Hemanth Boinpally, Jonathan Chen et al.",
+      "tags": [
+        "generative-ai",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
+      "url": "https://arxiv.org/abs/2608.12269v1",
+      "date": "2026-08-12",
+      "summary": "The authors present a hybrid NLP pipeline to identify potentially corrupt language in public procurement documents, demonstrating how to monitor large-scale government data for irregularities.",
+      "authors": "Bryan Torres, Daniel Riofrío, José Vega-Sánchez et al.",
+      "tags": [
+        "nlp",
+        "classification",
+        "paper"
+      ]
+    },
+    {
+      "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
+      "url": "https://arxiv.org/abs/2608.12262v1",
+      "date": "2026-08-12",
+      "summary": "This benchmark provides a standardized way to evaluate how well multimodal models interpret complex scientific diagrams, which is critical for automating technical document analysis.",
+      "authors": "Weihao Bo, Shan Zhang, Yanpeng Sun et al.",
+      "tags": [
+        "multimodal",
+        "benchmark",
+        "paper"
+      ]
+    },
     {
       "title": "Mapping and Measuring the Behavioral Evolution of Large Language Models",
       "url": "https://arxiv.org/abs/2608.11027v1",
@@ -669,54 +717,6 @@
       "tags": [
         "llm",
         "education",
-        "paper"
-      ]
-    },
-    {
-      "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
-      "url": "https://arxiv.org/abs/2607.20327v1",
-      "date": "2026-07-22",
-      "summary": "PyroDash reduces inference costs by using a small model to generate easy tokens and selectively offloading complex reasoning to a large model, optimizing performance without retraining.",
-      "authors": "Niqi Lyu, Pengtao Shi, Wei Qiu et al.",
-      "tags": [
-        "llm",
-        "inference",
-        "paper"
-      ]
-    },
-    {
-      "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
-      "url": "https://arxiv.org/abs/2607.20410v1",
-      "date": "2026-07-22",
-      "summary": "This research provides a dataset and framework to align language models with Sri Lankan cultural values, addressing the Western bias common in current AI alignment benchmarks.",
-      "authors": "Nethmi Muthugala, Supryadi, Surangika Ranathunga et al.",
-      "tags": [
-        "alignment",
-        "multilingual",
-        "paper"
-      ]
-    },
-    {
-      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
-      "url": "https://arxiv.org/abs/2607.20385v1",
-      "date": "2026-07-22",
-      "summary": "Persian Pixel provides a large-scale synthetic dataset to help improve OCR accuracy for the complex, cursive nature of the Persian writing system.",
-      "authors": "Pouria Mahdi, Haq Nawaz Malik",
-      "tags": [
-        "ocr",
-        "dataset",
-        "paper"
-      ]
-    },
-    {
-      "title": "Notes to Self: Can LLMs Benefit from Experiential Abstractions?",
-      "url": "https://arxiv.org/abs/2607.20372v1",
-      "date": "2026-07-22",
-      "summary": "The authors demonstrate that LLMs perform better when they store and retrieve high-level strategies from past experiences, mimicking how humans learn to solve problems more efficiently.",
-      "authors": "Chang Liu, Xinyu Li, Artur Dubrawski",
-      "tags": [
-        "llm",
-        "reasoning",
         "paper"
       ]
     }
