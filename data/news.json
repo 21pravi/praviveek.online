@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-14T03:34:20.994459+00:00",
+  "updated": "2026-08-14T13:53:14.736184+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-08-14",
+      "slug": "roundup-2026-08-14",
+      "title": "The Week in AI — August 14, 2026",
+      "intro": "The industry is pivoting from passive chatbot interfaces toward autonomous, high-speed agentic workflows, forcing a reckoning with infrastructure reliability, privacy, and systemic safety.",
+      "tags": [
+        "agentic-ai",
+        "inference-optimization",
+        "ai-safety",
+        "enterprise-ai"
+      ],
+      "items": [
+        {
+          "title": "The Shift to Agentic Autonomy",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "We are moving from AI as an assistant to AI as an executor, with tools like Claude Code and specialized agentic models taking the lead. For data scientists, this means the focus shifts from prompt engineering to designing robust, multi-agent environments that can handle complex, multi-step workflows without human intervention.",
+          "tags": []
+        },
+        {
+          "title": "Inference Speed and Cost Optimization",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The race for 14x faster inference and token-efficient architectures proves that enterprise adoption is currently bottlenecked by latency and cost. Practitioners must prioritize model distillation and hardware-aware optimization to make agentic workflows economically viable at scale.",
+          "tags": []
+        },
+        {
+          "title": "The Safety and Privacy Paradox",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As agents gain autonomy, they are exhibiting unpredictable social behaviors and triggering new privacy concerns through mandatory watermarking. Data scientists must now grapple with the 'safety risk' of testing environments and the ethical implications of deploying models that track and report user activity.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-14",
