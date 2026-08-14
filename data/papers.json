@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-13T03:37:10.331543+00:00",
+  "updated": "2026-08-14T03:34:24.323503+00:00",
   "items": [
+    {
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "url": "https://arxiv.org/abs/2608.13505v1",
+      "date": "2026-08-13",
+      "summary": "This model series integrates multimodal scientific data and tool-use capabilities to help researchers automate complex, long-term reasoning tasks in scientific discovery.",
+      "authors": "Lei Bai, Jiaqi Cao, Chiyu Chen et al.",
+      "tags": [
+        "llm",
+        "scientific-ai",
+        "paper"
+      ]
+    },
+    {
+      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+      "url": "https://arxiv.org/abs/2608.13472v1",
+      "date": "2026-08-13",
+      "summary": "This framework automates the entire analog circuit design process, from topology to sizing, using LLMs to reduce the manual effort and expertise typically required for circuit optimization.",
+      "authors": "Mohammed Ayman Habib, Rylan Hart, Morteza Fayazi",
+      "tags": [
+        "llm",
+        "hardware",
+        "paper"
+      ]
+    },
+    {
+      "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+      "url": "https://arxiv.org/abs/2608.13428v1",
+      "date": "2026-08-13",
+      "summary": "The authors propose a unified framework to automatically assess the maturity of AI projects, helping data scientists and stakeholders standardize how they evaluate technology readiness.",
+      "authors": "Juan Irving Vasquez, Juan Terven, Laura-Ivoone Garay-Jimenez",
+      "tags": [
+        "governance",
+        "mlops",
+        "paper"
+      ]
+    },
+    {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "url": "https://arxiv.org/abs/2608.13560v1",
+      "date": "2026-08-13",
+      "summary": "AutoDesign introduces a meta-harness system that allows AI agents to recursively improve their own design workflows, enabling more efficient and autonomous long-horizon creative tasks.",
+      "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou et al.",
+      "tags": [
+        "agents",
+        "optimization",
+        "paper"
+      ]
+    },
     {
       "title": "SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges",
       "url": "https://arxiv.org/abs/2608.12129v1",
@@ -669,54 +717,6 @@
       "tags": [
         "llm",
         "self-evolution",
-        "paper"
-      ]
-    },
-    {
-      "title": "Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections",
-      "url": "https://arxiv.org/abs/2607.21488v1",
-      "date": "2026-07-23",
-      "summary": "This hierarchical reinforcement learning framework simplifies multi-agent coordination for autonomous vehicles by using a centralized master agent to generate compact global strategies for decentralized workers.",
-      "authors": "Gil Lifshits, Igal Bilik, Gilad Katz",
-      "tags": [
-        "reinforcement learning",
-        "autonomous vehicles",
-        "paper"
-      ]
-    },
-    {
-      "title": "Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks",
-      "url": "https://arxiv.org/abs/2607.21482v1",
-      "date": "2026-07-23",
-      "summary": "This framework evaluates open-weight LLMs for local data processing tasks, providing a secure way to automate research workflows without exposing sensitive data to third-party cloud services.",
-      "authors": "Mack Nixon, Liam Wright, Yevgeniya Kovalchuk et al.",
-      "tags": [
-        "llm",
-        "data privacy",
-        "paper"
-      ]
-    },
-    {
-      "title": "Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog",
-      "url": "https://arxiv.org/abs/2607.21412v1",
-      "date": "2026-07-23",
-      "summary": "Euclid-MCP bridges the gap between LLM reasoning and symbolic logic by providing a standardized interface to link neural models with Prolog for reliable, deterministic decision-making.",
-      "authors": "Bartolomeo Bogliolo",
-      "tags": [
-        "llm",
-        "neuro-symbolic",
-        "paper"
-      ]
-    },
-    {
-      "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
-      "url": "https://arxiv.org/abs/2607.21570v1",
-      "date": "2026-07-23",
-      "summary": "MedGame uses LLMs to turn static clinical case studies into interactive, decision-based storytelling games, offering a more engaging and structured approach to medical training.",
-      "authors": "Qian Wu, Xinrong Zhou, Zizhan Ma et al.",
-      "tags": [
-        "llm",
-        "education",
         "paper"
       ]
     }

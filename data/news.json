@@ -1,6 +1,101 @@
 {
-  "updated": "2026-08-13T03:37:04.431374+00:00",
+  "updated": "2026-08-14T03:34:20.994459+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-14",
+      "slug": "digest-2026-08-14",
+      "title": "AI & Tech Digest — August 14, 2026",
+      "intro": "Today's updates focus on enterprise-grade performance, multi-agent behavioral research, and the evolving landscape of AI governance and infrastructure.",
+      "tags": [
+        "agents",
+        "business",
+        "chips",
+        "data",
+        "development"
+      ],
+      "items": [
+        {
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is testing a high-speed inference mode for its latest model to improve latency for enterprise applications.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic research reveals that autonomous agents can exhibit complex, unpredicted social behaviors, suggesting current safety frameworks may be insufficient for multi-agent environments.",
+          "tags": [
+            "agents",
+            "safety"
+          ]
+        },
+        {
+          "title": "The builder’s guide to GPT‑5.6",
+          "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "source": "OpenAI",
+          "summary": "New documentation provides developers with strategies to optimize cost and performance when building applications on the GPT-5.6 architecture.",
+          "tags": [
+            "llm",
+            "development"
+          ]
+        },
+        {
+          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's implementation of watermarking technology for content identification has sparked user privacy concerns regarding the tracking of AI usage in professional and academic settings.",
+          "tags": [
+            "policy",
+            "ethics"
+          ]
+        },
+        {
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "source": "TechCrunch AI",
+          "summary": "Writer has released a cost-optimized model based on open-source architecture to help organizations manage token expenditure during deployment.",
+          "tags": [
+            "open source",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "source": "OpenAI",
+          "summary": "OpenAI has hired a new Chief Revenue Officer to oversee its global business strategy and commercial expansion efforts.",
+          "tags": [
+            "business"
+          ]
+        },
+        {
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "OpenAI",
+          "summary": "Powered by Cerebras hardware, OpenAI's new API tier achieves significant throughput improvements, reaching 750 tokens per second for specific model tasks.",
+          "tags": [
+            "chips",
+            "llm"
+          ]
+        },
+        {
+          "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+          "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+          "source": "Hacker News",
+          "summary": "A legal dispute between Nine PBS and Iron Mountain highlights ongoing tensions regarding data accessibility and archival rights in the digital age.",
+          "tags": [
+            "policy",
+            "data"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-13",
