@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-14T03:34:24.323503+00:00",
+  "updated": "2026-08-17T02:38:12.594752+00:00",
   "items": [
+    {
+      "title": "Handover of In-Context Learning State Across Session Boundaries",
+      "url": "https://arxiv.org/abs/2608.14528v1",
+      "date": "2026-08-14",
+      "summary": "This paper explores how to efficiently transfer context between LLM sessions, helping developers maintain task continuity when hitting input limits or restarting applications.",
+      "authors": "Masahiro Kato, Taka Kato",
+      "tags": [
+        "llm",
+        "context",
+        "paper"
+      ]
+    },
+    {
+      "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
+      "url": "https://arxiv.org/abs/2608.14502v1",
+      "date": "2026-08-14",
+      "summary": "The authors introduce a method to calculate Gibbs free energy for materials using automatic differentiation, enabling faster and more accurate computational discovery of stable crystalline structures.",
+      "authors": "Juno Nam, Bowen Deng, Xiaochen Du et al.",
+      "tags": [
+        "materials science",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
+      "url": "https://arxiv.org/abs/2608.14498v1",
+      "date": "2026-08-14",
+      "summary": "This research optimizes VLM training by overlapping video processing and model execution, significantly reducing GPU idle time during reinforcement learning post-training.",
+      "authors": "Hanfeng Lu, Tianyu Feng, Suyi Li et al.",
+      "tags": [
+        "vlm",
+        "gpu",
+        "paper"
+      ]
+    },
+    {
+      "title": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
+      "url": "https://arxiv.org/abs/2608.14452v1",
+      "date": "2026-08-14",
+      "summary": "The authors propose a hierarchical graph approach for spreadsheets that preserves spatial and relational data, allowing LLMs to reason about complex workbooks more effectively than flat text.",
+      "authors": "Panjing He, Mingyue Cheng, Yucong Luo et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
       "url": "https://arxiv.org/abs/2608.13505v1",
@@ -669,54 +717,6 @@
       "tags": [
         "entity-matching",
         "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
-      "url": "https://arxiv.org/abs/2607.22465v1",
-      "date": "2026-07-24",
-      "summary": "This framework optimizes LLM routing for multi-step agent workflows by evaluating decisions based on final task outcomes rather than individual prompt responses, improving overall efficiency and accuracy.",
-      "authors": "Ritik Raj, Souvik Kundu, Sarbartha Banerjee et al.",
-      "tags": [
-        "llm",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation",
-      "url": "https://arxiv.org/abs/2607.22375v1",
-      "date": "2026-07-24",
-      "summary": "The authors introduce a search-based approach for AI research ideation that balances both high-quality output and conceptual diversity to avoid generating redundant or low-value ideas.",
-      "authors": "Varun Gumma, Navonil Majumder, Soumitra Sinhahajari et al.",
-      "tags": [
-        "ideation",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG",
-      "url": "https://arxiv.org/abs/2607.22319v1",
-      "date": "2026-07-24",
-      "summary": "This paper proposes an agentic RAG architecture that improves data integration accuracy and cost-efficiency by requiring models to provide verifiable, evidence-based reasoning for their outputs.",
-      "authors": "Chuangtao Ma, Arijit Khan",
-      "tags": [
-        "rag",
-        "data-integration",
-        "paper"
-      ]
-    },
-    {
-      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
-      "url": "https://arxiv.org/abs/2607.22529v1",
-      "date": "2026-07-24",
-      "summary": "The authors propose using co-evolving agent skills to bridge the gap between narrow, verifiable tasks and broad, unreliable self-generation, enabling more robust LLM self-improvement.",
-      "authors": "Siyuan Huang, Pengyu Cheng, Haotian Liu et al.",
-      "tags": [
-        "llm",
-        "self-evolution",
         "paper"
       ]
     }
