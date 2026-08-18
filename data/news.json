@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-17T02:38:09.595577+00:00",
+  "updated": "2026-08-18T02:32:44.596834+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-18",
+      "slug": "digest-2026-08-18",
+      "title": "AI & Tech Digest — August 18, 2026",
+      "intro": "Today's updates highlight significant shifts in AI infrastructure, corporate consolidation, and the evolving ethical landscape of model training data.",
+      "tags": [
+        "api",
+        "business",
+        "chips",
+        "cloud",
+        "community"
+      ],
+      "items": [
+        {
+          "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+          "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is funding a SoftBank data center project to secure a dedicated hardware pipeline for OpenAI's compute requirements.",
+          "tags": [
+            "chips",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+          "url": "https://blog.roboflow.com/openai-gpt-5-6/",
+          "source": "Hacker News",
+          "summary": "The latest OpenAI vision model is receiving industry attention for its performance improvements in processing and interpreting visual data.",
+          "tags": [
+            "llm",
+            "vision"
+          ]
+        },
+        {
+          "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+          "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+          "source": "TechCrunch AI",
+          "summary": "Groq has secured significant funding to transition its business model from specialized hardware manufacturing toward providing cloud-based AI services.",
+          "tags": [
+            "cloud",
+            "funding"
+          ]
+        },
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "source": "TechCrunch AI",
+          "summary": "Stripe is reportedly pursuing an acquisition of OpenRouter to integrate advanced AI routing capabilities into its financial technology ecosystem.",
+          "tags": [
+            "business",
+            "api"
+          ]
+        },
+        {
+          "title": "OpenAI joins PORTS-Pike project",
+          "url": "https://openai.com/index/openai-joins-ports-pike-project",
+          "source": "OpenAI",
+          "summary": "OpenAI is participating in the PORTS-Pike regional development project to support local economic growth and community infrastructure in Ohio.",
+          "tags": [
+            "policy",
+            "community"
+          ]
+        },
+        {
+          "title": "ByteDance agrees to reel in its AI models to protect Hollywood IPs",
+          "url": "https://www.engadget.com/2238384/bytedance-agrees-to-reel-in-its-ai-models-to-protect-hollywood-ip/",
+          "source": "Engadget",
+          "summary": "ByteDance has committed to restricting its AI training practices to address intellectual property concerns raised by major film studios.",
+          "tags": [
+            "policy",
+            "copyright"
+          ]
+        },
+        {
+          "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+          "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon is facing scrutiny for utilizing rare physical texts as training data for its large language models to overcome online data scarcity.",
+          "tags": [
+            "llm",
+            "ethics"
+          ]
+        },
+        {
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "source": "TechCrunch AI",
+          "summary": "The automation startup Relay is closing its operations, with its engineering team moving to Google to focus on browser-based AI features.",
+          "tags": [
+            "business",
+            "hiring"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-17",
