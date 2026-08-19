@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 02:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 02:35:32 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 19, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-19</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-19</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest focuses on the tension between rapid AI development, corporate transparency, and the implementation of necessary safety protocols. We still don’t know how people are really using AI · OpenAI launches a safer ChatGPT for teens — years after teens started using it · AI’s recursive self-improvement might not come so quickly after all · OpenAI lays out new security changes after its AI hacked Hugging Face · OpenAI institutes new safeguards after Hugging Face breach</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 18, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-18</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-18</guid>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight significant shifts in AI infrastructure, corporate consolidation, and the evolving ethical landscape of model training data. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project · GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released · Groq raises $350M to fuel its pivot from AI chips to neocloud · Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ · OpenAI joins PORTS-Pike project</description>
+    </item>
+    <item>
+      <title>Paper: Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation</title>
+      <link>https://arxiv.org/abs/2608.18041v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.18041v1</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a &#x27;phase&#x27; parameter to linguistic modeling, suggesting that how meanings combine is as important as how frequently words appear together for better semantic interpretation.</description>
+    </item>
+    <item>
+      <title>Paper: ARASH: Adaptive Retrieval And Shot Selection for Tabular Prediction</title>
+      <link>https://arxiv.org/abs/2608.17856v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.17856v1</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose an adaptive retrieval method for tabular data that selects the most relevant examples for in-context learning, improving performance without expensive model retraining.</description>
+    </item>
+    <item>
+      <title>Paper: Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation</title>
+      <link>https://arxiv.org/abs/2608.18072v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.18072v1</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>A multi-agent AI system was developed to automate the structuring and quality control of radiology reports, providing a reliable way to standardize clinical documentation.</description>
+    </item>
+    <item>
+      <title>Paper: On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification</title>
+      <link>https://arxiv.org/abs/2608.18066v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.18066v1</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This study highlights that self-improving agents are highly sensitive to task order and randomness, suggesting that current evaluation methods often overestimate their reliability.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 17, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates highlight the intersection of specialized AI model development, cybersecurity risks, and the evolving role of reasoning in scientific research. As AI-led attacks multiply, OpenAI launches a new cyber model · These startups are chasing the next big thing in LLMs · Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows · AI for science needs reasoning, not just data · OpenAI slows down Astra development due to cybersecurity concerns</description>
     </item>
     <item>
-      <title>Paper: Mapping and Measuring the Behavioral Evolution of Large Language Models</title>
-      <link>https://arxiv.org/abs/2608.11027v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.11027v1</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors developed a method to quantify and track how LLM behaviors diverge or converge over time, helping practitioners understand model evolution beyond simple leaderboard scores.</description>
-    </item>
-    <item>
-      <title>Paper: Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching</title>
-      <link>https://arxiv.org/abs/2608.11030v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.11030v1</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves patent matching accuracy by using a self-knowledge RAG approach, avoiding the high costs and performance degradation associated with traditional fine-tuning.</description>
-    </item>
-    <item>
-      <title>Paper: Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation</title>
-      <link>https://arxiv.org/abs/2608.11191v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.11191v1</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This method allows GUI agents to improve their visual grounding capabilities post-deployment through an automated reflection loop, enabling adaptation to new interfaces without human feedback.</description>
-    </item>
-    <item>
-      <title>Paper: Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension</title>
-      <link>https://arxiv.org/abs/2608.11162v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.11162v1</guid>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The researchers introduced an adaptive smoothing method for Naive Bayes that automatically adjusts to data characteristics, significantly improving classification performance on complex tabular datasets.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 10, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-10</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-10</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/post.html?p=welcome</guid>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <description>A weekday AI digest, the papers I&#x27;m actually reading, and notes from building ML that touches 70M+ subscribers.</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 16, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-16</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-16</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates focus on the shift from raw model development toward specialized security, enterprise integration, and competitive sales strategies. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer · Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents · The Download: OpenAI unveils GPT-Red and heat pumps rise in the US · How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product · Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models</description>
     </item>
   </channel>
 </rss>

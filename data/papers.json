@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-18T02:32:47.241711+00:00",
+  "updated": "2026-08-19T02:35:32.185653+00:00",
   "items": [
+    {
+      "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
+      "url": "https://arxiv.org/abs/2608.18041v1",
+      "date": "2026-08-18",
+      "summary": "This paper introduces a 'phase' parameter to linguistic modeling, suggesting that how meanings combine is as important as how frequently words appear together for better semantic interpretation.",
+      "authors": "Hollis Robbins",
+      "tags": [
+        "nlp",
+        "semantics",
+        "paper"
+      ]
+    },
+    {
+      "title": "ARASH: Adaptive Retrieval And Shot Selection for Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.17856v1",
+      "date": "2026-08-18",
+      "summary": "The authors propose an adaptive retrieval method for tabular data that selects the most relevant examples for in-context learning, improving performance without expensive model retraining.",
+      "authors": "Samirasadat Jamalidinan, Yue Xu, Kazem Cheshmi",
+      "tags": [
+        "tabular",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+      "url": "https://arxiv.org/abs/2608.18072v1",
+      "date": "2026-08-18",
+      "summary": "A multi-agent AI system was developed to automate the structuring and quality control of radiology reports, providing a reliable way to standardize clinical documentation.",
+      "authors": "Iryna Hartsock, Cesar Lam, Christopher Otteni et al.",
+      "tags": [
+        "healthcare",
+        "multi-agent",
+        "paper"
+      ]
+    },
+    {
+      "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+      "url": "https://arxiv.org/abs/2608.18066v1",
+      "date": "2026-08-18",
+      "summary": "This study highlights that self-improving agents are highly sensitive to task order and randomness, suggesting that current evaluation methods often overestimate their reliability.",
+      "authors": "Qinyuan Ye, Yu Li, Yada Pruksachatkun et al.",
+      "tags": [
+        "agents",
+        "evaluation",
+        "paper"
+      ]
+    },
     {
       "title": "Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis",
       "url": "https://arxiv.org/abs/2608.16775v1",
@@ -669,54 +717,6 @@
       "authors": "Perry Dong, Ron Polonsky, Dorsa Sadigh et al.",
       "tags": [
         "reinforcement learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "A Cost-Effective Multimodal LLM Reasoning Framework for Question Answering over Irregular Clinical Time Series",
-      "url": "https://arxiv.org/abs/2607.25947v1",
-      "date": "2026-07-28",
-      "summary": "This framework improves how LLMs interpret irregular, sparse clinical data, providing a more efficient way to perform automated medical question answering.",
-      "authors": "Frank Nie, Ethan B Liu, Yuan Zhu et al.",
-      "tags": [
-        "healthcare",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?",
-      "url": "https://arxiv.org/abs/2607.26041v1",
-      "date": "2026-07-28",
-      "summary": "This benchmark evaluates whether AI agents can accurately track desktop GUI changes, helping developers build more reliable automation tools that recover from errors.",
-      "authors": "Abhishek Pillai, Samir Kumar Nayak, Yuan Chen",
-      "tags": [
-        "agents",
-        "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer",
-      "url": "https://arxiv.org/abs/2607.26023v1",
-      "date": "2026-07-28",
-      "summary": "This graph foundation model enables zero-shot learning across diverse multimodal datasets, allowing data scientists to apply pre-trained models to new graph domains without extra training.",
-      "authors": "Ankang Yang, Jitao Zhao, Di Jin et al.",
-      "tags": [
-        "graphs",
-        "foundation-models",
-        "paper"
-      ]
-    },
-    {
-      "title": "UniMem: Complementary Episodic-to-Parametric Memory for Boundary-Agnostic Task Streams",
-      "url": "https://arxiv.org/abs/2607.26017v1",
-      "date": "2026-07-28",
-      "summary": "UniMem combines retrieval-based and parametric memory to help LLM agents learn from ongoing task streams without forgetting past strategies or requiring constant retraining.",
-      "authors": "Siyu Xia, Chenheng Zhang, Yanting Wu et al.",
-      "tags": [
-        "llm",
-        "memory",
         "paper"
       ]
     }
