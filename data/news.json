@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-19T02:35:29.191722+00:00",
+  "updated": "2026-08-20T02:33:59.880022+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-20",
+      "slug": "digest-2026-08-20",
+      "title": "AI & Tech Digest — August 20, 2026",
+      "intro": "Today's updates highlight the evolving landscape of AI enterprise privacy, strategic development shifts, and the growing focus on data-centric infrastructure.",
+      "tags": [
+        "api",
+        "business",
+        "chips",
+        "data",
+        "education"
+      ],
+      "items": [
+        {
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has restricted access to its cybersecurity program for researchers, potentially hindering external efforts to identify and report software vulnerabilities.",
+          "tags": [
+            "security",
+            "policy"
+          ]
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is enhancing its enterprise privacy features to maintain a competitive edge against Anthropic in the corporate data security market.",
+          "tags": [
+            "privacy",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "source": "TechCrunch AI",
+          "summary": "Google is integrating specialized study tools into Gemini and Search to capture the student demographic and compete with other AI assistants.",
+          "tags": [
+            "education",
+            "gemini"
+          ]
+        },
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "source": "OpenAI",
+          "summary": "OpenAI is formalizing its commitment to data privacy for API users by emphasizing zero data retention policies and new safety processing methods.",
+          "tags": [
+            "privacy",
+            "api"
+          ]
+        },
+        {
+          "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+          "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup argues that the primary obstacle to using AI for cancer treatment is not model capability, but the quality of available data.",
+          "tags": [
+            "healthcare",
+            "data"
+          ]
+        },
+        {
+          "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+          "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+          "source": "VentureBeat AI",
+          "summary": "VentureBeat is expanding its research division by hiring a lead analyst to provide technical insights for enterprise-level AI decision-makers.",
+          "tags": [
+            "research",
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI hit the brakes. Now what?",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "source": "The Verge",
+          "summary": "OpenAI is intentionally slowing its development cycle to prioritize security and safety protocols amid increasing market pressure and competition.",
+          "tags": [
+            "policy",
+            "openai"
+          ]
+        },
+        {
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup is developing financial tools to help firms quantify and hedge the rising costs of AI compute resources.",
+          "tags": [
+            "finance",
+            "chips"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-19",

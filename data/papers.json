@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-19T02:35:32.185653+00:00",
+  "updated": "2026-08-20T02:34:03.219587+00:00",
   "items": [
+    {
+      "title": "rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation",
+      "url": "https://arxiv.org/abs/2608.18952v1",
+      "date": "2026-08-19",
+      "summary": "This method stores LLM-generated reasoning as an editable memory, allowing recommendation systems to reuse insights without re-running expensive models for every request.",
+      "authors": "Minh Hoang Nguyen, Tung Le, Huy Tien Nguyen",
+      "tags": [
+        "recommendation",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "url": "https://arxiv.org/abs/2608.19197v1",
+      "date": "2026-08-19",
+      "summary": "This framework uses an LLM to generate its own interactive training environments, enabling agents to improve through self-play without relying on static, human-curated datasets.",
+      "authors": "Bo Liu, Simon Yu, Yiding Jiang et al.",
+      "tags": [
+        "reinforcement learning",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
+      "url": "https://arxiv.org/abs/2608.19171v1",
+      "date": "2026-08-19",
+      "summary": "This attention mechanism provides built-in uncertainty estimates for continuous-time data, helping data scientists understand the reliability of predictions made on irregularly sampled time series.",
+      "authors": "Sotirios P. Chatzis, Loukas Papadoulas",
+      "tags": [
+        "time-series",
+        "uncertainty",
+        "paper"
+      ]
+    },
+    {
+      "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
+      "url": "https://arxiv.org/abs/2608.19133v1",
+      "date": "2026-08-19",
+      "summary": "The authors developed a method to track how topics evolve over time in massive text datasets by analyzing semantic shifts within embedding spaces.",
+      "authors": "Steven Morse, Daniel Runfola, Trenton W. Ford",
+      "tags": [
+        "nlp",
+        "clustering",
+        "paper"
+      ]
+    },
     {
       "title": "Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation",
       "url": "https://arxiv.org/abs/2608.18041v1",
@@ -670,53 +718,6 @@
       "tags": [
         "coding-agents",
         "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-      "url": "https://arxiv.org/abs/2607.27155v1",
-      "date": "2026-07-29",
-      "summary": "This benchmark evaluates how efficiently LLM agents perform complex office tasks, helping practitioners measure both the capability and the economic cost of deploying automated assistants.",
-      "authors": "Jingbo Zhou, Yusai Zhao, Qi Bao et al.",
-      "tags": [
-        "llm",
-        "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
-      "url": "https://arxiv.org/abs/2607.27146v1",
-      "date": "2026-07-29",
-      "summary": "The authors propose a new training framework to help small language models master full-cycle software engineering, addressing the current inability of models to build complete programs from scratch.",
-      "authors": "Yihao Chen, Shi Chang, Khaled Chawa et al.",
-      "tags": [
-        "coding",
-        "slm",
-        "paper"
-      ]
-    },
-    {
-      "title": "InferScale: GPU-Native KV Injection for Personalized LLM Serving",
-      "url": "https://arxiv.org/abs/2607.27090v1",
-      "date": "2026-07-29",
-      "summary": "InferScale optimizes LLM serving by caching personalized memory directly on the GPU, significantly reducing latency for applications that frequently reuse long user histories or profiles.",
-      "authors": "Peter Li, Prashant Pandey",
-      "tags": [
-        "llm",
-        "inference",
-        "paper"
-      ]
-    },
-    {
-      "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-      "url": "https://arxiv.org/abs/2607.27203v1",
-      "date": "2026-07-29",
-      "summary": "This study challenges the necessity of pretraining Q-functions in reinforcement learning, suggesting that starting with a random initialization can still yield high-performing policies during fine-tuning.",
-      "authors": "Perry Dong, Ron Polonsky, Dorsa Sadigh et al.",
-      "tags": [
-        "reinforcement learning",
         "paper"
       ]
     }
