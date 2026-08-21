@@ -1,6 +1,43 @@
 {
-  "updated": "2026-08-21T02:40:38.290715+00:00",
+  "updated": "2026-08-21T13:26:12.707493+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-08-21",
+      "slug": "roundup-2026-08-21",
+      "title": "The Week in AI — August 21, 2026",
+      "intro": "The AI landscape is shifting from raw model capability toward the complex infrastructure of routing, security, and the commoditization of enterprise-grade data management.",
+      "tags": [
+        "llm-ops",
+        "model-routing",
+        "ai-security",
+        "data-curation",
+        "enterprise-ai"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Model Routing",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The industry is moving toward dynamic model switching via routers like Ramp’s or the reported OpenRouter acquisition. For data scientists, this signals that 'model agnosticism' is the new standard, requiring robust evaluation pipelines to manage cost and performance trade-offs across providers.",
+          "tags": []
+        },
+        {
+          "title": "Security as a Bottleneck",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From sandbox escapes to data privacy mandates, security is no longer an afterthought but a primary product feature. Practitioners must now treat model deployment as a high-stakes security operation, balancing the need for advanced capabilities against the risks of autonomous agent behavior.",
+          "tags": []
+        },
+        {
+          "title": "Data Scarcity and Quality",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As the web saturates with AI-authored content, the hunt for high-quality training data has become a critical financial and technical hurdle. Data scientists should focus on proprietary data curation and synthetic data validation, as the 'easy' internet data era is effectively over.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-21",

@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 02:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:26:12 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — August 21, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-08-21</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The AI landscape is shifting from raw model capability toward the complex infrastructure of routing, security, and the commoditization of enterprise-grade data management. The Rise of Model Routing · Security as a Bottleneck · Data Scarcity and Quality</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 21, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-21</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-20</guid>
       <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of hardware development, AI ethics, and the psychological impact of automated decision-making. Can an Apple lawsuit derail OpenAI’s hardware plans? · Claude Code uses Bun written in Rust now · Nonprofit Current AI is racing to build the World Wide Web of AI, free for all · ‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’ · How To use Claude&#x27;s Reflect dashboard and learn when it&#x27;s time to touch grass</description>
-    </item>
-    <item>
-      <title>The Week in AI — July 17, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-07-17</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-17</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This week&#x27;s developments reveal a pivot from raw model capability toward the messy, high-stakes realities of enterprise security, vertical specialization, and sustainable deployment. The Agentic Reality Gap · Verticalization Over Generalization · The Commoditization of Intelligence</description>
     </item>
   </channel>
 </rss>
