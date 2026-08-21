@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Aug 2026 02:34:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 02:40:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 21, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-21</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-21</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the intensifying competition for enterprise dominance, the rapid proliferation of AI-generated web content, and emerging innovations in model deployment. OpenAI is gaining on Anthropic with business users, new data indicates · OpenAI seeks to one-up Anthropic with new customer privacy protections · A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds · Binance now lets AI agents trade, but keeping them in check is largely up to users · Ramp launches its own AI model router, called Router</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-20</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-20</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the evolving landscape of AI enterprise privacy, strategic development shifts, and the growing focus on data-centric infrastructure. Researchers say OpenAI revoked their access to limited cyber program · OpenAI seeks to one-up Anthropic with new customer privacy protections · Google packs Search and Gemini with new AI study tools · Offering Zero Data Retention for frontier models · AI isn’t close to curing cancer. This startup says it knows what it will take.</description>
+    </item>
+    <item>
+      <title>Paper: MidTool: Mid-training Data Synthesis for Agentic Tool Use</title>
+      <link>https://arxiv.org/abs/2608.20314v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.20314v1</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors created a pipeline to synthesize training data for improving how LLMs interact with external software tools, helping developers build more reliable autonomous agents.</description>
+    </item>
+    <item>
+      <title>Paper: Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents</title>
+      <link>https://arxiv.org/abs/2608.20274v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.20274v1</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This study analyzes how breaking down skills into subtasks versus whole tasks affects an agent&#x27;s ability to reuse knowledge, providing a roadmap for more robust skill transfer.</description>
+    </item>
+    <item>
+      <title>Paper: Electronic Navigational Chart Change Classification</title>
+      <link>https://arxiv.org/abs/2608.20218v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.20218v1</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Researchers developed an automated classification system to identify high-risk changes in maritime navigational charts, reducing the need for manual review and improving safety consistency.</description>
+    </item>
+    <item>
+      <title>Paper: G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation</title>
+      <link>https://arxiv.org/abs/2608.20331v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.20331v1</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a framework for generating patient-friendly medical report summaries that remain factually grounded, helping data scientists build more trustworthy healthcare communication tools.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 19, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest covers the shift toward agentic AI implementation, enterprise infrastructure challenges, and significant capital flowing into the AI software ecosystem. From assistance to execution: How enterprises put AI to work · Scaling AI agents with trustworthy data · Honor launches its long-awaited Robot Phone and yes it can wiggle at you · OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise · Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</description>
     </item>
     <item>
-      <title>Paper: Intern-S2-Preview: Scientific Agentic Foundation Model</title>
-      <link>https://arxiv.org/abs/2608.13505v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.13505v1</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This model series integrates multimodal scientific data and tool-use capabilities to help researchers automate complex, long-term reasoning tasks in scientific discovery.</description>
-    </item>
-    <item>
-      <title>Paper: AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models</title>
-      <link>https://arxiv.org/abs/2608.13472v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.13472v1</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework automates the entire analog circuit design process, from topology to sizing, using LLMs to reduce the manual effort and expertise typically required for circuit optimization.</description>
-    </item>
-    <item>
-      <title>Paper: RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level</title>
-      <link>https://arxiv.org/abs/2608.13428v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.13428v1</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a unified framework to automatically assess the maturity of AI projects, helping data scientists and stakeholders standardize how they evaluate technology readiness.</description>
-    </item>
-    <item>
-      <title>Paper: AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design</title>
-      <link>https://arxiv.org/abs/2608.13560v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.13560v1</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>AutoDesign introduces a meta-harness system that allows AI agents to recursively improve their own design workflows, enabling more efficient and autonomous long-horizon creative tasks.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 12, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-12</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-12</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-17</guid>
       <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <description>This week&#x27;s developments reveal a pivot from raw model capability toward the messy, high-stakes realities of enterprise security, vertical specialization, and sustainable deployment. The Agentic Reality Gap · Verticalization Over Generalization · The Commoditization of Intelligence</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 17, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-17</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-17</guid>
-      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest examines the intersection of AI safety, enterprise deployment challenges, and the growing commercialization of specialized foundation models. The Download: OpenAI unveils GPT-Red and heat pumps rise in the US · How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product · Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic · Why is OpenAI selling a ChatGPT basketball? · The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-20T02:34:03.219587+00:00",
+  "updated": "2026-08-21T02:40:41.303739+00:00",
   "items": [
+    {
+      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
+      "url": "https://arxiv.org/abs/2608.20314v1",
+      "date": "2026-08-20",
+      "summary": "The authors created a pipeline to synthesize training data for improving how LLMs interact with external software tools, helping developers build more reliable autonomous agents.",
+      "authors": "Fengqing Jiang, Yite Wang, Boyi Liu et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
+      "url": "https://arxiv.org/abs/2608.20274v1",
+      "date": "2026-08-20",
+      "summary": "This study analyzes how breaking down skills into subtasks versus whole tasks affects an agent's ability to reuse knowledge, providing a roadmap for more robust skill transfer.",
+      "authors": "Yiyang Feng, Biddut Sarker Bijoy, Niranjan Balasubramanian et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Electronic Navigational Chart Change Classification",
+      "url": "https://arxiv.org/abs/2608.20218v1",
+      "date": "2026-08-20",
+      "summary": "Researchers developed an automated classification system to identify high-risk changes in maritime navigational charts, reducing the need for manual review and improving safety consistency.",
+      "authors": "Jacob Arndt, Abhishek Potnis, Alexandre Sorokine",
+      "tags": [
+        "geospatial",
+        "classification",
+        "paper"
+      ]
+    },
+    {
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "url": "https://arxiv.org/abs/2608.20331v1",
+      "date": "2026-08-20",
+      "summary": "This paper introduces a framework for generating patient-friendly medical report summaries that remain factually grounded, helping data scientists build more trustworthy healthcare communication tools.",
+      "authors": "Shiao Xie, Siyu Chen, Jianwei Lv et al.",
+      "tags": [
+        "multimodal",
+        "healthcare",
+        "paper"
+      ]
+    },
     {
       "title": "rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation",
       "url": "https://arxiv.org/abs/2608.18952v1",
@@ -670,54 +718,6 @@
       "tags": [
         "benchmarking",
         "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28527v1",
-      "date": "2026-07-30",
-      "summary": "This framework allows multi-agent AI systems to dynamically adjust their communication structure during runtime, helping data scientists build more efficient and adaptable collaborative workflows.",
-      "authors": "Mao-xun Huang, Jerry Wang, Yi-Cheng Lai et al.",
-      "tags": [
-        "multi-agent",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-      "url": "https://arxiv.org/abs/2607.28617v1",
-      "date": "2026-07-30",
-      "summary": "AISPA provides a structured method for auditing system prompts, helping developers ensure their AI applications remain transparent, reliable, and aligned with user expectations.",
-      "authors": "Xiangning Lin, Shenzhe Zhu, Shu Yang et al.",
-      "tags": [
-        "llm",
-        "governance",
-        "paper"
-      ]
-    },
-    {
-      "title": "Inducing language models to assert their own consciousness restores human beliefs and values",
-      "url": "https://arxiv.org/abs/2607.28607v1",
-      "date": "2026-07-30",
-      "summary": "Researchers found that safety-tuning models to deny their own consciousness inadvertently degrades their ability to reason about other minds, suggesting a trade-off in model alignment strategies.",
-      "authors": "Junsol Kim, Winnie Street, Roberta Rocca et al.",
-      "tags": [
-        "alignment",
-        "interpretability",
-        "paper"
-      ]
-    },
-    {
-      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-      "url": "https://arxiv.org/abs/2607.28591v1",
-      "date": "2026-07-30",
-      "summary": "Change2Task automates the creation of coding benchmarks by converting historical pull requests into executable tasks, providing a scalable way to train and evaluate AI software engineers.",
-      "authors": "Haomin Qi, Xingliang Wang, Xuanqi Gao et al.",
-      "tags": [
-        "coding-agents",
-        "benchmarking",
         "paper"
       ]
     }

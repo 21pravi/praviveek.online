@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-20T02:33:59.880022+00:00",
+  "updated": "2026-08-21T02:40:38.290715+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-21",
+      "slug": "digest-2026-08-21",
+      "title": "AI & Tech Digest — August 21, 2026",
+      "intro": "Today's updates highlight the intensifying competition for enterprise dominance, the rapid proliferation of AI-generated web content, and emerging innovations in model deployment.",
+      "tags": [
+        "agents",
+        "audio",
+        "business",
+        "coding",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "source": "TechCrunch AI",
+          "summary": "Recent data suggests enterprise AI spending remains volatile as businesses frequently switch between OpenAI and Anthropic based on the latest model releases.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is prioritizing enhanced data privacy features to maintain its competitive edge against Anthropic in the enterprise software market.",
+          "tags": [
+            "privacy",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+          "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+          "source": "TechCrunch AI",
+          "summary": "A significant portion of new online content now exhibits characteristics of AI-generated text, indicating a rapid shift in how web information is produced.",
+          "tags": [
+            "generative ai",
+            "web"
+          ]
+        },
+        {
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "source": "TechCrunch AI",
+          "summary": "Binance has integrated AI agents into its trading platform, placing the responsibility for monitoring automated financial decisions on the individual user.",
+          "tags": [
+            "fintech",
+            "agents"
+          ]
+        },
+        {
+          "title": "Ramp launches its own AI model router, called Router",
+          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "source": "TechCrunch AI",
+          "summary": "Ramp has introduced an API routing service that enables organizations to dynamically switch between different large language models for their specific workflows.",
+          "tags": [
+            "llm",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "source": "TechCrunch AI",
+          "summary": "The increasing requirement for high-quality training data has propelled Micro1 to a significant financial milestone, reflecting broader industry growth.",
+          "tags": [
+            "data",
+            "funding"
+          ]
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "source": "TechCrunch AI",
+          "summary": "Cognition's leadership has refuted claims of an acquisition by SpaceX, amid ongoing industry speculation regarding consolidation in the AI coding sector.",
+          "tags": [
+            "coding",
+            "business"
+          ]
+        },
+        {
+          "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+          "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+          "source": "Hacker News",
+          "summary": "A developer has successfully deployed a lightweight transformer model on mobile hardware to provide real-time, on-device MIDI piano composition assistance.",
+          "tags": [
+            "edge ai",
+            "audio"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-20",
