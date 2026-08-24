@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-21T02:40:41.303739+00:00",
+  "updated": "2026-08-24T02:41:33.984323+00:00",
   "items": [
+    {
+      "title": "Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy",
+      "url": "https://arxiv.org/abs/2608.21325v1",
+      "date": "2026-08-21",
+      "summary": "Researchers created a framework to evaluate how LLMs perform psychotherapy, helping practitioners understand if AI-driven emotional support aligns with professional clinical standards.",
+      "authors": "Afonso Baldo, Hugo Pitorro, Areti Vassilopoulos et al.",
+      "tags": [
+        "llm",
+        "psychology",
+        "paper"
+      ]
+    },
+    {
+      "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.21305v1",
+      "date": "2026-08-21",
+      "summary": "This method improves image captioning quality by using retrieved multi-modal data as a feedback signal for reinforcement learning, bridging the gap between supervised and RL-based training.",
+      "authors": "Haonan Jia, Shichao Dong, Zenghui Sun et al.",
+      "tags": [
+        "vision-language",
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization",
+      "url": "https://arxiv.org/abs/2608.21292v1",
+      "date": "2026-08-21",
+      "summary": "This framework optimizes how AI agents learn and use skills throughout their lifecycle, ensuring that skill-based guidance is applied only when it actually improves decision-making.",
+      "authors": "Huizu Lin, Chengkai Huang, Tianqi Gao et al.",
+      "tags": [
+        "reinforcement learning",
+        "robotics",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering",
+      "url": "https://arxiv.org/abs/2608.21262v1",
+      "date": "2026-08-21",
+      "summary": "This paper introduces a statistical method to adjust threshold calculations for clustered data, preventing common reliability errors when using conformal prediction or safety filters in production.",
+      "authors": "Adam Noonan",
+      "tags": [
+        "statistics",
+        "calibration",
+        "paper"
+      ]
+    },
     {
       "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
       "url": "https://arxiv.org/abs/2608.20314v1",
@@ -670,54 +718,6 @@
       "tags": [
         "optimization",
         "math",
-        "paper"
-      ]
-    },
-    {
-      "title": "AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction",
-      "url": "https://arxiv.org/abs/2607.29549v1",
-      "date": "2026-07-31",
-      "summary": "This framework improves LLM mathematical accuracy by decoupling problem modeling from code execution, allowing agents to verify steps through a structured tool-flow process.",
-      "authors": "Rui Zou, Yutao Zhu, Mengqi Wei et al.",
-      "tags": [
-        "llm",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-      "url": "https://arxiv.org/abs/2607.29675v1",
-      "date": "2026-07-31",
-      "summary": "The authors introduce a privacy-preserving method for identifying data clusters and regression modes, providing a robust way to analyze sensitive datasets without compromising individual privacy.",
-      "authors": "Arkajyoti Bhattacharjee, Arnab Auddy",
-      "tags": [
-        "privacy",
-        "clustering",
-        "paper"
-      ]
-    },
-    {
-      "title": "The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs",
-      "url": "https://arxiv.org/abs/2607.29601v1",
-      "date": "2026-07-31",
-      "summary": "This approach optimizes multi-task LLM fine-tuning by organizing adapter paths to prevent interference and catastrophic forgetting when training models on diverse, sequential tasks.",
-      "authors": "Jiajia Tang, Sizhe Yuen, Francisco Gomez Medina et al.",
-      "tags": [
-        "llm",
-        "peft",
-        "paper"
-      ]
-    },
-    {
-      "title": "DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat",
-      "url": "https://arxiv.org/abs/2607.29577v1",
-      "date": "2026-07-31",
-      "summary": "DungeonBench provides a new evaluation framework for testing how well AI models handle complex, rule-heavy tactical decision-making in simulated environments.",
-      "authors": "Ismayil Ismayilov, Atakan Kara, Kaan Oktay",
-      "tags": [
-        "benchmarking",
-        "reasoning",
         "paper"
       ]
     }
