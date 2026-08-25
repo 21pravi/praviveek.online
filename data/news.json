@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-24T02:41:31.259103+00:00",
+  "updated": "2026-08-25T02:34:48.860370+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-25",
+      "slug": "digest-2026-08-25",
+      "title": "AI & Tech Digest — August 25, 2026",
+      "intro": "Today's digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution.",
+      "tags": [
+        "agents",
+        "ai",
+        "api",
+        "chips",
+        "education"
+      ],
+      "items": [
+        {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "source": "TechCrunch AI",
+          "summary": "General Intuition is nearing a $6 billion valuation as investors bet on their foundation models designed to integrate AI agents into physical robotics.",
+          "tags": [
+            "robotics",
+            "funding"
+          ]
+        },
+        {
+          "title": "The Download: kids outlearning AI, and space travel agents",
+          "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+          "source": "MIT Tech Review",
+          "summary": "Research highlights the disparity between the massive data requirements of LLMs and the efficient, natural language acquisition capabilities observed in human children.",
+          "tags": [
+            "llm",
+            "research"
+          ]
+        },
+        {
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is scaling its agent-based software strategy to transition from specialized coding tools to general-purpose consumer applications.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+          "url": "https://developers.openai.com/api/docs/pricing",
+          "source": "Hacker News",
+          "summary": "OpenAI has implemented temporary price reductions for its GPT-5.6 Sol API, signaling a competitive shift in developer-focused pricing models.",
+          "tags": [
+            "llm",
+            "api"
+          ]
+        },
+        {
+          "title": "Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China",
+          "url": "https://www.engadget.com/2242415/taiwan-reportedly-indicted-nvidia-employees-for-exporting-prohibited-ai-servers-to-china/",
+          "source": "Engadget",
+          "summary": "Taiwanese authorities have indicted NVIDIA employees for allegedly bypassing export controls to supply restricted AI server hardware to customers in China.",
+          "tags": [
+            "chips",
+            "policy"
+          ]
+        },
+        {
+          "title": "How to encourage smarter AI use in the classroom",
+          "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+          "source": "MIT Tech Review",
+          "summary": "Educators are exploring pedagogical frameworks to integrate AI tools effectively into classrooms rather than treating them as mere shortcuts for student work.",
+          "tags": [
+            "education",
+            "policy"
+          ]
+        },
+        {
+          "title": "How to cancel your ChatGPT subscription (and why you might want to)",
+          "url": "https://www.engadget.com/2240311/how-to-cancel-chatgpt-subscription-why-might-want-to/",
+          "source": "Engadget",
+          "summary": "Growing user dissatisfaction with OpenAI's services has prompted increased public interest in the procedures for terminating subscriptions and removing personal data.",
+          "tags": [
+            "privacy",
+            "openai"
+          ]
+        },
+        {
+          "title": "Kids outlearn AI—and we still don’t know why",
+          "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+          "source": "MIT Tech Review",
+          "summary": "The fundamental difference in learning efficiency between human children and current machine learning models remains a significant open question in cognitive science.",
+          "tags": [
+            "research",
+            "ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-24",

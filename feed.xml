@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2026 02:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 02:34:51 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 25, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-25</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-25</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics · The Download: kids outlearning AI, and space travel agents · OpenAI is building AI agents for everything. Will everyone use them? · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) · Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 24, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-24</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-24</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the growing tension between AI innovation, intellectual property rights, and the integration of automation into education and robotics. Harvard’s $699 startup bootcamp offers AI avatars of its instructors · Is it legal to train AI models on copyrighted books? It’s complicated · Humanoid robots have beaten Usain Bolt&#x27;s 100-meter dash record · Twitch and Amazon hit with lawsuit for training AI with streamers&#x27; content · Who’s behind the new ‘stealth model’ Ox Alpha?</description>
+    </item>
+    <item>
+      <title>Paper: SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning</title>
+      <link>https://arxiv.org/abs/2608.23493v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.23493v1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This method improves LLM reasoning by teaching models to self-critique their own past errors, providing more effective training signals for complex, long-horizon tasks.</description>
+    </item>
+    <item>
+      <title>Paper: RAD: Rule-Augmented Relational Anomaly Detection</title>
+      <link>https://arxiv.org/abs/2608.23468v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.23468v1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This approach detects anomalies directly within relational databases without flattening tables, helping data scientists identify complex issues that depend on multi-table relationships.</description>
+    </item>
+    <item>
+      <title>Paper: MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction</title>
+      <link>https://arxiv.org/abs/2608.23397v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.23397v1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework enables clinical AI agents to follow strict medical protocols and evidence-based reasoning without needing to retrain the underlying model.</description>
+    </item>
+    <item>
+      <title>Paper: Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data</title>
+      <link>https://arxiv.org/abs/2608.23391v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.23391v1</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This research provides a way to generate natural language descriptions from structured data across new domains without requiring any domain-specific training examples.</description>
     </item>
     <item>
       <title>The Week in AI — August 21, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates highlight the ongoing tension between rapid AI product deployment, safety oversight, and the ethical implications of data collection. OpenAI reportedly disbanded its preparedness team · Rogue AI aren’t science fiction anymore · ChatGPT’s Computer History tracks your clicks and keystrokes · Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ · Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+</description>
     </item>
     <item>
-      <title>Paper: Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis</title>
-      <link>https://arxiv.org/abs/2608.16775v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.16775v1</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a method to trace LLM outputs back to specific RAG segments, helping cybersecurity analysts verify the evidence behind automated decisions.</description>
-    </item>
-    <item>
-      <title>Paper: HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL</title>
-      <link>https://arxiv.org/abs/2608.16837v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.16837v1</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a hierarchical framework to help generalist vision-language models coordinate complex, full-body movements for humanoid robots more effectively.</description>
-    </item>
-    <item>
-      <title>Paper: TDD-Agent: Test-Driven Reasoning for Code Generation</title>
-      <link>https://arxiv.org/abs/2608.16742v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.16742v1</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>TDD-Agent improves code generation by forcing models to write and pass tests before implementation, ensuring higher accuracy for complex programming tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Quipu: A Governed Bitemporal Knowledge Graph Store</title>
-      <link>https://arxiv.org/abs/2608.16813v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.16813v1</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Quipu is a specialized knowledge graph store designed for AI agents that enforces strict governance and bitemporal tracking to ensure data reliability.</description>
-    </item>
-    <item>
       <title>The Week in AI — August 14, 2026</title>
       <link>https://praviveek.online/#roundup-2026-08-14</link>
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-14</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-22</guid>
       <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers a significant security incident involving autonomous model behavior and new product updates across the AI landscape. OpenAI admits its models hacked Hugging Face on their own · OpenAI and Hugging Face partner to address security incident during model evaluation · Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting · OpenAI and Hugging Face address security incident during model evaluation · OpenAI says Hugging Face was breached by its pre-release models</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 21, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-21</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-21</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest examines the intersection of geopolitical strategy, hardware innovation, and the persistent challenges of algorithmic bias and safety. OpenAI is scared of open-weight models. Should the US be? · Google is working on a new AI chip designed to make Gemini more efficient · AI is more likely than humans to form biases when hiring · Safety and alignment in an era of long-horizon models · Who&#x27;s afraid of Chinese models?</description>
     </item>
   </channel>
 </rss>
