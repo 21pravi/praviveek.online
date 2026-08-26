@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-25T02:34:48.860370+00:00",
+  "updated": "2026-08-26T02:43:04.871808+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-26",
+      "slug": "digest-2026-08-26",
+      "title": "AI & Tech Digest — August 26, 2026",
+      "intro": "Today's digest covers OpenAI's new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector.",
+      "tags": [
+        "agents",
+        "benchmarking",
+        "business",
+        "chips",
+        "funding"
+      ],
+      "items": [
+        {
+          "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+          "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's custom Jalapeño chip demonstrates superior token throughput and energy efficiency for large-scale model inference compared to existing industry standards.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        },
+        {
+          "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+          "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+          "source": "Hacker News",
+          "summary": "Benchmarking data suggests that OpenAI's new Jalapeño hardware may outperform Nvidia's Blackwell architecture in specific inference tasks.",
+          "tags": [
+            "chips",
+            "benchmarking"
+          ]
+        },
+        {
+          "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+          "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+          "source": "TechCrunch AI",
+          "summary": "The departure of a key infrastructure executive highlights ongoing leadership changes within OpenAI's data center and operations divisions.",
+          "tags": [
+            "business",
+            "openai"
+          ]
+        },
+        {
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "url": "https://openai.com/index/jalapeno-first-results",
+          "source": "OpenAI",
+          "summary": "OpenAI's internal testing indicates that their proprietary Jalapeño chip provides significant improvements in latency and power consumption for AI model deployment.",
+          "tags": [
+            "chips",
+            "llm"
+          ]
+        },
+        {
+          "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
+          "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's product lead discusses the company's strategic focus on agentic workflows and user experience design in a recent interview.",
+          "tags": [
+            "product",
+            "agents"
+          ]
+        },
+        {
+          "title": "AgeLab research inspires an A I startup",
+          "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+          "source": "MIT Tech Review",
+          "summary": "Academic research into the usability challenges faced by older adults has prompted the creation of a new AI-driven startup.",
+          "tags": [
+            "startup",
+            "research"
+          ]
+        },
+        {
+          "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+          "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+          "source": "TechCrunch AI",
+          "summary": "The robotics company Generalist has secured a $3 billion valuation following a recent funding extension, reflecting continued investor interest in physical AI.",
+          "tags": [
+            "robotics",
+            "funding"
+          ]
+        },
+        {
+          "title": "The full stack behind abundant intelligence",
+          "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "source": "OpenAI",
+          "summary": "OpenAI's CFO outlines how vertical integration across hardware, compute, and model development aims to reduce costs while scaling AI capabilities.",
+          "tags": [
+            "strategy",
+            "infrastructure"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-25",

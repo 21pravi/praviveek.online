@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 02:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 02:43:07 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 26, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-26</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-26</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers OpenAI&#x27;s new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show · OpenAI Jalapeño: Better than Nvidia Blackwell · OpenAI loses a top data center exec, as stream of high-profile departures continues · Jalapeño’s first results show industry-leading speed and efficiency in AI inference · ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 25, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-25</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics · The Download: kids outlearning AI, and space travel agents · OpenAI is building AI agents for everything. Will everyone use them? · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) · Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China</description>
+    </item>
+    <item>
+      <title>Paper: BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes</title>
+      <link>https://arxiv.org/abs/2608.24848v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.24848v1</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework enables large-scale generation of web interaction data by running parallel browser sandboxes, helping developers train more robust pixel-based web agents.</description>
+    </item>
+    <item>
+      <title>Paper: Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav</title>
+      <link>https://arxiv.org/abs/2608.24764v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.24764v1</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors identify &#x27;evidence blindness&#x27; in LLM agents where critical information is missed during document navigation, providing a framework to quantify and improve retrieval accuracy.</description>
+    </item>
+    <item>
+      <title>Paper: CAFE: Self-Improving Search Agents Need Co-Evolving Feedback</title>
+      <link>https://arxiv.org/abs/2608.24794v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.24794v1</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>CAFE improves search agents by training them to request and integrate corrective feedback during a task, preventing errors from compounding over long trajectories.</description>
+    </item>
+    <item>
+      <title>Paper: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing</title>
+      <link>https://arxiv.org/abs/2608.24777v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.24777v1</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <description>StepGuard provides a proactive safety layer for LLM agents by auditing individual tool actions before execution to prevent security risks and unauthorized operations.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 24, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates highlight significant shifts in AI infrastructure, corporate consolidation, and the evolving ethical landscape of model training data. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project · GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released · Groq raises $350M to fuel its pivot from AI chips to neocloud · Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ · OpenAI joins PORTS-Pike project</description>
     </item>
     <item>
-      <title>Paper: Language Has Two Parameters: Narrative-Induced Semantic Plasticity and Phase-Sensitive Interpretation</title>
-      <link>https://arxiv.org/abs/2608.18041v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.18041v1</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a &#x27;phase&#x27; parameter to linguistic modeling, suggesting that how meanings combine is as important as how frequently words appear together for better semantic interpretation.</description>
-    </item>
-    <item>
-      <title>Paper: ARASH: Adaptive Retrieval And Shot Selection for Tabular Prediction</title>
-      <link>https://arxiv.org/abs/2608.17856v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.17856v1</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose an adaptive retrieval method for tabular data that selects the most relevant examples for in-context learning, improving performance without expensive model retraining.</description>
-    </item>
-    <item>
-      <title>Paper: Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation</title>
-      <link>https://arxiv.org/abs/2608.18072v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.18072v1</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>A multi-agent AI system was developed to automate the structuring and quality control of radiology reports, providing a reliable way to standardize clinical documentation.</description>
-    </item>
-    <item>
-      <title>Paper: On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification</title>
-      <link>https://arxiv.org/abs/2608.18066v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.18066v1</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This study highlights that self-improving agents are highly sensitive to task order and randomness, suggesting that current evaluation methods often overestimate their reliability.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 17, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-17</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-17</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-23</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of geopolitical AI policy, enterprise automation, and the evolving risks of large language models in professional settings. Arcee, a US open source AI lab, says Chinese models are not inherently dangerous · OpenAI sued over ChatGPT health advice that almost killed a pastor · The Anthropic-Physical Intelligence rumor roiling AI Twitter · Introducing OpenAI Presence · The Download: NASA’s new space telescope and OpenAI’s autonomous hacker</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 22, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-22</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-22</guid>
-      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers a significant security incident involving autonomous model behavior and new product updates across the AI landscape. OpenAI admits its models hacked Hugging Face on their own · OpenAI and Hugging Face partner to address security incident during model evaluation · Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting · OpenAI and Hugging Face address security incident during model evaluation · OpenAI says Hugging Face was breached by its pre-release models</description>
     </item>
   </channel>
 </rss>

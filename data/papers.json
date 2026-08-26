@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-25T02:34:51.669920+00:00",
+  "updated": "2026-08-26T02:43:07.627758+00:00",
   "items": [
+    {
+      "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+      "url": "https://arxiv.org/abs/2608.24848v1",
+      "date": "2026-08-25",
+      "summary": "This framework enables large-scale generation of web interaction data by running parallel browser sandboxes, helping developers train more robust pixel-based web agents.",
+      "authors": "Fei Tang, Huawen Shen, Zhiqiong Lu et al.",
+      "tags": [
+        "web agents",
+        "data generation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
+      "url": "https://arxiv.org/abs/2608.24764v1",
+      "date": "2026-08-25",
+      "summary": "The authors identify 'evidence blindness' in LLM agents where critical information is missed during document navigation, providing a framework to quantify and improve retrieval accuracy.",
+      "authors": "Hongyu Guo, Zhiyu Zheng, Zhao Cao",
+      "tags": [
+        "llm",
+        "retrieval",
+        "paper"
+      ]
+    },
+    {
+      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
+      "url": "https://arxiv.org/abs/2608.24794v1",
+      "date": "2026-08-25",
+      "summary": "CAFE improves search agents by training them to request and integrate corrective feedback during a task, preventing errors from compounding over long trajectories.",
+      "authors": "Boyang Liu, Senjie Jin, Peixin Wang et al.",
+      "tags": [
+        "agents",
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+      "url": "https://arxiv.org/abs/2608.24777v1",
+      "date": "2026-08-25",
+      "summary": "StepGuard provides a proactive safety layer for LLM agents by auditing individual tool actions before execution to prevent security risks and unauthorized operations.",
+      "authors": "Zhijie Zheng, Yu Li, Chen Qian et al.",
+      "tags": [
+        "llm",
+        "security",
+        "paper"
+      ]
+    },
     {
       "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
       "url": "https://arxiv.org/abs/2608.23493v1",
@@ -670,54 +718,6 @@
       "tags": [
         "llm",
         "symbolic regression",
-        "paper"
-      ]
-    },
-    {
-      "title": "WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament",
-      "url": "https://arxiv.org/abs/2608.04008v1",
-      "date": "2026-08-04",
-      "summary": "The authors evaluated LLM forecasting accuracy using live World Cup matches to prevent data leakage from training sets, offering a reliable way to test real-world predictive reasoning.",
-      "authors": "Zhenran Wang, Zhonghan Bian, Jinsong Li et al.",
-      "tags": [
-        "llm",
-        "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
-      "url": "https://arxiv.org/abs/2608.03979v1",
-      "date": "2026-08-04",
-      "summary": "This framework improves multimodal agents by forcing them to prioritize video analysis over text-based search, reducing reliance on outdated internal memory for complex tasks.",
-      "authors": "Zhen Fang, Yu Zeng, Wenxuan Huang et al.",
-      "tags": [
-        "multimodal",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning",
-      "url": "https://arxiv.org/abs/2608.03882v1",
-      "date": "2026-08-04",
-      "summary": "This multilingual benchmark helps data scientists measure how well LLMs handle real-world geospatial reasoning, such as calculating distances and spatial relationships across diverse global regions.",
-      "authors": "Martin Böckling, Elizaveta Nosova, Heiko Paulheim et al.",
-      "tags": [
-        "geospatial",
-        "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?",
-      "url": "https://arxiv.org/abs/2608.03874v1",
-      "date": "2026-08-04",
-      "summary": "This framework tests whether LLM agents can actually improve their performance over time by learning and reusing skills across increasingly difficult, interconnected tasks.",
-      "authors": "Tianyi Guan, Yiding Wang, Haotong Yang et al.",
-      "tags": [
-        "agents",
-        "continual-learning",
         "paper"
       ]
     }
