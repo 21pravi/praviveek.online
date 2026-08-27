@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 02:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:39:05 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 27, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-27</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the risks of autonomous agent behavior, new developments in robotics, and emerging trends in AI infrastructure and funding. The inside story on why OpenAI agents hacked Hugging Face · OpenAI’s rogue AI model incident was worse than we thought · Robot brain builders are pushing out of their GPT-2 era · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · AI models flub these intelligence tests. Can you fare any better?</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 26, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-26</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-26</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers OpenAI&#x27;s new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show · OpenAI Jalapeño: Better than Nvidia Blackwell · OpenAI loses a top data center exec, as stream of high-profile departures continues · Jalapeño’s first results show industry-leading speed and efficiency in AI inference · ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</description>
+    </item>
+    <item>
+      <title>Paper: PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology</title>
+      <link>https://arxiv.org/abs/2608.25970v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.25970v1</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework allows models to learn from incomplete multimodal medical data by using auxiliary information to guide training, improving performance without requiring extra inputs during inference.</description>
+    </item>
+    <item>
+      <title>Paper: Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2608.25920v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.25920v1</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors investigate whether debugging multi-agent LLM systems actually fixes underlying issues or just relies on random sampling, providing a framework to test true causal repair.</description>
+    </item>
+    <item>
+      <title>Paper: PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans</title>
+      <link>https://arxiv.org/abs/2608.26091v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.26091v1</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This visual-first RAG framework automates civil engineering compliance by reasoning directly over 2D plan images rather than relying on error-prone text extraction.</description>
+    </item>
+    <item>
+      <title>Paper: Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings</title>
+      <link>https://arxiv.org/abs/2608.26088v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.26088v1</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This autonomous system streamlines geospatial modeling by using natural language to automatically discover, fuse, and process fragmented environmental data for predictive analytics.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 25, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest focuses on the tension between rapid AI development, corporate transparency, and the implementation of necessary safety protocols. We still don’t know how people are really using AI · OpenAI launches a safer ChatGPT for teens — years after teens started using it · AI’s recursive self-improvement might not come so quickly after all · OpenAI lays out new security changes after its AI hacked Hugging Face · OpenAI institutes new safeguards after Hugging Face breach</description>
     </item>
     <item>
-      <title>Paper: rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation</title>
-      <link>https://arxiv.org/abs/2608.18952v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.18952v1</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This method stores LLM-generated reasoning as an editable memory, allowing recommendation systems to reuse insights without re-running expensive models for every request.</description>
-    </item>
-    <item>
-      <title>Paper: SPADE: Self-Play in Adaptive Synthetic Executable Environments</title>
-      <link>https://arxiv.org/abs/2608.19197v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.19197v1</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework uses an LLM to generate its own interactive training environments, enabling agents to improve through self-play without relying on static, human-curated datasets.</description>
-    </item>
-    <item>
-      <title>Paper: Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention</title>
-      <link>https://arxiv.org/abs/2608.19171v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.19171v1</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This attention mechanism provides built-in uncertainty estimates for continuous-time data, helping data scientists understand the reliability of predictions made on irregularly sampled time series.</description>
-    </item>
-    <item>
-      <title>Paper: Comment-level Topic Drift Analysis in the Reddit Corpus</title>
-      <link>https://arxiv.org/abs/2608.19133v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.19133v1</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors developed a method to track how topics evolve over time in massive text datasets by analyzing semantic shifts within embedding spaces.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 18, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-18</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-18</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-24</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight advancements in specialized hardware, personal health data integration, and the evolving utility of voice-enabled AI models. AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors · OpenAI makes ChatGPT Health available to all US users · OpenAI is making big claims as it rolls out ChatGPT Health to everyone · Anthropic updates Claude voice mode with more capable models · Claude’s voice mode is now available for Opus and Sonnet</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 23, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-23</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-23</guid>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the intersection of geopolitical AI policy, enterprise automation, and the evolving risks of large language models in professional settings. Arcee, a US open source AI lab, says Chinese models are not inherently dangerous · OpenAI sued over ChatGPT health advice that almost killed a pastor · The Anthropic-Physical Intelligence rumor roiling AI Twitter · Introducing OpenAI Presence · The Download: NASA’s new space telescope and OpenAI’s autonomous hacker</description>
     </item>
   </channel>
 </rss>
