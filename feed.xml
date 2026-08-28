@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 11:39:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:03:46 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 28, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-28</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest focuses on the growing security risks posed by autonomous AI agents and the industry&#x27;s response to these emerging challenges. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face · OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI · Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · When agents act on their own, governance has to live in the data layer</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 27, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-27</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-27</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the risks of autonomous agent behavior, new developments in robotics, and emerging trends in AI infrastructure and funding. The inside story on why OpenAI agents hacked Hugging Face · OpenAI’s rogue AI model incident was worse than we thought · Robot brain builders are pushing out of their GPT-2 era · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · AI models flub these intelligence tests. Can you fare any better?</description>
+    </item>
+    <item>
+      <title>Paper: SWE-Prime: Fewer Trajectories, Better Performance</title>
+      <link>https://arxiv.org/abs/2608.27449v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.27449v1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This research improves LLM coding agents by filtering out inefficient steps from training data, helping developers build more reliable automated software engineering tools.</description>
+    </item>
+    <item>
+      <title>Paper: Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit</title>
+      <link>https://arxiv.org/abs/2608.27427v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.27427v1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This architecture separates an agent&#x27;s personality from its functional execution, allowing companies to innovate on user experience while maintaining strict security and audit logs.</description>
+    </item>
+    <item>
+      <title>Paper: Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling</title>
+      <link>https://arxiv.org/abs/2608.27413v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.27413v1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce efficient embedding and sampling techniques to help data scientists deploy graph neural networks on massive social networks for friend recommendations.</description>
+    </item>
+    <item>
+      <title>Paper: CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes</title>
+      <link>https://arxiv.org/abs/2608.27455v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.27455v1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <description>CritICL improves LLM reasoning by analyzing the predictable failure patterns of smaller models, offering a more efficient alternative to compute-heavy inference methods.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 26, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates highlight the evolving landscape of AI enterprise privacy, strategic development shifts, and the growing focus on data-centric infrastructure. Researchers say OpenAI revoked their access to limited cyber program · OpenAI seeks to one-up Anthropic with new customer privacy protections · Google packs Search and Gemini with new AI study tools · Offering Zero Data Retention for frontier models · AI isn’t close to curing cancer. This startup says it knows what it will take.</description>
     </item>
     <item>
-      <title>Paper: MidTool: Mid-training Data Synthesis for Agentic Tool Use</title>
-      <link>https://arxiv.org/abs/2608.20314v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.20314v1</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors created a pipeline to synthesize training data for improving how LLMs interact with external software tools, helping developers build more reliable autonomous agents.</description>
-    </item>
-    <item>
-      <title>Paper: Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents</title>
-      <link>https://arxiv.org/abs/2608.20274v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.20274v1</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This study analyzes how breaking down skills into subtasks versus whole tasks affects an agent&#x27;s ability to reuse knowledge, providing a roadmap for more robust skill transfer.</description>
-    </item>
-    <item>
-      <title>Paper: Electronic Navigational Chart Change Classification</title>
-      <link>https://arxiv.org/abs/2608.20218v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.20218v1</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Researchers developed an automated classification system to identify high-risk changes in maritime navigational charts, reducing the need for manual review and improving safety consistency.</description>
-    </item>
-    <item>
-      <title>Paper: G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation</title>
-      <link>https://arxiv.org/abs/2608.20331v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.20331v1</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a framework for generating patient-friendly medical report summaries that remain factually grounded, helping data scientists build more trustworthy healthcare communication tools.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 19, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-19</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-19</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-24</guid>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <description>This week’s developments reveal a volatile industry shifting from experimental chatbots toward high-stakes autonomous agents, aggressive hardware verticalization, and complex geopolitical and safety entanglements. The Reality Gap in Autonomy · The Shift to Vertical Hardware · Geopolitics and Corporate Protectionism</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 24, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-24</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-24</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight advancements in specialized hardware, personal health data integration, and the evolving utility of voice-enabled AI models. AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors · OpenAI makes ChatGPT Health available to all US users · OpenAI is making big claims as it rolls out ChatGPT Health to everyone · Anthropic updates Claude voice mode with more capable models · Claude’s voice mode is now available for Opus and Sonnet</description>
     </item>
   </channel>
 </rss>
