@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 13:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:31:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — August 28, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-08-28</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-28</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The industry is shifting from passive chat interfaces to autonomous, hardware-integrated agents, forcing a reckoning with security, vertical integration, and the limits of current model architectures. The Rise of Rogue Autonomy · Vertical Integration as Competitive Moat · The Fragility of Model Reliability</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 28, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-28</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-27</guid>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of cybersecurity, hardware efficiency, and the shifting economic impact of artificial intelligence on the labor market. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack · Are brain waves the next unlock for physical AI? · Monday.com is the latest tech company to blame AI for layoffs — here are 20 others · The reason why the MacBook Air doesn&#x27;t need a fan · Carrie is just trying to make a friend in the new trailer</description>
-    </item>
-    <item>
-      <title>The Week in AI — July 24, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-07-24</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-24</guid>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-      <description>This week’s developments reveal a volatile industry shifting from experimental chatbots toward high-stakes autonomous agents, aggressive hardware verticalization, and complex geopolitical and safety entanglements. The Reality Gap in Autonomy · The Shift to Vertical Hardware · Geopolitics and Corporate Protectionism</description>
     </item>
   </channel>
 </rss>
