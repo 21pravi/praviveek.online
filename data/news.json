@@ -1,6 +1,102 @@
 {
-  "updated": "2026-08-28T22:31:41.162690+00:00",
+  "updated": "2026-08-31T07:11:41.883536+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-08-31",
+      "slug": "digest-2026-08-31",
+      "title": "AI & Tech Digest — August 31, 2026",
+      "intro": "Today's digest covers advancements in physical automation, surveillance policy, and significant updates in space exploration and software development.",
+      "tags": [
+        "ai",
+        "automation",
+        "business",
+        "consumer tech",
+        "gaming"
+      ],
+      "items": [
+        {
+          "title": "Inside Meta’s push to put robots to work in data centers",
+          "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+          "source": "Ars Technica",
+          "summary": "Meta is experimenting with robotics to automate routine maintenance tasks within its data centers, potentially increasing operational efficiency.",
+          "tags": [
+            "robotics",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "China’s robots race ahead",
+          "url": "https://www.theverge.com/tech/986167/china-humanoid-robot-games-race",
+          "source": "The Verge",
+          "summary": "China is rapidly advancing its domestic robotics sector, intensifying the global competitive landscape for autonomous technology.",
+          "tags": [
+            "robotics",
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "Chess.com launched a poker site and is planning even more classic games",
+          "url": "https://www.theverge.com/games/986302/chess-poker-expansion-gambit",
+          "source": "The Verge",
+          "summary": "Chess.com is diversifying its platform by expanding into other classic strategy games like poker to grow its user base.",
+          "tags": [
+            "gaming",
+            "business"
+          ]
+        },
+        {
+          "title": "How much storage does a smart TV typically have?",
+          "url": "https://www.engadget.com/2242773/how-much-storage-does-smart-tv-have/",
+          "source": "Engadget",
+          "summary": "Smart TVs often suffer from limited internal storage, requiring users to manage data carefully to maintain device performance.",
+          "tags": [
+            "hardware",
+            "consumer tech"
+          ]
+        },
+        {
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "source": "The Verge",
+          "summary": "Texas has suspended state funding for AI-powered surveillance cameras following public concern regarding privacy and the program's financial structure.",
+          "tags": [
+            "policy",
+            "surveillance"
+          ]
+        },
+        {
+          "title": "The Nancy Grace Roman Space Telescope launches to study dark matter and dark energy",
+          "url": "https://www.theverge.com/science/986544/nancy-grace-roman-space-telescope-launch",
+          "source": "The Verge",
+          "summary": "The Nancy Grace Roman Space Telescope has launched to begin a long-term mission mapping dark matter and dark energy in the universe.",
+          "tags": [
+            "space",
+            "science"
+          ]
+        },
+        {
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "source": "TechCrunch AI",
+          "summary": "Caterpillar is leveraging its long-term experience with autonomous mining equipment to improve the deployment of AI systems in industrial settings.",
+          "tags": [
+            "ai",
+            "automation"
+          ]
+        },
+        {
+          "title": "Haiku R1/beta6 has been released",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "source": "Hacker News",
+          "summary": "The Haiku operating system has released its latest beta version, marking another milestone for this open-source project.",
+          "tags": [
+            "open source",
+            "software"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-08-28",

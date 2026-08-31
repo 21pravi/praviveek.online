@@ -1,6 +1,54 @@
 {
-  "updated": "2026-08-28T13:03:46.861305+00:00",
+  "updated": "2026-08-31T07:11:45.981178+00:00",
   "items": [
+    {
+      "title": "Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2608.28447v1",
+      "date": "2026-08-28",
+      "summary": "The authors use reinforcement learning to train LLMs to accurately call calculator tools, helping practitioners improve the reliability of models performing complex mathematical reasoning.",
+      "authors": "Minghui Xu, Zi Wang",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents",
+      "url": "https://arxiv.org/abs/2608.28389v1",
+      "date": "2026-08-28",
+      "summary": "This paper introduces a stealthy data poisoning technique for RAG systems that evades detection by camouflaging malicious documents, highlighting a critical security vulnerability for developers.",
+      "authors": "Jaewon Jung, Haizhong Zheng, Hongsun Jang et al.",
+      "tags": [
+        "rag",
+        "security",
+        "paper"
+      ]
+    },
+    {
+      "title": "Learning a Size-Weight Frontier for Synthetic-Augmented Inference",
+      "url": "https://arxiv.org/abs/2608.28576v1",
+      "date": "2026-08-28",
+      "summary": "The researchers provide a framework to balance synthetic data volume and weight, helping data scientists avoid bias when augmenting limited real-world datasets for statistical inference.",
+      "authors": "Chengpiao Huang, Kaizheng Wang",
+      "tags": [
+        "synthetic data",
+        "inference",
+        "paper"
+      ]
+    },
+    {
+      "title": "LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment",
+      "url": "https://arxiv.org/abs/2608.28490v1",
+      "date": "2026-08-28",
+      "summary": "This survey evaluates how autonomous LLM agents are being applied to automate security workflows, providing a roadmap for practitioners to safely implement and assess these systems.",
+      "authors": "Jingjing Nie, Jiawei Guo, Krishna Meda et al.",
+      "tags": [
+        "llm",
+        "security",
+        "paper"
+      ]
+    },
     {
       "title": "SWE-Prime: Fewer Trajectories, Better Performance",
       "url": "https://arxiv.org/abs/2608.27449v1",
@@ -670,54 +718,6 @@
       "tags": [
         "agents",
         "testing",
-        "paper"
-      ]
-    },
-    {
-      "title": "Fisher-R1: Training LLM Agents for Reliable Hypothesis Testing",
-      "url": "https://arxiv.org/abs/2608.07437v1",
-      "date": "2026-08-07",
-      "summary": "The researchers developed a benchmark to identify and fix common statistical errors made by LLM agents when performing automated data analysis and hypothesis testing.",
-      "authors": "Jiacheng Miao, Jin Mu, Guanhua Chen et al.",
-      "tags": [
-        "llm",
-        "statistics",
-        "paper"
-      ]
-    },
-    {
-      "title": "An End-to-End Agent Auditing Engine",
-      "url": "https://arxiv.org/abs/2608.07346v1",
-      "date": "2026-08-07",
-      "summary": "This paper introduces a systematic framework for auditing and evaluating the performance of LLM-based agents, helping developers build more reliable and robust deployment pipelines.",
-      "authors": "Haoning Wang, Mingxun Zhang, Chenyue Yu et al.",
-      "tags": [
-        "agents",
-        "evaluation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Strategy-first synthesis planning for complex natural products",
-      "url": "https://arxiv.org/abs/2608.07454v1",
-      "date": "2026-08-07",
-      "summary": "The authors propose a new strategy-first approach to automated chemical synthesis that mimics human planning, overcoming limitations in existing tools that rely solely on reaction databases.",
-      "authors": "Daniel Armstrong, Xuan-Vu Nguyen, Octavian Susanu et al.",
-      "tags": [
-        "chemistry",
-        "automation",
-        "paper"
-      ]
-    },
-    {
-      "title": "SkillProx: Self-Evolving Agent Skills via Proximal Textual Gradient Descent",
-      "url": "https://arxiv.org/abs/2608.07449v1",
-      "date": "2026-08-07",
-      "summary": "SkillProx improves how LLM agents refine their procedural knowledge by using a gradient-inspired feedback loop to better manage and consolidate reusable task skills.",
-      "authors": "Mingxuan Zheng, Yujin Zhou, Chuxue Cao et al.",
-      "tags": [
-        "llm",
-        "agents",
         "paper"
       ]
     }

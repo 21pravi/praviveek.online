@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:31:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:11:46 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — August 31, 2026</title>
+      <link>https://praviveek.online/#digest-2026-08-31</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-31</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers advancements in physical automation, surveillance policy, and significant updates in space exploration and software development. Inside Meta’s push to put robots to work in data centers · China’s robots race ahead · Chess.com launched a poker site and is planning even more classic games · How much storage does a smart TV typically have? · Texas Governor Abbott blocks funding for more Flock cameras</description>
+    </item>
     <item>
       <title>The Week in AI — August 28, 2026</title>
       <link>https://praviveek.online/#roundup-2026-08-28</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the growing security risks posed by autonomous AI agents and the industry&#x27;s response to these emerging challenges. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face · OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI · Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · When agents act on their own, governance has to live in the data layer</description>
+    </item>
+    <item>
+      <title>Paper: Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning</title>
+      <link>https://arxiv.org/abs/2608.28447v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.28447v1</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors use reinforcement learning to train LLMs to accurately call calculator tools, helping practitioners improve the reliability of models performing complex mathematical reasoning.</description>
+    </item>
+    <item>
+      <title>Paper: CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents</title>
+      <link>https://arxiv.org/abs/2608.28389v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.28389v1</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a stealthy data poisoning technique for RAG systems that evades detection by camouflaging malicious documents, highlighting a critical security vulnerability for developers.</description>
+    </item>
+    <item>
+      <title>Paper: Learning a Size-Weight Frontier for Synthetic-Augmented Inference</title>
+      <link>https://arxiv.org/abs/2608.28576v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.28576v1</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The researchers provide a framework to balance synthetic data volume and weight, helping data scientists avoid bias when augmenting limited real-world datasets for statistical inference.</description>
+    </item>
+    <item>
+      <title>Paper: LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment</title>
+      <link>https://arxiv.org/abs/2608.28490v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.28490v1</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This survey evaluates how autonomous LLM agents are being applied to automate security workflows, providing a roadmap for practitioners to safely implement and assess these systems.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 27, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s updates highlight the intensifying competition for enterprise dominance, the rapid proliferation of AI-generated web content, and emerging innovations in model deployment. OpenAI is gaining on Anthropic with business users, new data indicates · OpenAI seeks to one-up Anthropic with new customer privacy protections · A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds · Binance now lets AI agents trade, but keeping them in check is largely up to users · Ramp launches its own AI model router, called Router</description>
     </item>
     <item>
-      <title>Paper: Move by Move: Measuring and Steering How LLMs Conduct Psychotherapy</title>
-      <link>https://arxiv.org/abs/2608.21325v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.21325v1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Researchers created a framework to evaluate how LLMs perform psychotherapy, helping practitioners understand if AI-driven emotional support aligns with professional clinical standards.</description>
-    </item>
-    <item>
-      <title>Paper: Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2608.21305v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.21305v1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This method improves image captioning quality by using retrieved multi-modal data as a feedback signal for reinforcement learning, bridging the gap between supervised and RL-based training.</description>
-    </item>
-    <item>
-      <title>Paper: AUSO: Action-Level Unified Skill Optimization from Internalization to Utilization</title>
-      <link>https://arxiv.org/abs/2608.21292v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.21292v1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework optimizes how AI agents learn and use skills throughout their lifecycle, ensuring that skill-based guidance is applied only when it actually improves decision-making.</description>
-    </item>
-    <item>
-      <title>Paper: The Exceedance Design Effect: Effective Sample Size for Thresholds under Clustering</title>
-      <link>https://arxiv.org/abs/2608.21262v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.21262v1</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a statistical method to adjust threshold calculations for clustered data, preventing common reliability errors when using conformal prediction or safety filters in production.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-20</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-20</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-28</guid>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system · NVIDIA launches &#x27;Open Secure AI Alliance&#x27; initiative to improve cyber defense · Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · How AI is expanding what people do at work</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 27, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-27</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-27</guid>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the intersection of cybersecurity, hardware efficiency, and the shifting economic impact of artificial intelligence on the labor market. Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack · Are brain waves the next unlock for physical AI? · Monday.com is the latest tech company to blame AI for layoffs — here are 20 others · The reason why the MacBook Air doesn&#x27;t need a fan · Carrie is just trying to make a friend in the new trailer</description>
     </item>
   </channel>
 </rss>
