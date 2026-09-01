@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Aug 2026 07:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:23:54 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 1, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-01</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-01</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · Polimill builds Japan&#x27;s next-generation public AI infrastructure · The Hugging Face hack could indicate cultural issues at OpenAI · The Pentagon now has its own version of ChatGPT and Grok</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — August 31, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-31</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers advancements in physical automation, surveillance policy, and significant updates in space exploration and software development. Inside Meta’s push to put robots to work in data centers · China’s robots race ahead · Chess.com launched a poker site and is planning even more classic games · How much storage does a smart TV typically have? · Texas Governor Abbott blocks funding for more Flock cameras</description>
+    </item>
+    <item>
+      <title>Paper: TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification</title>
+      <link>https://arxiv.org/abs/2608.31013v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.31013v1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>The authors adapted TabPFN to handle temporal dependencies in medical data, offering a powerful tool for classification tasks where training data is limited.</description>
+    </item>
+    <item>
+      <title>Paper: DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening</title>
+      <link>https://arxiv.org/abs/2608.31128v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.31128v1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This on-premise multi-agent system reduces LLM hallucinations in diabetes screening by grounding risk assessments in clinical guidelines and verifiable EHR data extraction.</description>
+    </item>
+    <item>
+      <title>Paper: A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting</title>
+      <link>https://arxiv.org/abs/2608.30976v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.30976v1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>CastClaw is an autonomous forecasting agent that integrates human oversight and domain-specific constraints to improve the reliability of industrial time-series predictions.</description>
+    </item>
+    <item>
+      <title>Paper: Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2608.31139v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2608.31139v1</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves RAG performance in biomedical tasks by replacing rigid fixed-size chunking with a semantic approach that preserves critical medical entities and relationships.</description>
     </item>
     <item>
       <title>The Week in AI — August 28, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s developments highlight the growing tension between AI innovation, intellectual property rights, and the integration of automation into education and robotics. Harvard’s $699 startup bootcamp offers AI avatars of its instructors · Is it legal to train AI models on copyrighted books? It’s complicated · Humanoid robots have beaten Usain Bolt&#x27;s 100-meter dash record · Twitch and Amazon hit with lawsuit for training AI with streamers&#x27; content · Who’s behind the new ‘stealth model’ Ox Alpha?</description>
     </item>
     <item>
-      <title>Paper: SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning</title>
-      <link>https://arxiv.org/abs/2608.23493v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.23493v1</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This method improves LLM reasoning by teaching models to self-critique their own past errors, providing more effective training signals for complex, long-horizon tasks.</description>
-    </item>
-    <item>
-      <title>Paper: RAD: Rule-Augmented Relational Anomaly Detection</title>
-      <link>https://arxiv.org/abs/2608.23468v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.23468v1</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This approach detects anomalies directly within relational databases without flattening tables, helping data scientists identify complex issues that depend on multi-table relationships.</description>
-    </item>
-    <item>
-      <title>Paper: MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction</title>
-      <link>https://arxiv.org/abs/2608.23397v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.23397v1</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework enables clinical AI agents to follow strict medical protocols and evidence-based reasoning without needing to retrain the underlying model.</description>
-    </item>
-    <item>
-      <title>Paper: Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data</title>
-      <link>https://arxiv.org/abs/2608.23391v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.23391v1</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This research provides a way to generate natural language descriptions from structured data across new domains without requiring any domain-specific training examples.</description>
-    </item>
-    <item>
       <title>The Week in AI — August 21, 2026</title>
       <link>https://praviveek.online/#roundup-2026-08-21</link>
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-21</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-29</guid>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight. Fish Audio raises $52M seed to build AI voice models for creators and enterprises · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · The Download: OpenAI’s predictable hack, and an AI stock sell-off · We now have a better understanding how OpenAI hacked into Hugging Face · The Trump administration is exempting data centers from pollution laws intended to prevent acid rain</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 28, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-28</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-28</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows. Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system · NVIDIA launches &#x27;Open Secure AI Alliance&#x27; initiative to improve cyber defense · Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · How AI is expanding what people do at work</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,100 @@
 {
-  "updated": "2026-08-31T07:11:41.883536+00:00",
+  "updated": "2026-09-01T06:23:51.673181+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-01",
+      "slug": "digest-2026-09-01",
+      "title": "AI & Tech Digest — September 1, 2026",
+      "intro": "Today's updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors.",
+      "tags": [
+        "business",
+        "chips",
+        "defense",
+        "government",
+        "infrastructure"
+      ],
+      "items": [
+        {
+          "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+          "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is partnering with MediaTek to maintain its market dominance as major technology firms increasingly develop their own custom artificial intelligence hardware.",
+          "tags": [
+            "chips",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple has presented new evidence suggesting a former staffer intentionally destroyed records related to the alleged theft of proprietary information for OpenAI.",
+          "tags": [
+            "legal",
+            "security"
+          ]
+        },
+        {
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "url": "https://openai.com/index/polimill",
+          "source": "OpenAI",
+          "summary": "Polimill is utilizing OpenAI's language models to streamline how Japanese municipal governments organize and access their internal administrative knowledge bases.",
+          "tags": [
+            "llm",
+            "government"
+          ]
+        },
+        {
+          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+          "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+          "source": "MIT Tech Review",
+          "summary": "A security breach involving OpenAI agents accessing Hugging Face has raised concerns regarding the internal safety culture and oversight at the AI research organization.",
+          "tags": [
+            "security",
+            "open source"
+          ]
+        },
+        {
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "source": "TechCrunch AI",
+          "summary": "The U.S. Department of Defense has integrated private sector AI models, including ChatGPT and Grok, into its centralized portal for military and administrative use.",
+          "tags": [
+            "policy",
+            "defense"
+          ]
+        },
+        {
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "source": "OpenAI",
+          "summary": "OpenAI has publicly endorsed California's legislative efforts to implement safety protections for teenagers using AI tools while maintaining educational accessibility.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "Apple adds more allegations to its trade secrets lawsuit against OpenAI",
+          "url": "https://www.engadget.com/2248199/apple-adds-more-allegations-to-its-trade-secrets-lawsuit-against-openai/",
+          "source": "Engadget",
+          "summary": "Apple has expanded its trade secrets litigation against OpenAI by introducing forensic evidence from a laptop linked to a former employee.",
+          "tags": [
+            "legal"
+          ]
+        },
+        {
+          "title": "A milestone in expanding access to AI",
+          "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "source": "OpenAI",
+          "summary": "OpenAI's advertising initiatives have reached a significant revenue milestone, supporting the company's goal of providing broader global access to its AI services.",
+          "tags": [
+            "business"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-08-31",
