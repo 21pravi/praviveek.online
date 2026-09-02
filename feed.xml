@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Sep 2026 06:23:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:04:07 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 2, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-02</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on OpenAI&#x27;s security challenges and model releases, alongside new enterprise integrations and Anthropic&#x27;s pricing adjustments. Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work · OpenAI’s Astra model is on the way — and very good at breaking into computer systems · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · ChatGPT Health adds Epic integration for clinicians to import patient data · OpenAI delayed its new model’s development after the Hugging Face hack</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 1, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-01</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-01</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · Polimill builds Japan&#x27;s next-generation public AI infrastructure · The Hugging Face hack could indicate cultural issues at OpenAI · The Pentagon now has its own version of ChatGPT and Grok</description>
+    </item>
+    <item>
+      <title>Paper: From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification</title>
+      <link>https://arxiv.org/abs/2609.01564v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.01564v1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a framework to help LLMs distinguish between semantically similar labels in large taxonomies by explicitly identifying and resolving confusion during the retrieval process.</description>
+    </item>
+    <item>
+      <title>Paper: Sierpiński--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation</title>
+      <link>https://arxiv.org/abs/2609.01528v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.01528v1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This paper presents a faster method for comparing persistence diagrams, enabling more efficient topological data analysis by reducing computational complexity to near-linear time.</description>
+    </item>
+    <item>
+      <title>Paper: When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning</title>
+      <link>https://arxiv.org/abs/2609.01455v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.01455v1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The researchers explain why fine-tuning LLMs for specific tasks often inadvertently strips away safety guardrails, providing a geometric perspective on how model alignment degrades.</description>
+    </item>
+    <item>
+      <title>Paper: TRIAGE: Three-level Routing and Intelligent Agent Guidance for Efficient Execution</title>
+      <link>https://arxiv.org/abs/2609.01428v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.01428v1</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a framework that caches and reuses successful execution paths as reusable skills, significantly reducing token usage and latency for LLM agents.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — August 31, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics · The Download: kids outlearning AI, and space travel agents · OpenAI is building AI agents for everything. Will everyone use them? · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) · Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China</description>
     </item>
     <item>
-      <title>Paper: BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes</title>
-      <link>https://arxiv.org/abs/2608.24848v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.24848v1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework enables large-scale generation of web interaction data by running parallel browser sandboxes, helping developers train more robust pixel-based web agents.</description>
-    </item>
-    <item>
-      <title>Paper: Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav</title>
-      <link>https://arxiv.org/abs/2608.24764v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.24764v1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors identify &#x27;evidence blindness&#x27; in LLM agents where critical information is missed during document navigation, providing a framework to quantify and improve retrieval accuracy.</description>
-    </item>
-    <item>
-      <title>Paper: CAFE: Self-Improving Search Agents Need Co-Evolving Feedback</title>
-      <link>https://arxiv.org/abs/2608.24794v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.24794v1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>CAFE improves search agents by training them to request and integrate corrective feedback during a task, preventing errors from compounding over long trajectories.</description>
-    </item>
-    <item>
-      <title>Paper: StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing</title>
-      <link>https://arxiv.org/abs/2608.24777v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.24777v1</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>StepGuard provides a proactive safety layer for LLM agents by auditing individual tool actions before execution to prevent security risks and unauthorized operations.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 24, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-24</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-24</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-30</guid>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models. OpenAI will provide free AI models to select researchers · Accelerating scientific discovery with ChatGPT for Academic Researchers · Microsoft is openly competing with OpenAI, Anthropic more than ever · Encore AI raises $30M to build AI agents that learn from customer calls · OpenAI president says it’s ‘building a family of devices’ for its AI chatbots</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 29, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-29</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-29</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight. Fish Audio raises $52M seed to build AI voice models for creators and enterprises · Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI · The Download: OpenAI’s predictable hack, and an AI stock sell-off · We now have a better understanding how OpenAI hacked into Hugging Face · The Trump administration is exempting data centers from pollution laws intended to prevent acid rain</description>
     </item>
   </channel>
 </rss>

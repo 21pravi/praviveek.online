@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-01T06:23:54.218951+00:00",
+  "updated": "2026-09-02T06:04:07.410736+00:00",
   "items": [
+    {
+      "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
+      "url": "https://arxiv.org/abs/2609.01564v1",
+      "date": "2026-09-01",
+      "summary": "The authors introduce a framework to help LLMs distinguish between semantically similar labels in large taxonomies by explicitly identifying and resolving confusion during the retrieval process.",
+      "authors": "Manish Gupta, Chaitanya Giri, Jayasimha Talur",
+      "tags": [
+        "classification",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Sierpiński--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation",
+      "url": "https://arxiv.org/abs/2609.01528v1",
+      "date": "2026-09-01",
+      "summary": "This paper presents a faster method for comparing persistence diagrams, enabling more efficient topological data analysis by reducing computational complexity to near-linear time.",
+      "authors": "Sebastien Tchitchek, Julien Tierny",
+      "tags": [
+        "tda",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.01455v1",
+      "date": "2026-09-01",
+      "summary": "The researchers explain why fine-tuning LLMs for specific tasks often inadvertently strips away safety guardrails, providing a geometric perspective on how model alignment degrades.",
+      "authors": "Yitong Guo, Xiaoyi Chen, Siyuan Zhang et al.",
+      "tags": [
+        "safety",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "TRIAGE: Three-level Routing and Intelligent Agent Guidance for Efficient Execution",
+      "url": "https://arxiv.org/abs/2609.01428v1",
+      "date": "2026-09-01",
+      "summary": "The authors propose a framework that caches and reuses successful execution paths as reusable skills, significantly reducing token usage and latency for LLM agents.",
+      "authors": "Ruocan Wei",
+      "tags": [
+        "agents",
+        "efficiency",
+        "paper"
+      ]
+    },
     {
       "title": "TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification",
       "url": "https://arxiv.org/abs/2608.31013v1",
@@ -670,54 +718,6 @@
       "tags": [
         "multimodal",
         "benchmark",
-        "paper"
-      ]
-    },
-    {
-      "title": "Mapping and Measuring the Behavioral Evolution of Large Language Models",
-      "url": "https://arxiv.org/abs/2608.11027v1",
-      "date": "2026-08-11",
-      "summary": "The authors developed a method to quantify and track how LLM behaviors diverge or converge over time, helping practitioners understand model evolution beyond simple leaderboard scores.",
-      "authors": "Dong Qiao, Chris Ding, Jicong Fan",
-      "tags": [
-        "llm",
-        "evaluation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching",
-      "url": "https://arxiv.org/abs/2608.11030v1",
-      "date": "2026-08-11",
-      "summary": "This framework improves patent matching accuracy by using a self-knowledge RAG approach, avoiding the high costs and performance degradation associated with traditional fine-tuning.",
-      "authors": "Jian Zhang, Songlin Lei, Zhuohao Yang et al.",
-      "tags": [
-        "rag",
-        "nlp",
-        "paper"
-      ]
-    },
-    {
-      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-      "url": "https://arxiv.org/abs/2608.11191v1",
-      "date": "2026-08-11",
-      "summary": "This method allows GUI agents to improve their visual grounding capabilities post-deployment through an automated reflection loop, enabling adaptation to new interfaces without human feedback.",
-      "authors": "Shiyu Xuan, Zechao Li",
-      "tags": [
-        "gui",
-        "agent",
-        "paper"
-      ]
-    },
-    {
-      "title": "Hierarchical Empirical-Bayes Naive Bayes: Minimax Smoothing and Calibration with AODE Extension",
-      "url": "https://arxiv.org/abs/2608.11162v1",
-      "date": "2026-08-11",
-      "summary": "The researchers introduced an adaptive smoothing method for Naive Bayes that automatically adjusts to data characteristics, significantly improving classification performance on complex tabular datasets.",
-      "authors": "Nguyen Thai Anh, Truong Viet Vu, Tran Thien Thanh et al.",
-      "tags": [
-        "classification",
-        "statistics",
         "paper"
       ]
     }

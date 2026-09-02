@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-01T06:23:51.673181+00:00",
+  "updated": "2026-09-02T06:03:46.292462+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-02",
+      "slug": "digest-2026-09-02",
+      "title": "AI & Tech Digest — September 2, 2026",
+      "intro": "Today's updates focus on OpenAI's security challenges and model releases, alongside new enterprise integrations and Anthropic's pricing adjustments.",
+      "tags": [
+        "biotech",
+        "enterprise",
+        "governance",
+        "healthcare",
+        "integration"
+      ],
+      "items": [
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "source": "The Verge",
+          "summary": "Anthropic has released updated models that offer improved performance for agentic workflows while significantly reducing operational costs for developers.",
+          "tags": [
+            "llm",
+            "pricing"
+          ]
+        },
+        {
+          "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+          "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is detailing the safety protocols implemented for its upcoming Astra model, which possesses advanced capabilities for interacting with computer systems.",
+          "tags": [
+            "llm",
+            "security"
+          ]
+        },
+        {
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "source": "TechCrunch AI",
+          "summary": "Apple has presented new evidence in its legal case against a former staffer accused of misappropriating proprietary data for use by OpenAI.",
+          "tags": [
+            "policy",
+            "legal"
+          ]
+        },
+        {
+          "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+          "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+          "source": "TechCrunch AI",
+          "summary": "Clinicians can now integrate electronic health records directly into ChatGPT to streamline patient data analysis and improve clinical workflows.",
+          "tags": [
+            "healthcare",
+            "integration"
+          ]
+        },
+        {
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "source": "The Verge",
+          "summary": "OpenAI postponed the rollout of its Astra model suite to prioritize security enhancements following a significant breach involving an unreleased model.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        },
+        {
+          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+          "url": "https://openai.com/index/gilbert-tobin",
+          "source": "OpenAI",
+          "summary": "Law firm Gilbert + Tobin is utilizing structured governance frameworks and human oversight to scale the deployment of enterprise AI tools.",
+          "tags": [
+            "enterprise",
+            "governance"
+          ]
+        },
+        {
+          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+          "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+          "source": "OpenAI",
+          "summary": "Healthcare providers now have the ability to link EHR systems to ChatGPT, allowing for more secure access to patient information and medical research.",
+          "tags": [
+            "healthcare",
+            "integration"
+          ]
+        },
+        {
+          "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+          "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+          "source": "MIT Tech Review",
+          "summary": "Recent reports highlight broader industry concerns regarding OpenAI's internal culture alongside advancements in agricultural biotechnology.",
+          "tags": [
+            "biotech",
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-01",
