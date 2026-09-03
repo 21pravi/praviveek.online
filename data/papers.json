@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-02T06:04:07.410736+00:00",
+  "updated": "2026-09-03T06:01:41.210802+00:00",
   "items": [
+    {
+      "title": "Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting",
+      "url": "https://arxiv.org/abs/2609.02649v1",
+      "date": "2026-09-02",
+      "summary": "The authors introduce a framework that combines LLMs with statistical consistency to generate reliable root cause analysis from noisy, conflicting text data.",
+      "authors": "Ron Begleiter, Katya Egert Berg, Gilad Saban et al.",
+      "tags": [
+        "nlp",
+        "rca",
+        "paper"
+      ]
+    },
+    {
+      "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
+      "url": "https://arxiv.org/abs/2609.02805v1",
+      "date": "2026-09-02",
+      "summary": "This paper proposes a structured reasoning framework to help LLMs diagnose complex telecom network issues more accurately by grounding their output in actual network evidence.",
+      "authors": "Hao Zhou, Mandar Kulkarni, Hao Chen et al.",
+      "tags": [
+        "llm",
+        "telecom",
+        "paper"
+      ]
+    },
+    {
+      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
+      "url": "https://arxiv.org/abs/2609.02859v1",
+      "date": "2026-09-02",
+      "summary": "The researchers demonstrate that user feedback is a highly valuable signal for improving model performance if evaluation methods are adjusted to account for existing biases.",
+      "authors": "Shachar Don-Yehiya, Leshem Choshen, Omri Abend",
+      "tags": [
+        "feedback",
+        "evaluation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "url": "https://arxiv.org/abs/2609.02849v1",
+      "date": "2026-09-02",
+      "summary": "The authors detail a specialized training pipeline using synthetic reasoning and reinforcement learning to significantly boost the coding and problem-solving capabilities of language models.",
+      "authors": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al.",
+      "tags": [
+        "llm",
+        "coding",
+        "paper"
+      ]
+    },
     {
       "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
       "url": "https://arxiv.org/abs/2609.01564v1",
@@ -670,54 +718,6 @@
       "tags": [
         "agents",
         "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "SAG: SQL-Retrieval Augmented Generation with Query-Time Dynamic Hyperedges",
-      "url": "https://arxiv.org/abs/2608.12129v1",
-      "date": "2026-08-12",
-      "summary": "This method uses SQL-based retrieval to handle structured data queries more effectively than traditional vector search, offering a more flexible way to ground LLMs in complex datasets.",
-      "authors": "Yuchao Wu, Junqin Li, XingCheng Liang et al.",
-      "tags": [
-        "rag",
-        "sql",
-        "paper"
-      ]
-    },
-    {
-      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
-      "url": "https://arxiv.org/abs/2608.12290v1",
-      "date": "2026-08-12",
-      "summary": "This framework replaces manual trial-and-error in video generation with an agentic feedback loop, helping data scientists automate and stabilize the output of image-to-video models.",
-      "authors": "Aman Tyagi, Hemanth Boinpally, Jonathan Chen et al.",
-      "tags": [
-        "generative-ai",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "A Cascaded Unsupervised-Supervised NLP Pipeline for Detecting Accusatory Language in Public Procurement",
-      "url": "https://arxiv.org/abs/2608.12269v1",
-      "date": "2026-08-12",
-      "summary": "The authors present a hybrid NLP pipeline to identify potentially corrupt language in public procurement documents, demonstrating how to monitor large-scale government data for irregularities.",
-      "authors": "Bryan Torres, Daniel Riofrío, José Vega-Sánchez et al.",
-      "tags": [
-        "nlp",
-        "classification",
-        "paper"
-      ]
-    },
-    {
-      "title": "Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams",
-      "url": "https://arxiv.org/abs/2608.12262v1",
-      "date": "2026-08-12",
-      "summary": "This benchmark provides a standardized way to evaluate how well multimodal models interpret complex scientific diagrams, which is critical for automating technical document analysis.",
-      "authors": "Weihao Bo, Shan Zhang, Yanpeng Sun et al.",
-      "tags": [
-        "multimodal",
-        "benchmark",
         "paper"
       ]
     }

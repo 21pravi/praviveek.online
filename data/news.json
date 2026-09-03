@@ -1,6 +1,72 @@
 {
-  "updated": "2026-09-02T06:03:46.292462+00:00",
+  "updated": "2026-09-03T06:01:25.822772+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-03",
+      "slug": "digest-2026-09-03",
+      "title": "AI & Tech Digest — September 3, 2026",
+      "intro": "",
+      "tags": [],
+      "items": [
+        {
+          "title": "Researchers fear safety disaster ahead of OpenAI’s Astra release",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+          "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+          "url": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+          "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Uber beats Waymo as first to launch robotaxis in London",
+          "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Acer shows off its AI desktop future with the RTX Spark design",
+          "url": "https://www.engadget.com/2248794/acer-shows-off-its-ai-desktop-future-with-the-rtx-spark-design/",
+          "source": "Engadget",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+          "url": "https://openai.com/index/atv-big-air-tour",
+          "source": "OpenAI",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-02",

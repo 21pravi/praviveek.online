@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:04:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:01:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 3, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-03</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-03</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Researchers fear safety disaster ahead of OpenAI’s Astra release · US government sides with OpenAI on issue of training LLMs on copyrighted material · Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more · TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals · OpenAI’s new reasoning technique alarms AI safety experts</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 2, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-02</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-02</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on OpenAI&#x27;s security challenges and model releases, alongside new enterprise integrations and Anthropic&#x27;s pricing adjustments. Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work · OpenAI’s Astra model is on the way — and very good at breaking into computer systems · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · ChatGPT Health adds Epic integration for clinicians to import patient data · OpenAI delayed its new model’s development after the Hugging Face hack</description>
+    </item>
+    <item>
+      <title>Paper: Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting</title>
+      <link>https://arxiv.org/abs/2609.02649v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.02649v1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a framework that combines LLMs with statistical consistency to generate reliable root cause analysis from noisy, conflicting text data.</description>
+    </item>
+    <item>
+      <title>Paper: Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis</title>
+      <link>https://arxiv.org/abs/2609.02805v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.02805v1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This paper proposes a structured reasoning framework to help LLMs diagnose complex telecom network issues more accurately by grounding their output in actual network evidence.</description>
+    </item>
+    <item>
+      <title>Paper: User Feedback Provides a Unique Signal that LLMs Can not Detect</title>
+      <link>https://arxiv.org/abs/2609.02859v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.02859v1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The researchers demonstrate that user feedback is a highly valuable signal for improving model performance if evaluation methods are adjusted to account for existing biases.</description>
+    </item>
+    <item>
+      <title>Paper: Post-Training Language Models for Gold-Medal Performance in Coding Competitions</title>
+      <link>https://arxiv.org/abs/2609.02849v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.02849v1</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors detail a specialized training pipeline using synthetic reasoning and reinforcement learning to significantly boost the coding and problem-solving capabilities of language models.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 1, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest covers OpenAI&#x27;s new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show · OpenAI Jalapeño: Better than Nvidia Blackwell · OpenAI loses a top data center exec, as stream of high-profile departures continues · Jalapeño’s first results show industry-leading speed and efficiency in AI inference · ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</description>
     </item>
     <item>
-      <title>Paper: PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology</title>
-      <link>https://arxiv.org/abs/2608.25970v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.25970v1</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This framework allows models to learn from incomplete multimodal medical data by using auxiliary information to guide training, improving performance without requiring extra inputs during inference.</description>
-    </item>
-    <item>
-      <title>Paper: Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems</title>
-      <link>https://arxiv.org/abs/2608.25920v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.25920v1</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors investigate whether debugging multi-agent LLM systems actually fixes underlying issues or just relies on random sampling, providing a framework to test true causal repair.</description>
-    </item>
-    <item>
-      <title>Paper: PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans</title>
-      <link>https://arxiv.org/abs/2608.26091v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.26091v1</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This visual-first RAG framework automates civil engineering compliance by reasoning directly over 2D plan images rather than relying on error-prone text extraction.</description>
-    </item>
-    <item>
-      <title>Paper: Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings</title>
-      <link>https://arxiv.org/abs/2608.26088v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.26088v1</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This autonomous system streamlines geospatial modeling by using natural language to automatically discover, fuse, and process fragmented environmental data for predictive analytics.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 25, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-25</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-25</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-31</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the rapid integration of AI into robotics and retail, alongside growing concerns regarding model security and corporate competition. How avatarin built a 24/7 retail agent with GPT-Realtime · Microsoft is openly competing with OpenAI, Anthropic more than ever · Google DeepMind’s new AI model can control a robot’s entire body · AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares · Anthropic says its own AI models breached three companies during security tests</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 30, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-30</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-30</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models. OpenAI will provide free AI models to select researchers · Accelerating scientific discovery with ChatGPT for Academic Researchers · Microsoft is openly competing with OpenAI, Anthropic more than ever · Encore AI raises $30M to build AI agents that learn from customer calls · OpenAI president says it’s ‘building a family of devices’ for its AI chatbots</description>
     </item>
   </channel>
 </rss>
