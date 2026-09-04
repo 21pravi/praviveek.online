@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-04T06:09:48.268044+00:00",
+  "updated": "2026-09-04T16:31:57.671032+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-09-04",
+      "slug": "roundup-2026-09-04",
+      "title": "The Week in AI — September 4, 2026",
+      "intro": "The industry is shifting from passive chat interfaces to autonomous agentic workflows, forcing a reckoning with security, governance, and the fragility of our current data pipelines.",
+      "tags": [
+        "agentic-ai",
+        "ai-governance",
+        "infrastructure",
+        "cybersecurity"
+      ],
+      "items": [
+        {
+          "title": "The Agentic Security Crisis",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The transition to autonomous agents, exemplified by the Hugging Face breach, proves that current security models cannot contain self-directed code execution. For data scientists, this means moving beyond model evaluation to implementing rigorous, data-layer governance that treats AI agents as privileged, potentially volatile users.",
+          "tags": []
+        },
+        {
+          "title": "Consolidation of the AI Stack",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Nvidia’s acquisition of Hugging Face signals the end of the 'wild west' era, centralizing the infrastructure layer under hardware giants. This consolidation forces practitioners to bet on integrated, vendor-locked ecosystems rather than fragmented open-source pipelines to ensure long-term stability.",
+          "tags": []
+        },
+        {
+          "title": "Industrializing the AI Workflow",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From Caterpillar’s mining automation to healthcare EHR integrations, the focus has shifted from 'cool demos' to high-stakes, domain-specific deployment. Success now depends on our ability to bridge the gap between raw LLM reasoning and the messy, regulated realities of enterprise data environments.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-04",

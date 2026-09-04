@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 06:09:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:31:57 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — September 4, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-09-04</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The industry is shifting from passive chat interfaces to autonomous agentic workflows, forcing a reckoning with security, governance, and the fragility of our current data pipelines. The Agentic Security Crisis · Consolidation of the AI Stack · Industrializing the AI Workflow</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 4, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-04</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-03</guid>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the intersection of creative labor, corporate strategy, and the evolving discourse surrounding artificial intelligence development. Is paying artists enough to convince them to embrace AI? · Fender’s CEO seems to think your bandmates are just analog AI · Sam Altman and AI’s decel debate · Common problems with Bluetooth speakers and how to fix them · Xbox prices are increasing by up to €200 or £170</description>
-    </item>
-    <item>
-      <title>The Week in AI — July 31, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-07-31</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-31</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>The industry is shifting from pure model experimentation to the messy, high-stakes reality of securing, scaling, and physically integrating autonomous AI agents into the enterprise. The Security-Agent Paradox · Infrastructure Beyond the GPU · The Closing of the Research Loop</description>
     </item>
   </channel>
 </rss>
