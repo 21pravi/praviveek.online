@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-03T06:01:41.210802+00:00",
+  "updated": "2026-09-04T06:09:51.257797+00:00",
   "items": [
+    {
+      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+      "url": "https://arxiv.org/abs/2609.04159v1",
+      "date": "2026-09-03",
+      "summary": "This architecture improves cybersecurity SOC agents by using graph encoders to handle large network topologies, preventing LLMs from making invalid containment decisions due to context limits.",
+      "authors": "Uday Vallabhaneni, Cassie L. Cagwin, David J. Wild",
+      "tags": [
+        "llm",
+        "cybersecurity",
+        "paper"
+      ]
+    },
+    {
+      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
+      "url": "https://arxiv.org/abs/2609.04061v1",
+      "date": "2026-09-03",
+      "summary": "Researchers found that even top-tier LLMs often rewrite more code than necessary when fixing bugs, which complicates code reviews and reduces the maintainability of automated patches.",
+      "authors": "Tongyao Zhu, Wei Hern Lim, Min-Yen Kan",
+      "tags": [
+        "llm",
+        "code-generation",
+        "paper"
+      ]
+    },
+    {
+      "title": "The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations",
+      "url": "https://arxiv.org/abs/2609.04047v1",
+      "date": "2026-09-03",
+      "summary": "This paper introduces a standardized statistical framework for auditing how consistently LLMs recommend brands, helping practitioners measure and account for model output variance.",
+      "authors": "Dmitrij Żatuchin",
+      "tags": [
+        "llm",
+        "auditing",
+        "paper"
+      ]
+    },
+    {
+      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
+      "url": "https://arxiv.org/abs/2609.04172v1",
+      "date": "2026-09-03",
+      "summary": "The authors demonstrate that LLMs can learn effective policies from just a single training example through on-policy distillation, challenging assumptions about the necessity of massive datasets.",
+      "authors": "Zixuan Fu, Bingxiang He, Yuxin Zuo et al.",
+      "tags": [
+        "llm",
+        "distillation",
+        "paper"
+      ]
+    },
     {
       "title": "Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting",
       "url": "https://arxiv.org/abs/2609.02649v1",
@@ -670,54 +718,6 @@
       "tags": [
         "llm",
         "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
-      "url": "https://arxiv.org/abs/2608.13505v1",
-      "date": "2026-08-13",
-      "summary": "This model series integrates multimodal scientific data and tool-use capabilities to help researchers automate complex, long-term reasoning tasks in scientific discovery.",
-      "authors": "Lei Bai, Jiaqi Cao, Chiyu Chen et al.",
-      "tags": [
-        "llm",
-        "scientific-ai",
-        "paper"
-      ]
-    },
-    {
-      "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
-      "url": "https://arxiv.org/abs/2608.13472v1",
-      "date": "2026-08-13",
-      "summary": "This framework automates the entire analog circuit design process, from topology to sizing, using LLMs to reduce the manual effort and expertise typically required for circuit optimization.",
-      "authors": "Mohammed Ayman Habib, Rylan Hart, Morteza Fayazi",
-      "tags": [
-        "llm",
-        "hardware",
-        "paper"
-      ]
-    },
-    {
-      "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
-      "url": "https://arxiv.org/abs/2608.13428v1",
-      "date": "2026-08-13",
-      "summary": "The authors propose a unified framework to automatically assess the maturity of AI projects, helping data scientists and stakeholders standardize how they evaluate technology readiness.",
-      "authors": "Juan Irving Vasquez, Juan Terven, Laura-Ivoone Garay-Jimenez",
-      "tags": [
-        "governance",
-        "mlops",
-        "paper"
-      ]
-    },
-    {
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "url": "https://arxiv.org/abs/2608.13560v1",
-      "date": "2026-08-13",
-      "summary": "AutoDesign introduces a meta-harness system that allows AI agents to recursively improve their own design workflows, enabling more efficient and autonomous long-horizon creative tasks.",
-      "authors": "Yaxin Luo, Haobin Jiang, Jialv Zou et al.",
-      "tags": [
-        "agents",
-        "optimization",
         "paper"
       ]
     }

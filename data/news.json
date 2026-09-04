@@ -1,6 +1,93 @@
 {
-  "updated": "2026-09-03T06:01:25.822772+00:00",
+  "updated": "2026-09-04T06:09:48.268044+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-04",
+      "slug": "digest-2026-09-04",
+      "title": "AI & Tech Digest — September 4, 2026",
+      "intro": "Today's updates focus on the shift toward agentic AI capabilities, enterprise integration challenges, and significant shifts in the AI infrastructure landscape.",
+      "tags": [
+        "acquisition",
+        "agents",
+        "chips",
+        "data",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "OpenAI says GPT-6 Astra is 'the most intelligent and aligned model in the world'",
+          "url": "https://www.engadget.com/2250814/openai-says-gpt-6-astra-is-the-most-intelligent-and-aligned-model-in-the-world/",
+          "source": "Engadget",
+          "summary": "OpenAI has introduced GPT-6 Astra, a model designed to improve autonomous computer-use tasks and meet higher safety standards for cybersecurity.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+          "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is incentivizing users with significant discounts to share their interaction data, which will be used to refine the development of its Muse Spark model.",
+          "tags": [
+            "data",
+            "meta"
+          ]
+        },
+        {
+          "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+          "source": "The Verge",
+          "summary": "Google's updated WeatherNext 3 model integrates real-time satellite imagery to provide more accurate precipitation forecasts across its search and mapping platforms.",
+          "tags": [
+            "science",
+            "google"
+          ]
+        },
+        {
+          "title": "Meta is paying to peek at how you use their latest AI model",
+          "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+          "source": "TechCrunch AI",
+          "summary": "Enterprises are currently struggling to transition agentic AI from isolated pilot programs to integrated, secure, and collaborative workflows at scale.",
+          "tags": [
+            "enterprise",
+            "agents"
+          ]
+        },
+        {
+          "title": "Google's new AI weather model uses live satellite data for higher-resolution forecasts",
+          "url": "https://www.engadget.com/2250687/googles-new-ai-weather-model-uses-live-satellite-data-for-higher-resolution-forecasts/",
+          "source": "Engadget",
+          "summary": "Nvidia has announced the acquisition of the model-hosting platform Hugging Face for $12.9 billion to expand its influence over the developer ecosystem.",
+          "tags": [
+            "chips",
+            "acquisition"
+          ]
+        },
+        {
+          "title": "Scaling agentic AI pilots across the enterprise",
+          "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+          "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+          "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-03",

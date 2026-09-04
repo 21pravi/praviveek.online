@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Sep 2026 06:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:09:51 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 4, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-04</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-04</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on the shift toward agentic AI capabilities, enterprise integration challenges, and significant shifts in the AI infrastructure landscape. OpenAI says GPT-6 Astra is &#x27;the most intelligent and aligned model in the world&#x27; · OpenAI launches Astra, its powerful (and controversial) new model · OpenAI’s next big AI model has ‘entered the AGI era’ · Meta is paying to peek at how you use their latest AI model · Google&#x27;s new AI weather model uses live satellite data for higher-resolution forecasts</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 3, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-03</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-03</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <description>Researchers fear safety disaster ahead of OpenAI’s Astra release · US government sides with OpenAI on issue of training LLMs on copyrighted material · Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more · TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals · OpenAI’s new reasoning technique alarms AI safety experts</description>
+    </item>
+    <item>
+      <title>Paper: SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center</title>
+      <link>https://arxiv.org/abs/2609.04159v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.04159v1</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This architecture improves cybersecurity SOC agents by using graph encoders to handle large network topologies, preventing LLMs from making invalid containment decisions due to context limits.</description>
+    </item>
+    <item>
+      <title>Paper: When Models Edit Too Much: On the Fidelity of Minimal Code Edits</title>
+      <link>https://arxiv.org/abs/2609.04061v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.04061v1</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Researchers found that even top-tier LLMs often rewrite more code than necessary when fixing bugs, which complicates code reviews and reduces the maintainability of automated patches.</description>
+    </item>
+    <item>
+      <title>Paper: The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations</title>
+      <link>https://arxiv.org/abs/2609.04047v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.04047v1</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a standardized statistical framework for auditing how consistently LLMs recommend brands, helping practitioners measure and account for model output variance.</description>
+    </item>
+    <item>
+      <title>Paper: Rethinking On-Policy Distillation of Large Language Models II: One Training Example</title>
+      <link>https://arxiv.org/abs/2609.04172v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.04172v1</guid>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors demonstrate that LLMs can learn effective policies from just a single training example through on-policy distillation, challenging assumptions about the necessity of massive datasets.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 2, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest covers the risks of autonomous agent behavior, new developments in robotics, and emerging trends in AI infrastructure and funding. The inside story on why OpenAI agents hacked Hugging Face · OpenAI’s rogue AI model incident was worse than we thought · Robot brain builders are pushing out of their GPT-2 era · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · AI models flub these intelligence tests. Can you fare any better?</description>
     </item>
     <item>
-      <title>Paper: SWE-Prime: Fewer Trajectories, Better Performance</title>
-      <link>https://arxiv.org/abs/2608.27449v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.27449v1</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This research improves LLM coding agents by filtering out inefficient steps from training data, helping developers build more reliable automated software engineering tools.</description>
-    </item>
-    <item>
-      <title>Paper: Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit</title>
-      <link>https://arxiv.org/abs/2608.27427v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.27427v1</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This architecture separates an agent&#x27;s personality from its functional execution, allowing companies to innovate on user experience while maintaining strict security and audit logs.</description>
-    </item>
-    <item>
-      <title>Paper: Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling</title>
-      <link>https://arxiv.org/abs/2608.27413v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.27413v1</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce efficient embedding and sampling techniques to help data scientists deploy graph neural networks on massive social networks for friend recommendations.</description>
-    </item>
-    <item>
-      <title>Paper: CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes</title>
-      <link>https://arxiv.org/abs/2608.27455v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.27455v1</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>CritICL improves LLM reasoning by analyzing the predictable failure patterns of smaller models, offering a more efficient alternative to compute-heavy inference methods.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 26, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-26</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-26</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-07-31</guid>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <description>The industry is shifting from pure model experimentation to the messy, high-stakes reality of securing, scaling, and physically integrating autonomous AI agents into the enterprise. The Security-Agent Paradox · Infrastructure Beyond the GPU · The Closing of the Research Loop</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — July 31, 2026</title>
-      <link>https://praviveek.online/#digest-2026-07-31</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-07-31</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the rapid integration of AI into robotics and retail, alongside growing concerns regarding model security and corporate competition. How avatarin built a 24/7 retail agent with GPT-Realtime · Microsoft is openly competing with OpenAI, Anthropic more than ever · Google DeepMind’s new AI model can control a robot’s entire body · AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares · Anthropic says its own AI models breached three companies during security tests</description>
     </item>
   </channel>
 </rss>
