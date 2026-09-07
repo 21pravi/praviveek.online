@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-04T06:09:51.257797+00:00",
+  "updated": "2026-09-07T06:18:28.767010+00:00",
   "items": [
+    {
+      "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
+      "url": "https://arxiv.org/abs/2609.05363v1",
+      "date": "2026-09-04",
+      "summary": "This framework efficiently scales product recommendations by distilling complex LLM reasoning into a lightweight model that adapts to specific product categories, saving significant computational costs.",
+      "authors": "Siliang Liu, Mohammad Ghasemi, Sapan Patel et al.",
+      "tags": [
+        "recommendation",
+        "distillation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
+      "url": "https://arxiv.org/abs/2609.05339v1",
+      "date": "2026-09-04",
+      "summary": "This study evaluates how different memory storage methods—like raw history versus knowledge graphs—affect an agent's ability to retain information when the underlying LLM is upgraded.",
+      "authors": "Ankit Goyal, Jaideep Ray",
+      "tags": [
+        "llm",
+        "memory",
+        "paper"
+      ]
+    },
+    {
+      "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+      "url": "https://arxiv.org/abs/2609.05314v1",
+      "date": "2026-09-04",
+      "summary": "This review examines how LLMs can bridge the gap between fragmented building sensor data and actionable HVAC control, highlighting current deployment challenges and operational readiness.",
+      "authors": "Alexander Neubauer, Tianzhen Hong, Han Li et al.",
+      "tags": [
+        "hvac",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting",
+      "url": "https://arxiv.org/abs/2609.05235v1",
+      "date": "2026-09-04",
+      "summary": "This research tests various fine-tuning and prompting strategies for using quantized LLMs to predict Bitcoin price movements, providing a roadmap for applying LLMs to volatile financial time-series data.",
+      "authors": "Maryam Fakhari, Mehran Safayani",
+      "tags": [
+        "forecasting",
+        "finance",
+        "paper"
+      ]
+    },
     {
       "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
       "url": "https://arxiv.org/abs/2609.04159v1",
@@ -670,54 +718,6 @@
       "tags": [
         "knowledge graph",
         "data governance",
-        "paper"
-      ]
-    },
-    {
-      "title": "Handover of In-Context Learning State Across Session Boundaries",
-      "url": "https://arxiv.org/abs/2608.14528v1",
-      "date": "2026-08-14",
-      "summary": "This paper explores how to efficiently transfer context between LLM sessions, helping developers maintain task continuity when hitting input limits or restarting applications.",
-      "authors": "Masahiro Kato, Taka Kato",
-      "tags": [
-        "llm",
-        "context",
-        "paper"
-      ]
-    },
-    {
-      "title": "Universal Thermodynamic Interatomic Potentials for Crystalline Materials",
-      "url": "https://arxiv.org/abs/2608.14502v1",
-      "date": "2026-08-14",
-      "summary": "The authors introduce a method to calculate Gibbs free energy for materials using automatic differentiation, enabling faster and more accurate computational discovery of stable crystalline structures.",
-      "authors": "Juno Nam, Bowen Deng, Xiaochen Du et al.",
-      "tags": [
-        "materials science",
-        "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training",
-      "url": "https://arxiv.org/abs/2608.14498v1",
-      "date": "2026-08-14",
-      "summary": "This research optimizes VLM training by overlapping video processing and model execution, significantly reducing GPU idle time during reinforcement learning post-training.",
-      "authors": "Hanfeng Lu, Tianyu Feng, Suyi Li et al.",
-      "tags": [
-        "vlm",
-        "gpu",
-        "paper"
-      ]
-    },
-    {
-      "title": "SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning",
-      "url": "https://arxiv.org/abs/2608.14452v1",
-      "date": "2026-08-14",
-      "summary": "The authors propose a hierarchical graph approach for spreadsheets that preserves spatial and relational data, allowing LLMs to reason about complex workbooks more effectively than flat text.",
-      "authors": "Panjing He, Mingyue Cheng, Yucong Luo et al.",
-      "tags": [
-        "llm",
-        "reasoning",
         "paper"
       ]
     }

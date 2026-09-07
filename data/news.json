@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-04T16:31:57.671032+00:00",
+  "updated": "2026-09-07T06:17:55.255364+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-07",
+      "slug": "digest-2026-09-07",
+      "title": "AI & Tech Digest — September 7, 2026",
+      "intro": "Today's digest covers the intersection of AI-driven research, ongoing legal challenges regarding intellectual property, and developments in consumer hardware.",
+      "tags": [
+        "ai agents",
+        "automation",
+        "copyright",
+        "energy",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "source": "OpenAI",
+          "summary": "OpenAI reports that integrating coding agents into their internal workflows has significantly increased the speed and complexity of experiments conducted by their research teams.",
+          "tags": [
+            "ai agents",
+            "research"
+          ]
+        },
+        {
+          "title": "OpenAI says it reached its goal of creating an automated research intern",
+          "url": "https://www.engadget.com/2251859/openai-says-it-reached-its-goal-of-creating-an-automated-research-intern/",
+          "source": "Engadget",
+          "summary": "OpenAI has successfully developed an automated research intern prototype and aims to enhance these capabilities significantly by early 2028.",
+          "tags": [
+            "ai agents",
+            "automation"
+          ]
+        },
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "source": "TechCrunch AI",
+          "summary": "Authors are challenging how publishers are distributing settlement funds related to copyright litigation against AI companies, citing unfair allocation of proceeds.",
+          "tags": [
+            "legal",
+            "copyright"
+          ]
+        },
+        {
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "source": "The Verge",
+          "summary": "Two major news outlets have initiated legal action against OpenAI and Microsoft, alleging unauthorized use of their journalism for model training and content reproduction.",
+          "tags": [
+            "legal",
+            "copyright"
+          ]
+        },
+        {
+          "title": "How to set up ChatGPT's parental controls to protect your teen",
+          "url": "https://www.engadget.com/2247843/how-to-set-up-chatgpt-parental-controls/",
+          "source": "Engadget",
+          "summary": "OpenAI has introduced new parental control features for ChatGPT, allowing guardians to manage and restrict the content their teenagers can access.",
+          "tags": [
+            "safety",
+            "policy"
+          ]
+        },
+        {
+          "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+          "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+          "source": "The Verge",
+          "summary": "The Fairphone 6 Plus offers a competitive midrange hardware experience while maintaining the company's commitment to ethical material sourcing and user-friendly device repairability.",
+          "tags": [
+            "hardware",
+            "sustainability"
+          ]
+        },
+        {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "source": "TechCrunch AI",
+          "summary": "Travis Kalanick’s company, Atoms, is reportedly exploring entry into the autonomous taxi market to pursue new logistics and transportation ventures.",
+          "tags": [
+            "robotics",
+            "transportation"
+          ]
+        },
+        {
+          "title": "DIY plug-in solar gains momentum in the US",
+          "url": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+          "source": "The Verge",
+          "summary": "Simple, user-installed solar power solutions are seeing increased adoption across the United States as consumers seek more accessible renewable energy options.",
+          "tags": [
+            "energy",
+            "hardware"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-09-04",

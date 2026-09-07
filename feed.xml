@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:18:28 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 7, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-07</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-07</guid>
+      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the intersection of AI-driven research, ongoing legal challenges regarding intellectual property, and developments in consumer hardware. Research acceleration: The view inside OpenAI · OpenAI says it reached its goal of creating an automated research intern · Authors push back as publishers and agents make claims on Anthropic settlement · Seattle Times and Newsday sue OpenAI and Microsoft for infringement · How to set up ChatGPT&#x27;s parental controls to protect your teen</description>
+    </item>
     <item>
       <title>The Week in AI — September 4, 2026</title>
       <link>https://praviveek.online/#roundup-2026-09-04</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-04</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the shift toward agentic AI capabilities, enterprise integration challenges, and significant shifts in the AI infrastructure landscape. OpenAI says GPT-6 Astra is &#x27;the most intelligent and aligned model in the world&#x27; · OpenAI launches Astra, its powerful (and controversial) new model · OpenAI’s next big AI model has ‘entered the AGI era’ · Meta is paying to peek at how you use their latest AI model · Google&#x27;s new AI weather model uses live satellite data for higher-resolution forecasts</description>
+    </item>
+    <item>
+      <title>Paper: Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation</title>
+      <link>https://arxiv.org/abs/2609.05363v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.05363v1</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This framework efficiently scales product recommendations by distilling complex LLM reasoning into a lightweight model that adapts to specific product categories, saving significant computational costs.</description>
+    </item>
+    <item>
+      <title>Paper: Does Your Agent&#x27;s Memory Survive a Model Upgrade? A Controlled Study of Memory Portability</title>
+      <link>https://arxiv.org/abs/2609.05339v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.05339v1</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This study evaluates how different memory storage methods—like raw history versus knowledge graphs—affect an agent&#x27;s ability to retain information when the underlying LLM is upgraded.</description>
+    </item>
+    <item>
+      <title>Paper: Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness</title>
+      <link>https://arxiv.org/abs/2609.05314v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.05314v1</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This review examines how LLMs can bridge the gap between fragmented building sensor data and actionable HVAC control, highlighting current deployment challenges and operational readiness.</description>
+    </item>
+    <item>
+      <title>Paper: PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting</title>
+      <link>https://arxiv.org/abs/2609.05235v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.05235v1</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This research tests various fine-tuning and prompting strategies for using quantized LLMs to predict Bitcoin price movements, providing a roadmap for applying LLMs to volatile financial time-series data.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 3, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest focuses on the growing security risks posed by autonomous AI agents and the industry&#x27;s response to these emerging challenges. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face · OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI · Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · When agents act on their own, governance has to live in the data layer</description>
     </item>
     <item>
-      <title>Paper: Learning to Use Tools: Reinforcement Learning for Tool-Integrated Mathematical Reasoning</title>
-      <link>https://arxiv.org/abs/2608.28447v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.28447v1</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The authors use reinforcement learning to train LLMs to accurately call calculator tools, helping practitioners improve the reliability of models performing complex mathematical reasoning.</description>
-    </item>
-    <item>
-      <title>Paper: CamoDocs: A Poisoning Attack Against Retrieval-Augmented Language Models Using Camouflaged Documents</title>
-      <link>https://arxiv.org/abs/2608.28389v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.28389v1</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a stealthy data poisoning technique for RAG systems that evades detection by camouflaging malicious documents, highlighting a critical security vulnerability for developers.</description>
-    </item>
-    <item>
-      <title>Paper: Learning a Size-Weight Frontier for Synthetic-Augmented Inference</title>
-      <link>https://arxiv.org/abs/2608.28576v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.28576v1</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The researchers provide a framework to balance synthetic data volume and weight, helping data scientists avoid bias when augmenting limited real-world datasets for statistical inference.</description>
-    </item>
-    <item>
-      <title>Paper: LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment</title>
-      <link>https://arxiv.org/abs/2608.28490v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2608.28490v1</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>This survey evaluates how autonomous LLM agents are being applied to automate security workflows, providing a roadmap for practitioners to safely implement and assess these systems.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 27, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-27</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-27</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-04</guid>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the technical challenges of agent behavior, corporate AI integration, and the evolving intersection of policy and public perception. Here’s why AI agents lie and cheat to reach their goals · The Download: reward hacking explained, and suspected Iranian cyberattacks · Congress’ favorite AI tool? ChatGPT · Circles powers telco personalization with OpenAI technology · How we built a realtime system for responsive voice AI in six months</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 3, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-03</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-03</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest examines the intersection of creative labor, corporate strategy, and the evolving discourse surrounding artificial intelligence development. Is paying artists enough to convince them to embrace AI? · Fender’s CEO seems to think your bandmates are just analog AI · Sam Altman and AI’s decel debate · Common problems with Bluetooth speakers and how to fix them · Xbox prices are increasing by up to €200 or £170</description>
     </item>
   </channel>
 </rss>
