@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-07T06:17:55.255364+00:00",
+  "updated": "2026-09-08T06:07:43.905111+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-08",
+      "slug": "digest-2026-09-08",
+      "title": "AI & Tech Digest — September 8, 2026",
+      "intro": "Today's digest covers shifts in hardware economics, emerging energy sources, and the evolving landscape of consumer electronics and AI terminology.",
+      "tags": [
+        "ai",
+        "audio",
+        "automotive",
+        "chips",
+        "consumer tech"
+      ],
+      "items": [
+        {
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "source": "MIT Tech Review",
+          "summary": "Exploration into subterranean hydrogen deposits offers a potential pathway for scaling zero-carbon fuel production.",
+          "tags": [
+            "energy",
+            "sustainability"
+          ]
+        },
+        {
+          "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+          "url": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+          "source": "The Verge",
+          "summary": "Arm's new graphics processor architecture aims to improve mobile gaming performance, starting with specialized hardware deployments in China.",
+          "tags": [
+            "chips",
+            "mobile"
+          ]
+        },
+        {
+          "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+          "url": "https://mathathonchallenge.com/index.html",
+          "source": "Hacker News",
+          "summary": "Caltech is hosting a hackathon focused on research-level mathematics, highlighting the intersection of academic theory and collaborative problem-solving.",
+          "tags": [
+            "math",
+            "research"
+          ]
+        },
+        {
+          "title": "The real reason your phone is getting more expensive",
+          "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+          "source": "The Verge",
+          "summary": "Rising memory component costs are driving up consumer electronics pricing, reflecting broader supply chain pressures on hardware manufacturers.",
+          "tags": [
+            "hardware",
+            "economics"
+          ]
+        },
+        {
+          "title": "Six years later, Sony revisits its legendary XM4 headphones",
+          "url": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
+          "source": "The Verge",
+          "summary": "Sony is revisiting its legacy audio hardware, underscoring the enduring influence of established noise-canceling headphone designs on the current market.",
+          "tags": [
+            "hardware",
+            "audio"
+          ]
+        },
+        {
+          "title": "When is it no longer worth repairing your phone and buying a new one instead",
+          "url": "https://www.engadget.com/2249079/when-is-it-no-longer-worth-repairing-your-phone-and-buying-a-new-one-instead/",
+          "source": "Engadget",
+          "summary": "Determining the economic threshold for mobile device repairs versus replacement is becoming a critical consideration for consumers facing rising hardware costs.",
+          "tags": [
+            "mobile",
+            "consumer tech"
+          ]
+        },
+        {
+          "title": "Opaque recurrence, and other AI terms that you should probably know",
+          "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "source": "TechCrunch AI",
+          "summary": "A new glossary of technical terminology helps clarify complex AI concepts for professionals navigating the rapidly expanding field.",
+          "tags": [
+            "ai",
+            "education"
+          ]
+        },
+        {
+          "title": "GM's breakup with CarPlay and Android Auto has one exception",
+          "url": "https://www.engadget.com/2249559/carplay-android-auto-carplay-gm-breakup-one-exception-2027-cadillac-lyriq/",
+          "source": "Engadget",
+          "summary": "General Motors is transitioning to proprietary infotainment software across most vehicles while maintaining limited support for third-party phone integration.",
+          "tags": [
+            "automotive",
+            "software"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-07",

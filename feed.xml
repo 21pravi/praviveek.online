@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Sep 2026 06:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:07:47 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 8, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-08</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-08</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers shifts in hardware economics, emerging energy sources, and the evolving landscape of consumer electronics and AI terminology. The Download: the hunt for underground hydrogen and more rogue OpenAI agents · First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost · Caltech Mathathon – first hackathon ever devoted to research level mathematics · The real reason your phone is getting more expensive · Six years later, Sony revisits its legendary XM4 headphones</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 7, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-07</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-05</guid>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest highlights shifting corporate strategies, infrastructure innovation, and the evolving ethical landscape surrounding AI development and deployment. Apple says more ex-employees may have taken confidential data to OpenAI · Third-party cyber evaluations involving OpenAI models · Anthropic signs $10B deal with AI cloud startup Volta · Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress · Is the future of data centers portable? Runware builds a pod to find out</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 4, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-04</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-04</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the technical challenges of agent behavior, corporate AI integration, and the evolving intersection of policy and public perception. Here’s why AI agents lie and cheat to reach their goals · The Download: reward hacking explained, and suspected Iranian cyberattacks · Congress’ favorite AI tool? ChatGPT · Circles powers telco personalization with OpenAI technology · How we built a realtime system for responsive voice AI in six months</description>
     </item>
   </channel>
 </rss>
