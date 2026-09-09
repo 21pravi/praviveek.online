@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-08T06:07:46.924131+00:00",
+  "updated": "2026-09-09T06:12:24.009812+00:00",
   "items": [
+    {
+      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2609.08965v1",
+      "date": "2026-09-08",
+      "summary": "This framework uses LLM agents to unify the fragmented process of testing autonomous driving systems, helping engineers automate scenario generation and analysis for safer vehicle deployment.",
+      "authors": "Yuan Gao, Sebastian Müller, Mattia Piccinini et al.",
+      "tags": [
+        "autonomous driving",
+        "llm agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153v1",
+      "date": "2026-09-08",
+      "summary": "The authors introduce procedural graphs to structure LLM agent workflows, preventing common issues like repetitive actions and poor long-term planning in complex task execution.",
+      "authors": "Yuxing Lu, Yicheng Chen, Shanchan Wu et al.",
+      "tags": [
+        "llm agents",
+        "planning",
+        "paper"
+      ]
+    },
+    {
+      "title": "ReCite: Agentic Reasoning for Faithful Citation",
+      "url": "https://arxiv.org/abs/2609.09156v1",
+      "date": "2026-09-08",
+      "summary": "This method improves citation accuracy in LLMs by forcing agents to verify that retrieved documents logically support specific claims, reducing the risk of misleading academic references.",
+      "authors": "Yuyang Huang, Bobo Li, Jiajia Song et al.",
+      "tags": [
+        "rag",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
+      "url": "https://arxiv.org/abs/2609.09134v1",
+      "date": "2026-09-08",
+      "summary": "The researchers demonstrate that iteratively improving the system environment (harness) allows smaller, cheaper models to achieve high performance on complex enterprise tasks.",
+      "authors": "Zhou Yu, Bin Bi, Shiva Kumar Pentyala et al.",
+      "tags": [
+        "llm",
+        "optimization",
+        "paper"
+      ]
+    },
     {
       "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
       "url": "https://arxiv.org/abs/2609.05363v1",
@@ -670,54 +718,6 @@
       "tags": [
         "agents",
         "evaluation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Topological Attribution Distance (TAD): Revealing Segment-Level RAG Influence on LLM Output Geometry for Incident Log Analysis",
-      "url": "https://arxiv.org/abs/2608.16775v1",
-      "date": "2026-08-17",
-      "summary": "This paper introduces a method to trace LLM outputs back to specific RAG segments, helping cybersecurity analysts verify the evidence behind automated decisions.",
-      "authors": "Reza Fayyazi, Michael Zuzak, Shanchieh Jay Yang",
-      "tags": [
-        "rag",
-        "explainability",
-        "paper"
-      ]
-    },
-    {
-      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
-      "url": "https://arxiv.org/abs/2608.16837v1",
-      "date": "2026-08-17",
-      "summary": "The authors propose a hierarchical framework to help generalist vision-language models coordinate complex, full-body movements for humanoid robots more effectively.",
-      "authors": "Langzhe Gu, Chengkai Hou, Meng Li et al.",
-      "tags": [
-        "robotics",
-        "reinforcement learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "TDD-Agent: Test-Driven Reasoning for Code Generation",
-      "url": "https://arxiv.org/abs/2608.16742v1",
-      "date": "2026-08-17",
-      "summary": "TDD-Agent improves code generation by forcing models to write and pass tests before implementation, ensuring higher accuracy for complex programming tasks.",
-      "authors": "Hongyue Yu, Kefan Li, Jiakun Li et al.",
-      "tags": [
-        "llm",
-        "code generation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Quipu: A Governed Bitemporal Knowledge Graph Store",
-      "url": "https://arxiv.org/abs/2608.16813v1",
-      "date": "2026-08-17",
-      "summary": "Quipu is a specialized knowledge graph store designed for AI agents that enforces strict governance and bitemporal tracking to ensure data reliability.",
-      "authors": "Steve Brown",
-      "tags": [
-        "knowledge graph",
-        "data governance",
         "paper"
       ]
     }

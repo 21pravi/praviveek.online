@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-08T06:07:43.905111+00:00",
+  "updated": "2026-09-09T06:12:20.234911+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-09",
+      "slug": "digest-2026-09-09",
+      "title": "AI & Tech Digest — September 9, 2026",
+      "intro": "Today's developments highlight the tension between rapid AI innovation, corporate data trust, and the challenges of academic attribution.",
+      "tags": [
+        "agents",
+        "ethics",
+        "gaming",
+        "generative ai",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "Funding grants for new research into AI and teen development",
+          "url": "https://openai.com/index/teen-development-research-grants",
+          "source": "OpenAI",
+          "summary": "OpenAI is offering five million dollars in funding to investigate the long-term psychological and safety impacts of generative AI on adolescent populations.",
+          "tags": [
+            "policy",
+            "research"
+          ]
+        },
+        {
+          "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+          "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+          "source": "MIT Tech Review",
+          "summary": "A new stealth startup is focusing on building autonomous agents capable of proactive planning and handling unpredictable real-world scenarios.",
+          "tags": [
+            "agents",
+            "startups"
+          ]
+        },
+        {
+          "title": "NVIDIA's DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power",
+          "url": "https://www.engadget.com/2253085/nvidias-dlss-5-adds-subtle-details-to-nba-2k27-but-demands-a-lot-more-power/",
+          "source": "Engadget",
+          "summary": "The latest version of NVIDIA's upscaling technology provides incremental visual improvements while requiring significantly higher computational resources for gaming.",
+          "tags": [
+            "hardware",
+            "gaming"
+          ]
+        },
+        {
+          "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+          "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's new personal assistant requires extensive access to sensitive user data, raising significant questions about privacy and consumer trust.",
+          "tags": [
+            "privacy",
+            "agents"
+          ]
+        },
+        {
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "source": "The Verge",
+          "summary": "Meta is deploying its new Muse agent as a strategic effort to regain competitiveness in the consumer artificial intelligence market.",
+          "tags": [
+            "llm",
+            "strategy"
+          ]
+        },
+        {
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "source": "The Verge",
+          "summary": "OpenAI has introduced a sketch-to-image feature that allows users to generate detailed visuals from simple hand-drawn inputs within the ChatGPT interface.",
+          "tags": [
+            "multimodal",
+            "generative ai"
+          ]
+        },
+        {
+          "title": "What's going on with OpenAI and the Navier-Stokes controversy?",
+          "url": "https://www.engadget.com/2253393/whats-going-on-with-openai-and-the-navier-stokes-controversy/",
+          "source": "Engadget",
+          "summary": "The recent claim that AI solved a complex mathematics problem has triggered a dispute regarding proper attribution and academic credit.",
+          "tags": [
+            "research",
+            "ethics"
+          ]
+        },
+        {
+          "title": "What OpenAI’s latest controversy tells us about the future of math",
+          "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+          "source": "MIT Tech Review",
+          "summary": "Disputes over OpenAI's recent mathematical breakthrough highlight broader concerns regarding transparency and the role of AI in formal scientific discovery.",
+          "tags": [
+            "research",
+            "math"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-08",
