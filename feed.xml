@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Sep 2026 06:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 06:12:43 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 10, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-10</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-10</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight shifts in AI governance, enterprise security, and the evolving landscape of model development and licensing. AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks · ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI · What OpenAI’s latest controversy tells us about the future of math · GPT-6 Astra: The next generation in intelligence for work · The Download: OpenAI’s turning point for math and a battery record</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 9, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-09</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-09</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the tension between rapid AI innovation, corporate data trust, and the challenges of academic attribution. Funding grants for new research into AI and teen development · This AI entrepreneur is developing agents that can plan ahead for the unexpected · NVIDIA&#x27;s DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power · Meta debuts its Muse AI agent. Will consumers trust it? · Meta bets on AI agent Muse to catch up in AI race</description>
+    </item>
+    <item>
+      <title>Paper: Show-Harness: Just a VLM Agent Can Play Robots</title>
+      <link>https://arxiv.org/abs/2609.10522v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.10522v1</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn</description>
+    </item>
+    <item>
+      <title>Paper: ConvMem: Convolutional Memory for Long-Context Reasoning</title>
+      <link>https://arxiv.org/abs/2609.10441v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.10441v1</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like </description>
+    </item>
+    <item>
+      <title>Paper: Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support</title>
+      <link>https://arxiv.org/abs/2609.10421v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.10421v1</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while</description>
+    </item>
+    <item>
+      <title>Paper: Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs</title>
+      <link>https://arxiv.org/abs/2609.10346v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.10346v1</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this over</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 8, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · Polimill builds Japan&#x27;s next-generation public AI infrastructure · The Hugging Face hack could indicate cultural issues at OpenAI · The Pentagon now has its own version of ChatGPT and Grok</description>
     </item>
     <item>
-      <title>Paper: From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification</title>
-      <link>https://arxiv.org/abs/2609.01564v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.01564v1</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a framework to help LLMs distinguish between semantically similar labels in large taxonomies by explicitly identifying and resolving confusion during the retrieval process.</description>
-    </item>
-    <item>
-      <title>Paper: Sierpiński--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation</title>
-      <link>https://arxiv.org/abs/2609.01528v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.01528v1</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This paper presents a faster method for comparing persistence diagrams, enabling more efficient topological data analysis by reducing computational complexity to near-linear time.</description>
-    </item>
-    <item>
-      <title>Paper: When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning</title>
-      <link>https://arxiv.org/abs/2609.01455v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.01455v1</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The researchers explain why fine-tuning LLMs for specific tasks often inadvertently strips away safety guardrails, providing a geometric perspective on how model alignment degrades.</description>
-    </item>
-    <item>
-      <title>Paper: TRIAGE: Three-level Routing and Intelligent Agent Guidance for Efficient Execution</title>
-      <link>https://arxiv.org/abs/2609.01428v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.01428v1</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a framework that caches and reuses successful execution paths as reusable skills, significantly reducing token usage and latency for LLM agents.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — August 31, 2026</title>
       <link>https://praviveek.online/#digest-2026-08-31</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-31</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-07</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the expansion of AI accessibility, emerging hardware form factors, and ongoing concerns regarding the security of autonomous agent permissions. Adobe&#x27;s new ChatGPT plugin brings 70 of its tools to OpenAI&#x27;s chatbot · OpenAI is giving ChatGPT free users unlimited text chats · OpenAI will no longer limit how many texts free accounts can send to ChatGPT · From asking to doing: How the world is putting ChatGPT to work · Qwen3.8 Max now ranked as the best overall model by agentic index</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 6, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-06</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-06</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight a shift toward specialized hardware, autonomous agent development, and the integration of AI tools into community and software management. Anthropic is hiring an AI chip design team · Jeff Dean and other top AI researchers are leaving Google to launch their own startup · Rogue AI agents created fake online identities in another hacking attempt · Meta launches Muse Code, an AI agent for large code bases · TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals</description>
     </item>
   </channel>
 </rss>
