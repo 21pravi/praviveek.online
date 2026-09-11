@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-10T06:12:43.297963+00:00",
+  "updated": "2026-09-11T06:15:30.128062+00:00",
   "items": [
+    {
+      "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
+      "url": "https://arxiv.org/abs/2609.11860v1",
+      "date": "2026-09-10",
+      "summary": "This research introduces a conversational interface that helps non-technical users interpret complex energy forecasting models, making machine learning insights more accessible for facility management.",
+      "authors": "Rodion Krjutškov, Eduard Barbu, Nikos Sakkas et al.",
+      "tags": [
+        "xai",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI",
+      "url": "https://arxiv.org/abs/2609.11737v1",
+      "date": "2026-09-10",
+      "summary": "The authors propose a framework that applies human organizational theory to multi-agent systems, allowing AI collectives to dynamically adapt their structure based on specific task requirements.",
+      "authors": "Zhengran Ji, Jonathan Hyun, Boyuan Chen",
+      "tags": [
+        "multi-agent",
+        "robotics",
+        "paper"
+      ]
+    },
+    {
+      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "url": "https://arxiv.org/abs/2609.11900v1",
+      "date": "2026-09-10",
+      "summary": "This paper introduces a benchmark to test whether foundation models can grasp fundamental topological concepts like continuity and enclosure, which are essential for true spatial reasoning.",
+      "authors": "Yunfei Ge, Anbang Liu, Qineng Wang et al.",
+      "tags": [
+        "benchmarking",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Nuha-Speech: Building General-Purpose Arabic Speech-LLMs",
+      "url": "https://arxiv.org/abs/2609.11892v1",
+      "date": "2026-09-10",
+      "summary": "The authors developed a comprehensive dataset and training pipeline to improve the performance of speech-based large language models specifically for the Arabic language.",
+      "authors": "Yingzhi Wang, Reem Alhazzani, Muhammad Alqurishi",
+      "tags": [
+        "speech",
+        "llm",
+        "paper"
+      ]
+    },
     {
       "title": "Show-Harness: Just a VLM Agent Can Play Robots",
       "url": "https://arxiv.org/abs/2609.10522v1",
@@ -666,54 +714,6 @@
       "tags": [
         "multimodal",
         "healthcare",
-        "paper"
-      ]
-    },
-    {
-      "title": "rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation",
-      "url": "https://arxiv.org/abs/2608.18952v1",
-      "date": "2026-08-19",
-      "summary": "This method stores LLM-generated reasoning as an editable memory, allowing recommendation systems to reuse insights without re-running expensive models for every request.",
-      "authors": "Minh Hoang Nguyen, Tung Le, Huy Tien Nguyen",
-      "tags": [
-        "recommendation",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-      "url": "https://arxiv.org/abs/2608.19197v1",
-      "date": "2026-08-19",
-      "summary": "This framework uses an LLM to generate its own interactive training environments, enabling agents to improve through self-play without relying on static, human-curated datasets.",
-      "authors": "Bo Liu, Simon Yu, Yiding Jiang et al.",
-      "tags": [
-        "reinforcement learning",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
-      "url": "https://arxiv.org/abs/2608.19171v1",
-      "date": "2026-08-19",
-      "summary": "This attention mechanism provides built-in uncertainty estimates for continuous-time data, helping data scientists understand the reliability of predictions made on irregularly sampled time series.",
-      "authors": "Sotirios P. Chatzis, Loukas Papadoulas",
-      "tags": [
-        "time-series",
-        "uncertainty",
-        "paper"
-      ]
-    },
-    {
-      "title": "Comment-level Topic Drift Analysis in the Reddit Corpus",
-      "url": "https://arxiv.org/abs/2608.19133v1",
-      "date": "2026-08-19",
-      "summary": "The authors developed a method to track how topics evolve over time in massive text datasets by analyzing semantic shifts within embedding spaces.",
-      "authors": "Steven Morse, Daniel Runfola, Trenton W. Ford",
-      "tags": [
-        "nlp",
-        "clustering",
         "paper"
       ]
     }

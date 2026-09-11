@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-10T06:12:13.894927+00:00",
+  "updated": "2026-09-11T06:15:27.527561+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-11",
+      "slug": "digest-2026-09-11",
+      "title": "AI & Tech Digest — September 11, 2026",
+      "intro": "Today's developments highlight the dual nature of AI, spanning from security risks and data privacy concerns to new enterprise and scientific applications.",
+      "tags": [
+        "agents",
+        "coding",
+        "data",
+        "enterprise",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "Anthropic caught scientists using Claude to further biological weapon research",
+          "url": "https://www.engadget.com/2255473/anthropic-caught-scientists-using-claude-to-further-biological-weapon-research/",
+          "source": "Engadget",
+          "summary": "Anthropic's documentation of misuse cases highlights the critical safety challenges involved in preventing AI models from assisting in the development of biological threats.",
+          "tags": [
+            "safety",
+            "policy"
+          ]
+        },
+        {
+          "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+          "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+          "source": "Hacker News",
+          "summary": "Concerns regarding OpenAI's handling of unpublished mathematical research underscore the growing tension between proprietary AI development and academic data privacy.",
+          "tags": [
+            "ethics",
+            "research"
+          ]
+        },
+        {
+          "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+          "url": "https://cognition.com/blog/swe-2",
+          "source": "Hacker News",
+          "summary": "Cognition's release of the SWE-2 model marks another step in the competitive race to automate complex software engineering tasks.",
+          "tags": [
+            "llm",
+            "coding"
+          ]
+        },
+        {
+          "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+          "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's research into how AI agents interact with CAPTCHAs provides insight into the behavioral patterns of autonomous systems attempting to bypass human-verification protocols.",
+          "tags": [
+            "agents",
+            "research"
+          ]
+        },
+        {
+          "title": "Introducing ChatGPT for Financial Services",
+          "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+          "source": "OpenAI",
+          "summary": "OpenAI is targeting the financial sector with a specialized tool designed to streamline research, financial modeling, and the creation of client documentation.",
+          "tags": [
+            "enterprise",
+            "finance"
+          ]
+        },
+        {
+          "title": "AI agents are flooding public services with new requests",
+          "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+          "source": "TechCrunch AI",
+          "summary": "The rise of AI-driven requests to public services suggests a shift in how citizens interact with government bureaucracy through automated assistance.",
+          "tags": [
+            "agents",
+            "policy"
+          ]
+        },
+        {
+          "title": "Now everyone can put data to work",
+          "url": "https://openai.com/index/put-data-to-work",
+          "source": "OpenAI",
+          "summary": "OpenAI's new data agent allows users to integrate internal company datasets to generate insights and dashboards using natural language queries.",
+          "tags": [
+            "data",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "NASA and IBM made an AI model for exploring the Moon",
+          "url": "https://www.engadget.com/2254569/nasa-ibm-ai-model-moon/",
+          "source": "Engadget",
+          "summary": "NASA and IBM have developed a specialized AI model to assist in lunar exploration and data analysis for upcoming space missions.",
+          "tags": [
+            "science",
+            "data"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-10",

@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Sep 2026 06:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:15:30 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 11, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-11</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the dual nature of AI, spanning from security risks and data privacy concerns to new enterprise and scientific applications. Anthropic caught scientists using Claude to further biological weapon research · More questions about whether researchers can trust OpenAI with unpublished math · Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra · Anthropic reveals rogue AI agents hate CAPTCHAs, just like you · Introducing ChatGPT for Financial Services</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 10, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-10</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-10</guid>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight shifts in AI governance, enterprise security, and the evolving landscape of model development and licensing. AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks · ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI · What OpenAI’s latest controversy tells us about the future of math · GPT-6 Astra: The next generation in intelligence for work · The Download: OpenAI’s turning point for math and a battery record</description>
+    </item>
+    <item>
+      <title>Paper: Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models</title>
+      <link>https://arxiv.org/abs/2609.11860v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.11860v1</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This research introduces a conversational interface that helps non-technical users interpret complex energy forecasting models, making machine learning insights more accessible for facility management.</description>
+    </item>
+    <item>
+      <title>Paper: ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI</title>
+      <link>https://arxiv.org/abs/2609.11737v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.11737v1</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a framework that applies human organizational theory to multi-agent systems, allowing AI collectives to dynamically adapt their structure based on specific task requirements.</description>
+    </item>
+    <item>
+      <title>Paper: MindTopo: Can Foundation Models Reason in Topological Space?</title>
+      <link>https://arxiv.org/abs/2609.11900v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.11900v1</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a benchmark to test whether foundation models can grasp fundamental topological concepts like continuity and enclosure, which are essential for true spatial reasoning.</description>
+    </item>
+    <item>
+      <title>Paper: Nuha-Speech: Building General-Purpose Arabic Speech-LLMs</title>
+      <link>https://arxiv.org/abs/2609.11892v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.11892v1</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors developed a comprehensive dataset and training pipeline to improve the performance of speech-based large language models specifically for the Arabic language.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 9, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s updates focus on OpenAI&#x27;s security challenges and model releases, alongside new enterprise integrations and Anthropic&#x27;s pricing adjustments. Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work · OpenAI’s Astra model is on the way — and very good at breaking into computer systems · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · ChatGPT Health adds Epic integration for clinicians to import patient data · OpenAI delayed its new model’s development after the Hugging Face hack</description>
     </item>
     <item>
-      <title>Paper: Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting</title>
-      <link>https://arxiv.org/abs/2609.02649v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.02649v1</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a framework that combines LLMs with statistical consistency to generate reliable root cause analysis from noisy, conflicting text data.</description>
-    </item>
-    <item>
-      <title>Paper: Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis</title>
-      <link>https://arxiv.org/abs/2609.02805v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.02805v1</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This paper proposes a structured reasoning framework to help LLMs diagnose complex telecom network issues more accurately by grounding their output in actual network evidence.</description>
-    </item>
-    <item>
-      <title>Paper: User Feedback Provides a Unique Signal that LLMs Can not Detect</title>
-      <link>https://arxiv.org/abs/2609.02859v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.02859v1</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The researchers demonstrate that user feedback is a highly valuable signal for improving model performance if evaluation methods are adjusted to account for existing biases.</description>
-    </item>
-    <item>
-      <title>Paper: Post-Training Language Models for Gold-Medal Performance in Coding Competitions</title>
-      <link>https://arxiv.org/abs/2609.02849v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.02849v1</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors detail a specialized training pipeline using synthetic reasoning and reinforcement learning to significantly boost the coding and problem-solving capabilities of language models.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 1, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-01</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-01</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-07</guid>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <description>The industry is shifting from simple conversational interfaces toward autonomous agentic workflows, physical robotics, and the complex security challenges that follow. The Rise of Autonomous Agents · The Physicality of AI · The Security and Governance Gap</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 7, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-07</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-07</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the expansion of AI accessibility, emerging hardware form factors, and ongoing concerns regarding the security of autonomous agent permissions. Adobe&#x27;s new ChatGPT plugin brings 70 of its tools to OpenAI&#x27;s chatbot · OpenAI is giving ChatGPT free users unlimited text chats · OpenAI will no longer limit how many texts free accounts can send to ChatGPT · From asking to doing: How the world is putting ChatGPT to work · Qwen3.8 Max now ranked as the best overall model by agentic index</description>
     </item>
   </channel>
 </rss>
