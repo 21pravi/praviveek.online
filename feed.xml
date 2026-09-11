@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 06:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:40:50 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — September 11, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-09-11</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-11</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The industry is shifting from passive chat interfaces to autonomous agentic workflows, forcing a reckoning with safety, academic integrity, and the limits of proprietary control. The Rise of Autonomous Agents · The Crisis of Scientific Integrity · The Institutionalization of Safety</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 11, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-11</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-10</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry · The AI safety test is becoming a safety risk · Anthropic is turning Claude Code’s auto mode on by default · AI detectors are creating a new era of distrust · Zuckerberg’s yacht was closer, but someone else saved a stranded boat</description>
-    </item>
-    <item>
-      <title>The Week in AI — August 7, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-08-07</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-07</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The industry is shifting from simple conversational interfaces toward autonomous agentic workflows, physical robotics, and the complex security challenges that follow. The Rise of Autonomous Agents · The Physicality of AI · The Security and Governance Gap</description>
     </item>
   </channel>
 </rss>

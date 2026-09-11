@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-11T06:15:27.527561+00:00",
+  "updated": "2026-09-11T16:40:50.673750+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-09-11",
+      "slug": "roundup-2026-09-11",
+      "title": "The Week in AI — September 11, 2026",
+      "intro": "The industry is shifting from passive chat interfaces to autonomous agentic workflows, forcing a reckoning with safety, academic integrity, and the limits of proprietary control.",
+      "tags": [
+        "autonomous agents",
+        "ai safety",
+        "scientific integrity",
+        "enterprise ai"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Autonomous Agents",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From SWE-2 to Muse and proactive planning agents, the focus has moved toward models that execute tasks rather than just generating text. For data scientists, this necessitates a shift in focus toward building robust guardrails and monitoring systems to manage the security risks inherent in autonomous, self-improving workflows.",
+          "tags": []
+        },
+        {
+          "title": "The Crisis of Scientific Integrity",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Controversies surrounding OpenAI's mathematical claims and research data privacy highlight a growing friction between corporate speed and academic rigor. Data scientists must remain skeptical of 'black-box' breakthroughs, prioritizing verifiable, reproducible methodologies over proprietary claims that lack transparent peer review.",
+          "tags": []
+        },
+        {
+          "title": "The Institutionalization of Safety",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "With high-profile resignations and new board appointments, the industry is formalizing its approach to existential risk and misuse. This transition from theoretical concern to operational policy means practitioners will increasingly face strict compliance frameworks and ethical constraints when deploying powerful, agentic models.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-11",
