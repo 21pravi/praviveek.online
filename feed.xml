@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:40:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:35:57 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 14, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-14</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-14</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the latest model releases, industry governance debates, and the intersection of AI with public policy and data privacy. How to use GPT-6 Astra when it rolls out to you · Trump and Mike Johnson think the AI industry is overreacting · Sam Altman says OpenAI won&#x27;t file for IPO this year · Obama urges Democrats to have a ‘clear plan’ for AI safeguards · Perplexity trusts GPT-6 Astra with end-to-end systems</description>
+    </item>
     <item>
       <title>The Week in AI — September 11, 2026</title>
       <link>https://praviveek.online/#roundup-2026-09-11</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-11</guid>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the intersection of specialized AI model development, cybersecurity risks, and the evolving role of reasoning in scientific research. As AI-led attacks multiply, OpenAI launches a new cyber model · These startups are chasing the next big thing in LLMs · Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows · AI for science needs reasoning, not just data · OpenAI slows down Astra development due to cybersecurity concerns</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 10, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-10</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-10</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion. Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry · The AI safety test is becoming a safety risk · Anthropic is turning Claude Code’s auto mode on by default · AI detectors are creating a new era of distrust · Zuckerberg’s yacht was closer, but someone else saved a stranded boat</description>
     </item>
   </channel>
 </rss>

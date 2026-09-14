@@ -1,6 +1,99 @@
 {
-  "updated": "2026-09-11T16:40:50.673750+00:00",
+  "updated": "2026-09-14T06:35:56.752717+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-14",
+      "slug": "digest-2026-09-14",
+      "title": "AI & Tech Digest — September 14, 2026",
+      "intro": "Today's digest covers the latest model releases, industry governance debates, and the intersection of AI with public policy and data privacy.",
+      "tags": [
+        "automation",
+        "autonomous vehicles",
+        "business",
+        "data",
+        "industry"
+      ],
+      "items": [
+        {
+          "title": "How to use GPT-6 Astra when it rolls out to you",
+          "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+          "source": "Engadget",
+          "summary": "OpenAI has initiated the deployment of its GPT-6 Astra model, providing users with guidance on access and best practices for implementation.",
+          "tags": [
+            "llm",
+            "openai"
+          ]
+        },
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "source": "The Verge",
+          "summary": "Political leaders are expressing skepticism toward recent calls from major AI executives to implement voluntary development slowdowns.",
+          "tags": [
+            "policy",
+            "industry"
+          ]
+        },
+        {
+          "title": "Sam Altman says OpenAI won't file for IPO this year",
+          "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/",
+          "source": "Engadget",
+          "summary": "OpenAI leadership has confirmed that the company will remain private for the remainder of the year to avoid premature market exposure.",
+          "tags": [
+            "business"
+          ]
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "source": "TechCrunch AI",
+          "summary": "Former President Obama is advising the Democratic party to establish a formal policy framework to manage the economic and safety implications of AI.",
+          "tags": [
+            "policy"
+          ]
+        },
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI",
+          "summary": "Perplexity is integrating GPT-6 Astra into its infrastructure to automate complex tasks, reducing the need for constant human oversight of production systems.",
+          "tags": [
+            "llm",
+            "automation"
+          ]
+        },
+        {
+          "title": "Your car is selling your data",
+          "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+          "source": "The Verge",
+          "summary": "Modern vehicles are increasingly functioning as data collection platforms, raising significant concerns regarding consumer privacy and the secondary use of driving information.",
+          "tags": [
+            "privacy",
+            "data"
+          ]
+        },
+        {
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "source": "TechCrunch AI",
+          "summary": "Industry analysts are examining the motivations and validity behind the current discourse surrounding potential existential risks posed by advanced artificial intelligence.",
+          "tags": [
+            "industry"
+          ]
+        },
+        {
+          "title": "Waymo pulls over, calls cops on riders with a ghost gun",
+          "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+          "source": "The Verge",
+          "summary": "A Waymo autonomous vehicle successfully alerted authorities to passengers carrying an illegal firearm, highlighting new safety protocols for robotaxi operations.",
+          "tags": [
+            "autonomous vehicles",
+            "safety"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-09-11",
