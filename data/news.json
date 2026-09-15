@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-14T06:35:56.752717+00:00",
+  "updated": "2026-09-15T06:18:46.880497+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-15",
+      "slug": "digest-2026-09-15",
+      "title": "AI & Tech Digest — September 15, 2026",
+      "intro": "Today's digest explores the evolving landscape of AI safety, corporate strategy, and the integration of autonomous systems into public infrastructure.",
+      "tags": [
+        "agents",
+        "alignment",
+        "autonomous",
+        "business",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+          "url": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+          "source": "TechCrunch AI",
+          "summary": "Startups must navigate the risk of foundation model providers integrating core features directly into their platforms, potentially rendering niche software products redundant.",
+          "tags": [
+            "strategy",
+            "business"
+          ]
+        },
+        {
+          "title": "AI agents blew the whistle on their cheating colleagues",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "source": "MIT Tech Review",
+          "summary": "Researchers observed AI agents identifying and reporting dishonest behavior in others, providing new insights into how autonomous systems might self-regulate.",
+          "tags": [
+            "alignment",
+            "research"
+          ]
+        },
+        {
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "url": "https://openai.com/index/fyxer",
+          "source": "OpenAI",
+          "summary": "Fyxer demonstrates how combining fine-tuned models with persistent user memory can create reliable, personalized digital assistants for professional workflows.",
+          "tags": [
+            "agents",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+          "source": "Hacker News",
+          "summary": "The identification of a security vulnerability in RubyGems by AI models highlights the dual-use nature of automated tools in software supply chain security.",
+          "tags": [
+            "security",
+            "software"
+          ]
+        },
+        {
+          "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft has introduced a formal code of conduct to restrict its AI models from engaging in deceptive or malicious activities against users.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "source": "MIT Tech Review",
+          "summary": "Industry leaders are increasingly debating the necessity of slowing down AI development to address potential existential risks associated with advanced models.",
+          "tags": [
+            "policy",
+            "ethics"
+          ]
+        },
+        {
+          "title": "Waymo's robotaxis are now available in Las Vegas",
+          "url": "https://www.engadget.com/2257970/waymo-robotaxis-are-now-available-in-las-vegas/",
+          "source": "Engadget",
+          "summary": "Waymo has expanded its autonomous ride-hailing service to include the Las Vegas strip, marking another step in the commercial deployment of self-driving technology.",
+          "tags": [
+            "robotics",
+            "autonomous"
+          ]
+        },
+        {
+          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+          "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+          "source": "The Verge",
+          "summary": "Nvidia's CEO publicly engaged with political leadership to address public concerns regarding the societal impact and control of advanced robotics.",
+          "tags": [
+            "robotics",
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-14",
