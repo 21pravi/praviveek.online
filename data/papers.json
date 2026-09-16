@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-11T06:15:30.128062+00:00",
+  "updated": "2026-09-16T06:17:30.456784+00:00",
   "items": [
+    {
+      "title": "Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation",
+      "url": "https://arxiv.org/abs/2609.17398v1",
+      "date": "2026-09-15",
+      "summary": "The authors evaluate how LLMs can automatically simplify complex medical jargon into plain language, helping data scientists build more accessible healthcare communication tools.",
+      "authors": "Ting-Wei Chang, Hen-Hsen Huang, Hsin-Hsi Chen",
+      "tags": [
+        "nlp",
+        "healthcare",
+        "paper"
+      ]
+    },
+    {
+      "title": "Where Should a Document Live: Context, Representations, or Parameters?",
+      "url": "https://arxiv.org/abs/2609.17346v1",
+      "date": "2026-09-15",
+      "summary": "This study compares the performance and cost trade-offs of using context windows, fine-tuning, or latent representations to help LLMs access new information, informing better RAG design decisions.",
+      "authors": "Nathanaël Carraz Rakotonirina, Momchil Hardalov, Gonzalo Iglesias et al.",
+      "tags": [
+        "llm",
+        "rag",
+        "paper"
+      ]
+    },
+    {
+      "title": "Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models",
+      "url": "https://arxiv.org/abs/2609.17291v1",
+      "date": "2026-09-15",
+      "summary": "The researchers demonstrate a method for extracting structured, ontology-compliant data from scientific literature, providing a template for turning unstructured research papers into usable material science databases.",
+      "authors": "Marco Luca Sbodio, Marcos Martínez Galindo, Vanessa Lopez et al.",
+      "tags": [
+        "ie",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services",
+      "url": "https://arxiv.org/abs/2609.17193v1",
+      "date": "2026-09-15",
+      "summary": "The paper introduces a scheduling framework to optimize latency and load balancing for LLM inference at the edge, critical for deploying responsive AI agents in distributed environments.",
+      "authors": "Zhen Li, Jun Cai, Haoran Gao et al.",
+      "tags": [
+        "edge-ai",
+        "inference",
+        "paper"
+      ]
+    },
     {
       "title": "Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models",
       "url": "https://arxiv.org/abs/2609.11860v1",
@@ -666,54 +714,6 @@
       "tags": [
         "statistics",
         "calibration",
-        "paper"
-      ]
-    },
-    {
-      "title": "MidTool: Mid-training Data Synthesis for Agentic Tool Use",
-      "url": "https://arxiv.org/abs/2608.20314v1",
-      "date": "2026-08-20",
-      "summary": "The authors created a pipeline to synthesize training data for improving how LLMs interact with external software tools, helping developers build more reliable autonomous agents.",
-      "authors": "Fengqing Jiang, Yite Wang, Boyi Liu et al.",
-      "tags": [
-        "llm",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents",
-      "url": "https://arxiv.org/abs/2608.20274v1",
-      "date": "2026-08-20",
-      "summary": "This study analyzes how breaking down skills into subtasks versus whole tasks affects an agent's ability to reuse knowledge, providing a roadmap for more robust skill transfer.",
-      "authors": "Yiyang Feng, Biddut Sarker Bijoy, Niranjan Balasubramanian et al.",
-      "tags": [
-        "llm",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Electronic Navigational Chart Change Classification",
-      "url": "https://arxiv.org/abs/2608.20218v1",
-      "date": "2026-08-20",
-      "summary": "Researchers developed an automated classification system to identify high-risk changes in maritime navigational charts, reducing the need for manual review and improving safety consistency.",
-      "authors": "Jacob Arndt, Abhishek Potnis, Alexandre Sorokine",
-      "tags": [
-        "geospatial",
-        "classification",
-        "paper"
-      ]
-    },
-    {
-      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-      "url": "https://arxiv.org/abs/2608.20331v1",
-      "date": "2026-08-20",
-      "summary": "This paper introduces a framework for generating patient-friendly medical report summaries that remain factually grounded, helping data scientists build more trustworthy healthcare communication tools.",
-      "authors": "Shiao Xie, Siyu Chen, Jianwei Lv et al.",
-      "tags": [
-        "multimodal",
-        "healthcare",
         "paper"
       ]
     }

@@ -1,6 +1,101 @@
 {
-  "updated": "2026-09-15T06:18:46.880497+00:00",
+  "updated": "2026-09-16T06:17:26.003616+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-16",
+      "slug": "digest-2026-09-16",
+      "title": "AI & Tech Digest — September 16, 2026",
+      "intro": "Today's updates highlight the intersection of specialized data acquisition, safety governance, and the practical integration of AI agents into business workflows.",
+      "tags": [
+        "automation",
+        "biology",
+        "data",
+        "enterprise",
+        "funding"
+      ],
+      "items": [
+        {
+          "title": "AI models need more data about biology, and OpenAI is paying to create it",
+          "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+          "source": "MIT Tech Review",
+          "summary": "OpenAI is exploring the acquisition of proprietary biological data from failed biotech firms to improve the performance of medical AI models.",
+          "tags": [
+            "biology",
+            "data"
+          ]
+        },
+        {
+          "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup, AIUC, secured $40 million to develop technical solutions aimed at controlling the behavior of autonomous AI agents.",
+          "tags": [
+            "safety",
+            "funding"
+          ]
+        },
+        {
+          "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+          "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+          "source": "TechCrunch AI",
+          "summary": "Salesforce released a reasoning model built on Nvidia's architecture, specifically optimized for enterprise sales and customer support operations.",
+          "tags": [
+            "enterprise",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "source": "TechCrunch AI",
+          "summary": "Major AI labs are coordinating on safety standards while navigating shifting political priorities regarding global AI competition.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "url": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "source": "TechCrunch AI",
+          "summary": "A review of discontinued AI initiatives highlights the recurring technical and strategic challenges that lead to project failures in the industry.",
+          "tags": [
+            "industry"
+          ]
+        },
+        {
+          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "source": "TechCrunch AI",
+          "summary": "Meta introduced a new server for WhatsApp Business that enables developers to automate setup and troubleshooting tasks using AI coding agents.",
+          "tags": [
+            "automation",
+            "tools"
+          ]
+        },
+        {
+          "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
+          "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+          "source": "MIT Tech Review",
+          "summary": "Industry leaders are increasingly aligning on the potential risks posed by advanced language models, signaling a shift in the current AI discourse.",
+          "tags": [
+            "safety",
+            "llm"
+          ]
+        },
+        {
+          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+          "source": "Hacker News",
+          "summary": "Google has released updated Gemini models featuring enhanced live interaction capabilities and extended reasoning processes.",
+          "tags": [
+            "llm",
+            "google"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-15",

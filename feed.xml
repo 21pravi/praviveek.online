@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 06:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:17:30 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 16, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-16</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the intersection of specialized data acquisition, safety governance, and the practical integration of AI agents into business workflows. AI models need more data about biology, and OpenAI is paying to create it · Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents · Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear · OpenAI, Anthropic, Google have been in talks on AI safety for weeks · The AI graveyard: a running list of projects and startups that didn’t make it</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 15, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-15</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest explores the evolving landscape of AI safety, corporate strategy, and the integration of autonomous systems into public infrastructure. Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? · AI agents blew the whistle on their cheating colleagues · How Fyxer built an AI executive assistant people trust · OpenAI bots knew about the RubyGems caching vulnerability · Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</description>
+    </item>
+    <item>
+      <title>Paper: Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation</title>
+      <link>https://arxiv.org/abs/2609.17398v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.17398v1</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors evaluate how LLMs can automatically simplify complex medical jargon into plain language, helping data scientists build more accessible healthcare communication tools.</description>
+    </item>
+    <item>
+      <title>Paper: Where Should a Document Live: Context, Representations, or Parameters?</title>
+      <link>https://arxiv.org/abs/2609.17346v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.17346v1</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This study compares the performance and cost trade-offs of using context windows, fine-tuning, or latent representations to help LLMs access new information, informing better RAG design decisions.</description>
+    </item>
+    <item>
+      <title>Paper: Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models</title>
+      <link>https://arxiv.org/abs/2609.17291v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.17291v1</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The researchers demonstrate a method for extracting structured, ontology-compliant data from scientific literature, providing a template for turning unstructured research papers into usable material science databases.</description>
+    </item>
+    <item>
+      <title>Paper: End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services</title>
+      <link>https://arxiv.org/abs/2609.17193v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.17193v1</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The paper introduces a scheduling framework to optimize latency and load balancing for LLM inference at the edge, critical for deploying responsive AI agents in distributed environments.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 14, 2026</title>
@@ -197,34 +232,6 @@
       <description>Researchers fear safety disaster ahead of OpenAI’s Astra release · US government sides with OpenAI on issue of training LLMs on copyrighted material · Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more · TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals · OpenAI’s new reasoning technique alarms AI safety experts</description>
     </item>
     <item>
-      <title>Paper: SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center</title>
-      <link>https://arxiv.org/abs/2609.04159v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.04159v1</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This architecture improves cybersecurity SOC agents by using graph encoders to handle large network topologies, preventing LLMs from making invalid containment decisions due to context limits.</description>
-    </item>
-    <item>
-      <title>Paper: When Models Edit Too Much: On the Fidelity of Minimal Code Edits</title>
-      <link>https://arxiv.org/abs/2609.04061v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.04061v1</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Researchers found that even top-tier LLMs often rewrite more code than necessary when fixing bugs, which complicates code reviews and reduces the maintainability of automated patches.</description>
-    </item>
-    <item>
-      <title>Paper: The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations</title>
-      <link>https://arxiv.org/abs/2609.04047v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.04047v1</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a standardized statistical framework for auditing how consistently LLMs recommend brands, helping practitioners measure and account for model output variance.</description>
-    </item>
-    <item>
-      <title>Paper: Rethinking On-Policy Distillation of Large Language Models II: One Training Example</title>
-      <link>https://arxiv.org/abs/2609.04172v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.04172v1</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors demonstrate that LLMs can learn effective policies from just a single training example through on-policy distillation, challenging assumptions about the necessity of massive datasets.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 2, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-02</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-02</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-13</guid>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the shift toward agentic AI implementation, enterprise infrastructure challenges, and significant capital flowing into the AI software ecosystem. From assistance to execution: How enterprises put AI to work · Scaling AI agents with trustworthy data · Honor launches its long-awaited Robot Phone and yes it can wiggle at you · OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise · Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 12, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-12</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-12</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight significant scaling in AI user adoption, cybersecurity infrastructure, and the ongoing evolution of generative model deployment. The Download: the next big thing in LLMs and how AI academic research is shifting · As AI-led attacks multiply, OpenAI launches a new cyber model · OpenAI launches ChatGPT desktop app for Linux · OpenAI gives Daybreak partners access to a more powerful cybersecurity model · Anthropic says it will watermark text generated by its AI models</description>
     </item>
   </channel>
 </rss>
