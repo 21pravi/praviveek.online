@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 06:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:18:34 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 17, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-17</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the rapid integration of AI agents into physical hardware, smart home ecosystems, and enterprise workflows. Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026 · Your AI agents can now control your Google Home devices · Google will now let any AI agent run your smart home · Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? · The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 16, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-16</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-14</guid>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on enterprise-grade performance, multi-agent behavioral research, and the evolving landscape of AI governance and infrastructure. OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed · Anthropic set AI agents loose on the same task. They started a turf war. · The builder’s guide to GPT‑5.6 · Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes · Writer introduces new AI model and upgraded harness to contain token costs</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 13, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-13</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-13</guid>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the shift toward agentic AI implementation, enterprise infrastructure challenges, and significant capital flowing into the AI software ecosystem. From assistance to execution: How enterprises put AI to work · Scaling AI agents with trustworthy data · Honor launches its long-awaited Robot Phone and yes it can wiggle at you · OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise · Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes</description>
     </item>
   </channel>
 </rss>

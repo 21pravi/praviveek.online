@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-16T06:17:26.003616+00:00",
+  "updated": "2026-09-17T06:18:33.845076+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-17",
+      "slug": "digest-2026-09-17",
+      "title": "AI & Tech Digest — September 17, 2026",
+      "intro": "Today's developments highlight the rapid integration of AI agents into physical hardware, smart home ecosystems, and enterprise workflows.",
+      "tags": [
+        "agents",
+        "ai",
+        "consumer",
+        "economics",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia executives are discussing the technical and practical hurdles preventing robotics from reaching widespread consumer adoption at the upcoming TechCrunch Disrupt conference.",
+          "tags": [
+            "robotics",
+            "nvidia"
+          ]
+        },
+        {
+          "title": "Your AI agents can now control your Google Home devices",
+          "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+          "source": "TechCrunch AI",
+          "summary": "Google is enabling third-party AI agents to interact with smart home devices through the Model Context Protocol, allowing for natural language control of home systems.",
+          "tags": [
+            "iot",
+            "agents"
+          ]
+        },
+        {
+          "title": "Google will now let any AI agent run your smart home",
+          "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "source": "The Verge",
+          "summary": "The adoption of the Model Context Protocol by Google allows diverse AI models to interface directly with smart home hardware and data streams.",
+          "tags": [
+            "iot",
+            "protocols"
+          ]
+        },
+        {
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+          "source": "TechCrunch AI",
+          "summary": "Leading AI labs are proposing internal safety evaluation frameworks, though experts remain skeptical about whether these systems can maintain true independence without external regulation.",
+          "tags": [
+            "safety",
+            "policy"
+          ]
+        },
+        {
+          "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+          "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+          "source": "MIT Tech Review",
+          "summary": "Financial analysts and researchers are evaluating the long-term economic implications of the massive capital investments currently flowing into artificial intelligence development.",
+          "tags": [
+            "economics",
+            "funding"
+          ]
+        },
+        {
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Industry experts are examining how startups can effectively integrate AI agents into their workforce while maintaining operational speed and company culture.",
+          "tags": [
+            "agents",
+            "workforce"
+          ]
+        },
+        {
+          "title": "Former Infosys chief’s AI startup nabs another $53M",
+          "url": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+          "source": "TechCrunch AI",
+          "summary": "A Palo Alto-based AI startup founded by a former Infosys executive secured significant new funding following rapid enterprise contract growth.",
+          "tags": [
+            "funding",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "source": "The Verge",
+          "summary": "Snap is introducing an anticipatory AI assistant for its hardware and software ecosystem designed to manage personal tasks and cross-platform information.",
+          "tags": [
+            "consumer",
+            "ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-16",
