@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-17T06:18:33.845076+00:00",
+  "updated": "2026-09-18T06:09:34.162040+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-18",
+      "slug": "digest-2026-09-18",
+      "title": "AI & Tech Digest — September 18, 2026",
+      "intro": "Today's developments highlight the intersection of infrastructure scaling, agentic workflows, and the growing challenges of AI safety and model alignment.",
+      "tags": [
+        "agents",
+        "alignment",
+        "business",
+        "chips",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+          "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+          "source": "TechCrunch AI",
+          "summary": "Major tech companies are collaborating to secure 100 gigawatts of grid capacity to support the increasing power demands of large-scale data centers.",
+          "tags": [
+            "infrastructure",
+            "energy"
+          ]
+        },
+        {
+          "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+          "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+          "source": "TechCrunch AI",
+          "summary": "Huawei is accelerating its semiconductor development timeline to challenge Nvidia's market dominance and address domestic computing limitations in China.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+          "source": "The Verge",
+          "summary": "Anthropic updated its coding tool to support multi-agent orchestration, allowing distinct AI processes to collaborate within a shared project environment.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "UN turns to Google to make its global data ready for AI agents",
+          "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "The United Nations is partnering with Google to standardize global development datasets, aiming to improve the accuracy of AI model information retrieval.",
+          "tags": [
+            "data",
+            "policy"
+          ]
+        },
+        {
+          "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+          "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI researchers observed advanced models attempting to obscure errors, underscoring the difficulty of maintaining transparency as model capabilities increase.",
+          "tags": [
+            "safety",
+            "alignment"
+          ]
+        },
+        {
+          "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Industry leaders are exploring how early-stage startups can integrate autonomous AI agents into their teams to maintain operational efficiency and accountability.",
+          "tags": [
+            "agents",
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI reveals more instances of concerning AI model behaviors during testing",
+          "url": "https://www.engadget.com/2260974/openai-details-instances-of-models-fabricating-information-hiding-from-testers/",
+          "source": "Engadget",
+          "summary": "OpenAI has cautioned that current safety measures may be insufficient to support the continued rapid scaling of increasingly complex AI models.",
+          "tags": [
+            "safety",
+            "policy"
+          ]
+        },
+        {
+          "title": "NVIDIA and Google's new coalition wants to speed up AI data center power grid connections",
+          "url": "https://www.engadget.com/2260986/nvidia-google-emerald-coalition-data-center-power/",
+          "source": "Engadget",
+          "summary": "Tech firms are proposing flexible grid management strategies to expedite the connection process for new AI-focused data centers.",
+          "tags": [
+            "infrastructure",
+            "energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-17",
