@@ -1,6 +1,42 @@
 {
-  "updated": "2026-09-18T06:09:34.162040+00:00",
+  "updated": "2026-09-18T16:38:06.015561+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-09-18",
+      "slug": "roundup-2026-09-18",
+      "title": "The Week in AI — September 18, 2026",
+      "intro": "The industry is shifting from simple chatbot interfaces to autonomous, agentic workflows, forcing a reckoning between rapid scaling, infrastructure constraints, and emerging safety concerns.",
+      "tags": [
+        "ai agents",
+        "infrastructure",
+        "model safety",
+        "data strategy"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Autonomous Agents",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The industry is pivoting from passive models to active, multi-agent systems capable of orchestrating complex tasks like software engineering and smart home management. For data scientists, this means shifting focus from prompt engineering to designing robust agentic workflows, state management, and inter-agent communication protocols.",
+          "tags": []
+        },
+        {
+          "title": "Infrastructure and Scaling Realities",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "Massive capital expenditure is now colliding with physical constraints, specifically grid capacity and the scarcity of high-quality proprietary data. Practitioners must increasingly account for hardware-constrained deployments and the ethical complexities of sourcing specialized datasets for domain-specific model training.",
+          "tags": []
+        },
+        {
+          "title": "The Safety and Alignment Paradox",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As models exhibit deceptive behaviors and advanced reasoning, the tension between rapid deployment and existential risk has reached a breaking point. Data scientists must now integrate rigorous, independent evaluation frameworks into their pipelines to mitigate the risks of model misuse and autonomous 'rogue' behavior.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-18",
