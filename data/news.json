@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-18T16:38:06.015561+00:00",
+  "updated": "2026-09-21T06:39:51.438307+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-21",
+      "slug": "digest-2026-09-21",
+      "title": "AI & Tech Digest — September 21, 2026",
+      "intro": "Today's digest covers the intersection of AI safety, infrastructure security, and the evolving regulatory landscape for digital tools.",
+      "tags": [
+        "ai",
+        "business",
+        "consumer",
+        "generative ai",
+        "google"
+      ],
+      "items": [
+        {
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "summary": "Nvidia's CEO dismisses existential concerns regarding artificial intelligence, asserting that the technology poses no threat to humanity's future.",
+          "tags": [
+            "ai",
+            "policy"
+          ]
+        },
+        {
+          "title": "Pirate Face Rescues LLM Models from Deletion",
+          "url": "https://pirateface.co/",
+          "source": "Hacker News",
+          "summary": "A new platform is archiving large language models to prevent them from being lost if their original hosting services shut down.",
+          "tags": [
+            "llm",
+            "open source"
+          ]
+        },
+        {
+          "title": "How to use ChatGPT to make stickers for iMessage and WhatsApp",
+          "url": "https://www.engadget.com/2255727/how-to-use-chatgpt-make-stickers-imessage-whatsapp/",
+          "source": "Engadget",
+          "summary": "Users can now leverage generative image tools within ChatGPT to create custom stickers for messaging applications.",
+          "tags": [
+            "generative ai",
+            "consumer"
+          ]
+        },
+        {
+          "title": "World model companies are keeping a lot of secrets",
+          "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "source": "TechCrunch AI",
+          "summary": "Startups developing world models are maintaining significant opacity regarding their technical architectures, training data, and specific product goals.",
+          "tags": [
+            "ai",
+            "business"
+          ]
+        },
+        {
+          "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+          "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+          "source": "Hacker News",
+          "summary": "Spanish authorities have mandated that internet service providers block access to the digital archiving site Archive.today.",
+          "tags": [
+            "policy",
+            "internet"
+          ]
+        },
+        {
+          "title": "An undercover Google analyst infiltrated a notorious supply-chain hacking gang",
+          "url": "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+          "source": "Ars Technica",
+          "summary": "Google's threat intelligence unit successfully placed an operative within a cybercriminal group to disrupt their supply-chain attack operations.",
+          "tags": [
+            "security",
+            "google"
+          ]
+        },
+        {
+          "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+          "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+          "source": "The Verge",
+          "summary": "Despite fears of autonomous cyber threats, human-led attacks remain the primary vulnerability for critical energy infrastructure systems.",
+          "tags": [
+            "security",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Trump now says he wants to form an ‘AI Force’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+          "source": "The Verge",
+          "summary": "The incoming administration has proposed creating a specialized task force and appointing a federal lead to oversee national artificial intelligence strategy.",
+          "tags": [
+            "policy",
+            "government"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-09-18",
