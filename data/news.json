@@ -1,6 +1,101 @@
 {
-  "updated": "2026-09-21T06:39:51.438307+00:00",
+  "updated": "2026-09-22T06:27:38.682873+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-22",
+      "slug": "digest-2026-09-22",
+      "title": "AI & Tech Digest — September 22, 2026",
+      "intro": "Today's digest covers rapid AI adoption, corporate platform restrictions, and new educational initiatives in the evolving machine learning landscape.",
+      "tags": [
+        "business",
+        "education",
+        "funding",
+        "generative ai",
+        "governance"
+      ],
+      "items": [
+        {
+          "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+          "source": "TechCrunch AI",
+          "summary": "Meta's Muse agent has achieved faster mobile adoption rates in North America than ChatGPT did during its initial release phase.",
+          "tags": [
+            "llm",
+            "mobile"
+          ]
+        },
+        {
+          "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+          "source": "TechCrunch AI",
+          "summary": "Prominent venture capitalists are evaluating the future trajectory of the startup ecosystem and identifying potential sectors for upcoming innovation.",
+          "tags": [
+            "funding",
+            "startups"
+          ]
+        },
+        {
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon has restricted Meta's AI agent from accessing its platform, likely to protect its own competing foundation models and infrastructure.",
+          "tags": [
+            "policy",
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI established an independent advisory board to oversee the validation and public reporting of its AI's performance on complex mathematical challenges.",
+          "tags": [
+            "research",
+            "governance"
+          ]
+        },
+        {
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "source": "OpenAI",
+          "summary": "OpenAI is launching structured educational programs to help various professional groups and students develop practical skills for working with AI technologies.",
+          "tags": [
+            "education"
+          ]
+        },
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "source": "OpenAI",
+          "summary": "An external advisory board will provide oversight for OpenAI's mathematical research, ensuring rigorous review of new findings without hindering development speed.",
+          "tags": [
+            "research",
+            "governance"
+          ]
+        },
+        {
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "source": "OpenAI",
+          "summary": "Higgsfield AI utilized GPT-6 Astra to accelerate the deployment of video generation tools designed for small business marketing.",
+          "tags": [
+            "llm",
+            "generative ai"
+          ]
+        },
+        {
+          "title": "Transformers Explained Visually",
+          "url": "https://poloclub.github.io/transformer-explainer/",
+          "source": "Hacker News",
+          "summary": "A new interactive visualization tool provides a clear, intuitive look at how transformer architectures function internally.",
+          "tags": [
+            "education",
+            "transformers"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-21",

@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Sep 2026 06:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:27:39 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 22, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-22</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-22</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers rapid AI adoption, corporate platform restrictions, and new educational initiatives in the evolving machine learning landscape. Meta’s Muse is outpacing ChatGPT’s early mobile launch · Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026 · Meta’s AI agent has been blocked from using Amazon.com · OpenAI forms math advisory group as its AI resolves more than 100 open problems · Expanding OpenAI Academy with new learning paths</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 21, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-21</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-19</guid>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the tension between rapid AI development, corporate transparency, and the implementation of necessary safety protocols. We still don’t know how people are really using AI · OpenAI launches a safer ChatGPT for teens — years after teens started using it · AI’s recursive self-improvement might not come so quickly after all · OpenAI lays out new security changes after its AI hacked Hugging Face · OpenAI institutes new safeguards after Hugging Face breach</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 18, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-18</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-18</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight significant shifts in AI infrastructure, corporate consolidation, and the evolving ethical landscape of model training data. Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project · GPT 5.6 Sol is the best &quot;vision&quot; model OpenAI ever released · Groq raises $350M to fuel its pivot from AI chips to neocloud · Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+ · OpenAI joins PORTS-Pike project</description>
     </item>
   </channel>
 </rss>
