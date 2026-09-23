@@ -1,6 +1,93 @@
 {
-  "updated": "2026-09-22T06:27:38.682873+00:00",
+  "updated": "2026-09-23T06:12:10.885043+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-23",
+      "slug": "digest-2026-09-23",
+      "title": "AI & Tech Digest — September 23, 2026",
+      "intro": "Today's updates highlight the rapid evolution of frontier AI models alongside new hardware capabilities designed to run sophisticated agents on consumer devices.",
+      "tags": [
+        "agents",
+        "chips",
+        "llm",
+        "policy"
+      ],
+      "items": [
+        {
+          "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+          "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has released two new models, Sol and Luna, aimed at improving operational efficiency and reducing error rates in automated tasks.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Anthropic and OpenAI announce more powerful (and cheaper) AI models",
+          "url": "https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/",
+          "source": "Engadget",
+          "summary": "Leading AI labs continue to release increasingly powerful models at lower price points, challenging previous expectations of a slowdown in frontier development.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+          "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+          "source": "OpenAI",
+          "summary": "The GPT-6 Astra model has demonstrated significant improvements in research efficiency, enabling faster data synthesis for complex labor market analysis.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+          "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+          "source": "TechCrunch AI",
+          "summary": "Qualcomm's latest smartphone chips are designed to support local execution of large mixture-of-expert models, shifting more AI processing to mobile hardware.",
+          "tags": [
+            "chips"
+          ]
+        },
+        {
+          "title": "Don’t be fooled by this summer of AI hype",
+          "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+          "source": "MIT Tech Review",
+          "summary": "Recent security incidents and unsubstantiated performance claims underscore the need for critical evaluation of AI capabilities amidst ongoing industry marketing.",
+          "tags": [
+            "policy"
+          ]
+        },
+        {
+          "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+          "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+          "source": "Hacker News",
+          "summary": "OpenAI's GPT-6 Astra successfully decrypted a long-standing Enigma message, showcasing the model's advanced capabilities in complex pattern recognition and cryptography.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+          "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+          "source": "The Verge",
+          "summary": "Qualcomm introduced the Snapdragon 8 Elite Gen 6 series, featuring an Extreme variant specifically optimized for enhanced on-device AI and gaming performance.",
+          "tags": [
+            "chips"
+          ]
+        },
+        {
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "source": "The Verge",
+          "summary": "Rabbit is pivoting its strategy by releasing a cross-platform agentic operating system that functions independently of its dedicated hardware.",
+          "tags": [
+            "agents"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-22",

@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:27:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:12:11 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 23, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-23</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-23</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the rapid evolution of frontier AI models alongside new hardware capabilities designed to run sophisticated agents on consumer devices. OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes · Anthropic and OpenAI announce more powerful (and cheaper) AI models · Parallel cut research time and cost in half with GPT‑6 Astra · Qualcomm launches two new smartphone chips with emphasis on AI · Don’t be fooled by this summer of AI hype</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 22, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-22</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-20</guid>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the evolving landscape of AI enterprise privacy, strategic development shifts, and the growing focus on data-centric infrastructure. Researchers say OpenAI revoked their access to limited cyber program · OpenAI seeks to one-up Anthropic with new customer privacy protections · Google packs Search and Gemini with new AI study tools · Offering Zero Data Retention for frontier models · AI isn’t close to curing cancer. This startup says it knows what it will take.</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 19, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-19</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-19</guid>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest focuses on the tension between rapid AI development, corporate transparency, and the implementation of necessary safety protocols. We still don’t know how people are really using AI · OpenAI launches a safer ChatGPT for teens — years after teens started using it · AI’s recursive self-improvement might not come so quickly after all · OpenAI lays out new security changes after its AI hacked Hugging Face · OpenAI institutes new safeguards after Hugging Face breach</description>
     </item>
   </channel>
 </rss>
