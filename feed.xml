@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 06:12:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:21:46 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 24, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-24</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the expanding integration of AI agents into enterprise workflows, consumer products, and geopolitical security efforts. Airbnb widens access to GPT-6 Astra and OpenAI frontier models · Ringg’s AI agents resolve up to 65% of customer calls with OpenAI · The AI Hype Index: AI loves cheating · ChatGPT Ads expands to Southeast Asia and Taiwan · OpenAI extends cyber access to Ukraine for civilian defense</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 23, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-23</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-21</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the intensifying competition for enterprise dominance, the rapid proliferation of AI-generated web content, and emerging innovations in model deployment. OpenAI is gaining on Anthropic with business users, new data indicates · OpenAI seeks to one-up Anthropic with new customer privacy protections · A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds · Binance now lets AI agents trade, but keeping them in check is largely up to users · Ramp launches its own AI model router, called Router</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 20, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-20</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-20</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the evolving landscape of AI enterprise privacy, strategic development shifts, and the growing focus on data-centric infrastructure. Researchers say OpenAI revoked their access to limited cyber program · OpenAI seeks to one-up Anthropic with new customer privacy protections · Google packs Search and Gemini with new AI study tools · Offering Zero Data Retention for frontier models · AI isn’t close to curing cancer. This startup says it knows what it will take.</description>
     </item>
   </channel>
 </rss>

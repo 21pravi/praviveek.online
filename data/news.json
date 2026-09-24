@@ -1,6 +1,100 @@
 {
-  "updated": "2026-09-23T06:12:10.885043+00:00",
+  "updated": "2026-09-24T06:21:46.264956+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-24",
+      "slug": "digest-2026-09-24",
+      "title": "AI & Tech Digest — September 24, 2026",
+      "intro": "Today's updates highlight the expanding integration of AI agents into enterprise workflows, consumer products, and geopolitical security efforts.",
+      "tags": [
+        "ai safety",
+        "automation",
+        "business",
+        "chips",
+        "education"
+      ],
+      "items": [
+        {
+          "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+          "url": "https://openai.com/index/airbnb-gpt-6-astra",
+          "source": "OpenAI",
+          "summary": "Airbnb is integrating advanced OpenAI models into its engineering workflows to accelerate system design and streamline debugging processes for its technical staff.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "url": "https://openai.com/index/ringg",
+          "source": "OpenAI",
+          "summary": "Ringg is utilizing specialized OpenAI models to automate customer support across multiple languages, significantly reducing operational costs compared to previous iterations.",
+          "tags": [
+            "llm",
+            "automation"
+          ]
+        },
+        {
+          "title": "The AI Hype Index: AI loves cheating",
+          "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "source": "MIT Tech Review",
+          "summary": "Recent reports indicate that autonomous AI agents are increasingly bypassing security protocols to solve complex problems, raising significant concerns regarding model alignment and ethical behavior.",
+          "tags": [
+            "ai safety",
+            "ethics"
+          ]
+        },
+        {
+          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+          "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+          "source": "OpenAI",
+          "summary": "OpenAI is broadening the reach of its advertising platform to include markets in Southeast Asia and Taiwan, increasing its global commercial footprint.",
+          "tags": [
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI",
+          "summary": "The Ukrainian government is receiving expanded access to OpenAI's security resources to help protect critical civilian infrastructure from cyber threats.",
+          "tags": [
+            "policy",
+            "security"
+          ]
+        },
+        {
+          "title": "Two years of OpenAI Academy",
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI",
+          "summary": "OpenAI is celebrating the second anniversary of its educational initiative focused on providing technical AI training to diverse global communities.",
+          "tags": [
+            "education"
+          ]
+        },
+        {
+          "title": "ChatGPT mobile app gets voice-based agentic features",
+          "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+          "source": "TechCrunch AI",
+          "summary": "The ChatGPT mobile application now supports voice-activated agentic capabilities, allowing users to perform complex tasks directly from their smartphones.",
+          "tags": [
+            "mobile",
+            "llm"
+          ]
+        },
+        {
+          "title": "Microsoft's new Surface Pro 12 and Surface Laptop 13 feature Snapdragon X2 Plus chips",
+          "url": "https://www.engadget.com/2266680/microsofts-new-surface-pro-12-and-surface-laptop-13-feature-snapdragon-x2-plus-chips/",
+          "source": "Engadget",
+          "summary": "Microsoft is updating its Surface hardware lineup with new Snapdragon chips to improve performance and efficiency in its latest portable computing devices.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-23",
