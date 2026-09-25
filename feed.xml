@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Sep 2026 06:21:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:16:53 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 25, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-25</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the rapid expansion of AI integration across mobile hardware, specialized edge computing, and complex regulatory landscapes. Qualcomm&#x27;s Snapdragon Sound Elite is a new AI chip for audio wearables · Xiaomi&#x27;s 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen · Google is sending a teensy-tiny AI data center to space · Gemini 3.8 Live with Live Avatar gives Google’s AI a face · Meta made a Tamagotchi-like wearable for its Muse AI agent</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 24, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-24</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-21</guid>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
       <description>The AI landscape is shifting from raw model capability toward the complex infrastructure of routing, security, and the commoditization of enterprise-grade data management. The Rise of Model Routing · Security as a Bottleneck · Data Scarcity and Quality</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 21, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-21</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the intensifying competition for enterprise dominance, the rapid proliferation of AI-generated web content, and emerging innovations in model deployment. OpenAI is gaining on Anthropic with business users, new data indicates · OpenAI seeks to one-up Anthropic with new customer privacy protections · A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds · Binance now lets AI agents trade, but keeping them in check is largely up to users · Ramp launches its own AI model router, called Router</description>
     </item>
   </channel>
 </rss>

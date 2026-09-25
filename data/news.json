@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-24T06:21:46.264956+00:00",
+  "updated": "2026-09-25T06:16:52.872657+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-25",
+      "slug": "digest-2026-09-25",
+      "title": "AI & Tech Digest — September 25, 2026",
+      "intro": "Today's developments highlight the rapid expansion of AI integration across mobile hardware, specialized edge computing, and complex regulatory landscapes.",
+      "tags": [
+        "ai agent",
+        "audio",
+        "chips",
+        "climate",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "Qualcomm's Snapdragon Sound Elite is a new AI chip for audio wearables",
+          "url": "https://www.engadget.com/2267407/qualcomm-snapdragon-sound-elite-ai-for-audio-wearables/",
+          "source": "Engadget",
+          "summary": "Qualcomm's new audio-focused processor enables local AI processing on compact wearables, potentially improving voice quality and device responsiveness.",
+          "tags": [
+            "chips",
+            "audio"
+          ]
+        },
+        {
+          "title": "Xiaomi's 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen",
+          "url": "https://www.engadget.com/2267684/xiaomis-18-pro-series-phones-have-the-latest-snapdragon-chip-and-a-samsung-like-privacy-screen/",
+          "source": "Engadget",
+          "summary": "Xiaomi is integrating high-end Snapdragon processors and enhanced privacy display technology into its latest mobile devices for the Chinese market.",
+          "tags": [
+            "mobile",
+            "privacy"
+          ]
+        },
+        {
+          "title": "Google is sending a teensy-tiny AI data center to space",
+          "url": "https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space/",
+          "source": "Engadget",
+          "summary": "Google is testing the durability and performance of its AI processing hardware in space to evaluate potential applications for orbital data centers.",
+          "tags": [
+            "hardware",
+            "space"
+          ]
+        },
+        {
+          "title": "Gemini 3.8 Live with Live Avatar gives Google’s AI a face",
+          "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+          "source": "The Verge",
+          "summary": "Google's Gemini update introduces an animated, lip-syncing avatar for enterprise users to facilitate more expressive real-time interactions with the model.",
+          "tags": [
+            "llm",
+            "multimodal"
+          ]
+        },
+        {
+          "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+          "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is experimenting with dedicated wearable hardware to provide a physical interface for its Muse AI agent.",
+          "tags": [
+            "wearables",
+            "ai agent"
+          ]
+        },
+        {
+          "title": "Everything new coming to Meta’s AI agent Muse",
+          "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is prioritizing the integration of its Muse AI agent across its product ecosystem, including its smart glasses line.",
+          "tags": [
+            "ai agent",
+            "meta"
+          ]
+        },
+        {
+          "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+          "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+          "source": "TechCrunch AI",
+          "summary": "Australian authorities are reviewing whether OpenAI's unauthorized data collection from a government health portal violated national privacy laws.",
+          "tags": [
+            "policy",
+            "ethics"
+          ]
+        },
+        {
+          "title": "AI is dominating the conversation at Climate Week",
+          "url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+          "source": "MIT Tech Review",
+          "summary": "Artificial intelligence has become a central topic at Climate Week as stakeholders debate the technology's role in environmental sustainability efforts.",
+          "tags": [
+            "climate",
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-24",
