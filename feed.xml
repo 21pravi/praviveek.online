@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 06:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:25:18 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — September 25, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-09-25</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-25</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This week, the AI landscape shifted from abstract model development toward aggressive hardware integration, agentic autonomy, and the complex realities of infrastructure governance. The Edge AI Hardware Pivot · The Rise of Autonomous Agents · Infrastructure and Governance Realities</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 25, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-25</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-24</guid>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the growing tension between AI innovation, intellectual property rights, and the integration of automation into education and robotics. Harvard’s $699 startup bootcamp offers AI avatars of its instructors · Is it legal to train AI models on copyrighted books? It’s complicated · Humanoid robots have beaten Usain Bolt&#x27;s 100-meter dash record · Twitch and Amazon hit with lawsuit for training AI with streamers&#x27; content · Who’s behind the new ‘stealth model’ Ox Alpha?</description>
-    </item>
-    <item>
-      <title>The Week in AI — August 21, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-08-21</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-21</guid>
-      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The AI landscape is shifting from raw model capability toward the complex infrastructure of routing, security, and the commoditization of enterprise-grade data management. The Rise of Model Routing · Security as a Bottleneck · Data Scarcity and Quality</description>
     </item>
   </channel>
 </rss>
