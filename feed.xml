@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:25:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:10:05 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 28, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-28</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the expanding integration of AI into consumer commerce, creative tools, and the ongoing challenges regarding security and public perception. Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation? · OpenAI agents tried to ‘bruteforce’ a UN website · Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India · Engram is a sampler that turns broken AI hallucinations into music · Why letting Claude clean your TV&#x27;s bloatware isn&#x27;t the best idea</description>
+    </item>
     <item>
       <title>The Week in AI — September 25, 2026</title>
       <link>https://praviveek.online/#roundup-2026-09-25</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-25</guid>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics · The Download: kids outlearning AI, and space travel agents · OpenAI is building AI agents for everything. Will everyone use them? · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) · Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 24, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-24</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-24</guid>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the growing tension between AI innovation, intellectual property rights, and the integration of automation into education and robotics. Harvard’s $699 startup bootcamp offers AI avatars of its instructors · Is it legal to train AI models on copyrighted books? It’s complicated · Humanoid robots have beaten Usain Bolt&#x27;s 100-meter dash record · Twitch and Amazon hit with lawsuit for training AI with streamers&#x27; content · Who’s behind the new ‘stealth model’ Ox Alpha?</description>
     </item>
   </channel>
 </rss>

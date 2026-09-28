@@ -1,6 +1,102 @@
 {
-  "updated": "2026-09-25T17:25:18.555171+00:00",
+  "updated": "2026-09-28T07:10:04.608052+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-28",
+      "slug": "digest-2026-09-28",
+      "title": "AI & Tech Digest — September 28, 2026",
+      "intro": "Today's developments highlight the expanding integration of AI into consumer commerce, creative tools, and the ongoing challenges regarding security and public perception.",
+      "tags": [
+        "agents",
+        "anthropic",
+        "audio",
+        "consumer tech",
+        "culture"
+      ],
+      "items": [
+        {
+          "title": "Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?",
+          "url": "https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/",
+          "source": "Engadget",
+          "summary": "Google and OpenAI are competing to refine the latency and conversational fluidity of their voice-based AI interfaces to make human-machine interactions feel more intuitive.",
+          "tags": [
+            "llm",
+            "voice"
+          ]
+        },
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "source": "The Verge",
+          "summary": "Security researchers identified that OpenAI's automated agents repeatedly scanned a UN statistics website, raising questions about the oversight of autonomous web-crawling behavior.",
+          "tags": [
+            "security",
+            "agents"
+          ]
+        },
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "source": "TechCrunch AI",
+          "summary": "Google is integrating e-commerce capabilities into Gemini by testing direct purchasing workflows through Flipkart for users in India.",
+          "tags": [
+            "e-commerce",
+            "google"
+          ]
+        },
+        {
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "source": "The Verge",
+          "summary": "A new hardware sampler uses generative AI to manipulate audio inputs and create experimental soundscapes, focusing on musical production rather than automated song generation.",
+          "tags": [
+            "generative ai",
+            "audio"
+          ]
+        },
+        {
+          "title": "Why letting Claude clean your TV's bloatware isn't the best idea",
+          "url": "https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/",
+          "source": "Engadget",
+          "summary": "Relying on AI assistants to manage complex system software on consumer electronics like televisions carries significant risks of causing unintended device malfunctions.",
+          "tags": [
+            "agents",
+            "consumer tech"
+          ]
+        },
+        {
+          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+          "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's CEO was featured in a satirical sketch, reflecting the growing cultural visibility and public scrutiny surrounding prominent AI industry leaders.",
+          "tags": [
+            "culture",
+            "anthropic"
+          ]
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "source": "TechCrunch AI",
+          "summary": "Meta is attempting to capture market attention with its latest AI releases despite persistent skepticism regarding the company's historical data and privacy practices.",
+          "tags": [
+            "meta",
+            "trust"
+          ]
+        },
+        {
+          "title": "Bill Gates says it's 'completely irresponsible' for AI to not have safeguards",
+          "url": "https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/",
+          "source": "Engadget",
+          "summary": "Bill Gates advocates for stringent safety protocols in AI development, emphasizing the necessity of preventing malicious actors from exploiting powerful automated systems.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-09-25",
