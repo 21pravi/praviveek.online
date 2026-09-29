@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 07:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:07:25 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 29, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-29</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-29</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Nvidia launches new platform for reining in rogue AI agents · Florida AG requests emergency order to stop OpenAI model development · When can we say AI made a scientific discovery? · OpenAI’s AI agents need to catch up · AMD is acquiring AI company World Labs in a deal worth more than $8 billion</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 28, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-28</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the expanding integration of AI into consumer commerce, creative tools, and the ongoing challenges regarding security and public perception. Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation? · OpenAI agents tried to ‘bruteforce’ a UN website · Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India · Engram is a sampler that turns broken AI hallucinations into music · Why letting Claude clean your TV&#x27;s bloatware isn&#x27;t the best idea</description>
+    </item>
+    <item>
+      <title>Paper: TokenCast: Forecasting Token Consumption During LLM Agent Execution</title>
+      <link>https://arxiv.org/abs/2609.35760v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.35760v1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>TokenCast predicts LLM agent token usage dynamically during execution, helping developers manage costs and budget for unpredictable, context-heavy workflows.</description>
+    </item>
+    <item>
+      <title>Paper: Shockingly Simple Self-retrospection Improves Agentic Models Without RL</title>
+      <link>https://arxiv.org/abs/2609.35741v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.35741v1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This method improves agent performance by fine-tuning models on their own retrospective explanations, offering a simple way to boost reasoning without complex reinforcement learning.</description>
+    </item>
+    <item>
+      <title>Paper: Reinforcing Agentic Creativity in Scientific Ideation with Night Science</title>
+      <link>https://arxiv.org/abs/2609.35706v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.35706v1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The AI Night-Scientist framework uses reinforcement learning to help LLMs break away from predictable patterns, fostering more creative and serendipitous scientific ideation.</description>
+    </item>
+    <item>
+      <title>Paper: A Unified Uncertainty Representation for Graph Neural Networks via Doubly-Spectral Stochastic Expansion</title>
+      <link>https://arxiv.org/abs/2609.35703v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.35703v1</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This technique provides a unified way to estimate uncertainty in graph neural networks, simplifying tasks like out-of-distribution detection and model calibration.</description>
     </item>
     <item>
       <title>The Week in AI — September 25, 2026</title>
@@ -267,34 +302,6 @@
       <description>Today&#x27;s updates focus on the shift toward agentic AI capabilities, enterprise integration challenges, and significant shifts in the AI infrastructure landscape. OpenAI says GPT-6 Astra is &#x27;the most intelligent and aligned model in the world&#x27; · OpenAI launches Astra, its powerful (and controversial) new model · OpenAI’s next big AI model has ‘entered the AGI era’ · Meta is paying to peek at how you use their latest AI model · Google&#x27;s new AI weather model uses live satellite data for higher-resolution forecasts</description>
     </item>
     <item>
-      <title>Paper: Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation</title>
-      <link>https://arxiv.org/abs/2609.05363v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05363v1</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This framework efficiently scales product recommendations by distilling complex LLM reasoning into a lightweight model that adapts to specific product categories, saving significant computational costs.</description>
-    </item>
-    <item>
-      <title>Paper: Does Your Agent&#x27;s Memory Survive a Model Upgrade? A Controlled Study of Memory Portability</title>
-      <link>https://arxiv.org/abs/2609.05339v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05339v1</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This study evaluates how different memory storage methods—like raw history versus knowledge graphs—affect an agent&#x27;s ability to retain information when the underlying LLM is upgraded.</description>
-    </item>
-    <item>
-      <title>Paper: Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness</title>
-      <link>https://arxiv.org/abs/2609.05314v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05314v1</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This review examines how LLMs can bridge the gap between fragmented building sensor data and actionable HVAC control, highlighting current deployment challenges and operational readiness.</description>
-    </item>
-    <item>
-      <title>Paper: PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting</title>
-      <link>https://arxiv.org/abs/2609.05235v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.05235v1</guid>
-      <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This research tests various fine-tuning and prompting strategies for using quantized LLMs to predict Bitcoin price movements, providing a roadmap for applying LLMs to volatile financial time-series data.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 3, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-03</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-03</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-26</guid>
       <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers OpenAI&#x27;s new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show · OpenAI Jalapeño: Better than Nvidia Blackwell · OpenAI loses a top data center exec, as stream of high-profile departures continues · Jalapeño’s first results show industry-leading speed and efficiency in AI inference · ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 25, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-25</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-25</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the rapid expansion of AI agents, shifts in educational paradigms, and the ongoing regulatory challenges facing global hardware distribution. Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics · The Download: kids outlearning AI, and space travel agents · OpenAI is building AI agents for everything. Will everyone use them? · OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21) · Taiwan reportedly indicted NVIDIA employees for exporting prohibited AI servers to China</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,72 @@
 {
-  "updated": "2026-09-28T07:10:04.608052+00:00",
+  "updated": "2026-09-29T07:07:21.160425+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-29",
+      "slug": "digest-2026-09-29",
+      "title": "AI & Tech Digest — September 29, 2026",
+      "intro": "",
+      "tags": [],
+      "items": [
+        {
+          "title": "Nvidia launches new platform for reining in rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Florida AG requests emergency order to stop OpenAI model development",
+          "url": "https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development/",
+          "source": "Engadget",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "When can we say AI made a scientific discovery?",
+          "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI’s AI agents need to catch up",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI reportedly ditches model over safety concerns",
+          "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "source": "OpenAI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Who’s liable when AI agents go rogue?",
+          "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-28",
