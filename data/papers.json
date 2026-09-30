@@ -1,6 +1,54 @@
 {
-  "updated": "2026-09-29T07:07:24.945075+00:00",
+  "updated": "2026-09-30T06:57:52.317802+00:00",
   "items": [
+    {
+      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
+      "url": "https://arxiv.org/abs/2609.38147v1",
+      "date": "2026-09-29",
+      "summary": "This paper introduces a meta-reasoning framework that helps AI agents manage complex workflows by explicitly deciding when to continue, restart, or pivot during task execution.",
+      "authors": "Paras Dahal, Anton Bakhtin, Taco Cohen et al.",
+      "tags": [
+        "agents",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
+      "url": "https://arxiv.org/abs/2609.38143v1",
+      "date": "2026-09-29",
+      "summary": "The researchers developed a method for AI models to automatically build better execution environments for other models, improving performance without needing to retrain the underlying weights.",
+      "authors": "Cheng Qian, Kunlun Zhu, Beibin Li et al.",
+      "tags": [
+        "ai4ai",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
+      "url": "https://arxiv.org/abs/2609.38140v1",
+      "date": "2026-09-29",
+      "summary": "The authors propose a specialized Mixture-of-Experts architecture for video models that avoids inefficient token routing, leading to better handling of complex, redundant visual data.",
+      "authors": "Yu Xu, Yuxin Zhang, Xiao Yang et al.",
+      "tags": [
+        "video",
+        "diffusion",
+        "paper"
+      ]
+    },
+    {
+      "title": "Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution",
+      "url": "https://arxiv.org/abs/2609.38108v1",
+      "date": "2026-09-29",
+      "summary": "This study investigates why LLM agents often fail to follow their own plans, proposing a routing system that forces agents to explicitly declare and stick to specific planning strategies.",
+      "authors": "Subba Reddy Oota, Francisco Herrera, Jordi Cabot Sagrera et al.",
+      "tags": [
+        "llm",
+        "planning",
+        "paper"
+      ]
+    },
     {
       "title": "TokenCast: Forecasting Token Consumption During LLM Agent Execution",
       "url": "https://arxiv.org/abs/2609.35760v1",
@@ -666,54 +714,6 @@
       "tags": [
         "llm",
         "security",
-        "paper"
-      ]
-    },
-    {
-      "title": "SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning",
-      "url": "https://arxiv.org/abs/2608.23493v1",
-      "date": "2026-08-24",
-      "summary": "This method improves LLM reasoning by teaching models to self-critique their own past errors, providing more effective training signals for complex, long-horizon tasks.",
-      "authors": "Jialong Liu, Yuling Shi, Ning Yang et al.",
-      "tags": [
-        "llm",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "RAD: Rule-Augmented Relational Anomaly Detection",
-      "url": "https://arxiv.org/abs/2608.23468v1",
-      "date": "2026-08-24",
-      "summary": "This approach detects anomalies directly within relational databases without flattening tables, helping data scientists identify complex issues that depend on multi-table relationships.",
-      "authors": "Noah Dahle, Anne Tumlin, Ngoc Tran et al.",
-      "tags": [
-        "anomaly detection",
-        "databases",
-        "paper"
-      ]
-    },
-    {
-      "title": "MediSkill-Evo: Process-Constrained Self-Evolution for Evidence-Grounded Clinical Interaction",
-      "url": "https://arxiv.org/abs/2608.23397v1",
-      "date": "2026-08-24",
-      "summary": "This framework enables clinical AI agents to follow strict medical protocols and evidence-based reasoning without needing to retrain the underlying model.",
-      "authors": "Ruoyu Wu, Shenfu Xie, Yinqian Sun et al.",
-      "tags": [
-        "healthcare",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Cross-Domain, Multi-Task Data-to-Text Generation without In-Domain Training Data",
-      "url": "https://arxiv.org/abs/2608.23391v1",
-      "date": "2026-08-24",
-      "summary": "This research provides a way to generate natural language descriptions from structured data across new domains without requiring any domain-specific training examples.",
-      "authors": "Yifei Song, Kun Efimov-Zhang, Claire Gardent",
-      "tags": [
-        "nlp",
-        "data-to-text",
         "paper"
       ]
     }

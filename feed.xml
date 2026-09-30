@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Sep 2026 07:07:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:57:52 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — September 30, 2026</title>
+      <link>https://praviveek.online/#digest-2026-09-30</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-30</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest focuses on OpenAI&#x27;s major product expansion into agentic workflows and the resulting shifts in the competitive AI software landscape. OpenAI launches Dots, its Muse competitor · OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less · OpenAI launches Dots, its bubbly agentic avatar · OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite · Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 29, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-29</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Nvidia launches new platform for reining in rogue AI agents · Florida AG requests emergency order to stop OpenAI model development · When can we say AI made a scientific discovery? · OpenAI’s AI agents need to catch up · AMD is acquiring AI company World Labs in a deal worth more than $8 billion</description>
+    </item>
+    <item>
+      <title>Paper: Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning</title>
+      <link>https://arxiv.org/abs/2609.38147v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.38147v1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a meta-reasoning framework that helps AI agents manage complex workflows by explicitly deciding when to continue, restart, or pivot during task execution.</description>
+    </item>
+    <item>
+      <title>Paper: Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI</title>
+      <link>https://arxiv.org/abs/2609.38143v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.38143v1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a method for AI models to automatically build better execution environments for other models, improving performance without needing to retrain the underlying weights.</description>
+    </item>
+    <item>
+      <title>Paper: Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE</title>
+      <link>https://arxiv.org/abs/2609.38140v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.38140v1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a specialized Mixture-of-Experts architecture for video models that avoids inefficient token routing, leading to better handling of complex, redundant visual data.</description>
+    </item>
+    <item>
+      <title>Paper: Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution</title>
+      <link>https://arxiv.org/abs/2609.38108v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2609.38108v1</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <description>This study investigates why LLM agents often fail to follow their own plans, proposing a routing system that forces agents to explicitly declare and stick to specific planning strategies.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — September 28, 2026</title>
@@ -253,34 +288,6 @@
       <description>Today&#x27;s digest covers shifts in hardware economics, emerging energy sources, and the evolving landscape of consumer electronics and AI terminology. The Download: the hunt for underground hydrogen and more rogue OpenAI agents · First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost · Caltech Mathathon – first hackathon ever devoted to research level mathematics · The real reason your phone is getting more expensive · Six years later, Sony revisits its legendary XM4 headphones</description>
     </item>
     <item>
-      <title>Paper: PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving</title>
-      <link>https://arxiv.org/abs/2609.08965v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.08965v1</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This framework uses LLM agents to unify the fragmented process of testing autonomous driving systems, helping engineers automate scenario generation and analysis for safer vehicle deployment.</description>
-    </item>
-    <item>
-      <title>Paper: Procedural Graphs: Self-Evolving Execution Structures for LLM Agents</title>
-      <link>https://arxiv.org/abs/2609.09153v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.09153v1</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce procedural graphs to structure LLM agent workflows, preventing common issues like repetitive actions and poor long-term planning in complex task execution.</description>
-    </item>
-    <item>
-      <title>Paper: ReCite: Agentic Reasoning for Faithful Citation</title>
-      <link>https://arxiv.org/abs/2609.09156v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.09156v1</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This method improves citation accuracy in LLMs by forcing agents to verify that retrieved documents logically support specific claims, reducing the risk of misleading academic references.</description>
-    </item>
-    <item>
-      <title>Paper: Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails</title>
-      <link>https://arxiv.org/abs/2609.09134v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.09134v1</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The researchers demonstrate that iteratively improving the system environment (harness) allows smaller, cheaper models to achieve high performance on complex enterprise tasks.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 7, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-07</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-07</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-27</guid>
       <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the risks of autonomous agent behavior, new developments in robotics, and emerging trends in AI infrastructure and funding. The inside story on why OpenAI agents hacked Hugging Face · OpenAI’s rogue AI model incident was worse than we thought · Robot brain builders are pushing out of their GPT-2 era · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · AI models flub these intelligence tests. Can you fare any better?</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 26, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-26</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-26</guid>
-      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers OpenAI&#x27;s new hardware developments, organizational shifts, and the ongoing expansion of the physical AI and robotics sector. OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show · OpenAI Jalapeño: Better than Nvidia Blackwell · OpenAI loses a top data center exec, as stream of high-profile departures continues · Jalapeño’s first results show industry-leading speed and efficiency in AI inference · ‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux</description>
     </item>
   </channel>
 </rss>

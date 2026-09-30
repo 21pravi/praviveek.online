@@ -1,6 +1,97 @@
 {
-  "updated": "2026-09-29T07:07:21.160425+00:00",
+  "updated": "2026-09-30T06:57:48.833581+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-09-30",
+      "slug": "digest-2026-09-30",
+      "title": "AI & Tech Digest — September 30, 2026",
+      "intro": "Today's digest focuses on OpenAI's major product expansion into agentic workflows and the resulting shifts in the competitive AI software landscape.",
+      "tags": [
+        "agents",
+        "competition",
+        "funding",
+        "llm",
+        "openai"
+      ],
+      "items": [
+        {
+          "title": "OpenAI launches Dots, its Muse competitor",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+          "source": "The Verge",
+          "summary": "OpenAI introduced Dots, an always-on agentic assistant designed to execute tasks across applications by learning user preferences over time.",
+          "tags": [
+            "agents",
+            "openai"
+          ]
+        },
+        {
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "source": "TechCrunch AI",
+          "summary": "The new GPT-6.1 Sol model offers enhanced performance for professional coding and business workflows at a reduced operational cost.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "source": "TechCrunch AI",
+          "summary": "Dots functions as an autonomous interface-agnostic avatar that pursues user goals in the background with limited human intervention.",
+          "tags": [
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is challenging established enterprise software providers by integrating a comprehensive suite of office productivity tools directly into its platform.",
+          "tags": [
+            "software"
+          ]
+        },
+        {
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "While not publicly endorsing Nvidia's safety initiative for AI agents, OpenAI is reportedly collaborating with the company on security measures behind the scenes.",
+          "tags": [
+            "policy",
+            "security"
+          ]
+        },
+        {
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is developing a native ecosystem that enables users to discover and run software directly within ChatGPT, bypassing traditional app store models.",
+          "tags": [
+            "platform"
+          ]
+        },
+        {
+          "title": "Reco raises $55M as AI agent security startups crowd the market",
+          "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+          "source": "TechCrunch AI",
+          "summary": "Security startup Reco secured $55 million in funding as demand grows for tools that monitor and protect corporate AI agent deployments.",
+          "tags": [
+            "funding",
+            "security"
+          ]
+        },
+        {
+          "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+          "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+          "source": "TechCrunch AI",
+          "summary": "Speculation arose regarding xAI's competitive positioning after the company redirected a domain name to its Grok chatbot shortly before OpenAI's product announcement.",
+          "tags": [
+            "competition"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-29",
