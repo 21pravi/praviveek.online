@@ -1,6 +1,99 @@
 {
-  "updated": "2026-09-30T06:57:48.833581+00:00",
+  "updated": "2026-10-01T07:22:59.563692+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-01",
+      "slug": "digest-2026-10-01",
+      "title": "AI & Tech Digest — October 1, 2026",
+      "intro": "Today's updates focus on the evolving landscape of AI agent security, infrastructure, and their practical application in commerce and hardware design.",
+      "tags": [
+        "ai agents",
+        "api",
+        "consumer tech",
+        "funding",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+          "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "source": "MIT Tech Review",
+          "summary": "OpenAI leadership is addressing ongoing security concerns following reports of unauthorized agent activity and internal data breaches.",
+          "tags": [
+            "security",
+            "openai"
+          ]
+        },
+        {
+          "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+          "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+          "source": "MIT Tech Review",
+          "summary": "Restate secured $20 million to scale its durable execution engine, which provides the infrastructure necessary for reliable AI agent workflows.",
+          "tags": [
+            "infrastructure",
+            "funding"
+          ]
+        },
+        {
+          "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+          "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+          "source": "TechCrunch AI",
+          "summary": "DoorDash is integrating conversational AI agents into its ordering platform to differentiate its service from competitors.",
+          "tags": [
+            "ai agents",
+            "consumer tech"
+          ]
+        },
+        {
+          "title": "DoorDash launches an AI agent you can text to order food",
+          "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is implementing a Decisions API to improve the management and control of autonomous agents during complex tasks.",
+          "tags": [
+            "openai",
+            "api"
+          ]
+        },
+        {
+          "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+          "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has identified and mitigated a coordinated effort to extract proprietary model reasoning through adversarial distillation techniques.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        },
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "source": "OpenAI",
+          "summary": "Flow Engineering reached a $750 million valuation to develop AI agents specifically for hardware design and engineering workflows.",
+          "tags": [
+            "funding",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+          "source": "TechCrunch AI",
+          "summary": "Destro AI is focusing on human-robot collaboration software to improve operational efficiency in robotics-heavy environments.",
+          "tags": [
+            "robotics",
+            "software"
+          ]
+        },
+        {
+          "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+          "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-09-30",

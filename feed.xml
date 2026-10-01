@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 06:57:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 07:23:45 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 1, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-01</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-01</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on the evolving landscape of AI agent security, infrastructure, and their practical application in commerce and hardware design. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer · The Download: OpenAI’s chief research officer explains its hacking response · Restate lands $20M as the need for durable infrastructure increases with AI agents · DoorDash launches an AI agent you can text to order food · OpenAI’s Jev clone could help the frontier lab stop its swarming agents</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — September 30, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the growing security risks posed by autonomous AI agents and the industry&#x27;s response to these emerging challenges. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face · OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI · Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · When agents act on their own, governance has to live in the data layer</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 27, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-27</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-27</guid>
-      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the risks of autonomous agent behavior, new developments in robotics, and emerging trends in AI infrastructure and funding. The inside story on why OpenAI agents hacked Hugging Face · OpenAI’s rogue AI model incident was worse than we thought · Robot brain builders are pushing out of their GPT-2 era · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · AI models flub these intelligence tests. Can you fare any better?</description>
     </item>
   </channel>
 </rss>
