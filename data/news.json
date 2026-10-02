@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-01T07:22:59.563692+00:00",
+  "updated": "2026-10-02T07:10:36.315096+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-02",
+      "slug": "digest-2026-10-02",
+      "title": "AI & Tech Digest — October 2, 2026",
+      "intro": "Today's updates highlight the shift toward AI-integrated hardware, evolving agent-based interfaces, and the ongoing organizational challenges within leading AI research firms.",
+      "tags": [
+        "agents",
+        "consumer",
+        "enterprise",
+        "funding",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "Hearing tech startup Legato launches its AI hearing glasses",
+          "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+          "source": "TechCrunch AI",
+          "summary": "Legato is introducing AI-enabled glasses designed to provide a more affordable and less stigmatized alternative to traditional hearing aid devices.",
+          "tags": [
+            "hardware",
+            "healthtech"
+          ]
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has terminated three safety researchers following an internal investigation regarding the unauthorized handling of proprietary company information.",
+          "tags": [
+            "policy",
+            "openai"
+          ]
+        },
+        {
+          "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+          "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+          "source": "TechCrunch AI",
+          "summary": "Google estimates that significant increases in launch frequency are required to support the infrastructure necessary for operating data centers in orbit.",
+          "tags": [
+            "infrastructure",
+            "space"
+          ]
+        },
+        {
+          "title": "ChatGPT can now help you virtually try on clothes",
+          "url": "https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/",
+          "source": "Engadget",
+          "summary": "OpenAI has integrated virtual try-on capabilities into ChatGPT, allowing users to visualize clothing items using generative image models.",
+          "tags": [
+            "llm",
+            "consumer"
+          ]
+        },
+        {
+          "title": "Neurable launches its newest brain-scanning headphones",
+          "url": "https://www.engadget.com/2271652/neurable-one-eeg-headphones/",
+          "source": "Engadget",
+          "summary": "Neurable has released new headphones equipped with EEG sensors, enabling users to monitor cognitive activity during various daily tasks.",
+          "tags": [
+            "hardware",
+            "wearables"
+          ]
+        },
+        {
+          "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+          "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+          "source": "TechCrunch AI",
+          "summary": "Photon secured $4.5 million in funding to develop AI agents that function across messaging platforms, potentially reducing reliance on standalone mobile applications.",
+          "tags": [
+            "agents",
+            "funding"
+          ]
+        },
+        {
+          "title": "Brian Chesky interview: AI agents need their own operating system",
+          "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+          "source": "TechCrunch AI",
+          "summary": "Airbnb CEO Brian Chesky argues that the future of consumer AI requires the development of dedicated operating systems to support autonomous agents.",
+          "tags": [
+            "agents",
+            "software"
+          ]
+        },
+        {
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "url": "https://openai.com/index/albertsons-reimagining-retail",
+          "source": "OpenAI",
+          "summary": "Albertsons is leveraging OpenAI's enterprise tools to optimize internal workflows and enhance the digital experience for grocery shoppers.",
+          "tags": [
+            "enterprise",
+            "retail"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-01",

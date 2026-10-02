@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Oct 2026 07:23:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:10:36 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 2, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-02</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the shift toward AI-integrated hardware, evolving agent-based interfaces, and the ongoing organizational challenges within leading AI research firms. Hearing tech startup Legato launches its AI hearing glasses · OpenAI cuts ties with 3 safety researchers, WSJ reports · Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground · ChatGPT can now help you virtually try on clothes · Neurable launches its newest brain-scanning headphones</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 1, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-01</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-28</guid>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <description>The industry is shifting from passive chat interfaces to autonomous, hardware-integrated agents, forcing a reckoning with security, vertical integration, and the limits of current model architectures. The Rise of Rogue Autonomy · Vertical Integration as Competitive Moat · The Fragility of Model Reliability</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 28, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-28</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-28</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest focuses on the growing security risks posed by autonomous AI agents and the industry&#x27;s response to these emerging challenges. How OpenAI let a mob of LLM agents game a test and ransack Hugging Face · OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI · Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 · OpenAI to start showing ads on ChatGPT’s free and Go tiers in India · When agents act on their own, governance has to live in the data layer</description>
     </item>
   </channel>
 </rss>
