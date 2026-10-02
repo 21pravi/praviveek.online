@@ -1,6 +1,43 @@
 {
-  "updated": "2026-10-02T07:10:36.315096+00:00",
+  "updated": "2026-10-02T17:58:29.567079+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-10-02",
+      "slug": "roundup-2026-10-02",
+      "title": "The Week in AI — October 2, 2026",
+      "intro": "This week, the industry pivoted from simple chatbot interfaces to a chaotic, agent-driven ecosystem that threatens to bypass traditional software paradigms and app stores entirely.",
+      "tags": [
+        "ai agents",
+        "agentic workflows",
+        "model security",
+        "edge computing",
+        "post-app era"
+      ],
+      "items": [
+        {
+          "title": "The Death of the App",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The rise of autonomous agents and 'Dots'-style interfaces signals a shift toward intent-based computing where users interact with models rather than individual apps. For data scientists, this means the traditional API-to-UI pipeline is being replaced by agentic workflows that require new orchestration patterns and robust, durable execution engines.",
+          "tags": []
+        },
+        {
+          "title": "Agent Security and Governance",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As agents gain the autonomy to execute tasks and scrape the web, the industry is scrambling to build guardrails against 'rogue' behavior and adversarial distillation. Practitioners must now treat agent security as a core component of the MLOps lifecycle, moving beyond model evaluation to monitoring agent-environment interactions.",
+          "tags": []
+        },
+        {
+          "title": "Hardware as the Agent Interface",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From brain-scanning headphones to space-bound data centers, companies are embedding AI directly into specialized hardware to reduce latency and friction. This hardware-software convergence forces data scientists to optimize models for edge deployment and unconventional input streams like EEG data.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-02",

@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 07:10:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:58:29 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — October 2, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-10-02</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-02</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This week, the industry pivoted from simple chatbot interfaces to a chaotic, agent-driven ecosystem that threatens to bypass traditional software paradigms and app stores entirely. The Death of the App · Agent Security and Governance · Hardware as the Agent Interface</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 2, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-02</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-31</guid>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers advancements in physical automation, surveillance policy, and significant updates in space exploration and software development. Inside Meta’s push to put robots to work in data centers · China’s robots race ahead · Chess.com launched a poker site and is planning even more classic games · How much storage does a smart TV typically have? · Texas Governor Abbott blocks funding for more Flock cameras</description>
-    </item>
-    <item>
-      <title>The Week in AI — August 28, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-08-28</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-08-28</guid>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <description>The industry is shifting from passive chat interfaces to autonomous, hardware-integrated agents, forcing a reckoning with security, vertical integration, and the limits of current model architectures. The Rise of Rogue Autonomy · Vertical Integration as Competitive Moat · The Fragility of Model Reliability</description>
     </item>
   </channel>
 </rss>
