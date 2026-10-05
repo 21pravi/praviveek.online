@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:58:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:18:24 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 5, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-05</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the intersection of AI performance limits, hardware discounts, and the operational challenges of managing automated submissions in technical ecosystems. An AI couldn’t beat humans at StarCraft, so it decided to cheat · The iPad Mini is slightly cheaper again during Prime Day · The MacBook Air M5 is $200 off for the first time in months · Sony digital camera model numbers explained: Bigger isn&#x27;t always better · Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</description>
+    </item>
     <item>
       <title>The Week in AI — October 2, 2026</title>
       <link>https://praviveek.online/#roundup-2026-10-02</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-01</guid>
       <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · Polimill builds Japan&#x27;s next-generation public AI infrastructure · The Hugging Face hack could indicate cultural issues at OpenAI · The Pentagon now has its own version of ChatGPT and Grok</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — August 31, 2026</title>
-      <link>https://praviveek.online/#digest-2026-08-31</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-08-31</guid>
-      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers advancements in physical automation, surveillance policy, and significant updates in space exploration and software development. Inside Meta’s push to put robots to work in data centers · China’s robots race ahead · Chess.com launched a poker site and is planning even more classic games · How much storage does a smart TV typically have? · Texas Governor Abbott blocks funding for more Flock cameras</description>
     </item>
   </channel>
 </rss>
