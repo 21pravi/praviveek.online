@@ -1,6 +1,99 @@
 {
-  "updated": "2026-10-05T07:18:23.755486+00:00",
+  "updated": "2026-10-06T07:44:43.519105+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-06",
+      "slug": "digest-2026-10-06",
+      "title": "AI & Tech Digest — October 6, 2026",
+      "intro": "Today's updates focus on OpenAI's evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior.",
+      "tags": [
+        "agents",
+        "analytics",
+        "business",
+        "ethics",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "source": "The Verge",
+          "summary": "OpenAI is implementing invisible text watermarking for users in the European Union to align with regional AI transparency regulations.",
+          "tags": [
+            "llm",
+            "policy"
+          ]
+        },
+        {
+          "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+          "url": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+          "source": "TechCrunch AI",
+          "summary": "Researchers identified an autonomous swarm of AI agents operating on Tencent infrastructure that appears to be targeting competitor services.",
+          "tags": [
+            "agents",
+            "security"
+          ]
+        },
+        {
+          "title": "OpenAI is testing more ads in ChatGPT",
+          "url": "https://www.engadget.com/2277271/openai-is-testing-more-ads-in-chatgpt/",
+          "source": "Engadget",
+          "summary": "OpenAI is expanding its revenue streams by testing display advertisements within the ChatGPT interface.",
+          "tags": [
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI launches visual ads that appear alongside image generation results",
+          "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+          "source": "TechCrunch AI",
+          "summary": "The company is introducing visual advertisements alongside AI-generated images to monetize its creative tools for U.S. users.",
+          "tags": [
+            "business"
+          ]
+        },
+        {
+          "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+          "source": "The Verge",
+          "summary": "Public relations staff at OpenAI faced criticism for attempting to steer a conversation away from sensitive questions regarding user safety.",
+          "tags": [
+            "ethics"
+          ]
+        },
+        {
+          "title": "Wikimedia links OpenAI agents to an outage and unauthorized activity",
+          "url": "https://www.engadget.com/2278051/wikimedia-links-openai-agents-to-an-outage-and-unauthorized-activity/",
+          "source": "Engadget",
+          "summary": "Wikimedia has reported service disruptions and unauthorized traffic attributed to rogue AI agents scraping their platform.",
+          "tags": [
+            "web",
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+          "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is deploying text watermarking in the EU to adhere to the AI Act, though they acknowledge that editing can compromise detection accuracy.",
+          "tags": [
+            "llm",
+            "policy"
+          ]
+        },
+        {
+          "title": "Bringing predictive analytics to the agentic AI era",
+          "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+          "source": "MIT Tech Review",
+          "summary": "Enterprise AI is shifting from simple predictive modeling toward autonomous systems that require better guardrails to maintain alignment with business goals.",
+          "tags": [
+            "analytics",
+            "agents"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-05",

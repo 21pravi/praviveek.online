@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 07:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:44:58 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 6, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-06</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-06</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on OpenAI&#x27;s evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior. OpenAI is adding text watermarking in ChatGPT and Codex · Researchers are tracking a Chinese AI ‘agent fleet’ · OpenAI is testing more ads in ChatGPT · OpenAI launches visual ads that appear alongside image generation results · OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 5, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-05</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of AI performance limits, hardware discounts, and the operational challenges of managing automated submissions in technical ecosystems. An AI couldn’t beat humans at StarCraft, so it decided to cheat · The iPad Mini is slightly cheaper again during Prime Day · The MacBook Air M5 is $200 off for the first time in months · Sony digital camera model numbers explained: Bigger isn&#x27;t always better · Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</description>
+    </item>
+    <item>
+      <title>Paper: T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search</title>
+      <link>https://arxiv.org/abs/2610.06782v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.06782v1</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list</description>
+    </item>
+    <item>
+      <title>Paper: Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs</title>
+      <link>https://arxiv.org/abs/2610.06750v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.06750v1</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance o</description>
+    </item>
+    <item>
+      <title>Paper: BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents</title>
+      <link>https://arxiv.org/abs/2610.06748v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.06748v1</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In decentralized consumer-to-consumer (C2C) marketplaces, people list goods, negotiate with strangers, and rate one another, so trust rests on reputation. Large language model (LLM) agents now act for</description>
+    </item>
+    <item>
+      <title>Paper: Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs</title>
+      <link>https://arxiv.org/abs/2610.06703v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.06703v1</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Background music that matches the mood of a text has been shown to make readers feel more immersed and improve their reading experience, motivating recommender systems that pair books with mood-matche</description>
     </item>
     <item>
       <title>The Week in AI — October 2, 2026</title>
@@ -281,34 +316,6 @@
       <description>Today&#x27;s developments highlight the tension between rapid AI innovation, corporate data trust, and the challenges of academic attribution. Funding grants for new research into AI and teen development · This AI entrepreneur is developing agents that can plan ahead for the unexpected · NVIDIA&#x27;s DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power · Meta debuts its Muse AI agent. Will consumers trust it? · Meta bets on AI agent Muse to catch up in AI race</description>
     </item>
     <item>
-      <title>Paper: Show-Harness: Just a VLM Agent Can Play Robots</title>
-      <link>https://arxiv.org/abs/2609.10522v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.10522v1</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn</description>
-    </item>
-    <item>
-      <title>Paper: ConvMem: Convolutional Memory for Long-Context Reasoning</title>
-      <link>https://arxiv.org/abs/2609.10441v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.10441v1</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like </description>
-    </item>
-    <item>
-      <title>Paper: Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support</title>
-      <link>https://arxiv.org/abs/2609.10421v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.10421v1</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while</description>
-    </item>
-    <item>
-      <title>Paper: Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs</title>
-      <link>https://arxiv.org/abs/2609.10346v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.10346v1</guid>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this over</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 8, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-08</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-08</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-02</guid>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on OpenAI&#x27;s security challenges and model releases, alongside new enterprise integrations and Anthropic&#x27;s pricing adjustments. Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work · OpenAI’s Astra model is on the way — and very good at breaking into computer systems · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · ChatGPT Health adds Epic integration for clinicians to import patient data · OpenAI delayed its new model’s development after the Hugging Face hack</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 1, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-01</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-01</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight a mix of infrastructure investments, legal disputes over data security, and the ongoing integration of AI into public and defense sectors. Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · Polimill builds Japan&#x27;s next-generation public AI infrastructure · The Hugging Face hack could indicate cultural issues at OpenAI · The Pentagon now has its own version of ChatGPT and Grok</description>
     </item>
   </channel>
 </rss>

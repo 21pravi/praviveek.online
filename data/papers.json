@@ -1,6 +1,50 @@
 {
-  "updated": "2026-09-30T06:57:52.317802+00:00",
+  "updated": "2026-10-06T07:44:58.453086+00:00",
   "items": [
+    {
+      "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
+      "url": "https://arxiv.org/abs/2610.06782v1",
+      "date": "2026-10-05",
+      "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list",
+      "authors": "Olga Tsymboi, Ramil Latypov, Aleksandr Medvedev et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs",
+      "url": "https://arxiv.org/abs/2610.06750v1",
+      "date": "2026-10-05",
+      "summary": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance o",
+      "authors": "Hyunji Lee, Joykirat Singh, Zaid Khan et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents",
+      "url": "https://arxiv.org/abs/2610.06748v1",
+      "date": "2026-10-05",
+      "summary": "In decentralized consumer-to-consumer (C2C) marketplaces, people list goods, negotiate with strangers, and rate one another, so trust rests on reputation. Large language model (LLM) agents now act for",
+      "authors": "Ziyan Wang, Shuqing Shi, James Oldfield et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs",
+      "url": "https://arxiv.org/abs/2610.06703v1",
+      "date": "2026-10-05",
+      "summary": "Background music that matches the mood of a text has been shown to make readers feel more immersed and improve their reading experience, motivating recommender systems that pair books with mood-matche",
+      "authors": "Manousos Linardakis, Georgios Alexandridis",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
     {
       "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
       "url": "https://arxiv.org/abs/2609.38147v1",
@@ -666,54 +710,6 @@
       "tags": [
         "geospatial",
         "automation",
-        "paper"
-      ]
-    },
-    {
-      "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
-      "url": "https://arxiv.org/abs/2608.24848v1",
-      "date": "2026-08-25",
-      "summary": "This framework enables large-scale generation of web interaction data by running parallel browser sandboxes, helping developers train more robust pixel-based web agents.",
-      "authors": "Fei Tang, Huawen Shen, Zhiqiong Lu et al.",
-      "tags": [
-        "web agents",
-        "data generation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
-      "url": "https://arxiv.org/abs/2608.24764v1",
-      "date": "2026-08-25",
-      "summary": "The authors identify 'evidence blindness' in LLM agents where critical information is missed during document navigation, providing a framework to quantify and improve retrieval accuracy.",
-      "authors": "Hongyu Guo, Zhiyu Zheng, Zhao Cao",
-      "tags": [
-        "llm",
-        "retrieval",
-        "paper"
-      ]
-    },
-    {
-      "title": "CAFE: Self-Improving Search Agents Need Co-Evolving Feedback",
-      "url": "https://arxiv.org/abs/2608.24794v1",
-      "date": "2026-08-25",
-      "summary": "CAFE improves search agents by training them to request and integrate corrective feedback during a task, preventing errors from compounding over long trajectories.",
-      "authors": "Boyang Liu, Senjie Jin, Peixin Wang et al.",
-      "tags": [
-        "agents",
-        "reinforcement learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
-      "url": "https://arxiv.org/abs/2608.24777v1",
-      "date": "2026-08-25",
-      "summary": "StepGuard provides a proactive safety layer for LLM agents by auditing individual tool actions before execution to prevent security risks and unauthorized operations.",
-      "authors": "Zhijie Zheng, Yu Li, Chen Qian et al.",
-      "tags": [
-        "llm",
-        "security",
         "paper"
       ]
     }
