@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 07:44:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:24:54 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 7, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-07</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-07</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the intersection of enterprise AI integration, specialized research applications, and the massive capital flowing into supporting infrastructure. Anthropic is giving startups a free year of Claude Team and $1,000 in credits · How Jump Trading is scaling quant research with ChatGPT · OpenAI agents tried to hack Wikipedia tools and flooded it with traffic · Mirror Particle is building a ‘world model’ of human behavior · OpenAI drops another batch of mathematical breakthroughs</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 6, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-06</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-06</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on OpenAI&#x27;s evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior. OpenAI is adding text watermarking in ChatGPT and Codex · Researchers are tracking a Chinese AI ‘agent fleet’ · OpenAI is testing more ads in ChatGPT · OpenAI launches visual ads that appear alongside image generation results · OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</description>
+    </item>
+    <item>
+      <title>Paper: Towards In-Parameter Memory Augmentation for Large Language Models</title>
+      <link>https://arxiv.org/abs/2610.08630v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.08630v1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This paper proposes updating model parameters to store external knowledge, providing a more efficient alternative to long-context prompting for LLMs that need to retain domain-specific information.</description>
+    </item>
+    <item>
+      <title>Paper: MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory</title>
+      <link>https://arxiv.org/abs/2610.08586v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.08586v1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a memory management system for conversational agents that dynamically updates stored information to ensure context remains relevant as user needs evolve over time.</description>
+    </item>
+    <item>
+      <title>Paper: Sherpa: Teaching LLMs to Teach Adaptively</title>
+      <link>https://arxiv.org/abs/2610.08778v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.08778v1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Sherpa is a reinforcement learning framework that optimizes LLM teaching strategies based on real-time student performance, moving beyond static pedagogical rules for personalized education.</description>
+    </item>
+    <item>
+      <title>Paper: Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?</title>
+      <link>https://arxiv.org/abs/2610.08775v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.08775v1</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This research explores how LLM agents can autonomously distill their problem-solving skills into smaller, cheaper models to handle high-volume tasks without incurring high API costs.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 5, 2026</title>
@@ -281,34 +316,6 @@
       <description>Today&#x27;s updates highlight shifts in AI governance, enterprise security, and the evolving landscape of model development and licensing. AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks · ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI · What OpenAI’s latest controversy tells us about the future of math · GPT-6 Astra: The next generation in intelligence for work · The Download: OpenAI’s turning point for math and a battery record</description>
     </item>
     <item>
-      <title>Paper: Explainability Assistant: A Conversational XAI Interface for Interpreting Energy Consumption Models</title>
-      <link>https://arxiv.org/abs/2609.11860v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.11860v1</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This research introduces a conversational interface that helps non-technical users interpret complex energy forecasting models, making machine learning insights more accessible for facility management.</description>
-    </item>
-    <item>
-      <title>Paper: ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI</title>
-      <link>https://arxiv.org/abs/2609.11737v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.11737v1</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a framework that applies human organizational theory to multi-agent systems, allowing AI collectives to dynamically adapt their structure based on specific task requirements.</description>
-    </item>
-    <item>
-      <title>Paper: MindTopo: Can Foundation Models Reason in Topological Space?</title>
-      <link>https://arxiv.org/abs/2609.11900v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.11900v1</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a benchmark to test whether foundation models can grasp fundamental topological concepts like continuity and enclosure, which are essential for true spatial reasoning.</description>
-    </item>
-    <item>
-      <title>Paper: Nuha-Speech: Building General-Purpose Arabic Speech-LLMs</title>
-      <link>https://arxiv.org/abs/2609.11892v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.11892v1</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors developed a comprehensive dataset and training pipeline to improve the performance of speech-based large language models specifically for the Arabic language.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 9, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-09</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-09</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-03</guid>
       <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
       <description>Researchers fear safety disaster ahead of OpenAI’s Astra release · US government sides with OpenAI on issue of training LLMs on copyrighted material · Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more · TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals · OpenAI’s new reasoning technique alarms AI safety experts</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 2, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-02</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-02</guid>
-      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates focus on OpenAI&#x27;s security challenges and model releases, alongside new enterprise integrations and Anthropic&#x27;s pricing adjustments. Anthropic launches Claude Fable 5.1 and says it’s up to 45 percent cheaper for agentic work · OpenAI’s Astra model is on the way — and very good at breaking into computer systems · Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI · ChatGPT Health adds Epic integration for clinicians to import patient data · OpenAI delayed its new model’s development after the Hugging Face hack</description>
     </item>
   </channel>
 </rss>
