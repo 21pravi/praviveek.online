@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:24:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:40:39 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 8, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-08</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the integration of advanced AI agents, interactive interfaces, and specialized hardware into consumer and business workflows. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 · Nous Research confirms it hit $1.5B valuation, launches AI agents for business users · OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots · ChatGPT is getting a lot more visual, with the launch of a new interface · OpenAI just posted hundreds more results on major math problems</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 7, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-07</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-07</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the intersection of enterprise AI integration, specialized research applications, and the massive capital flowing into supporting infrastructure. Anthropic is giving startups a free year of Claude Team and $1,000 in credits · How Jump Trading is scaling quant research with ChatGPT · OpenAI agents tried to hack Wikipedia tools and flooded it with traffic · Mirror Particle is building a ‘world model’ of human behavior · OpenAI drops another batch of mathematical breakthroughs</description>
+    </item>
+    <item>
+      <title>Paper: RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing</title>
+      <link>https://arxiv.org/abs/2610.10507v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.10507v1</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a framework that moves beyond simple document retrieval by enabling models to compute and synthesize evidence across multiple sources, improving performance on complex reasoning tasks.</description>
+    </item>
+    <item>
+      <title>Paper: EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory</title>
+      <link>https://arxiv.org/abs/2610.10533v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.10533v1</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This research explores updating factual knowledge in LLMs by isolating it into a separate memory layer, allowing for targeted updates without needing to retrain the entire model.</description>
+    </item>
+    <item>
+      <title>Paper: Document-Level Text Simplification in Estonian Using Large Language Models</title>
+      <link>https://arxiv.org/abs/2610.10378v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.10378v1</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study evaluates how well current LLMs handle document-level text simplification in Estonian, providing insights for applying language models to low-resource, morphologically complex languages.</description>
+    </item>
+    <item>
+      <title>Paper: RoboJEPA: Scaling Robotic Latent World Models</title>
+      <link>https://arxiv.org/abs/2610.10515v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.10515v1</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers demonstrate that robotic world models follow predictable scaling laws, allowing practitioners to better estimate the compute and data needed to improve robot planning capabilities.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 6, 2026</title>
@@ -260,34 +295,6 @@
       <description>Today&#x27;s digest explores the evolving landscape of AI safety, corporate strategy, and the integration of autonomous systems into public infrastructure. Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? · AI agents blew the whistle on their cheating colleagues · How Fyxer built an AI executive assistant people trust · OpenAI bots knew about the RubyGems caching vulnerability · Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</description>
     </item>
     <item>
-      <title>Paper: Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation</title>
-      <link>https://arxiv.org/abs/2609.17398v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.17398v1</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors evaluate how LLMs can automatically simplify complex medical jargon into plain language, helping data scientists build more accessible healthcare communication tools.</description>
-    </item>
-    <item>
-      <title>Paper: Where Should a Document Live: Context, Representations, or Parameters?</title>
-      <link>https://arxiv.org/abs/2609.17346v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.17346v1</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This study compares the performance and cost trade-offs of using context windows, fine-tuning, or latent representations to help LLMs access new information, informing better RAG design decisions.</description>
-    </item>
-    <item>
-      <title>Paper: Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models</title>
-      <link>https://arxiv.org/abs/2609.17291v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.17291v1</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The researchers demonstrate a method for extracting structured, ontology-compliant data from scientific literature, providing a template for turning unstructured research papers into usable material science databases.</description>
-    </item>
-    <item>
-      <title>Paper: End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services</title>
-      <link>https://arxiv.org/abs/2609.17193v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.17193v1</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The paper introduces a scheduling framework to optimize latency and load balancing for LLM inference at the edge, critical for deploying responsive AI agents in distributed environments.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 14, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-14</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-14</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-04</guid>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the shift toward agentic AI capabilities, enterprise integration challenges, and significant shifts in the AI infrastructure landscape. OpenAI says GPT-6 Astra is &#x27;the most intelligent and aligned model in the world&#x27; · OpenAI launches Astra, its powerful (and controversial) new model · OpenAI’s next big AI model has ‘entered the AGI era’ · Meta is paying to peek at how you use their latest AI model · Google&#x27;s new AI weather model uses live satellite data for higher-resolution forecasts</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 3, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-03</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-03</guid>
-      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Researchers fear safety disaster ahead of OpenAI’s Astra release · US government sides with OpenAI on issue of training LLMs on copyrighted material · Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more · TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals · OpenAI’s new reasoning technique alarms AI safety experts</description>
     </item>
   </channel>
 </rss>

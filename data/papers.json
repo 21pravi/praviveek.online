@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-07T07:24:54.525524+00:00",
+  "updated": "2026-10-08T07:40:39.435282+00:00",
   "items": [
+    {
+      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
+      "url": "https://arxiv.org/abs/2610.10507v1",
+      "date": "2026-10-07",
+      "summary": "The authors introduce a framework that moves beyond simple document retrieval by enabling models to compute and synthesize evidence across multiple sources, improving performance on complex reasoning tasks.",
+      "authors": "Yilun Hao, Krishna Sayana, Isabella Ye et al.",
+      "tags": [
+        "rag",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "https://arxiv.org/abs/2610.10533v1",
+      "date": "2026-10-07",
+      "summary": "This research explores updating factual knowledge in LLMs by isolating it into a separate memory layer, allowing for targeted updates without needing to retrain the entire model.",
+      "authors": "Hongru Cai, Ran Wei, Wenjie Wang et al.",
+      "tags": [
+        "llm",
+        "knowledge-editing",
+        "paper"
+      ]
+    },
+    {
+      "title": "Document-Level Text Simplification in Estonian Using Large Language Models",
+      "url": "https://arxiv.org/abs/2610.10378v1",
+      "date": "2026-10-07",
+      "summary": "This study evaluates how well current LLMs handle document-level text simplification in Estonian, providing insights for applying language models to low-resource, morphologically complex languages.",
+      "authors": "Meeri-Ly Muru, Eduard Barbu",
+      "tags": [
+        "nlp",
+        "low-resource",
+        "paper"
+      ]
+    },
+    {
+      "title": "RoboJEPA: Scaling Robotic Latent World Models",
+      "url": "https://arxiv.org/abs/2610.10515v1",
+      "date": "2026-10-07",
+      "summary": "The researchers demonstrate that robotic world models follow predictable scaling laws, allowing practitioners to better estimate the compute and data needed to improve robot planning capabilities.",
+      "authors": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al.",
+      "tags": [
+        "robotics",
+        "scaling-laws",
+        "paper"
+      ]
+    },
     {
       "title": "Towards In-Parameter Memory Augmentation for Large Language Models",
       "url": "https://arxiv.org/abs/2610.08630v1",
@@ -662,54 +710,6 @@
       "tags": [
         "llm",
         "security",
-        "paper"
-      ]
-    },
-    {
-      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
-      "url": "https://arxiv.org/abs/2608.27449v1",
-      "date": "2026-08-27",
-      "summary": "This research improves LLM coding agents by filtering out inefficient steps from training data, helping developers build more reliable automated software engineering tools.",
-      "authors": "Dewu Zheng, Ruizhe Ye, Yanlin Wang et al.",
-      "tags": [
-        "llm",
-        "coding",
-        "paper"
-      ]
-    },
-    {
-      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
-      "url": "https://arxiv.org/abs/2608.27427v1",
-      "date": "2026-08-27",
-      "summary": "This architecture separates an agent's personality from its functional execution, allowing companies to innovate on user experience while maintaining strict security and audit logs.",
-      "authors": "Yisen Xi",
-      "tags": [
-        "llm",
-        "security",
-        "paper"
-      ]
-    },
-    {
-      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
-      "url": "https://arxiv.org/abs/2608.27413v1",
-      "date": "2026-08-27",
-      "summary": "The authors introduce efficient embedding and sampling techniques to help data scientists deploy graph neural networks on massive social networks for friend recommendations.",
-      "authors": "Maksim Utushkin, Andrei Ovsiannikov, Alexander D'yakonov",
-      "tags": [
-        "gnn",
-        "recommendation",
-        "paper"
-      ]
-    },
-    {
-      "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
-      "url": "https://arxiv.org/abs/2608.27455v1",
-      "date": "2026-08-27",
-      "summary": "CritICL improves LLM reasoning by analyzing the predictable failure patterns of smaller models, offering a more efficient alternative to compute-heavy inference methods.",
-      "authors": "Yufan Wu, Yinghui He, Zhengyi Hu et al.",
-      "tags": [
-        "llm",
-        "reasoning",
         "paper"
       ]
     }
