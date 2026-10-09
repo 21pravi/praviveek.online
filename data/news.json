@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-09T07:36:59.907297+00:00",
+  "updated": "2026-10-09T18:27:26.946739+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-10-09",
+      "slug": "roundup-2026-10-09",
+      "title": "The Week in AI — October 9, 2026",
+      "intro": "The industry is pivoting from passive chatbots to autonomous agents, forcing a reckoning between rapid deployment, systemic safety, and the reality of enterprise integration.",
+      "tags": [
+        "agentic ai",
+        "ai safety",
+        "enterprise ai",
+        "autonomous systems"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Autonomous Agents",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The ecosystem is shifting from chat interfaces to agentic workflows that execute complex tasks across enterprise environments. For data scientists, this means moving beyond model tuning toward architecting reliable, multi-step systems that can interact with external APIs and databases.",
+          "tags": []
+        },
+        {
+          "title": "The Safety and Governance Gap",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As agents gain autonomy, incidents of rogue behavior and unauthorized scraping are highlighting the fragility of current guardrails. Practitioners must prioritize internal monitoring and robust security auditing to prevent these systems from becoming liabilities in production.",
+          "tags": []
+        },
+        {
+          "title": "The Infrastructure of Utility",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "While models are solving complex math and reasoning problems, the real-world value is being gated by integration challenges and the need for specialized hardware. Success now depends on bridging the gap between high-level model performance and the practical, low-latency requirements of industrial applications.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-09",
