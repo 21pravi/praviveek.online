@@ -1,6 +1,101 @@
 {
-  "updated": "2026-10-08T07:40:36.726529+00:00",
+  "updated": "2026-10-09T07:36:59.907297+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-09",
+      "slug": "digest-2026-10-09",
+      "title": "AI & Tech Digest — October 9, 2026",
+      "intro": "Today's digest focuses on the evolution of agentic AI, security initiatives, and ongoing debates surrounding corporate safety culture.",
+      "tags": [
+        "agents",
+        "enterprise",
+        "ethics",
+        "funding",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "Google brings agentic AI to Gemini, starting with businesses",
+          "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+          "source": "TechCrunch AI",
+          "summary": "Google is expanding Gemini's capabilities to function as an autonomous agent capable of executing complex workflows across enterprise software environments.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Anthropic launches free AI security scans for open-source projects",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+          "source": "The Verge",
+          "summary": "Anthropic is providing free automated security auditing services to open-source software projects to help identify and remediate vulnerabilities.",
+          "tags": [
+            "security",
+            "open source"
+          ]
+        },
+        {
+          "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+          "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup focused on personal AI agents has secured significant venture capital funding, highlighting continued investor interest in the agentic software space.",
+          "tags": [
+            "funding",
+            "agents"
+          ]
+        },
+        {
+          "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+          "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+          "source": "TechCrunch AI",
+          "summary": "Goodfire has introduced a monitoring tool that inspects internal model states to detect malicious agent behavior more efficiently than external oversight methods.",
+          "tags": [
+            "security",
+            "agents"
+          ]
+        },
+        {
+          "title": "Anthropic changes usage policy to ban model abuse and election interference",
+          "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic updated its usage policies to explicitly restrict harmful activities, including election interference and the development of dangerous software.",
+          "tags": [
+            "policy",
+            "ethics"
+          ]
+        },
+        {
+          "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+          "source": "TechCrunch AI",
+          "summary": "Former OpenAI safety researchers are challenging their termination, expressing concerns that these actions negatively impact the company's internal safety culture.",
+          "tags": [
+            "safety",
+            "openai"
+          ]
+        },
+        {
+          "title": "Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models",
+          "url": "https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/",
+          "source": "Engadget",
+          "summary": "Anthropic's updated terms of service now prohibit persistent abusive interactions with its models alongside stricter guidelines regarding political content.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "AI breakthroughs in robotics won’t change your life any time soon",
+          "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+          "source": "MIT Tech Review",
+          "summary": "Despite viral demonstrations of humanoid robots, significant technical hurdles remain before these machines achieve practical utility in everyday environments.",
+          "tags": [
+            "robotics"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-08",
