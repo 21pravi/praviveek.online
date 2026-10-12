@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-09T07:37:02.951812+00:00",
+  "updated": "2026-10-12T07:36:41.412450+00:00",
   "items": [
+    {
+      "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
+      "url": "https://arxiv.org/abs/2610.13823v1",
+      "date": "2026-10-09",
+      "summary": "Researchers found that LLMs produce inconsistent results for the same query even at zero temperature, meaning data scientists must account for non-deterministic outputs in production pipelines.",
+      "authors": "Oktie Hassanzadeh, Dharmashankar Subramanian",
+      "tags": [
+        "llm",
+        "reliability",
+        "paper"
+      ]
+    },
+    {
+      "title": "Task Context Shapes Component Roles in Language Models",
+      "url": "https://arxiv.org/abs/2610.13895v1",
+      "date": "2026-10-09",
+      "summary": "This study analyzes how LLM attention heads adapt their roles based on specific task contexts, offering practitioners better insight into how model components influence final predictions.",
+      "authors": "Sovesh Mohapatra, Dani S Bassett",
+      "tags": [
+        "interpretability",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+      "url": "https://arxiv.org/abs/2610.13889v1",
+      "date": "2026-10-09",
+      "summary": "The authors introduce a tool retrieval framework that uses real-time execution feedback to prioritize reliable tools, helping developers build more stable AI agent workflows.",
+      "authors": "Weiliang Chen, Song Liao",
+      "tags": [
+        "agents",
+        "retrieval",
+        "paper"
+      ]
+    },
+    {
+      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
+      "url": "https://arxiv.org/abs/2610.13886v1",
+      "date": "2026-10-09",
+      "summary": "This paper presents a red-teaming method to detect harmful outcomes in AI agents by systematically testing how different service interactions can lead to unintended consequences.",
+      "authors": "Yeonsung Jung, Zhiyuan Wang, Zifan Wang et al.",
+      "tags": [
+        "security",
+        "agents",
+        "paper"
+      ]
+    },
     {
       "title": "Prior or Feedback? What an LLM Uses When Adapting Neural Operators",
       "url": "https://arxiv.org/abs/2610.12325v1",
@@ -662,54 +710,6 @@
       "tags": [
         "agents",
         "efficiency",
-        "paper"
-      ]
-    },
-    {
-      "title": "TSPFN: A Temporal Tabular Foundation Model for Physiological Time Series Classification",
-      "url": "https://arxiv.org/abs/2608.31013v1",
-      "date": "2026-08-31",
-      "summary": "The authors adapted TabPFN to handle temporal dependencies in medical data, offering a powerful tool for classification tasks where training data is limited.",
-      "authors": "Jérémie Stym-Popper, Clément Rambour, Federica Granese et al.",
-      "tags": [
-        "time-series",
-        "foundation-models",
-        "paper"
-      ]
-    },
-    {
-      "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
-      "url": "https://arxiv.org/abs/2608.31128v1",
-      "date": "2026-08-31",
-      "summary": "This on-premise multi-agent system reduces LLM hallucinations in diabetes screening by grounding risk assessments in clinical guidelines and verifiable EHR data extraction.",
-      "authors": "Yung Wei Shueh, Zhi-Jie Chen, Chia-Hsuan Hsu et al.",
-      "tags": [
-        "llm",
-        "healthcare",
-        "paper"
-      ]
-    },
-    {
-      "title": "A Human-in-the-Loop Autonomous Agent for Industry Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2608.30976v1",
-      "date": "2026-08-31",
-      "summary": "CastClaw is an autonomous forecasting agent that integrates human oversight and domain-specific constraints to improve the reliability of industrial time-series predictions.",
-      "authors": "Xiaoyu Tao, Mingyue Cheng, Ze Guo et al.",
-      "tags": [
-        "forecasting",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
-      "url": "https://arxiv.org/abs/2608.31139v1",
-      "date": "2026-08-31",
-      "summary": "This framework improves RAG performance in biomedical tasks by replacing rigid fixed-size chunking with a semantic approach that preserves critical medical entities and relationships.",
-      "authors": "Riya Ahuja, Tim Kacprowski, Roya Shiasi Sardoabi",
-      "tags": [
-        "rag",
-        "nlp",
         "paper"
       ]
     }

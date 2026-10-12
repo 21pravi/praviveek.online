@@ -1,6 +1,99 @@
 {
-  "updated": "2026-10-09T18:27:26.946739+00:00",
+  "updated": "2026-10-12T07:36:23.872872+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-12",
+      "slug": "digest-2026-10-12",
+      "title": "AI & Tech Digest — October 12, 2026",
+      "intro": "Today's digest covers the evolving landscape of AI agents, local model deployment, and the broader socio-technical challenges facing the industry.",
+      "tags": [
+        "agents",
+        "apple",
+        "consumer-ai",
+        "data",
+        "data-management"
+      ],
+      "items": [
+        {
+          "title": "OpenAI Dot vs. Meta Muse: How do these AI agents compare?",
+          "url": "https://www.engadget.com/2281289/openai-dot-vs-meta-muse-ai-agents-comparison/",
+          "source": "Engadget",
+          "summary": "OpenAI and Meta are competing to define the capabilities and accessibility of consumer-facing AI agents.",
+          "tags": [
+            "agents",
+            "llm"
+          ]
+        },
+        {
+          "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "source": "The Verge",
+          "summary": "Running AI models locally offers a private alternative to cloud services, though the setup process presents significant technical hurdles for users.",
+          "tags": [
+            "local-ai",
+            "privacy"
+          ]
+        },
+        {
+          "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+          "url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "source": "TechCrunch AI",
+          "summary": "Industry experts argue that voice-based AI systems currently lack the contextual understanding required to match the utility of text-based models.",
+          "tags": [
+            "voice-ai"
+          ]
+        },
+        {
+          "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+          "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "source": "TechCrunch AI",
+          "summary": "The AI sector is considering increased transparency regarding data center operations to address community opposition and regulatory concerns.",
+          "tags": [
+            "policy",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "source": "The Verge",
+          "summary": "Some technology leaders are adopting political branding shifts for artificial intelligence, despite the term's established usage in the scientific community.",
+          "tags": [
+            "policy"
+          ]
+        },
+        {
+          "title": "Why it's important to backup data saved on your older thumb drives",
+          "url": "https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/",
+          "source": "Engadget",
+          "summary": "Users should maintain redundant backups of portable storage media to prevent data loss resulting from hardware degradation over time.",
+          "tags": [
+            "data-management"
+          ]
+        },
+        {
+          "title": "NASA dumped over 800GB of Artemis II data online",
+          "url": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+          "source": "The Verge",
+          "summary": "NASA has publicly released a large dataset from the Artemis II mission, providing researchers and the public access to extensive mission documentation.",
+          "tags": [
+            "data",
+            "science"
+          ]
+        },
+        {
+          "title": "Apple Home's new AI summaries for security cameras cost more than you'd think",
+          "url": "https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/",
+          "source": "Engadget",
+          "summary": "Apple is tying advanced AI-powered security camera features to premium subscription tiers, increasing the cost of home surveillance integration.",
+          "tags": [
+            "apple",
+            "consumer-ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-10-09",

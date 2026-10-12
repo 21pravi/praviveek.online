@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:36:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 12, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-12</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-12</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the evolving landscape of AI agents, local model deployment, and the broader socio-technical challenges facing the industry. OpenAI Dot vs. Meta Muse: How do these AI agents compare? · Learning to use local AI is exciting, overwhelming, and frustrating · These execs think voice AI hasn’t reached its ChatGPT moment yet · Can the AI industry persuade data center opponents by getting rid of NDAs? · Silicon Valley is falling in line with Trump’s attempt to rename AI</description>
+    </item>
     <item>
       <title>The Week in AI — October 9, 2026</title>
       <link>https://praviveek.online/#roundup-2026-10-09</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the evolution of agentic AI, security initiatives, and ongoing debates surrounding corporate safety culture. Google brings agentic AI to Gemini, starting with businesses · Anthropic launches free AI security scans for open-source projects · Cal AI’s 19-year-old founder just raised $10M for his new AI startup · Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost · Anthropic changes usage policy to ban model abuse and election interference</description>
+    </item>
+    <item>
+      <title>Paper: Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing</title>
+      <link>https://arxiv.org/abs/2610.13823v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.13823v1</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Researchers found that LLMs produce inconsistent results for the same query even at zero temperature, meaning data scientists must account for non-deterministic outputs in production pipelines.</description>
+    </item>
+    <item>
+      <title>Paper: Task Context Shapes Component Roles in Language Models</title>
+      <link>https://arxiv.org/abs/2610.13895v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.13895v1</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study analyzes how LLM attention heads adapt their roles based on specific task contexts, offering practitioners better insight into how model components influence final predictions.</description>
+    </item>
+    <item>
+      <title>Paper: RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics</title>
+      <link>https://arxiv.org/abs/2610.13889v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.13889v1</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a tool retrieval framework that uses real-time execution feedback to prioritize reliable tools, helping developers build more stable AI agent workflows.</description>
+    </item>
+    <item>
+      <title>Paper: X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</title>
+      <link>https://arxiv.org/abs/2610.13886v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.13886v1</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This paper presents a red-teaming method to detect harmful outcomes in AI agents by systematically testing how different service interactions can lead to unintended consequences.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 8, 2026</title>
@@ -197,34 +232,6 @@
       <description>Nvidia launches new platform for reining in rogue AI agents · Florida AG requests emergency order to stop OpenAI model development · When can we say AI made a scientific discovery? · OpenAI’s AI agents need to catch up · AMD is acquiring AI company World Labs in a deal worth more than $8 billion</description>
     </item>
     <item>
-      <title>Paper: Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning</title>
-      <link>https://arxiv.org/abs/2609.38147v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.38147v1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a meta-reasoning framework that helps AI agents manage complex workflows by explicitly deciding when to continue, restart, or pivot during task execution.</description>
-    </item>
-    <item>
-      <title>Paper: Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI</title>
-      <link>https://arxiv.org/abs/2609.38143v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.38143v1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The researchers developed a method for AI models to automatically build better execution environments for other models, improving performance without needing to retrain the underlying weights.</description>
-    </item>
-    <item>
-      <title>Paper: Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE</title>
-      <link>https://arxiv.org/abs/2609.38140v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.38140v1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a specialized Mixture-of-Experts architecture for video models that avoids inefficient token routing, leading to better handling of complex, redundant visual data.</description>
-    </item>
-    <item>
-      <title>Paper: Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution</title>
-      <link>https://arxiv.org/abs/2609.38108v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2609.38108v1</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This study investigates why LLM agents often fail to follow their own plans, proposing a routing system that forces agents to explicitly declare and stick to specific planning strategies.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — September 28, 2026</title>
       <link>https://praviveek.online/#digest-2026-09-28</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-28</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-08</guid>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers shifts in hardware economics, emerging energy sources, and the evolving landscape of consumer electronics and AI terminology. The Download: the hunt for underground hydrogen and more rogue OpenAI agents · First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost · Caltech Mathathon – first hackathon ever devoted to research level mathematics · The real reason your phone is getting more expensive · Six years later, Sony revisits its legendary XM4 headphones</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 7, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-07</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-07</guid>
-      <pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the intersection of AI-driven research, ongoing legal challenges regarding intellectual property, and developments in consumer hardware. Research acceleration: The view inside OpenAI · OpenAI says it reached its goal of creating an automated research intern · Authors push back as publishers and agents make claims on Anthropic settlement · Seattle Times and Newsday sue OpenAI and Microsoft for infringement · How to set up ChatGPT&#x27;s parental controls to protect your teen</description>
     </item>
   </channel>
 </rss>
