@@ -1,6 +1,98 @@
 {
-  "updated": "2026-10-12T07:36:23.872872+00:00",
+  "updated": "2026-10-13T07:55:52.828035+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-13",
+      "slug": "digest-2026-10-13",
+      "title": "AI & Tech Digest — October 13, 2026",
+      "intro": "Today's developments highlight advancements in large-scale AI modeling, specialized automation, and the growing security risks facing critical infrastructure.",
+      "tags": [
+        "ai",
+        "automation",
+        "construction",
+        "defense",
+        "ecology"
+      ],
+      "items": [
+        {
+          "title": "Meta has some Wonder Full new AI models",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+          "source": "The Verge",
+          "summary": "Meta has released two new large-scale models, Muse Wonder and Wonder Full, designed to compete with top-tier industry benchmarks in complex reasoning and coding tasks.",
+          "tags": [
+            "llm",
+            "meta"
+          ]
+        },
+        {
+          "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+          "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+          "source": "TechCrunch AI",
+          "summary": "WindBorne secured a $50 million military contract to integrate its weather balloon sensor data with AI for enhanced meteorological forecasting.",
+          "tags": [
+            "ai",
+            "defense"
+          ]
+        },
+        {
+          "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+          "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+          "source": "TechCrunch AI",
+          "summary": "Blueprints AI has developed a tool that automates the creation of construction blueprints that meet regulatory standards from various input formats.",
+          "tags": [
+            "automation",
+            "construction"
+          ]
+        },
+        {
+          "title": "Meta releases its first frontier model, Muse Wonder",
+          "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+          "source": "TechCrunch AI",
+          "summary": "The Muse Wonder models introduce active memory and focus capabilities to improve performance on demanding technical workflows.",
+          "tags": [
+            "llm"
+          ]
+        },
+        {
+          "title": "Meta says it's caught up to the frontier with its latest Wonder AI models",
+          "url": "https://www.engadget.com/2284478/meta-says-its-caught-up-to-the-frontier-with-its-latest-wonder-ai-models/",
+          "source": "Engadget",
+          "summary": "Ecological research in Panama is utilizing long-term forest monitoring to better understand the complex biological networks required for rainforest restoration.",
+          "tags": [
+            "science",
+            "ecology"
+          ]
+        },
+        {
+          "title": "The ecologist revealing the invisible networks that revive rainforests",
+          "url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+          "source": "MIT Tech Review",
+          "summary": "Google's Spark tool enables users to delegate repetitive digital tasks to an AI agent for improved workflow efficiency.",
+          "tags": [
+            "automation",
+            "google"
+          ]
+        },
+        {
+          "title": "How to use Google Gemini to automate tasks",
+          "url": "https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/",
+          "source": "Engadget",
+          "summary": "A cybersecurity incident involving supermarket refrigeration systems across Europe underscores the increasing vulnerability of industrial control systems to remote hacking.",
+          "tags": [
+            "security",
+            "iot"
+          ]
+        },
+        {
+          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+          "source": "Hacker News",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-12",

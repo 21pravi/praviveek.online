@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Oct 2026 07:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:56:00 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 13, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-13</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-13</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight advancements in large-scale AI modeling, specialized automation, and the growing security risks facing critical infrastructure. Meta has some Wonder Full new AI models · WindBorne wins a hefty US Air Force contract for its balloon data · This AI startup says it can generate permit-ready blueprints in minutes · Meta releases its first frontier model, Muse Wonder · Meta says it&#x27;s caught up to the frontier with its latest Wonder AI models</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 12, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-12</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-09</guid>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the tension between rapid AI innovation, corporate data trust, and the challenges of academic attribution. Funding grants for new research into AI and teen development · This AI entrepreneur is developing agents that can plan ahead for the unexpected · NVIDIA&#x27;s DLSS 5 adds subtle details to NBA 2K27, but demands a lot more power · Meta debuts its Muse AI agent. Will consumers trust it? · Meta bets on AI agent Muse to catch up in AI race</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 8, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-08</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-08</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers shifts in hardware economics, emerging energy sources, and the evolving landscape of consumer electronics and AI terminology. The Download: the hunt for underground hydrogen and more rogue OpenAI agents · First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost · Caltech Mathathon – first hackathon ever devoted to research level mathematics · The real reason your phone is getting more expensive · Six years later, Sony revisits its legendary XM4 headphones</description>
     </item>
   </channel>
 </rss>
