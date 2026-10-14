@@ -1,6 +1,72 @@
 {
-  "updated": "2026-10-13T07:55:52.828035+00:00",
+  "updated": "2026-10-14T06:21:59.442857+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-14",
+      "slug": "digest-2026-10-14",
+      "title": "AI & Tech Digest — October 14, 2026",
+      "intro": "",
+      "tags": [],
+      "items": [
+        {
+          "title": "AI labs are buying data from dead startups to train their models",
+          "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI says it found a 'sophisticated recording device' hidden in its offices",
+          "url": "https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/",
+          "source": "Engadget",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Open models have real benefits. Do they outweigh the risks?",
+          "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "The Download: open model trade-offs and geothermal power’s promise",
+          "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+          "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Shopify opens its catalog up to more AI agents",
+          "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "OpenAI engineer arrested in bugging of executive conference room",
+          "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+          "source": "Hacker News",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-13",

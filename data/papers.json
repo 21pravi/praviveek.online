@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-13T07:56:00.571535+00:00",
+  "updated": "2026-10-14T06:22:01.763526+00:00",
   "items": [
+    {
+      "title": "Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs",
+      "url": "https://arxiv.org/abs/2610.18818v1",
+      "date": "2026-10-13",
+      "summary": "The authors show that using back-translation with monolingual data significantly improves machine translation performance in low-resource languages compared to relying solely on few-shot prompting or fine-tuning.",
+      "authors": "Divyanshu Bathla, Parag Singla, Jitin Singla",
+      "tags": [
+        "translation",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection",
+      "url": "https://arxiv.org/abs/2610.18807v1",
+      "date": "2026-10-13",
+      "summary": "This paper introduces a method to improve agentic reinforcement learning by selectively injecting and evaluating relevant skills, reducing the computational cost and instability of traditional rollout-based credit assignment.",
+      "authors": "Wenlin Zhong, Hao Wang, Kun Yuan et al.",
+      "tags": [
+        "reinforcement learning",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.18683v1",
+      "date": "2026-10-13",
+      "summary": "The authors propose a framework that improves how LLM agents learn by assigning credit more intelligently across multi-turn actions, avoiding the pitfalls of uniform reward distribution without needing extra critic models.",
+      "authors": "Bowen Ding, Mingda Wan, Yuhan Chen et al.",
+      "tags": [
+        "reinforcement learning",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "https://arxiv.org/abs/2610.18874v1",
+      "date": "2026-10-13",
+      "summary": "By grouping robotic actions into chunks, this method reduces the redundant reasoning overhead of LLMs in control loops, making robot task execution significantly more efficient.",
+      "authors": "Bingxin Xu, Wenrui Bao, Xinxin Liu et al.",
+      "tags": [
+        "robotics",
+        "llm",
+        "paper"
+      ]
+    },
     {
       "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
       "url": "https://arxiv.org/abs/2610.13823v1",
@@ -662,54 +710,6 @@
       "tags": [
         "llm",
         "coding",
-        "paper"
-      ]
-    },
-    {
-      "title": "From Confusion to Clarity: Confusion-Aware Retrieval and Knowledge Injection for Text Classification",
-      "url": "https://arxiv.org/abs/2609.01564v1",
-      "date": "2026-09-01",
-      "summary": "The authors introduce a framework to help LLMs distinguish between semantically similar labels in large taxonomies by explicitly identifying and resolving confusion during the retrieval process.",
-      "authors": "Manish Gupta, Chaitanya Giri, Jayasimha Talur",
-      "tags": [
-        "classification",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Sierpiński--Knopp Wasserstein Distance for Persistence Diagrams and Applications to 2-Wasserstein Approximation",
-      "url": "https://arxiv.org/abs/2609.01528v1",
-      "date": "2026-09-01",
-      "summary": "This paper presents a faster method for comparing persistence diagrams, enabling more efficient topological data analysis by reducing computational complexity to near-linear time.",
-      "authors": "Sebastien Tchitchek, Julien Tierny",
-      "tags": [
-        "tda",
-        "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "When Safety Routing Breaks: Understanding Alignment Fragility under Benign Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.01455v1",
-      "date": "2026-09-01",
-      "summary": "The researchers explain why fine-tuning LLMs for specific tasks often inadvertently strips away safety guardrails, providing a geometric perspective on how model alignment degrades.",
-      "authors": "Yitong Guo, Xiaoyi Chen, Siyuan Zhang et al.",
-      "tags": [
-        "safety",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "TRIAGE: Three-level Routing and Intelligent Agent Guidance for Efficient Execution",
-      "url": "https://arxiv.org/abs/2609.01428v1",
-      "date": "2026-09-01",
-      "summary": "The authors propose a framework that caches and reuses successful execution paths as reusable skills, significantly reducing token usage and latency for LLM agents.",
-      "authors": "Ruocan Wei",
-      "tags": [
-        "agents",
-        "efficiency",
         "paper"
       ]
     }
