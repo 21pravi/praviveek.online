@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:22:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:04:48 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 15, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-15</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the rapid expansion of autonomous agent capabilities alongside emerging regulatory and security concerns surrounding AI deployment. Amp puts AI agents to work beyond code with OpenAI models · How Third Moment Research runs 10,000 agents for 36+ hours · Anthropic warns small AI models could self-replicate through IoT devices · Floqer’s AI agents research sales prospects so teams don’t have to · Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 14, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-14</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI labs are buying data from dead startups to train their models · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · OpenAI says it found a &#x27;sophisticated recording device&#x27; hidden in its offices · Open models have real benefits. Do they outweigh the risks? · The Download: open model trade-offs and geothermal power’s promise</description>
+    </item>
+    <item>
+      <title>Paper: PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition</title>
+      <link>https://arxiv.org/abs/2610.20560v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.20560v1</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves 3D object placement by grounding AI agents in physical laws, helping developers create more realistic simulations and interactive digital environments.</description>
+    </item>
+    <item>
+      <title>Paper: Bayesian Learning to Select Fair Classifiers</title>
+      <link>https://arxiv.org/abs/2610.20514v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.20514v1</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This Bayesian approach helps data scientists dynamically select the best models in real-time streams while balancing prediction accuracy with fairness constraints.</description>
+    </item>
+    <item>
+      <title>Paper: Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance</title>
+      <link>https://arxiv.org/abs/2610.20607v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.20607v1</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This method uses a hierarchical architecture to efficiently fine-tune robotic manipulation tasks with minimal human intervention, making real-world deployment more practical.</description>
+    </item>
+    <item>
+      <title>Paper: Player-1: Learning to Play from Synthetic Experience</title>
+      <link>https://arxiv.org/abs/2610.20584v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.20584v1</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework enables AI agents to master complex video games using synthetic experiences, reducing the reliance on massive sets of human gameplay demonstrations.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 13, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s updates focus on OpenAI&#x27;s evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior. OpenAI is adding text watermarking in ChatGPT and Codex · Researchers are tracking a Chinese AI ‘agent fleet’ · OpenAI is testing more ads in ChatGPT · OpenAI launches visual ads that appear alongside image generation results · OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</description>
     </item>
     <item>
-      <title>Paper: Towards In-Parameter Memory Augmentation for Large Language Models</title>
-      <link>https://arxiv.org/abs/2610.08630v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.08630v1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper proposes updating model parameters to store external knowledge, providing a more efficient alternative to long-context prompting for LLMs that need to retain domain-specific information.</description>
-    </item>
-    <item>
-      <title>Paper: MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory</title>
-      <link>https://arxiv.org/abs/2610.08586v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.08586v1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a memory management system for conversational agents that dynamically updates stored information to ensure context remains relevant as user needs evolve over time.</description>
-    </item>
-    <item>
-      <title>Paper: Sherpa: Teaching LLMs to Teach Adaptively</title>
-      <link>https://arxiv.org/abs/2610.08778v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.08778v1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Sherpa is a reinforcement learning framework that optimizes LLM teaching strategies based on real-time student performance, moving beyond static pedagogical rules for personalized education.</description>
-    </item>
-    <item>
-      <title>Paper: Agent in a Bottle: Can LLM Agents Turn Their Capabilities Into Cheap, Scalable Artifacts?</title>
-      <link>https://arxiv.org/abs/2610.08775v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.08775v1</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This research explores how LLM agents can autonomously distill their problem-solving skills into smaller, cheaper models to handle high-volume tasks without incurring high API costs.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 5, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-05</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-05</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-11</guid>
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the dual nature of AI, spanning from security risks and data privacy concerns to new enterprise and scientific applications. Anthropic caught scientists using Claude to further biological weapon research · More questions about whether researchers can trust OpenAI with unpublished math · Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra · Anthropic reveals rogue AI agents hate CAPTCHAs, just like you · Introducing ChatGPT for Financial Services</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 10, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-10</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-10</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight shifts in AI governance, enterprise security, and the evolving landscape of model development and licensing. AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks · ‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI · What OpenAI’s latest controversy tells us about the future of math · GPT-6 Astra: The next generation in intelligence for work · The Download: OpenAI’s turning point for math and a battery record</description>
     </item>
   </channel>
 </rss>

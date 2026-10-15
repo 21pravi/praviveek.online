@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-14T06:22:01.763526+00:00",
+  "updated": "2026-10-15T06:04:48.391955+00:00",
   "items": [
+    {
+      "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
+      "url": "https://arxiv.org/abs/2610.20560v1",
+      "date": "2026-10-14",
+      "summary": "This framework improves 3D object placement by grounding AI agents in physical laws, helping developers create more realistic simulations and interactive digital environments.",
+      "authors": "Weichen Lyu, Chong Xia, Mingyu Dong et al.",
+      "tags": [
+        "3d",
+        "simulation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Bayesian Learning to Select Fair Classifiers",
+      "url": "https://arxiv.org/abs/2610.20514v1",
+      "date": "2026-10-14",
+      "summary": "This Bayesian approach helps data scientists dynamically select the best models in real-time streams while balancing prediction accuracy with fairness constraints.",
+      "authors": "Saatvik Kher, Hyungrok Do, Judy Zhong et al.",
+      "tags": [
+        "fairness",
+        "bayesian",
+        "paper"
+      ]
+    },
+    {
+      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "url": "https://arxiv.org/abs/2610.20607v1",
+      "date": "2026-10-14",
+      "summary": "This method uses a hierarchical architecture to efficiently fine-tune robotic manipulation tasks with minimal human intervention, making real-world deployment more practical.",
+      "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang et al.",
+      "tags": [
+        "robotics",
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "url": "https://arxiv.org/abs/2610.20584v1",
+      "date": "2026-10-14",
+      "summary": "This framework enables AI agents to master complex video games using synthetic experiences, reducing the reliance on massive sets of human gameplay demonstrations.",
+      "authors": "Mingyu Ouyang, Yiran Wang, Siyuan Hu et al.",
+      "tags": [
+        "gaming",
+        "agentic",
+        "paper"
+      ]
+    },
     {
       "title": "Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs",
       "url": "https://arxiv.org/abs/2610.18818v1",
@@ -662,54 +710,6 @@
       "tags": [
         "llm",
         "distillation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting",
-      "url": "https://arxiv.org/abs/2609.02649v1",
-      "date": "2026-09-02",
-      "summary": "The authors introduce a framework that combines LLMs with statistical consistency to generate reliable root cause analysis from noisy, conflicting text data.",
-      "authors": "Ron Begleiter, Katya Egert Berg, Gilad Saban et al.",
-      "tags": [
-        "nlp",
-        "rca",
-        "paper"
-      ]
-    },
-    {
-      "title": "Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis",
-      "url": "https://arxiv.org/abs/2609.02805v1",
-      "date": "2026-09-02",
-      "summary": "This paper proposes a structured reasoning framework to help LLMs diagnose complex telecom network issues more accurately by grounding their output in actual network evidence.",
-      "authors": "Hao Zhou, Mandar Kulkarni, Hao Chen et al.",
-      "tags": [
-        "llm",
-        "telecom",
-        "paper"
-      ]
-    },
-    {
-      "title": "User Feedback Provides a Unique Signal that LLMs Can not Detect",
-      "url": "https://arxiv.org/abs/2609.02859v1",
-      "date": "2026-09-02",
-      "summary": "The researchers demonstrate that user feedback is a highly valuable signal for improving model performance if evaluation methods are adjusted to account for existing biases.",
-      "authors": "Shachar Don-Yehiya, Leshem Choshen, Omri Abend",
-      "tags": [
-        "feedback",
-        "evaluation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-      "url": "https://arxiv.org/abs/2609.02849v1",
-      "date": "2026-09-02",
-      "summary": "The authors detail a specialized training pipeline using synthetic reasoning and reinforcement learning to significantly boost the coding and problem-solving capabilities of language models.",
-      "authors": "Aleksander Ficek, Sean Narenthiran, Mehrzad Samadi et al.",
-      "tags": [
-        "llm",
-        "coding",
         "paper"
       ]
     }

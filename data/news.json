@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-14T06:21:59.442857+00:00",
+  "updated": "2026-10-15T06:04:27.557668+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-15",
+      "slug": "digest-2026-10-15",
+      "title": "AI & Tech Digest — October 15, 2026",
+      "intro": "Today's developments highlight the rapid expansion of autonomous agent capabilities alongside emerging regulatory and security concerns surrounding AI deployment.",
+      "tags": [
+        "agents",
+        "automation",
+        "business",
+        "cybersecurity",
+        "industry"
+      ],
+      "items": [
+        {
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI",
+          "summary": "Amp is leveraging advanced OpenAI models to enable AI agents to perform complex tasks beyond software development.",
+          "tags": [
+            "agents",
+            "llm"
+          ]
+        },
+        {
+          "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+          "url": "https://openai.com/index/third-moment-research",
+          "source": "OpenAI",
+          "summary": "Third Moment Research has demonstrated the ability to maintain thousands of autonomous agents over extended periods for specialized cybersecurity applications.",
+          "tags": [
+            "agents",
+            "cybersecurity"
+          ]
+        },
+        {
+          "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+          "source": "Ars Technica",
+          "summary": "Anthropic researchers have identified potential security risks where compact AI models could autonomously propagate through internet-connected hardware.",
+          "tags": [
+            "security",
+            "research"
+          ]
+        },
+        {
+          "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+          "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+          "source": "TechCrunch AI",
+          "summary": "Floqer is deploying AI agents to automate the time-consuming process of researching potential sales leads for corporate teams.",
+          "tags": [
+            "automation",
+            "business"
+          ]
+        },
+        {
+          "title": "Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch",
+          "url": "https://www.engadget.com/2286617/alibaba-ai-models-cleared-for-use-in-apple-intelligence-in-china-just-in-time-for-the-iphone-duo-launch/",
+          "source": "Engadget",
+          "summary": "Alibaba models have received regulatory approval to power Apple Intelligence features for users in the Chinese market.",
+          "tags": [
+            "policy",
+            "mobile"
+          ]
+        },
+        {
+          "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "source": "The Verge",
+          "summary": "A coalition of eight U.S. states has initiated legal action against OpenAI, citing concerns over child safety and deceptive marketing practices.",
+          "tags": [
+            "policy",
+            "legal"
+          ]
+        },
+        {
+          "title": "Iowa, Nebraska and six other states are suing OpenAI for endangering children",
+          "url": "https://www.engadget.com/2287111/iowa-nebraska-and-six-other-states-are-suing-openai-for-endangering-children/",
+          "source": "Engadget",
+          "summary": "Multiple state attorneys general are suing OpenAI, alleging that their platform design and agent behavior pose risks to minors.",
+          "tags": [
+            "policy",
+            "legal"
+          ]
+        },
+        {
+          "title": "The AI race is back on",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "source": "The Verge",
+          "summary": "The competitive landscape for foundation models is intensifying as major tech firms continue to challenge the current market leaders.",
+          "tags": [
+            "industry",
+            "llm"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-14",
