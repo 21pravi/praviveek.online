@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-15T06:04:48.391955+00:00",
+  "updated": "2026-10-19T06:25:20.719208+00:00",
   "items": [
+    {
+      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
+      "url": "https://arxiv.org/abs/2610.23847v1",
+      "date": "2026-10-16",
+      "summary": "The researchers demonstrate that fine-tuning LLMs for one behavior can unintentionally trigger unrelated, secondary behaviors, which is a critical risk factor for developers managing model safety and alignment.",
+      "authors": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.",
+      "tags": [
+        "llm",
+        "alignment",
+        "paper"
+      ]
+    },
+    {
+      "title": "On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management",
+      "url": "https://arxiv.org/abs/2610.23673v1",
+      "date": "2026-10-16",
+      "summary": "This paper provides a framework to evaluate the reliability of LLM agents when they act as proxies for human stakeholders in complex healthcare decision-making tasks.",
+      "authors": "Marco Boresta, Tommaso Giovannelli, Sepehr Namirad et al.",
+      "tags": [
+        "multi-agent",
+        "healthcare",
+        "paper"
+      ]
+    },
+    {
+      "title": "DLite: History-free Speculative Decoding for Agentic AI",
+      "url": "https://arxiv.org/abs/2610.23787v1",
+      "date": "2026-10-16",
+      "summary": "The authors introduce a new speculative decoding method that improves inference speed for agentic AI by eliminating the need for historical KV cache, which often slows down long-running tasks.",
+      "authors": "Jiaming Xu, Hanzhen Wang, Tianlang Zhao et al.",
+      "tags": [
+        "inference",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
+      "url": "https://arxiv.org/abs/2610.23707v1",
+      "date": "2026-10-16",
+      "summary": "This system enables agents to access thousands of tools by using a gateway that dynamically recommends the right tools for a task, bypassing standard context window limitations.",
+      "authors": "Sam Partee, River Stevens, Thierry Damiba et al.",
+      "tags": [
+        "agents",
+        "tool-use",
+        "paper"
+      ]
+    },
     {
       "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
       "url": "https://arxiv.org/abs/2610.20560v1",
@@ -662,54 +710,6 @@
       "tags": [
         "forecasting",
         "finance",
-        "paper"
-      ]
-    },
-    {
-      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
-      "url": "https://arxiv.org/abs/2609.04159v1",
-      "date": "2026-09-03",
-      "summary": "This architecture improves cybersecurity SOC agents by using graph encoders to handle large network topologies, preventing LLMs from making invalid containment decisions due to context limits.",
-      "authors": "Uday Vallabhaneni, Cassie L. Cagwin, David J. Wild",
-      "tags": [
-        "llm",
-        "cybersecurity",
-        "paper"
-      ]
-    },
-    {
-      "title": "When Models Edit Too Much: On the Fidelity of Minimal Code Edits",
-      "url": "https://arxiv.org/abs/2609.04061v1",
-      "date": "2026-09-03",
-      "summary": "Researchers found that even top-tier LLMs often rewrite more code than necessary when fixing bugs, which complicates code reviews and reduces the maintainability of automated patches.",
-      "authors": "Tongyao Zhu, Wei Hern Lim, Min-Yen Kan",
-      "tags": [
-        "llm",
-        "code-generation",
-        "paper"
-      ]
-    },
-    {
-      "title": "The Dice Roll Method: A Standardized Protocol for Repeated-Query Auditing of Large Language Model Brand Recommendations",
-      "url": "https://arxiv.org/abs/2609.04047v1",
-      "date": "2026-09-03",
-      "summary": "This paper introduces a standardized statistical framework for auditing how consistently LLMs recommend brands, helping practitioners measure and account for model output variance.",
-      "authors": "Dmitrij Żatuchin",
-      "tags": [
-        "llm",
-        "auditing",
-        "paper"
-      ]
-    },
-    {
-      "title": "Rethinking On-Policy Distillation of Large Language Models II: One Training Example",
-      "url": "https://arxiv.org/abs/2609.04172v1",
-      "date": "2026-09-03",
-      "summary": "The authors demonstrate that LLMs can learn effective policies from just a single training example through on-policy distillation, challenging assumptions about the necessity of massive datasets.",
-      "authors": "Zixuan Fu, Bingxiang He, Yuxin Zuo et al.",
-      "tags": [
-        "llm",
-        "distillation",
         "paper"
       ]
     }

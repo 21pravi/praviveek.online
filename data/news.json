@@ -1,6 +1,100 @@
 {
-  "updated": "2026-10-16T06:01:14.133335+00:00",
+  "updated": "2026-10-19T06:25:17.950878+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-19",
+      "slug": "digest-2026-10-19",
+      "title": "AI & Tech Digest — October 19, 2026",
+      "intro": "Today's digest covers shifts in hardware standards, AI agent architecture, corporate governance, and the regulatory challenges facing emerging technologies.",
+      "tags": [
+        "agents",
+        "ai",
+        "autonomous vehicles",
+        "hardware",
+        "hiring"
+      ],
+      "items": [
+        {
+          "title": "The reason why your drive shows less storage than you paid for",
+          "url": "https://www.engadget.com/2286322/why-new-drive-shows-less-storage/",
+          "source": "Engadget",
+          "summary": "Discrepancies between advertised and usable storage capacity often stem from differences in how manufacturers and operating systems calculate binary versus decimal units.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+          "url": "https://arxiv.org/abs/2610.18861",
+          "source": "Hacker News",
+          "summary": "Hybrid reasoning agents improve performance by performing internal computations in latent space before generating text-based outputs for complex tasks.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+          "url": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+          "source": "The Verge",
+          "summary": "A police officer's termination for sharing surveillance system access highlights the security risks and ethical concerns surrounding unauthorized inter-agency data sharing.",
+          "tags": [
+            "policy",
+            "security"
+          ]
+        },
+        {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is allocating five percent of its equity to a public benefit fund, signaling a commitment to corporate social responsibility in AI development.",
+          "tags": [
+            "policy",
+            "ai"
+          ]
+        },
+        {
+          "title": "Cities want to put the boot on robotaxis",
+          "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+          "source": "The Verge",
+          "summary": "Municipalities are increasingly pushing for stricter local control and regulations over the deployment of autonomous vehicle fleets on public roads.",
+          "tags": [
+            "policy",
+            "autonomous vehicles"
+          ]
+        },
+        {
+          "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+          "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "source": "TechCrunch AI",
+          "summary": "Disney's acquisition of most Character.AI staff suggests a strategic move to integrate specialized generative AI talent into their existing entertainment operations.",
+          "tags": [
+            "ai",
+            "hiring"
+          ]
+        },
+        {
+          "title": "Namecheap just seized and disabled all my domains",
+          "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+          "source": "Hacker News",
+          "summary": "A domain registrar's decision to seize user accounts underscores the potential risks of centralized control over digital infrastructure and business continuity.",
+          "tags": [
+            "security",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved",
+          "url": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+          "source": "Engadget",
+          "summary": "The evolution of foldable smartphones from early prototypes to mainstream devices illustrates the gradual maturation of flexible display technology and consumer adoption.",
+          "tags": [
+            "hardware"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-16",
