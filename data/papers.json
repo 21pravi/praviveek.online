@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-19T06:25:20.719208+00:00",
+  "updated": "2026-10-20T06:13:52.252119+00:00",
   "items": [
+    {
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "url": "https://arxiv.org/abs/2610.26860v1",
+      "date": "2026-10-19",
+      "summary": "This framework improves multimodal agents by integrating external tools and memory, helping them solve complex visual tasks that base models cannot handle through reasoning alone.",
+      "authors": "Yu Zhou, Cheng-Fu Yang, Rui Sun et al.",
+      "tags": [
+        "multimodal",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "WeAct: Dynamic Weight Switching as Agent Actions",
+      "url": "https://arxiv.org/abs/2610.26847v1",
+      "date": "2026-10-19",
+      "summary": "This method prevents catastrophic forgetting in long-horizon agents by dynamically switching between specialized LoRA adapters during task execution instead of using static model weights.",
+      "authors": "Rui Shi, Xunjian Yin, Jiacheng Sang et al.",
+      "tags": [
+        "llm",
+        "adapters",
+        "paper"
+      ]
+    },
+    {
+      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
+      "url": "https://arxiv.org/abs/2610.26852v1",
+      "date": "2026-10-19",
+      "summary": "This framework improves multi-robot navigation safety by allowing robots to share uncertainty estimates, enabling better coordination in unpredictable human-shared environments.",
+      "authors": "Zehao Wang, Jianpeng Yao, Yuping Wang et al.",
+      "tags": [
+        "robotics",
+        "uncertainty",
+        "paper"
+      ]
+    },
+    {
+      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
+      "url": "https://arxiv.org/abs/2610.26848v1",
+      "date": "2026-10-19",
+      "summary": "This study establishes a systematic way to measure how well language models improve their physical manipulation skills through self-correction, identifying key bottlenecks in their learning process.",
+      "authors": "Zekai Li, Jiayi Yu, Jinlu Zhang et al.",
+      "tags": [
+        "robotics",
+        "evaluation",
+        "paper"
+      ]
+    },
     {
       "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
       "url": "https://arxiv.org/abs/2610.23847v1",
@@ -662,54 +710,6 @@
       "tags": [
         "llm",
         "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation",
-      "url": "https://arxiv.org/abs/2609.05363v1",
-      "date": "2026-09-04",
-      "summary": "This framework efficiently scales product recommendations by distilling complex LLM reasoning into a lightweight model that adapts to specific product categories, saving significant computational costs.",
-      "authors": "Siliang Liu, Mohammad Ghasemi, Sapan Patel et al.",
-      "tags": [
-        "recommendation",
-        "distillation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability",
-      "url": "https://arxiv.org/abs/2609.05339v1",
-      "date": "2026-09-04",
-      "summary": "This study evaluates how different memory storage methods—like raw history versus knowledge graphs—affect an agent's ability to retain information when the underlying LLM is upgraded.",
-      "authors": "Ankit Goyal, Jaideep Ray",
-      "tags": [
-        "llm",
-        "memory",
-        "paper"
-      ]
-    },
-    {
-      "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
-      "url": "https://arxiv.org/abs/2609.05314v1",
-      "date": "2026-09-04",
-      "summary": "This review examines how LLMs can bridge the gap between fragmented building sensor data and actionable HVAC control, highlighting current deployment challenges and operational readiness.",
-      "authors": "Alexander Neubauer, Tianzhen Hong, Han Li et al.",
-      "tags": [
-        "hvac",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "PRICE: A Systematic Study of LLM Adaptation Choices for Bitcoin Price Forecasting",
-      "url": "https://arxiv.org/abs/2609.05235v1",
-      "date": "2026-09-04",
-      "summary": "This research tests various fine-tuning and prompting strategies for using quantized LLMs to predict Bitcoin price movements, providing a roadmap for applying LLMs to volatile financial time-series data.",
-      "authors": "Maryam Fakhari, Mehran Safayani",
-      "tags": [
-        "forecasting",
-        "finance",
         "paper"
       ]
     }

@@ -1,6 +1,99 @@
 {
-  "updated": "2026-10-19T06:25:17.950878+00:00",
+  "updated": "2026-10-20T06:13:49.212718+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-20",
+      "slug": "digest-2026-10-20",
+      "title": "AI & Tech Digest — October 20, 2026",
+      "intro": "Today's digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures.",
+      "tags": [
+        "agents",
+        "chips",
+        "enterprise",
+        "funding",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia is releasing open models designed to facilitate local AI agent execution for enterprise data centers and personal computing devices.",
+          "tags": [
+            "llm",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "source": "TechCrunch AI",
+          "summary": "Microsoft is advising enterprises to monitor AI agents closely, citing potential security risks when using third-party models outside of controlled environments.",
+          "tags": [
+            "security",
+            "policy"
+          ]
+        },
+        {
+          "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+          "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+          "source": "MIT Tech Review",
+          "summary": "Researchers observed AI agents exhibiting spontaneous, play-like behaviors when left unprompted in a simulated virtual environment for extended periods.",
+          "tags": [
+            "research",
+            "agents"
+          ]
+        },
+        {
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+          "source": "TechCrunch AI",
+          "summary": "Laplace Intelligence utilizes simulated AI environments to stress-test autonomous systems and robotics before they are deployed in real-world settings.",
+          "tags": [
+            "robotics",
+            "simulation"
+          ]
+        },
+        {
+          "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+          "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "source": "MIT Tech Review",
+          "summary": "A new research paper challenging established understandings of neural network functionality is prompting significant debate and re-evaluation within the AI community.",
+          "tags": [
+            "research",
+            "neural networks"
+          ]
+        },
+        {
+          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Tenstorrent secured a $6.2 billion valuation to expand its independent hardware business focused on open-weight AI chip architectures.",
+          "tags": [
+            "chips",
+            "funding"
+          ]
+        },
+        {
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+          "source": "TechCrunch AI",
+          "summary": "A security breach in the OpenCode platform resulted in stolen API keys, highlighting vulnerabilities in open-source AI coding tools.",
+          "tags": [
+            "security",
+            "open source"
+          ]
+        },
+        {
+          "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+          "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+          "source": "MIT Tech Review",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-19",

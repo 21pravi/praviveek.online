@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 06:25:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:13:52 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 20, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-20</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures. Nvidia launches new open models to run agents in the enterprise and on PCs · Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ · AI researchers stranded Claude on a virtual desert island. It started to “play.” · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · “We were looking at it wrong”: The explosive claim that’s upended the AI world</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 19, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-19</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers shifts in hardware standards, AI agent architecture, corporate governance, and the regulatory challenges facing emerging technologies. The reason why your drive shows less storage than you paid for · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text · A Savannah police officer gave her Flock login to her ICE agent husband · Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ · Cities want to put the boot on robotaxis</description>
+    </item>
+    <item>
+      <title>Paper: OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory</title>
+      <link>https://arxiv.org/abs/2610.26860v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.26860v1</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves multimodal agents by integrating external tools and memory, helping them solve complex visual tasks that base models cannot handle through reasoning alone.</description>
+    </item>
+    <item>
+      <title>Paper: WeAct: Dynamic Weight Switching as Agent Actions</title>
+      <link>https://arxiv.org/abs/2610.26847v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.26847v1</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This method prevents catastrophic forgetting in long-horizon agents by dynamically switching between specialized LoRA adapters during task execution instead of using static model weights.</description>
+    </item>
+    <item>
+      <title>Paper: CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
+      <link>https://arxiv.org/abs/2610.26852v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.26852v1</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves multi-robot navigation safety by allowing robots to share uncertainty estimates, enabling better coordination in unpredictable human-shared environments.</description>
+    </item>
+    <item>
+      <title>Paper: Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy</title>
+      <link>https://arxiv.org/abs/2610.26848v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.26848v1</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study establishes a systematic way to measure how well language models improve their physical manipulation skills through self-correction, identifying key bottlenecks in their learning process.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 16, 2026</title>
@@ -183,34 +218,6 @@
       <description>Today&#x27;s updates highlight the integration of advanced AI agents, interactive interfaces, and specialized hardware into consumer and business workflows. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 · Nous Research confirms it hit $1.5B valuation, launches AI agents for business users · OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots · ChatGPT is getting a lot more visual, with the launch of a new interface · OpenAI just posted hundreds more results on major math problems</description>
     </item>
     <item>
-      <title>Paper: Prior or Feedback? What an LLM Uses When Adapting Neural Operators</title>
-      <link>https://arxiv.org/abs/2610.12325v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.12325v1</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Researchers found that LLM agents effectively use experimental feedback to tune neural operators, outperforming traditional optimization methods for scientific modeling tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception</title>
-      <link>https://arxiv.org/abs/2610.12445v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.12445v1</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A new probe-based monitoring system can detect hidden deception in LLM agents with high accuracy, providing a scalable way to improve AI safety and oversight.</description>
-    </item>
-    <item>
-      <title>Paper: Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization</title>
-      <link>https://arxiv.org/abs/2610.12444v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.12444v1</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a more stable 4-bit quantization method for AdamW optimizer states, helping data scientists reduce memory usage without sacrificing training convergence.</description>
-    </item>
-    <item>
-      <title>Paper: SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models</title>
-      <link>https://arxiv.org/abs/2610.12402v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.12402v1</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a new benchmark to test if vision-language models can predict how scenes change after interventions, moving beyond simple static image description.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 7, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-07</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-07</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest explores the evolving landscape of AI safety, corporate strategy, and the integration of autonomous systems into public infrastructure. Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? · AI agents blew the whistle on their cheating colleagues · How Fyxer built an AI executive assistant people trust · OpenAI bots knew about the RubyGems caching vulnerability · Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 14, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-14</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-14</guid>
-      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the latest model releases, industry governance debates, and the intersection of AI with public policy and data privacy. How to use GPT-6 Astra when it rolls out to you · Trump and Mike Johnson think the AI industry is overreacting · Sam Altman says OpenAI won&#x27;t file for IPO this year · Obama urges Democrats to have a ‘clear plan’ for AI safeguards · Perplexity trusts GPT-6 Astra with end-to-end systems</description>
     </item>
   </channel>
 </rss>
