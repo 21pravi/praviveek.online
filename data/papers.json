@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-20T06:13:52.252119+00:00",
+  "updated": "2026-10-21T06:12:50.623092+00:00",
   "items": [
+    {
+      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+      "url": "https://arxiv.org/abs/2610.28624v1",
+      "date": "2026-10-20",
+      "summary": "This system enables warehouse robot fleets to share a memory of past events without overloading servers by only processing visual data when specifically requested.",
+      "authors": "Jad Yammine, Malek Wahidi, Abrar Anwar et al.",
+      "tags": [
+        "robotics",
+        "memory",
+        "paper"
+      ]
+    },
+    {
+      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
+      "url": "https://arxiv.org/abs/2610.28586v1",
+      "date": "2026-10-20",
+      "summary": "The authors identify that agent training fails not just because of student errors, but because teachers often provide poor guidance in unfamiliar states, requiring better teacher-student alignment.",
+      "authors": "Shu Zhao, Tan Yu",
+      "tags": [
+        "reinforcement learning",
+        "distillation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Cache Engineering for Agents",
+      "url": "https://arxiv.org/abs/2610.28577v1",
+      "date": "2026-10-20",
+      "summary": "This work introduces techniques to manage LLM memory usage by optimizing how key-value caches are stored and updated, preventing performance degradation during long task sequences.",
+      "authors": "Tianyu Fu, Ruoxi Wang, Zihan Min et al.",
+      "tags": [
+        "llm",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
+      "url": "https://arxiv.org/abs/2610.28556v1",
+      "date": "2026-10-20",
+      "summary": "This study evaluates when using LLMs for feature selection outperforms traditional statistical methods, providing guidance on when semantic context actually adds value to tabular data tasks.",
+      "authors": "Fateme Memar, Dongjie Wang, Arvin Agah",
+      "tags": [
+        "feature selection",
+        "llm",
+        "paper"
+      ]
+    },
     {
       "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
       "url": "https://arxiv.org/abs/2610.26860v1",
@@ -662,54 +710,6 @@
       "authors": "Haiji Liang, Pengfei Zhou, Zhenglin Wan et al.",
       "tags": [
         "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving",
-      "url": "https://arxiv.org/abs/2609.08965v1",
-      "date": "2026-09-08",
-      "summary": "This framework uses LLM agents to unify the fragmented process of testing autonomous driving systems, helping engineers automate scenario generation and analysis for safer vehicle deployment.",
-      "authors": "Yuan Gao, Sebastian Müller, Mattia Piccinini et al.",
-      "tags": [
-        "autonomous driving",
-        "llm agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153v1",
-      "date": "2026-09-08",
-      "summary": "The authors introduce procedural graphs to structure LLM agent workflows, preventing common issues like repetitive actions and poor long-term planning in complex task execution.",
-      "authors": "Yuxing Lu, Yicheng Chen, Shanchan Wu et al.",
-      "tags": [
-        "llm agents",
-        "planning",
-        "paper"
-      ]
-    },
-    {
-      "title": "ReCite: Agentic Reasoning for Faithful Citation",
-      "url": "https://arxiv.org/abs/2609.09156v1",
-      "date": "2026-09-08",
-      "summary": "This method improves citation accuracy in LLMs by forcing agents to verify that retrieved documents logically support specific claims, reducing the risk of misleading academic references.",
-      "authors": "Yuyang Huang, Bobo Li, Jiajia Song et al.",
-      "tags": [
-        "rag",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-      "url": "https://arxiv.org/abs/2609.09134v1",
-      "date": "2026-09-08",
-      "summary": "The researchers demonstrate that iteratively improving the system environment (harness) allows smaller, cheaper models to achieve high performance on complex enterprise tasks.",
-      "authors": "Zhou Yu, Bin Bi, Shiva Kumar Pentyala et al.",
-      "tags": [
-        "llm",
-        "optimization",
         "paper"
       ]
     }

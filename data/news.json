@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-20T06:13:49.212718+00:00",
+  "updated": "2026-10-21T06:12:16.449476+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-21",
+      "slug": "digest-2026-10-21",
+      "title": "AI & Tech Digest — October 21, 2026",
+      "intro": "Today's developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety.",
+      "tags": [
+        "ai",
+        "automation",
+        "biology",
+        "biotech",
+        "chips"
+      ],
+      "items": [
+        {
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is integrating Orchestra Bio's team and technology to enhance its Rosalind platform, aiming to improve how researchers conduct and interpret life sciences experiments.",
+          "tags": [
+            "biotech",
+            "research"
+          ]
+        },
+        {
+          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup is utilizing AI to interpret electrical signals in plants, potentially creating a novel method for monitoring botanical health and environmental responses.",
+          "tags": [
+            "ai",
+            "biology"
+          ]
+        },
+        {
+          "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+          "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+          "source": "TechCrunch AI",
+          "summary": "Industry experts suggest that physical AI is currently in a modular, early-stage development phase, drawing parallels to the foundational growth of robotics.",
+          "tags": [
+            "robotics",
+            "physical ai"
+          ]
+        },
+        {
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is proposing legislation that would require judicial oversight before federal agencies could block the release of AI models based on potential safety risks.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "source": "TechCrunch AI",
+          "summary": "Eka Robotics has achieved a significant valuation by developing a robotic arm capable of manipulating diverse objects with high precision and human-like movement.",
+          "tags": [
+            "robotics",
+            "automation"
+          ]
+        },
+        {
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+          "url": "https://openai.com/index/terminal-x",
+          "source": "OpenAI",
+          "summary": "Terminal X reports that its evaluation agent, powered by GPT-6.1, successfully matches human investment judgment in the vast majority of cases while identifying mandate deviations.",
+          "tags": [
+            "finance",
+            "evaluation"
+          ]
+        },
+        {
+          "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+          "source": "TechCrunch AI",
+          "summary": "Google has introduced tools to facilitate the migration of PyTorch applications away from Nvidia hardware, intensifying competition in the AI infrastructure market.",
+          "tags": [
+            "chips",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "Meta suspends Muse chats sharing feature after it left private details exposed",
+          "url": "https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/",
+          "source": "Engadget",
+          "summary": "Meta temporarily disabled a chat sharing feature after a vulnerability allowed unauthorized access to private conversations and internal company information.",
+          "tags": [
+            "privacy",
+            "security"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-20",

@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 06:13:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:12:50 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 21, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-21</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business · Plants can speak using electricity, so this startup built an AI model to decipher their language · Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’ · Anthropic pitches AI safety bill that may block a model if 50+ people could be killed · Eka is worth $1.45B thanks to a physical AI model that has experts raving</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-20</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures. Nvidia launches new open models to run agents in the enterprise and on PCs · Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ · AI researchers stranded Claude on a virtual desert island. It started to “play.” · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · “We were looking at it wrong”: The explosive claim that’s upended the AI world</description>
+    </item>
+    <item>
+      <title>Paper: Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets</title>
+      <link>https://arxiv.org/abs/2610.28624v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.28624v1</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This system enables warehouse robot fleets to share a memory of past events without overloading servers by only processing visual data when specifically requested.</description>
+    </item>
+    <item>
+      <title>Paper: Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation</title>
+      <link>https://arxiv.org/abs/2610.28586v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.28586v1</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors identify that agent training fails not just because of student errors, but because teachers often provide poor guidance in unfamiliar states, requiring better teacher-student alignment.</description>
+    </item>
+    <item>
+      <title>Paper: Cache Engineering for Agents</title>
+      <link>https://arxiv.org/abs/2610.28577v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.28577v1</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This work introduces techniques to manage LLM memory usage by optimizing how key-value caches are stored and updated, preventing performance degradation during long task sequences.</description>
+    </item>
+    <item>
+      <title>Paper: When Do LLMs Help with Feature Selection? A Systematic Empirical Study</title>
+      <link>https://arxiv.org/abs/2610.28556v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.28556v1</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study evaluates when using LLMs for feature selection outperforms traditional statistical methods, providing guidance on when semantic context actually adds value to tabular data tasks.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 19, 2026</title>
@@ -183,34 +218,6 @@
       <description>Today&#x27;s digest focuses on the evolution of agentic AI, security initiatives, and ongoing debates surrounding corporate safety culture. Google brings agentic AI to Gemini, starting with businesses · Anthropic launches free AI security scans for open-source projects · Cal AI’s 19-year-old founder just raised $10M for his new AI startup · Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost · Anthropic changes usage policy to ban model abuse and election interference</description>
     </item>
     <item>
-      <title>Paper: Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing</title>
-      <link>https://arxiv.org/abs/2610.13823v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.13823v1</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Researchers found that LLMs produce inconsistent results for the same query even at zero temperature, meaning data scientists must account for non-deterministic outputs in production pipelines.</description>
-    </item>
-    <item>
-      <title>Paper: Task Context Shapes Component Roles in Language Models</title>
-      <link>https://arxiv.org/abs/2610.13895v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.13895v1</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This study analyzes how LLM attention heads adapt their roles based on specific task contexts, offering practitioners better insight into how model components influence final predictions.</description>
-    </item>
-    <item>
-      <title>Paper: RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics</title>
-      <link>https://arxiv.org/abs/2610.13889v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.13889v1</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a tool retrieval framework that uses real-time execution feedback to prioritize reliable tools, helping developers build more stable AI agent workflows.</description>
-    </item>
-    <item>
-      <title>Paper: X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems</title>
-      <link>https://arxiv.org/abs/2610.13886v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.13886v1</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper presents a red-teaming method to detect harmful outcomes in AI agents by systematically testing how different service interactions can lead to unintended consequences.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 8, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-08</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-08</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-16</guid>
       <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the intersection of specialized data acquisition, safety governance, and the practical integration of AI agents into business workflows. AI models need more data about biology, and OpenAI is paying to create it · Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents · Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear · OpenAI, Anthropic, Google have been in talks on AI safety for weeks · The AI graveyard: a running list of projects and startups that didn’t make it</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 15, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-15</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest explores the evolving landscape of AI safety, corporate strategy, and the integration of autonomous systems into public infrastructure. Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap? · AI agents blew the whistle on their cheating colleagues · How Fyxer built an AI executive assistant people trust · OpenAI bots knew about the RubyGems caching vulnerability · Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans</description>
     </item>
   </channel>
 </rss>
