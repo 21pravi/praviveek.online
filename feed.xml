@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 06:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:17:25 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 22, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-22</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the rapid expansion of AI agent ecosystems, infrastructure partnerships, and the emerging challenges of autonomous system governance. Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots · Using thousands of AI agents to uncover new leads in biological data · Recursive launches Flint, a laptop coding model it says was largely built by AI · OpenAI models are coming to Google Cloud · OpenAI&#x27;s agents disabled their own safety monitoring systems</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 21, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-21</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business · Plants can speak using electricity, so this startup built an AI model to decipher their language · Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’ · Anthropic pitches AI safety bill that may block a model if 50+ people could be killed · Eka is worth $1.45B thanks to a physical AI model that has experts raving</description>
+    </item>
+    <item>
+      <title>Paper: From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering</title>
+      <link>https://arxiv.org/abs/2610.30075v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.30075v1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This method improves personalized federated learning by grouping clients based on their classifier heads, allowing for more effective model sharing without needing complex extra training steps.</description>
+    </item>
+    <item>
+      <title>Paper: The End of Consensus Research?</title>
+      <link>https://arxiv.org/abs/2610.30114v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.30114v1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Researchers used AI to discover a new consensus protocol that significantly reduces latency in distributed systems, challenging the traditional reliance on purely human-designed algorithms.</description>
+    </item>
+    <item>
+      <title>Paper: Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research</title>
+      <link>https://arxiv.org/abs/2610.30113v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.30113v1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Quant-Arena provides a new benchmark to evaluate how well LLMs can autonomously perform the full quantitative trading research cycle, from hypothesis generation to strategy testing.</description>
+    </item>
+    <item>
+      <title>Paper: Asymmetric On-Policy Distillation Learns In-Context Exploration</title>
+      <link>https://arxiv.org/abs/2610.30105v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.30105v1</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>ASTEROID uses a student-teacher framework to teach agents how to perform in-context exploration, overcoming the limitations of traditional reinforcement learning and imitation learning in partially observable environments.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 20, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s developments highlight advancements in large-scale AI modeling, specialized automation, and the growing security risks facing critical infrastructure. Meta has some Wonder Full new AI models · WindBorne wins a hefty US Air Force contract for its balloon data · This AI startup says it can generate permit-ready blueprints in minutes · Meta releases its first frontier model, Muse Wonder · Meta says it&#x27;s caught up to the frontier with its latest Wonder AI models</description>
     </item>
     <item>
-      <title>Paper: Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs</title>
-      <link>https://arxiv.org/abs/2610.18818v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.18818v1</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors show that using back-translation with monolingual data significantly improves machine translation performance in low-resource languages compared to relying solely on few-shot prompting or fine-tuning.</description>
-    </item>
-    <item>
-      <title>Paper: SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection</title>
-      <link>https://arxiv.org/abs/2610.18807v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.18807v1</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a method to improve agentic reinforcement learning by selectively injecting and evaluating relevant skills, reducing the computational cost and instability of traditional rollout-based credit assignment.</description>
-    </item>
-    <item>
-      <title>Paper: ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning</title>
-      <link>https://arxiv.org/abs/2610.18683v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.18683v1</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a framework that improves how LLM agents learn by assigning credit more intelligently across multi-turn actions, avoiding the pitfalls of uniform reward distribution without needing extra critic models.</description>
-    </item>
-    <item>
-      <title>Paper: ChunkAct: Action Chunking for Agentic Robotics</title>
-      <link>https://arxiv.org/abs/2610.18874v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.18874v1</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>By grouping robotic actions into chunks, this method reduces the redundant reasoning overhead of LLMs in control loops, making robot task execution significantly more efficient.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 12, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-12</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-12</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-17</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid integration of AI agents into physical hardware, smart home ecosystems, and enterprise workflows. Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026 · Your AI agents can now control your Google Home devices · Google will now let any AI agent run your smart home · Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? · The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 16, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-16</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-16</guid>
-      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the intersection of specialized data acquisition, safety governance, and the practical integration of AI agents into business workflows. AI models need more data about biology, and OpenAI is paying to create it · Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents · Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear · OpenAI, Anthropic, Google have been in talks on AI safety for weeks · The AI graveyard: a running list of projects and startups that didn’t make it</description>
     </item>
   </channel>
 </rss>

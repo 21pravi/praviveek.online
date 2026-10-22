@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-21T06:12:50.623092+00:00",
+  "updated": "2026-10-22T06:17:25.776129+00:00",
   "items": [
+    {
+      "title": "From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering",
+      "url": "https://arxiv.org/abs/2610.30075v1",
+      "date": "2026-10-21",
+      "summary": "This method improves personalized federated learning by grouping clients based on their classifier heads, allowing for more effective model sharing without needing complex extra training steps.",
+      "authors": "Amirardalan Dehghanpour, Arian Noori, Ehsan Tanghatari et al.",
+      "tags": [
+        "federated learning",
+        "personalization",
+        "paper"
+      ]
+    },
+    {
+      "title": "The End of Consensus Research?",
+      "url": "https://arxiv.org/abs/2610.30114v1",
+      "date": "2026-10-21",
+      "summary": "Researchers used AI to discover a new consensus protocol that significantly reduces latency in distributed systems, challenging the traditional reliance on purely human-designed algorithms.",
+      "authors": "Clément Burgelin, Rachid Guerraoui, Zicong Hong et al.",
+      "tags": [
+        "distributed systems",
+        "ai-driven",
+        "paper"
+      ]
+    },
+    {
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "url": "https://arxiv.org/abs/2610.30113v1",
+      "date": "2026-10-21",
+      "summary": "Quant-Arena provides a new benchmark to evaluate how well LLMs can autonomously perform the full quantitative trading research cycle, from hypothesis generation to strategy testing.",
+      "authors": "Houde Qian, Zheng Jiang, Wenyi Li et al.",
+      "tags": [
+        "llm",
+        "quantitative finance",
+        "paper"
+      ]
+    },
+    {
+      "title": "Asymmetric On-Policy Distillation Learns In-Context Exploration",
+      "url": "https://arxiv.org/abs/2610.30105v1",
+      "date": "2026-10-21",
+      "summary": "ASTEROID uses a student-teacher framework to teach agents how to perform in-context exploration, overcoming the limitations of traditional reinforcement learning and imitation learning in partially observable environments.",
+      "authors": "Sriyash Poddar, Yanda Bao, Jacob Krantz et al.",
+      "tags": [
+        "reinforcement learning",
+        "exploration",
+        "paper"
+      ]
+    },
     {
       "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
       "url": "https://arxiv.org/abs/2610.28624v1",
@@ -666,50 +714,6 @@
       "tags": [
         "speech",
         "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-      "url": "https://arxiv.org/abs/2609.10522v1",
-      "date": "2026-09-09",
-      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harn",
-      "authors": "Yanzhe Chen, Zechen Bai, Zhijun Cao et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
-      "url": "https://arxiv.org/abs/2609.10441v1",
-      "date": "2026-09-09",
-      "summary": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like ",
-      "authors": "Hongming Zhang, Zhaozhen Gu, Fengshuo Bai et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support",
-      "url": "https://arxiv.org/abs/2609.10421v1",
-      "date": "2026-09-09",
-      "summary": "Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while",
-      "authors": "Jonathan A. Handler, Marlene I. Robles-Granda, Jacob E. Mefford et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
-      "url": "https://arxiv.org/abs/2609.10346v1",
-      "date": "2026-09-09",
-      "summary": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this over",
-      "authors": "Haiji Liang, Pengfei Zhou, Zhenglin Wan et al.",
-      "tags": [
-        "arxiv",
         "paper"
       ]
     }
