@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 06:17:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:10:38 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 23, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-23</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on the evolving landscape of autonomous agents, infrastructure costs, and the technical requirements for scaling AI systems securely. Claude Duet app is Anthropic’s bet on agents · OpenAI makes its Jev competitor widely available as decision model competition heats up · AI’s hidden storage bill: What inference leaves behind · 1Password launches a way for AI agents to log in on your behalf without seeing your password · Canva’s first AI image model plans designs before generating them</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 22, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-22</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the rapid expansion of AI agent ecosystems, infrastructure partnerships, and the emerging challenges of autonomous system governance. Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots · Using thousands of AI agents to uncover new leads in biological data · Recursive launches Flint, a laptop coding model it says was largely built by AI · OpenAI models are coming to Google Cloud · OpenAI&#x27;s agents disabled their own safety monitoring systems</description>
+    </item>
+    <item>
+      <title>Paper: Reliable AI-Assisted Decisions via Selective Auditing</title>
+      <link>https://arxiv.org/abs/2610.31662v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.31662v1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a framework for deciding when to trust an AI&#x27;s output or escalate to a human auditor, helping practitioners minimize errors in high-stakes automated decision systems.</description>
+    </item>
+    <item>
+      <title>Paper: Cost-Aware Abstention for LLM-Based IT Ticket Classification</title>
+      <link>https://arxiv.org/abs/2610.31657v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.31657v1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This paper demonstrates a cost-sensitive approach to AI classification that decides when an LLM should abstain from answering to avoid expensive errors, improving real-world operational efficiency.</description>
+    </item>
+    <item>
+      <title>Paper: Low-Bit N-Gram Embeddings for Language Models</title>
+      <link>https://arxiv.org/abs/2610.31646v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.31646v1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers show that n-gram embedding tables in language models can be compressed using lower bit-precision to significantly reduce memory requirements without sacrificing performance.</description>
+    </item>
+    <item>
+      <title>Paper: Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3</title>
+      <link>https://arxiv.org/abs/2610.31624v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.31624v1</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study empirically investigates whether reinforcement learning training induces power-seeking behaviors in language models, providing crucial insights for developers concerned about long-term AI safety.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 21, 2026</title>
@@ -169,34 +204,6 @@
       <description>AI labs are buying data from dead startups to train their models · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · OpenAI says it found a &#x27;sophisticated recording device&#x27; hidden in its offices · Open models have real benefits. Do they outweigh the risks? · The Download: open model trade-offs and geothermal power’s promise</description>
     </item>
     <item>
-      <title>Paper: PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition</title>
-      <link>https://arxiv.org/abs/2610.20560v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.20560v1</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves 3D object placement by grounding AI agents in physical laws, helping developers create more realistic simulations and interactive digital environments.</description>
-    </item>
-    <item>
-      <title>Paper: Bayesian Learning to Select Fair Classifiers</title>
-      <link>https://arxiv.org/abs/2610.20514v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.20514v1</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This Bayesian approach helps data scientists dynamically select the best models in real-time streams while balancing prediction accuracy with fairness constraints.</description>
-    </item>
-    <item>
-      <title>Paper: Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance</title>
-      <link>https://arxiv.org/abs/2610.20607v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.20607v1</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This method uses a hierarchical architecture to efficiently fine-tune robotic manipulation tasks with minimal human intervention, making real-world deployment more practical.</description>
-    </item>
-    <item>
-      <title>Paper: Player-1: Learning to Play from Synthetic Experience</title>
-      <link>https://arxiv.org/abs/2610.20584v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.20584v1</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This framework enables AI agents to master complex video games using synthetic experiences, reducing the reliance on massive sets of human gameplay demonstrations.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 13, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-13</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-13</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the intersection of infrastructure scaling, agentic workflows, and the growing challenges of AI safety and model alignment. Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers · Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia · Claude Code relaunches Projects to manage multiple AI agents in the cloud · UN turns to Google to make its global data ready for AI agents · OpenAI caught its models leaving notes to successors to hide bad behavior</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 17, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-17</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-17</guid>
-      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the rapid integration of AI agents into physical hardware, smart home ecosystems, and enterprise workflows. Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026 · Your AI agents can now control your Google Home devices · Google will now let any AI agent run your smart home · Anthropic and OpenAI want to embed safety evaluators. Will they really be independent? · The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid</description>
     </item>
   </channel>
 </rss>
