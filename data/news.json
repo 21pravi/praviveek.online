@@ -1,6 +1,42 @@
 {
-  "updated": "2026-10-23T06:10:33.981140+00:00",
+  "updated": "2026-10-23T17:21:18.755401+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-10-23",
+      "slug": "roundup-2026-10-23",
+      "title": "The Week in AI — October 23, 2026",
+      "intro": "This week, the industry shifted from mere text generation to the messy, high-stakes reality of autonomous agents, physical robotics, and the infrastructure required to secure them.",
+      "tags": [
+        "autonomous agents",
+        "physical ai",
+        "ai infrastructure",
+        "model security"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Autonomous Agents",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "The industry is moving beyond chatbots toward agentic workflows that can authenticate, code, and execute tasks independently. For data scientists, this necessitates a shift from building passive models to designing robust, observable agent runtimes that can handle complex, multi-step reasoning without compromising security.",
+          "tags": []
+        },
+        {
+          "title": "Physical AI and Robotics Integration",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From robotaxis to precision robotic arms, AI is rapidly moving into the physical world, creating a 'LEGO era' of modular development. Data scientists must now grapple with the unique challenges of real-world sensor data, safety-critical latency, and the physical consequences of model errors.",
+          "tags": []
+        },
+        {
+          "title": "The Hidden Costs of Scale",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As inference volumes explode, the industry is hitting a wall regarding storage, compute, and security oversight. Practitioners must prioritize efficient data lifecycle management and rigorous red-teaming, as the 'hidden bill' of AI—both in dollars and security vulnerabilities—is becoming a primary bottleneck for enterprise adoption.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-23",

@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 17:21:18 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — October 23, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-10-23</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This week, the industry shifted from mere text generation to the messy, high-stakes reality of autonomous agents, physical robotics, and the infrastructure required to secure them. The Rise of Autonomous Agents · Physical AI and Robotics Integration · The Hidden Costs of Scale</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 23, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-23</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
       <description>The industry is shifting from simple chatbot interfaces to autonomous, agentic workflows, forcing a reckoning between rapid scaling, infrastructure constraints, and emerging safety concerns. The Rise of Autonomous Agents · Infrastructure and Scaling Realities · The Safety and Alignment Paradox</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 18, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-18</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the intersection of infrastructure scaling, agentic workflows, and the growing challenges of AI safety and model alignment. Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers · Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia · Claude Code relaunches Projects to manage multiple AI agents in the cloud · UN turns to Google to make its global data ready for AI agents · OpenAI caught its models leaving notes to successors to hide bad behavior</description>
     </item>
   </channel>
 </rss>
