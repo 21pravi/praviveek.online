@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-23T06:10:37.604610+00:00",
+  "updated": "2026-10-26T06:35:24.634198+00:00",
   "items": [
+    {
+      "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
+      "url": "https://arxiv.org/abs/2610.32933v1",
+      "date": "2026-10-23",
+      "summary": "The authors developed a compact, high-performance Persian retrieval model that outperforms existing small-scale alternatives, providing a practical tool for building efficient search systems in the Persian language.",
+      "authors": "Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli",
+      "tags": [
+        "retrieval",
+        "nlp",
+        "paper"
+      ]
+    },
+    {
+      "title": "J-Comm: Jacobian-Guided Latent Communication between LLM Agents",
+      "url": "https://arxiv.org/abs/2610.32871v1",
+      "date": "2026-10-23",
+      "summary": "This framework improves collaboration between AI agents by allowing them to share latent reasoning states through geometric consensus and Jacobian-based interfaces, enhancing multi-agent problem solving.",
+      "authors": "Xiangwei Wang, Wei Wang, Sachith Seneviratne et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Generalization properties of the token perceptron: the role of embedding and vocabulary",
+      "url": "https://arxiv.org/abs/2610.32788v1",
+      "date": "2026-10-23",
+      "summary": "This study mathematically analyzes how embedding geometry and vocabulary size influence the learning performance of linear token predictors, offering insights into the fundamental generalization limits of language models.",
+      "authors": "Dario Bocchi, Matteo Negri, Flavio Nicoletti et al.",
+      "tags": [
+        "theory",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+      "url": "https://arxiv.org/abs/2610.32943v1",
+      "date": "2026-10-23",
+      "summary": "The researchers propose a distillation method that transfers predictive knowledge from sequential recommenders to semantic-ID generative models, improving recommendation accuracy by leveraging item-level distributional data.",
+      "authors": "Yixuan Xu, Hailin Liu, Linxiang Peng et al.",
+      "tags": [
+        "recommendation",
+        "distillation",
+        "paper"
+      ]
+    },
     {
       "title": "Reliable AI-Assisted Decisions via Selective Auditing",
       "url": "https://arxiv.org/abs/2610.31662v1",
@@ -666,54 +714,6 @@
       "tags": [
         "gnn",
         "uncertainty",
-        "paper"
-      ]
-    },
-    {
-      "title": "Enhancing Accessibility of Medical Texts through Large Language Model-Driven Plain Language Adaptation",
-      "url": "https://arxiv.org/abs/2609.17398v1",
-      "date": "2026-09-15",
-      "summary": "The authors evaluate how LLMs can automatically simplify complex medical jargon into plain language, helping data scientists build more accessible healthcare communication tools.",
-      "authors": "Ting-Wei Chang, Hen-Hsen Huang, Hsin-Hsi Chen",
-      "tags": [
-        "nlp",
-        "healthcare",
-        "paper"
-      ]
-    },
-    {
-      "title": "Where Should a Document Live: Context, Representations, or Parameters?",
-      "url": "https://arxiv.org/abs/2609.17346v1",
-      "date": "2026-09-15",
-      "summary": "This study compares the performance and cost trade-offs of using context windows, fine-tuning, or latent representations to help LLMs access new information, informing better RAG design decisions.",
-      "authors": "Nathanaël Carraz Rakotonirina, Momchil Hardalov, Gonzalo Iglesias et al.",
-      "tags": [
-        "llm",
-        "rag",
-        "paper"
-      ]
-    },
-    {
-      "title": "Extracting ontology-compliant knowledge from scientific text describing irradiated materials using large language models",
-      "url": "https://arxiv.org/abs/2609.17291v1",
-      "date": "2026-09-15",
-      "summary": "The researchers demonstrate a method for extracting structured, ontology-compliant data from scientific literature, providing a template for turning unstructured research papers into usable material science databases.",
-      "authors": "Marco Luca Sbodio, Marcos Martínez Galindo, Vanessa Lopez et al.",
-      "tags": [
-        "ie",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "End-to-End Latency-Minimizing and Load-Balanced Request Scheduling for Edge LLM Inference in Agentic AI Services",
-      "url": "https://arxiv.org/abs/2609.17193v1",
-      "date": "2026-09-15",
-      "summary": "The paper introduces a scheduling framework to optimize latency and load balancing for LLM inference at the edge, critical for deploying responsive AI agents in distributed environments.",
-      "authors": "Zhen Li, Jun Cai, Haoran Gao et al.",
-      "tags": [
-        "edge-ai",
-        "inference",
         "paper"
       ]
     }

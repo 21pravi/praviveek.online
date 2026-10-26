@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 17:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:35:24 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 26, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-26</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest examines the friction between AI integration, economic reality, and the evolving landscape of digital hardware and publishing. r/opensource just banned AI, non-English speakers, and more · AI delivers ‘zero financial payoff’ to most companies, Apollo economist says · Google’s AI search changes upended online publishing · The hottest AI wearables and gadgets you should know about · What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?</description>
+    </item>
     <item>
       <title>The Week in AI — October 23, 2026</title>
       <link>https://praviveek.online/#roundup-2026-10-23</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the evolving landscape of autonomous agents, infrastructure costs, and the technical requirements for scaling AI systems securely. Claude Duet app is Anthropic’s bet on agents · OpenAI makes its Jev competitor widely available as decision model competition heats up · AI’s hidden storage bill: What inference leaves behind · 1Password launches a way for AI agents to log in on your behalf without seeing your password · Canva’s first AI image model plans designs before generating them</description>
+    </item>
+    <item>
+      <title>Paper: Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model</title>
+      <link>https://arxiv.org/abs/2610.32933v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.32933v1</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors developed a compact, high-performance Persian retrieval model that outperforms existing small-scale alternatives, providing a practical tool for building efficient search systems in the Persian language.</description>
+    </item>
+    <item>
+      <title>Paper: J-Comm: Jacobian-Guided Latent Communication between LLM Agents</title>
+      <link>https://arxiv.org/abs/2610.32871v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.32871v1</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework improves collaboration between AI agents by allowing them to share latent reasoning states through geometric consensus and Jacobian-based interfaces, enhancing multi-agent problem solving.</description>
+    </item>
+    <item>
+      <title>Paper: Generalization properties of the token perceptron: the role of embedding and vocabulary</title>
+      <link>https://arxiv.org/abs/2610.32788v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.32788v1</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This study mathematically analyzes how embedding geometry and vocabulary size influence the learning performance of linear token predictors, offering insights into the fundamental generalization limits of language models.</description>
+    </item>
+    <item>
+      <title>Paper: Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation</title>
+      <link>https://arxiv.org/abs/2610.32943v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.32943v1</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers propose a distillation method that transfers predictive knowledge from sequential recommenders to semantic-ID generative models, improving recommendation accuracy by leveraging item-level distributional data.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 22, 2026</title>
@@ -167,34 +202,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description>Anthropic is letting METR researchers look under the hood with employee-level access · FTC subpoenas OpenAI and Anthropic following safety failures · Meta launches an open-weight AI model that runs on Macs · Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis · Amazon’s Bee launches two new personal AI devices, starting at $75</description>
-    </item>
-    <item>
-      <title>Paper: Behavioral Couplings: From Formation to Behavioral Emergence in Language Models</title>
-      <link>https://arxiv.org/abs/2610.23847v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.23847v1</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The researchers demonstrate that fine-tuning LLMs for one behavior can unintentionally trigger unrelated, secondary behaviors, which is a critical risk factor for developers managing model safety and alignment.</description>
-    </item>
-    <item>
-      <title>Paper: On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management</title>
-      <link>https://arxiv.org/abs/2610.23673v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.23673v1</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper provides a framework to evaluate the reliability of LLM agents when they act as proxies for human stakeholders in complex healthcare decision-making tasks.</description>
-    </item>
-    <item>
-      <title>Paper: DLite: History-free Speculative Decoding for Agentic AI</title>
-      <link>https://arxiv.org/abs/2610.23787v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.23787v1</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a new speculative decoding method that improves inference speed for agentic AI by eliminating the need for historical KV cache, which often slows down long-running tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs</title>
-      <link>https://arxiv.org/abs/2610.23707v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.23707v1</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This system enables agents to access thousands of tools by using a gateway that dynamically recommends the right tools for a task, bypassing standard context window limitations.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 15, 2026</title>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of AI safety, infrastructure security, and the evolving regulatory landscape for digital tools. No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown · Pirate Face Rescues LLM Models from Deletion · How to use ChatGPT to make stickers for iMessage and WhatsApp · World model companies are keeping a lot of secrets · Spain Orders Blocks on Archive.today and Its Mirrors</description>
-    </item>
-    <item>
-      <title>The Week in AI — September 18, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-09-18</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <description>The industry is shifting from simple chatbot interfaces to autonomous, agentic workflows, forcing a reckoning between rapid scaling, infrastructure constraints, and emerging safety concerns. The Rise of Autonomous Agents · Infrastructure and Scaling Realities · The Safety and Alignment Paradox</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,100 @@
 {
-  "updated": "2026-10-23T17:21:18.755401+00:00",
+  "updated": "2026-10-26T06:35:19.584374+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-26",
+      "slug": "digest-2026-10-26",
+      "title": "AI & Tech Digest — October 26, 2026",
+      "intro": "Today's digest examines the friction between AI integration, economic reality, and the evolving landscape of digital hardware and publishing.",
+      "tags": [
+        "ai",
+        "business",
+        "economics",
+        "generative ai",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "summary": "The r/opensource community has implemented restrictive new submission guidelines that explicitly exclude projects involving artificial intelligence, signaling a growing ideological divide within developer circles.",
+          "tags": [
+            "open source",
+            "policy"
+          ]
+        },
+        {
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "source": "TechCrunch AI",
+          "summary": "Economic analysis suggests that outside of the technology sector, corporate investments in artificial intelligence have yet to yield measurable financial returns.",
+          "tags": [
+            "business",
+            "economics"
+          ]
+        },
+        {
+          "title": "Google’s AI search changes upended online publishing",
+          "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "source": "The Verge",
+          "summary": "Google's integration of AI into search results is significantly altering traffic patterns and revenue models for the digital publishing industry.",
+          "tags": [
+            "search",
+            "publishing"
+          ]
+        },
+        {
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "source": "TechCrunch AI",
+          "summary": "A new wave of AI-powered wearable devices is entering the market, aiming to integrate intelligent assistance directly into personal hardware.",
+          "tags": [
+            "hardware",
+            "wearables"
+          ]
+        },
+        {
+          "title": "What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?",
+          "url": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+          "source": "Engadget",
+          "summary": "Cross-platform compatibility between Apple AirPods and non-Apple devices remains limited, resulting in the loss of proprietary features for users outside the ecosystem.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+          "url": "https://lynchlab.net/llm-skin-cancer",
+          "source": "Hacker News",
+          "summary": "Research indicates that specialized convolutional neural networks can outperform modern large language models in specific medical diagnostic tasks like skin cancer identification.",
+          "tags": [
+            "healthcare",
+            "ai"
+          ]
+        },
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "source": "TechCrunch AI",
+          "summary": "Grok has released early footage from its AI-generated film project, highlighting current limitations in producing content with genuine artistic or human depth.",
+          "tags": [
+            "generative ai",
+            "media"
+          ]
+        },
+        {
+          "title": "iFixit’s look inside the iPhone Duo may explain those broken screens and hinges",
+          "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "source": "The Verge",
+          "summary": "A teardown of the new folding iPhone reveals complex internal engineering choices that impact both device durability and long-term repairability.",
+          "tags": [
+            "hardware"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-10-23",
