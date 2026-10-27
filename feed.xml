@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 06:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:30:48 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 27, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-27</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the evolving integration of AI in corporate workflows, infrastructure challenges, and the growing friction between retail platforms and autonomous agents. ChatGPT’s expanding world of work · Anthropic is burning gas to feed the AI boom · How OpenAI turned its coding tools into dots, an always-on personal assistant · How Fanatics and OpenAI streamline the fan experience · How Ultrafast cut incident investigation from hours to minutes at OpenAI</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 26, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-26</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the friction between AI integration, economic reality, and the evolving landscape of digital hardware and publishing. r/opensource just banned AI, non-English speakers, and more · AI delivers ‘zero financial payoff’ to most companies, Apollo economist says · Google’s AI search changes upended online publishing · The hottest AI wearables and gadgets you should know about · What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?</description>
+    </item>
+    <item>
+      <title>Paper: Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models</title>
+      <link>https://arxiv.org/abs/2610.35829v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.35829v1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a faster way for LLM agents to detect software vulnerabilities in real-time by reducing the compute-heavy reasoning steps required for security analysis.</description>
+    </item>
+    <item>
+      <title>Paper: EvoRouter: Cost-Efficient Multi-Agent Routing via Insight-Guided On-Policy Distillation</title>
+      <link>https://arxiv.org/abs/2610.35690v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.35690v1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>EvoRouter optimizes multi-agent system configurations by using distillation to balance performance and cost, helping practitioners deploy complex agent workflows more efficiently.</description>
+    </item>
+    <item>
+      <title>Paper: Retriever-Free Retrieval: Navigating Documents with Decision Models</title>
+      <link>https://arxiv.org/abs/2610.35868v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.35868v1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>DecisionRAG replaces traditional embedding-based retrieval with a decision model that evaluates document relevance directly, improving accuracy by avoiding the limitations of lexical matching.</description>
+    </item>
+    <item>
+      <title>Paper: Preserve to Expand: Source-Aware Adaptation and Model Merging for Multilingual LLM-Based ASR</title>
+      <link>https://arxiv.org/abs/2610.35846v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.35846v1</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces techniques for adding new languages to speech-to-text models without losing performance on previously learned languages, solving the problem of catastrophic forgetting.</description>
     </item>
     <item>
       <title>The Week in AI — October 23, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest covers shifts in hardware standards, AI agent architecture, corporate governance, and the regulatory challenges facing emerging technologies. The reason why your drive shows less storage than you paid for · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text · A Savannah police officer gave her Flock login to her ICE agent husband · Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ · Cities want to put the boot on robotaxis</description>
     </item>
     <item>
-      <title>Paper: OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory</title>
-      <link>https://arxiv.org/abs/2610.26860v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.26860v1</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves multimodal agents by integrating external tools and memory, helping them solve complex visual tasks that base models cannot handle through reasoning alone.</description>
-    </item>
-    <item>
-      <title>Paper: WeAct: Dynamic Weight Switching as Agent Actions</title>
-      <link>https://arxiv.org/abs/2610.26847v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.26847v1</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This method prevents catastrophic forgetting in long-horizon agents by dynamically switching between specialized LoRA adapters during task execution instead of using static model weights.</description>
-    </item>
-    <item>
-      <title>Paper: CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting</title>
-      <link>https://arxiv.org/abs/2610.26852v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.26852v1</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves multi-robot navigation safety by allowing robots to share uncertainty estimates, enabling better coordination in unpredictable human-shared environments.</description>
-    </item>
-    <item>
-      <title>Paper: Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy</title>
-      <link>https://arxiv.org/abs/2610.26848v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.26848v1</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This study establishes a systematic way to measure how well language models improve their physical manipulation skills through self-correction, identifying key bottlenecks in their learning process.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 16, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-16</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-16</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers rapid AI adoption, corporate platform restrictions, and new educational initiatives in the evolving machine learning landscape. Meta’s Muse is outpacing ChatGPT’s early mobile launch · Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026 · Meta’s AI agent has been blocked from using Amazon.com · OpenAI forms math advisory group as its AI resolves more than 100 open problems · Expanding OpenAI Academy with new learning paths</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 21, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-21</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the intersection of AI safety, infrastructure security, and the evolving regulatory landscape for digital tools. No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown · Pirate Face Rescues LLM Models from Deletion · How to use ChatGPT to make stickers for iMessage and WhatsApp · World model companies are keeping a lot of secrets · Spain Orders Blocks on Archive.today and Its Mirrors</description>
     </item>
   </channel>
 </rss>

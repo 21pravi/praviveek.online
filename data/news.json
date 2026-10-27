@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-26T06:35:19.584374+00:00",
+  "updated": "2026-10-27T06:30:43.480477+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-27",
+      "slug": "digest-2026-10-27",
+      "title": "AI & Tech Digest — October 27, 2026",
+      "intro": "Today's digest covers the evolving integration of AI in corporate workflows, infrastructure challenges, and the growing friction between retail platforms and autonomous agents.",
+      "tags": [
+        "agents",
+        "application",
+        "business",
+        "engineering",
+        "infrastructure"
+      ],
+      "items": [
+        {
+          "title": "ChatGPT’s expanding world of work",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "source": "OpenAI",
+          "summary": "OpenAI's new data set provides a global overview of how professionals across various industries are integrating ChatGPT into their daily operational tasks.",
+          "tags": [
+            "llm",
+            "workforce"
+          ]
+        },
+        {
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "source": "The Verge",
+          "summary": "Anthropic's IPO filing highlights the significant reliance of large-scale AI infrastructure on natural gas, underscoring the energy demands required for model training.",
+          "tags": [
+            "infrastructure",
+            "policy"
+          ]
+        },
+        {
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is developing 'dots,' an always-on personal assistant designed to manage digital tasks and interactions without relying on third-party AI agents.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "How Fanatics and OpenAI streamline the fan experience",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "source": "OpenAI",
+          "summary": "Fanatics implemented OpenAI tools to provide personalized shopping recommendations, resulting in a measurable increase in user engagement for their sports merchandise.",
+          "tags": [
+            "retail",
+            "application"
+          ]
+        },
+        {
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+          "url": "https://openai.com/index/openai-cut-incident-investigation",
+          "source": "OpenAI",
+          "summary": "OpenAI engineers are utilizing the Codex Ultrafast tool to significantly reduce the time required for security incident investigations and code maintenance.",
+          "tags": [
+            "engineering",
+            "security"
+          ]
+        },
+        {
+          "title": "Working with academic communities to build scientific understanding",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "source": "OpenAI",
+          "summary": "OpenAI is collaborating with academic researchers to demonstrate how large models can contribute to solving complex problems in mathematics and physics.",
+          "tags": [
+            "research",
+            "science"
+          ]
+        },
+        {
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge",
+          "summary": "Anthropic's S-1 filing offers a comprehensive look at the company's financial health, executive compensation, and the operational risks associated with its growth strategy.",
+          "tags": [
+            "business",
+            "policy"
+          ]
+        },
+        {
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "source": "The Verge",
+          "summary": "The RealReal is strengthening its bot detection software to prevent automated AI agents from exploiting its luxury consignment inventory system.",
+          "tags": [
+            "retail",
+            "agents"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-26",
