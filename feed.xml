@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:30:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 06:59:41 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 28, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-28</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers OpenAI&#x27;s expanding enterprise footprint, infrastructure efficiency, and growing scrutiny regarding model safety and transparency. Retell uses OpenAI models to help power 100M monthly calls · Nvidia backs Indian startup helping companies run AI models with fewer GPUs · OpenAI expands partnership with Oracle to bring its apps to ChatGPT · Researchers are getting tired of OpenAI gatekeeping its breakthroughs · Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 27, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-27</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the evolving integration of AI in corporate workflows, infrastructure challenges, and the growing friction between retail platforms and autonomous agents. ChatGPT’s expanding world of work · Anthropic is burning gas to feed the AI boom · How OpenAI turned its coding tools into dots, an always-on personal assistant · How Fanatics and OpenAI streamline the fan experience · How Ultrafast cut incident investigation from hours to minutes at OpenAI</description>
+    </item>
+    <item>
+      <title>Paper: Follow the Gradient: Tracing Safety Degradation Back to Training Data</title>
+      <link>https://arxiv.org/abs/2610.37481v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.37481v1</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This method identifies specific fine-tuning data that inadvertently degrades model safety, helping developers audit training sets that bypass standard content filters.</description>
+    </item>
+    <item>
+      <title>Paper: PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions</title>
+      <link>https://arxiv.org/abs/2610.37471v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.37471v1</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>PerceptRL improves multimodal model performance by using reinforcement learning to fix visual perception errors that standard caption-based training often overlooks.</description>
+    </item>
+    <item>
+      <title>Paper: GEPA-Curator: Curated Learning for Self Improving Agents</title>
+      <link>https://arxiv.org/abs/2610.37651v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.37651v1</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This framework filters out noisy or irrelevant agent failures before prompt optimization, ensuring that self-improving agents only learn from high-quality, actionable feedback.</description>
+    </item>
+    <item>
+      <title>Paper: Can LLMs Uncover Hidden Physical Laws through Free Exploration?</title>
+      <link>https://arxiv.org/abs/2610.37649v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.37649v1</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Researchers tested whether LLMs can autonomously discover unknown physical laws in simulated environments, providing insights into their capacity for independent scientific reasoning.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 26, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures. Nvidia launches new open models to run agents in the enterprise and on PCs · Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ · AI researchers stranded Claude on a virtual desert island. It started to “play.” · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · “We were looking at it wrong”: The explosive claim that’s upended the AI world</description>
     </item>
     <item>
-      <title>Paper: Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets</title>
-      <link>https://arxiv.org/abs/2610.28624v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.28624v1</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This system enables warehouse robot fleets to share a memory of past events without overloading servers by only processing visual data when specifically requested.</description>
-    </item>
-    <item>
-      <title>Paper: Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation</title>
-      <link>https://arxiv.org/abs/2610.28586v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.28586v1</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors identify that agent training fails not just because of student errors, but because teachers often provide poor guidance in unfamiliar states, requiring better teacher-student alignment.</description>
-    </item>
-    <item>
-      <title>Paper: Cache Engineering for Agents</title>
-      <link>https://arxiv.org/abs/2610.28577v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.28577v1</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This work introduces techniques to manage LLM memory usage by optimizing how key-value caches are stored and updated, preventing performance degradation during long task sequences.</description>
-    </item>
-    <item>
-      <title>Paper: When Do LLMs Help with Feature Selection? A Systematic Empirical Study</title>
-      <link>https://arxiv.org/abs/2610.28556v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.28556v1</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This study evaluates when using LLMs for feature selection outperforms traditional statistical methods, providing guidance on when semantic context actually adds value to tabular data tasks.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 19, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-19</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-19</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the rapid evolution of frontier AI models alongside new hardware capabilities designed to run sophisticated agents on consumer devices. OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes · Anthropic and OpenAI announce more powerful (and cheaper) AI models · Parallel cut research time and cost in half with GPT‑6 Astra · Qualcomm launches two new smartphone chips with emphasis on AI · Don’t be fooled by this summer of AI hype</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 22, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-22</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers rapid AI adoption, corporate platform restrictions, and new educational initiatives in the evolving machine learning landscape. Meta’s Muse is outpacing ChatGPT’s early mobile launch · Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026 · Meta’s AI agent has been blocked from using Amazon.com · OpenAI forms math advisory group as its AI resolves more than 100 open problems · Expanding OpenAI Academy with new learning paths</description>
     </item>
   </channel>
 </rss>

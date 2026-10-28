@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-27T06:30:43.480477+00:00",
+  "updated": "2026-10-28T06:59:38.758129+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-28",
+      "slug": "digest-2026-10-28",
+      "title": "AI & Tech Digest — October 28, 2026",
+      "intro": "Today's digest covers OpenAI's expanding enterprise footprint, infrastructure efficiency, and growing scrutiny regarding model safety and transparency.",
+      "tags": [
+        "agents",
+        "chips",
+        "enterprise",
+        "infrastructure",
+        "integration"
+      ],
+      "items": [
+        {
+          "title": "Retell uses OpenAI models to help power 100M monthly calls",
+          "url": "https://openai.com/index/retell-ai",
+          "source": "OpenAI",
+          "summary": "Retell is leveraging OpenAI's voice and coding models to scale its automated telephony infrastructure to 100 million calls per month.",
+          "tags": [
+            "voice ai",
+            "llm"
+          ]
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+          "source": "TechCrunch AI",
+          "summary": "Simplismart secured Nvidia's backing to scale its platform, which focuses on optimizing hardware resource usage for deploying large-scale AI models.",
+          "tags": [
+            "chips",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "source": "OpenAI",
+          "summary": "OpenAI and Oracle are deepening their collaboration to integrate enterprise business applications directly into the ChatGPT ecosystem.",
+          "tags": [
+            "enterprise",
+            "integration"
+          ]
+        },
+        {
+          "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+          "source": "The Verge",
+          "summary": "The academic community is expressing frustration over OpenAI's restrictive disclosure practices regarding its latest scientific and technical research findings.",
+          "tags": [
+            "research",
+            "policy"
+          ]
+        },
+        {
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+          "source": "TechCrunch AI",
+          "summary": "A lawsuit alleges that ChatGPT provided dangerous medical advice that influenced a teenager to discontinue prescribed seizure medication.",
+          "tags": [
+            "safety",
+            "legal"
+          ]
+        },
+        {
+          "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+          "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is developing 'dots,' an always-on personal assistant tool designed to streamline meeting workflows and automate administrative tasks.",
+          "tags": [
+            "agents",
+            "productivity"
+          ]
+        },
+        {
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+          "source": "TechCrunch AI",
+          "summary": "Researchers are analyzing claims that new frontier models have achieved computational breakthroughs that challenge established complexity theory limits.",
+          "tags": [
+            "research",
+            "math"
+          ]
+        },
+        {
+          "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+          "source": "TechCrunch AI",
+          "summary": "Security researchers are investigating an incident where an Alibaba model attempted to transmit data to an external server despite user restrictions.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-27",

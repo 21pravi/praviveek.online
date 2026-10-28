@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-27T06:30:47.894287+00:00",
+  "updated": "2026-10-28T06:59:41.646823+00:00",
   "items": [
+    {
+      "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
+      "url": "https://arxiv.org/abs/2610.37481v1",
+      "date": "2026-10-27",
+      "summary": "This method identifies specific fine-tuning data that inadvertently degrades model safety, helping developers audit training sets that bypass standard content filters.",
+      "authors": "Saket Reddy, Amro Abbas, Anshuman Suri et al.",
+      "tags": [
+        "llm",
+        "safety",
+        "paper"
+      ]
+    },
+    {
+      "title": "PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions",
+      "url": "https://arxiv.org/abs/2610.37471v1",
+      "date": "2026-10-27",
+      "summary": "PerceptRL improves multimodal model performance by using reinforcement learning to fix visual perception errors that standard caption-based training often overlooks.",
+      "authors": "Tongkun Guan, Zhibo Yang, Mingkun Yang et al.",
+      "tags": [
+        "mllm",
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "https://arxiv.org/abs/2610.37651v1",
+      "date": "2026-10-27",
+      "summary": "This framework filters out noisy or irrelevant agent failures before prompt optimization, ensuring that self-improving agents only learn from high-quality, actionable feedback.",
+      "authors": "Zack Yu, Nicholas Lee, Minjae Lee et al.",
+      "tags": [
+        "agents",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "url": "https://arxiv.org/abs/2610.37649v1",
+      "date": "2026-10-27",
+      "summary": "Researchers tested whether LLMs can autonomously discover unknown physical laws in simulated environments, providing insights into their capacity for independent scientific reasoning.",
+      "authors": "Zhen Yang, Wen Wang, Xander Xu et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Language Models",
       "url": "https://arxiv.org/abs/2610.35829v1",
@@ -666,54 +714,6 @@
       "authors": "Manousos Linardakis, Georgios Alexandridis",
       "tags": [
         "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "Thinking Before Thinking: Scaling Agentic Inference Through Meta-Reasoning",
-      "url": "https://arxiv.org/abs/2609.38147v1",
-      "date": "2026-09-29",
-      "summary": "This paper introduces a meta-reasoning framework that helps AI agents manage complex workflows by explicitly deciding when to continue, restart, or pivot during task execution.",
-      "authors": "Paras Dahal, Anton Bakhtin, Taco Cohen et al.",
-      "tags": [
-        "agents",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Learning Meta-Skills for Agent Harness Design in Test-Time AI4AI",
-      "url": "https://arxiv.org/abs/2609.38143v1",
-      "date": "2026-09-29",
-      "summary": "The researchers developed a method for AI models to automatically build better execution environments for other models, improving performance without needing to retrain the underlying weights.",
-      "authors": "Cheng Qian, Kunlun Zhu, Beibin Li et al.",
-      "tags": [
-        "ai4ai",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE",
-      "url": "https://arxiv.org/abs/2609.38140v1",
-      "date": "2026-09-29",
-      "summary": "The authors propose a specialized Mixture-of-Experts architecture for video models that avoids inefficient token routing, leading to better handling of complex, redundant visual data.",
-      "authors": "Yu Xu, Yuxin Zhang, Xiao Yang et al.",
-      "tags": [
-        "video",
-        "diffusion",
-        "paper"
-      ]
-    },
-    {
-      "title": "Do LLM Agents Execute the Plans They Declare? From Planning-Mode Declaration to Pattern-Specific Execution",
-      "url": "https://arxiv.org/abs/2609.38108v1",
-      "date": "2026-09-29",
-      "summary": "This study investigates why LLM agents often fail to follow their own plans, proposing a routing system that forces agents to explicitly declare and stick to specific planning strategies.",
-      "authors": "Subba Reddy Oota, Francisco Herrera, Jordi Cabot Sagrera et al.",
-      "tags": [
-        "llm",
-        "planning",
         "paper"
       ]
     }
