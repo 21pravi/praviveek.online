@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-28T06:59:38.758129+00:00",
+  "updated": "2026-10-29T07:23:48.261012+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-29",
+      "slug": "digest-2026-10-29",
+      "title": "AI & Tech Digest — October 29, 2026",
+      "intro": "Today's updates focus on the integration of advanced AI models into enterprise workflows, developer ecosystems, and specialized professional sectors.",
+      "tags": [
+        "agents",
+        "audio",
+        "business",
+        "cybersecurity",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "source": "The Verge",
+          "summary": "Google's new Gemini 4 Carbon model enhances coding and cybersecurity capabilities, establishing a new performance benchmark for frontier large language models.",
+          "tags": [
+            "llm",
+            "cybersecurity"
+          ]
+        },
+        {
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "source": "OpenAI",
+          "summary": "OpenAI and ServiceNow are deepening their collaboration to integrate generative AI models directly into enterprise operational workflows.",
+          "tags": [
+            "enterprise",
+            "llm"
+          ]
+        },
+        {
+          "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+          "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is introducing transparency tools to help enterprise clients monitor and analyze their AI model expenditures.",
+          "tags": [
+            "business",
+            "llm"
+          ]
+        },
+        {
+          "title": "Legora is building the agentic operating system for legal work",
+          "url": "https://openai.com/index/legora",
+          "source": "OpenAI",
+          "summary": "Legora is utilizing OpenAI's technology to automate complex legal tasks and improve the efficiency of contract analysis workflows.",
+          "tags": [
+            "legal",
+            "agents"
+          ]
+        },
+        {
+          "title": "The Download: dead startups fueling AI and interspecies communication",
+          "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+          "source": "MIT Tech Review",
+          "summary": "AI research labs are increasingly acquiring datasets from defunct startups to address the growing demand for high-quality training data.",
+          "tags": [
+            "data",
+            "research"
+          ]
+        },
+        {
+          "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+          "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia has launched an open-source speech-to-text model capable of transcribing recordings in forty languages for professional documentation.",
+          "tags": [
+            "open source",
+            "audio"
+          ]
+        },
+        {
+          "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+          "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+          "source": "TechCrunch AI",
+          "summary": "Google is expanding its developer platform to allow third-party services to integrate directly into its AI-driven search and agent experiences.",
+          "tags": [
+            "search",
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI now lets you text your Dot agent",
+          "url": "https://www.engadget.com/2300235/openai-now-lets-you-text-your-dot-agent/",
+          "source": "Engadget",
+          "summary": "OpenAI has introduced mobile messaging support for its Dot agent, enabling interaction via standard SMS and RCS protocols.",
+          "tags": [
+            "agents",
+            "mobile"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-28",

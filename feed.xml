@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:59:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:24:28 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 29, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-29</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates focus on the integration of advanced AI models into enterprise workflows, developer ecosystems, and specialized professional sectors. Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity · OpenAI and ServiceNow expand partnership across enterprise workflows · Anthropic just launched tools to show companies what their AI spending is buying · Legora is building the agentic operating system for legal work · The Download: dead startups fueling AI and interspecies communication</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 28, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-28</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-24</guid>
       <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the expanding integration of AI agents into enterprise workflows, consumer products, and geopolitical security efforts. Airbnb widens access to GPT-6 Astra and OpenAI frontier models · Ringg’s AI agents resolve up to 65% of customer calls with OpenAI · The AI Hype Index: AI loves cheating · ChatGPT Ads expands to Southeast Asia and Taiwan · OpenAI extends cyber access to Ukraine for civilian defense</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 23, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-23</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-23</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the rapid evolution of frontier AI models alongside new hardware capabilities designed to run sophisticated agents on consumer devices. OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes · Anthropic and OpenAI announce more powerful (and cheaper) AI models · Parallel cut research time and cost in half with GPT‑6 Astra · Qualcomm launches two new smartphone chips with emphasis on AI · Don’t be fooled by this summer of AI hype</description>
     </item>
   </channel>
 </rss>
