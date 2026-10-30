@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 07:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:08:12 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — October 30, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-10-30</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This week, the AI industry pivoted from mere model experimentation to the messy, high-stakes reality of deploying autonomous agents into critical enterprise and personal workflows. The Rise of Agentic Governance · Infrastructure Realities vs. Hype · The Specialization Paradox</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 30, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <description>This week, the AI landscape shifted from abstract model development toward aggressive hardware integration, agentic autonomy, and the complex realities of infrastructure governance. The Edge AI Hardware Pivot · The Rise of Autonomous Agents · Infrastructure and Governance Realities</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 25, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-25</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the rapid expansion of AI integration across mobile hardware, specialized edge computing, and complex regulatory landscapes. Qualcomm&#x27;s Snapdragon Sound Elite is a new AI chip for audio wearables · Xiaomi&#x27;s 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen · Google is sending a teensy-tiny AI data center to space · Gemini 3.8 Live with Live Avatar gives Google’s AI a face · Meta made a Tamagotchi-like wearable for its Muse AI agent</description>
     </item>
   </channel>
 </rss>
