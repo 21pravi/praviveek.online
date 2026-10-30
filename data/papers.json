@@ -1,6 +1,54 @@
 {
-  "updated": "2026-10-29T07:24:28.559232+00:00",
+  "updated": "2026-10-30T07:24:07.530149+00:00",
   "items": [
+    {
+      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "url": "https://arxiv.org/abs/2610.40627v1",
+      "date": "2026-10-29",
+      "summary": "The researchers improve LLM safety by forcing models to make explicit, early safety decisions, helping practitioners better defend against multi-turn jailbreak attempts.",
+      "authors": "Qiyao Ma, Xiaodong Liu, Weiwei Yang et al.",
+      "tags": [
+        "llm",
+        "safety",
+        "paper"
+      ]
+    },
+    {
+      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
+      "url": "https://arxiv.org/abs/2610.40613v1",
+      "date": "2026-10-29",
+      "summary": "This method embeds invisible watermarks into LLM text without slowing down inference or degrading output quality, offering a robust way to verify AI-generated content.",
+      "authors": "Tom Sander, Pierre Fernandez, Itai Gat et al.",
+      "tags": [
+        "watermarking",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
+      "url": "https://arxiv.org/abs/2610.40589v1",
+      "date": "2026-10-29",
+      "summary": "A multi-agent framework uses LLMs to autonomously run scientific experiments and cross-verify findings, providing a blueprint for more reliable automated research workflows.",
+      "authors": "El Mustapha Mansouri, Eikichi Kimura, Masato Koga et al.",
+      "tags": [
+        "agents",
+        "research",
+        "paper"
+      ]
+    },
+    {
+      "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
+      "url": "https://arxiv.org/abs/2610.40574v1",
+      "date": "2026-10-29",
+      "summary": "The authors propose a fine-tuning technique that dynamically adjusts teacher signals for every single token, leading to more precise and effective model distillation.",
+      "authors": "Yifu Luo, Chuang Ma, Zeyu Chen et al.",
+      "tags": [
+        "distillation",
+        "llm",
+        "paper"
+      ]
+    },
     {
       "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
       "url": "https://arxiv.org/abs/2610.37481v1",
@@ -670,50 +718,6 @@
       "tags": [
         "distillation",
         "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search",
-      "url": "https://arxiv.org/abs/2610.06782v1",
-      "date": "2026-10-05",
-      "summary": "We present T-Search, an open-weight agentic retriever for hard multi-step search. Given a question and a search tool over a fixed corpus, it runs a bounded multi-round search and returns a ranked list",
-      "authors": "Olga Tsymboi, Ramil Latypov, Aleksandr Medvedev et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "Balancing Memory Pathways: Analyzing and Improving Memory Utilization in Hybrid LMs",
-      "url": "https://arxiv.org/abs/2610.06750v1",
-      "date": "2026-10-05",
-      "summary": "Recurrent-attention hybrid language models (LMs), which interleave attention and recurrent layers, are increasingly used to combine the efficiency of the recurrent layers with the strong performance o",
-      "authors": "Hyunji Lee, Joykirat Singh, Zaid Khan et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "BazaarBench: Delegation Safety in Decentralized C2C Marketplaces Run by LLM Agents",
-      "url": "https://arxiv.org/abs/2610.06748v1",
-      "date": "2026-10-05",
-      "summary": "In decentralized consumer-to-consumer (C2C) marketplaces, people list goods, negotiate with strangers, and rate one another, so trust rests on reputation. Large language model (LLM) agents now act for",
-      "authors": "Ziyan Wang, Shuqing Shi, James Oldfield et al.",
-      "tags": [
-        "arxiv",
-        "paper"
-      ]
-    },
-    {
-      "title": "Reading the Mood: Emotion-Guided Book-to-Music Recommendation via CGANs and LLMs",
-      "url": "https://arxiv.org/abs/2610.06703v1",
-      "date": "2026-10-05",
-      "summary": "Background music that matches the mood of a text has been shown to make readers feel more immersed and improve their reading experience, motivating recommender systems that pair books with mood-matche",
-      "authors": "Manousos Linardakis, Georgios Alexandridis",
-      "tags": [
-        "arxiv",
         "paper"
       ]
     }

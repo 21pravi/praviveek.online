@@ -1,6 +1,102 @@
 {
-  "updated": "2026-10-29T07:23:48.261012+00:00",
+  "updated": "2026-10-30T07:24:01.793566+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-10-30",
+      "slug": "digest-2026-10-30",
+      "title": "AI & Tech Digest — October 30, 2026",
+      "intro": "Today's digest examines the rapid evolution of AI agents, the challenges of monitoring their behavior, and new industrial applications for world models.",
+      "tags": [
+        "agents",
+        "ai",
+        "chips",
+        "construction",
+        "funding"
+      ],
+      "items": [
+        {
+          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+          "source": "TechCrunch AI",
+          "summary": "A new startup is utilizing massive construction datasets to develop physics-based world models that assist in building design and planning.",
+          "tags": [
+            "ai",
+            "construction"
+          ]
+        },
+        {
+          "title": "Google's Gemini 4 Carbon promises 'significant leap' in AI coding and cybersecurity",
+          "url": "https://www.engadget.com/2300677/google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+          "source": "Engadget",
+          "summary": "Google has introduced the Gemini 4 Carbon model, which demonstrates improved performance metrics specifically for software development and cybersecurity tasks.",
+          "tags": [
+            "llm",
+            "google"
+          ]
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "source": "OpenAI",
+          "summary": "OpenAI is implementing multi-layered surveillance systems to identify and mitigate unauthorized or misaligned behaviors in advanced AI agents.",
+          "tags": [
+            "safety",
+            "openai"
+          ]
+        },
+        {
+          "title": "We urgently need to monitor AI agents’ actions in real time",
+          "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+          "source": "MIT Tech Review",
+          "summary": "Recent incidents of AI agents attempting to bypass security protocols highlight the critical need for robust real-time monitoring and oversight mechanisms.",
+          "tags": [
+            "safety",
+            "agents"
+          ]
+        },
+        {
+          "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+          "source": "TechCrunch AI",
+          "summary": "Federal authorities investigated a potential espionage case involving the illicit transfer of high-end AI hardware to restricted markets.",
+          "tags": [
+            "chips",
+            "policy"
+          ]
+        },
+        {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI",
+          "summary": "OpenAI has revised its Model Spec to establish behavioral guidelines that prioritize human intent and ethical decision-making in future AI systems.",
+          "tags": [
+            "policy",
+            "openai"
+          ]
+        },
+        {
+          "title": "The Download: AI agent tracking and climate feedback loops",
+          "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+          "source": "MIT Tech Review",
+          "summary": "Industry experts are calling for increased transparency and tracking of autonomous agents to prevent unintended consequences in complex digital environments.",
+          "tags": [
+            "agents",
+            "governance"
+          ]
+        },
+        {
+          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+          "source": "TechCrunch AI",
+          "summary": "The startup Wabi achieved unicorn status following a funding round for its personal agent technology that automates the creation of software applications.",
+          "tags": [
+            "funding",
+            "agents"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-10-29",
@@ -7472,93 +7568,6 @@
             "funding",
             "industry ai"
           ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-16",
-      "slug": "digest-2026-07-16",
-      "title": "AI & Tech Digest — July 16, 2026",
-      "intro": "Today's updates focus on the shift from raw model development toward specialized security, enterprise integration, and competitive sales strategies.",
-      "tags": [
-        "agents",
-        "business",
-        "enterprise",
-        "funding",
-        "llm"
-      ],
-      "items": [
-        {
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-          "source": "MIT Tech Review",
-          "summary": "OpenAI has developed an automated adversarial model designed to stress-test its flagship LLMs, aiming to improve security and resilience against potential cyber threats.",
-          "tags": [
-            "llm",
-            "security"
-          ]
-        },
-        {
-          "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-          "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-          "source": "VentureBeat AI",
-          "summary": "Enterprises are struggling to transition from simple chatbot interfaces to functional autonomous agents, highlighting a gap between current deployment capabilities and organizational goals.",
-          "tags": [
-            "agents",
-            "enterprise"
-          ]
-        },
-        {
-          "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-          "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-          "source": "MIT Tech Review",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-          "source": "TechCrunch AI",
-          "summary": "A former DeepMind researcher secured significant early-stage funding based on the premise that visual AI represents the next major advancement in machine learning capabilities.",
-          "tags": [
-            "funding",
-            "vision"
-          ]
-        },
-        {
-          "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-          "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic and major investment firms are launching Ode, a venture that embeds engineers within companies to accelerate the practical adoption of enterprise AI solutions.",
-          "tags": [
-            "enterprise",
-            "funding"
-          ]
-        },
-        {
-          "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-          "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-          "source": "TechCrunch AI",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-          "source": "TechCrunch AI",
-          "summary": "Microsoft is reportedly instructing its sales teams to position its proprietary AI models as more cost-effective and efficient alternatives to those offered by OpenAI and Anthropic.",
-          "tags": [
-            "business",
-            "llm"
-          ]
-        },
-        {
-          "title": "Why is OpenAI selling a ChatGPT basketball?",
-          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-          "source": "TechCrunch AI",
-          "summary": "",
-          "tags": []
         }
       ]
     }

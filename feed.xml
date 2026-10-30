@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 07:24:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:24:07 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — October 30, 2026</title>
+      <link>https://praviveek.online/#digest-2026-10-30</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest examines the rapid evolution of AI agents, the challenges of monitoring their behavior, and new industrial applications for world models. Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction · Google&#x27;s Gemini 4 Carbon promises &#x27;significant leap&#x27; in AI coding and cybersecurity · How we detect frontier model misalignment · We urgently need to monitor AI agents’ actions in real time · US investigated Chinese spy plot aimed at Nvidia CEO</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — October 29, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-29</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the integration of advanced AI models into enterprise workflows, developer ecosystems, and specialized professional sectors. Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity · OpenAI and ServiceNow expand partnership across enterprise workflows · Anthropic just launched tools to show companies what their AI spending is buying · Legora is building the agentic operating system for legal work · The Download: dead startups fueling AI and interspecies communication</description>
+    </item>
+    <item>
+      <title>Paper: ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender</title>
+      <link>https://arxiv.org/abs/2610.40627v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.40627v1</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers improve LLM safety by forcing models to make explicit, early safety decisions, helping practitioners better defend against multi-turn jailbreak attempts.</description>
+    </item>
+    <item>
+      <title>Paper: TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races</title>
+      <link>https://arxiv.org/abs/2610.40613v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.40613v1</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This method embeds invisible watermarks into LLM text without slowing down inference or degrading output quality, offering a robust way to verify AI-generated content.</description>
+    </item>
+    <item>
+      <title>Paper: Collaborative AI agents for autonomous experimental research with solid-state quantum spins</title>
+      <link>https://arxiv.org/abs/2610.40589v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.40589v1</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A multi-agent framework uses LLMs to autonomously run scientific experiments and cross-verify findings, providing a blueprint for more reliable automated research workflows.</description>
+    </item>
+    <item>
+      <title>Paper: Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation</title>
+      <link>https://arxiv.org/abs/2610.40574v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.40574v1</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a fine-tuning technique that dynamically adjusts teacher signals for every single token, leading to more precise and effective model distillation.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 28, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business · Plants can speak using electricity, so this startup built an AI model to decipher their language · Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’ · Anthropic pitches AI safety bill that may block a model if 50+ people could be killed · Eka is worth $1.45B thanks to a physical AI model that has experts raving</description>
     </item>
     <item>
-      <title>Paper: From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering</title>
-      <link>https://arxiv.org/abs/2610.30075v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.30075v1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This method improves personalized federated learning by grouping clients based on their classifier heads, allowing for more effective model sharing without needing complex extra training steps.</description>
-    </item>
-    <item>
-      <title>Paper: The End of Consensus Research?</title>
-      <link>https://arxiv.org/abs/2610.30114v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.30114v1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Researchers used AI to discover a new consensus protocol that significantly reduces latency in distributed systems, challenging the traditional reliance on purely human-designed algorithms.</description>
-    </item>
-    <item>
-      <title>Paper: Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research</title>
-      <link>https://arxiv.org/abs/2610.30113v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.30113v1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Quant-Arena provides a new benchmark to evaluate how well LLMs can autonomously perform the full quantitative trading research cycle, from hypothesis generation to strategy testing.</description>
-    </item>
-    <item>
-      <title>Paper: Asymmetric On-Policy Distillation Learns In-Context Exploration</title>
-      <link>https://arxiv.org/abs/2610.30105v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.30105v1</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>ASTEROID uses a student-teacher framework to teach agents how to perform in-context exploration, overcoming the limitations of traditional reinforcement learning and imitation learning in partially observable environments.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-20</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-20</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-25</guid>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of AI integration across mobile hardware, specialized edge computing, and complex regulatory landscapes. Qualcomm&#x27;s Snapdragon Sound Elite is a new AI chip for audio wearables · Xiaomi&#x27;s 18 Pro series phones have the latest Snapdragon chip and a Samsung-like privacy screen · Google is sending a teensy-tiny AI data center to space · Gemini 3.8 Live with Live Avatar gives Google’s AI a face · Meta made a Tamagotchi-like wearable for its Muse AI agent</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 24, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-24</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-24</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the expanding integration of AI agents into enterprise workflows, consumer products, and geopolitical security efforts. Airbnb widens access to GPT-6 Astra and OpenAI frontier models · Ringg’s AI agents resolve up to 65% of customer calls with OpenAI · The AI Hype Index: AI loves cheating · ChatGPT Ads expands to Southeast Asia and Taiwan · OpenAI extends cyber access to Ukraine for civilian defense</description>
     </item>
   </channel>
 </rss>
