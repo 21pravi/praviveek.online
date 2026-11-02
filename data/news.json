@@ -1,6 +1,101 @@
 {
-  "updated": "2026-10-30T18:08:12.474955+00:00",
+  "updated": "2026-11-02T07:51:49.328416+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-02",
+      "slug": "digest-2026-11-02",
+      "title": "AI & Tech Digest — November 2, 2026",
+      "intro": "Today's digest highlights the growing tension between AI infrastructure expansion, environmental accountability, and the practical application of generative tools.",
+      "tags": [
+        "branding",
+        "copyright",
+        "data",
+        "environment",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is considering renaming its data centers to improve public perception as the physical footprint of AI infrastructure faces increasing scrutiny.",
+          "tags": [
+            "infrastructure",
+            "branding"
+          ]
+        },
+        {
+          "title": "Judge says xAI must face NAACP lawsuit on data center pollution",
+          "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+          "source": "Engadget",
+          "summary": "A court ruled that xAI must defend itself against a lawsuit alleging that its Memphis data center operations negatively impact local environmental conditions.",
+          "tags": [
+            "policy",
+            "environment"
+          ]
+        },
+        {
+          "title": "Anthropic updates Claude to stop it from recreating existing video games",
+          "url": "https://www.engadget.com/2303469/anthropic-updates-claude-to-stop-it-from-recreating-existing-video-games/",
+          "source": "Engadget",
+          "summary": "Anthropic has adjusted Claude's capabilities to prevent the model from generating direct replicas of existing video games, likely to mitigate copyright concerns.",
+          "tags": [
+            "llm",
+            "copyright"
+          ]
+        },
+        {
+          "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+          "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+          "source": "The Verge",
+          "summary": "Apple's updated HomePod Mini 2 offers minor hardware improvements, though critics argue the incremental changes do not justify the higher price point.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+          "url": "https://hackerbooks.org",
+          "source": "Hacker News",
+          "summary": "A new platform aggregates books frequently discussed on Hacker News, demonstrating how LLMs can be used to build functional data-driven web applications.",
+          "tags": [
+            "data",
+            "llm"
+          ]
+        },
+        {
+          "title": "The AI cost of JavaScript frameworks",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+          "source": "Hacker News",
+          "summary": "This analysis explores how modern JavaScript frameworks contribute to increased computational overhead, impacting the overall efficiency of web-based AI applications.",
+          "tags": [
+            "web",
+            "performance"
+          ]
+        },
+        {
+          "title": "Prop 45 in California could be hiding a loophole for data centers",
+          "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+          "source": "The Verge",
+          "summary": "California's Proposition 45 may inadvertently allow data center developers to bypass environmental impact assessments and limit public legal challenges.",
+          "tags": [
+            "policy",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "source": "TechCrunch AI",
+          "summary": "The disparity between executive enthusiasm for AI-driven productivity and the actual workplace experiences of employees remains a significant point of contention.",
+          "tags": [
+            "workplace",
+            "ethics"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-10-30",
@@ -7474,42 +7569,6 @@
             "hardware",
             "history"
           ]
-        }
-      ]
-    },
-    {
-      "type": "roundup",
-      "date": "2026-07-17",
-      "slug": "roundup-2026-07-17",
-      "title": "The Week in AI — July 17, 2026",
-      "intro": "This week's developments reveal a pivot from raw model capability toward the messy, high-stakes realities of enterprise security, vertical specialization, and sustainable deployment.",
-      "tags": [
-        "enterprise-ai",
-        "agentic-workflows",
-        "model-security",
-        "vertical-ai"
-      ],
-      "items": [
-        {
-          "title": "The Agentic Reality Gap",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "Enterprises are rushing to deploy autonomous agents despite glaring security vulnerabilities and a lack of reliable evaluation frameworks. For data scientists, this signals that the challenge is no longer just building models, but architecting robust, secure, and verifiable agentic workflows that won't fail in production.",
-          "tags": []
-        },
-        {
-          "title": "Verticalization Over Generalization",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "Capital is flowing toward specialized foundation models and implementation services, signaling that the era of 'one-size-fits-all' AI is fading. Data scientists should focus on domain-specific data and integration, as the real value is shifting from general LLM performance to solving complex, industry-specific operational problems.",
-          "tags": []
-        },
-        {
-          "title": "The Commoditization of Intelligence",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "Microsoft’s push to undercut OpenAI and Anthropic suggests that foundational models are becoming a commodity, forcing providers to differentiate through brand, price, and deep enterprise integration. This shift forces practitioners to move beyond model-centric development and prioritize cost-efficiency and strategic vendor alignment.",
-          "tags": []
         }
       ]
     }

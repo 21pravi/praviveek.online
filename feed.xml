@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 18:08:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:51:52 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 2, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-02</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest highlights the growing tension between AI infrastructure expansion, environmental accountability, and the practical application of generative tools. OpenAI might rebrand its data centers as ‘AI compute campuses’ · Judge says xAI must face NAACP lawsuit on data center pollution · Anthropic updates Claude to stop it from recreating existing video games · HomePod Mini 2 first look: Three things I love and one disappointment · Show HN: HackerBooks – HackerTube, but for books mentioned on HN</description>
+    </item>
     <item>
       <title>The Week in AI — October 30, 2026</title>
       <link>https://praviveek.online/#roundup-2026-10-30</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the rapid evolution of AI agents, the challenges of monitoring their behavior, and new industrial applications for world models. Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction · Google&#x27;s Gemini 4 Carbon promises &#x27;significant leap&#x27; in AI coding and cybersecurity · How we detect frontier model misalignment · We urgently need to monitor AI agents’ actions in real time · US investigated Chinese spy plot aimed at Nvidia CEO</description>
+    </item>
+    <item>
+      <title>Paper: Latent Reasoning in Continuous Space for Unified Multimodal Models</title>
+      <link>https://arxiv.org/abs/2610.42149v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.42149v1</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a method to align language-based reasoning with continuous image generation, allowing multimodal models to achieve better controllability and scaling similar to large language models.</description>
+    </item>
+    <item>
+      <title>Paper: TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents</title>
+      <link>https://arxiv.org/abs/2610.42004v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.42004v1</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a benchmark that evaluates LLM negotiation skills by measuring the real-world economic impact of their agreements rather than just the dialogue quality.</description>
+    </item>
+    <item>
+      <title>Paper: AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration</title>
+      <link>https://arxiv.org/abs/2610.42001v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.42001v1</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed an automated system that continuously updates meta-analyses on human-AI collaboration, helping practitioners stay current with evolving evidence on effective AI integration.</description>
+    </item>
+    <item>
+      <title>Paper: Hierarchical World Models with Implicit Dynamics</title>
+      <link>https://arxiv.org/abs/2610.42146v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2610.42146v1</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The authors present a hierarchical world model that improves long-horizon planning for embodied agents by separating high-level state transitions from low-level control, reducing cumulative errors.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — October 29, 2026</title>
@@ -183,34 +218,6 @@
       <description>Today&#x27;s updates highlight the rapid expansion of AI agent ecosystems, infrastructure partnerships, and the emerging challenges of autonomous system governance. Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots · Using thousands of AI agents to uncover new leads in biological data · Recursive launches Flint, a laptop coding model it says was largely built by AI · OpenAI models are coming to Google Cloud · OpenAI&#x27;s agents disabled their own safety monitoring systems</description>
     </item>
     <item>
-      <title>Paper: Reliable AI-Assisted Decisions via Selective Auditing</title>
-      <link>https://arxiv.org/abs/2610.31662v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.31662v1</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a framework for deciding when to trust an AI&#x27;s output or escalate to a human auditor, helping practitioners minimize errors in high-stakes automated decision systems.</description>
-    </item>
-    <item>
-      <title>Paper: Cost-Aware Abstention for LLM-Based IT Ticket Classification</title>
-      <link>https://arxiv.org/abs/2610.31657v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.31657v1</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper demonstrates a cost-sensitive approach to AI classification that decides when an LLM should abstain from answering to avoid expensive errors, improving real-world operational efficiency.</description>
-    </item>
-    <item>
-      <title>Paper: Low-Bit N-Gram Embeddings for Language Models</title>
-      <link>https://arxiv.org/abs/2610.31646v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.31646v1</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The researchers show that n-gram embedding tables in language models can be compressed using lower bit-precision to significantly reduce memory requirements without sacrificing performance.</description>
-    </item>
-    <item>
-      <title>Paper: Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3</title>
-      <link>https://arxiv.org/abs/2610.31624v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.31624v1</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This study empirically investigates whether reinforcement learning training induces power-seeking behaviors in language models, providing crucial insights for developers concerned about long-term AI safety.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 21, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-21</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-21</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-28</guid>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the expanding integration of AI into consumer commerce, creative tools, and the ongoing challenges regarding security and public perception. Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation? · OpenAI agents tried to ‘bruteforce’ a UN website · Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India · Engram is a sampler that turns broken AI hallucinations into music · Why letting Claude clean your TV&#x27;s bloatware isn&#x27;t the best idea</description>
-    </item>
-    <item>
-      <title>The Week in AI — September 25, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-09-25</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-09-25</guid>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <description>This week, the AI landscape shifted from abstract model development toward aggressive hardware integration, agentic autonomy, and the complex realities of infrastructure governance. The Edge AI Hardware Pivot · The Rise of Autonomous Agents · Infrastructure and Governance Realities</description>
     </item>
   </channel>
 </rss>
