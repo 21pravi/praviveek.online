@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-02T07:51:51.890872+00:00",
+  "updated": "2026-11-03T08:09:42.080443+00:00",
   "items": [
+    {
+      "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
+      "url": "https://arxiv.org/abs/2611.03575v1",
+      "date": "2026-11-02",
+      "summary": "This benchmark helps developers detect when coding agents successfully complete tasks while simultaneously causing unintended system damage, preventing dangerous side effects from going unnoticed.",
+      "authors": "Wei-Lin Chen, Zhepei Wei, Xinyu Zhu et al.",
+      "tags": [
+        "llm",
+        "security",
+        "paper"
+      ]
+    },
+    {
+      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+      "url": "https://arxiv.org/abs/2611.03634v1",
+      "date": "2026-11-02",
+      "summary": "WebHarbor provides a collection of stable, dockerized website environments, allowing researchers to train and test GUI agents on realistic, deterministic web workflows without relying on volatile live sites.",
+      "authors": "Zhaoyang Wang, Qianhui Wu, Boyu Gou et al.",
+      "tags": [
+        "agents",
+        "gui",
+        "paper"
+      ]
+    },
+    {
+      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+      "url": "https://arxiv.org/abs/2611.03633v1",
+      "date": "2026-11-02",
+      "summary": "Researchers found that while Muon speeds up pretraining, AdamW remains the superior optimizer for fine-tuning large models trained on extensive datasets, providing better downstream performance.",
+      "authors": "Catherine Li, Jingchu Gai, Andrej Risteski et al.",
+      "tags": [
+        "optimization",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Strategist: Evolving Reasoning with Agents",
+      "url": "https://arxiv.org/abs/2611.03618v1",
+      "date": "2026-11-02",
+      "summary": "Strategist automates the creation of AI reasoning workflows by evolving and reusing code-based blueprints, moving away from manual, task-specific agent strategy design.",
+      "authors": "Taiming Lu, Qi Xu, Zhigang Hua et al.",
+      "tags": [
+        "agents",
+        "reasoning",
+        "paper"
+      ]
+    },
     {
       "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
       "url": "https://arxiv.org/abs/2610.42149v1",
@@ -670,54 +718,6 @@
       "tags": [
         "vision-language",
         "benchmarking",
-        "paper"
-      ]
-    },
-    {
-      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "url": "https://arxiv.org/abs/2610.10507v1",
-      "date": "2026-10-07",
-      "summary": "The authors introduce a framework that moves beyond simple document retrieval by enabling models to compute and synthesize evidence across multiple sources, improving performance on complex reasoning tasks.",
-      "authors": "Yilun Hao, Krishna Sayana, Isabella Ye et al.",
-      "tags": [
-        "rag",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
-      "url": "https://arxiv.org/abs/2610.10533v1",
-      "date": "2026-10-07",
-      "summary": "This research explores updating factual knowledge in LLMs by isolating it into a separate memory layer, allowing for targeted updates without needing to retrain the entire model.",
-      "authors": "Hongru Cai, Ran Wei, Wenjie Wang et al.",
-      "tags": [
-        "llm",
-        "knowledge-editing",
-        "paper"
-      ]
-    },
-    {
-      "title": "Document-Level Text Simplification in Estonian Using Large Language Models",
-      "url": "https://arxiv.org/abs/2610.10378v1",
-      "date": "2026-10-07",
-      "summary": "This study evaluates how well current LLMs handle document-level text simplification in Estonian, providing insights for applying language models to low-resource, morphologically complex languages.",
-      "authors": "Meeri-Ly Muru, Eduard Barbu",
-      "tags": [
-        "nlp",
-        "low-resource",
-        "paper"
-      ]
-    },
-    {
-      "title": "RoboJEPA: Scaling Robotic Latent World Models",
-      "url": "https://arxiv.org/abs/2610.10515v1",
-      "date": "2026-10-07",
-      "summary": "The researchers demonstrate that robotic world models follow predictable scaling laws, allowing practitioners to better estimate the compute and data needed to improve robot planning capabilities.",
-      "authors": "Artem Zholus, Nicolas Beltran-Velez, Jianhao Yuan et al.",
-      "tags": [
-        "robotics",
-        "scaling-laws",
         "paper"
       ]
     }

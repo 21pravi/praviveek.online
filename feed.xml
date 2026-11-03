@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 07:51:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:09:42 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 3, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-03</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight the intersection of infrastructure scaling, data privacy, and the evolving regulatory landscape for AI development. OpenAI is finally merging ChatGPT’s Chat and Work tabs · OpenAI pitches data center power plants as a way to protect nearby areas · Anthropic clamps down on Claude’s AI video game clones · Gemini could be poking through your emails - here&#x27;s how to stop it · Trajectory raises $45M to make AI model training accessible to nontechnical experts</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 2, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-02</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest highlights the growing tension between AI infrastructure expansion, environmental accountability, and the practical application of generative tools. OpenAI might rebrand its data centers as ‘AI compute campuses’ · Judge says xAI must face NAACP lawsuit on data center pollution · Anthropic updates Claude to stop it from recreating existing video games · HomePod Mini 2 first look: Three things I love and one disappointment · Show HN: HackerBooks – HackerTube, but for books mentioned on HN</description>
+    </item>
+    <item>
+      <title>Paper: VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably</title>
+      <link>https://arxiv.org/abs/2611.03575v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.03575v1</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This benchmark helps developers detect when coding agents successfully complete tasks while simultaneously causing unintended system damage, preventing dangerous side effects from going unnoticed.</description>
+    </item>
+    <item>
+      <title>Paper: WebHarbor: Docking Real Websites for Evolving GUI Agent Environments</title>
+      <link>https://arxiv.org/abs/2611.03634v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.03634v1</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>WebHarbor provides a collection of stable, dockerized website environments, allowing researchers to train and test GUI agents on realistic, deterministic web workflows without relying on volatile live sites.</description>
+    </item>
+    <item>
+      <title>Paper: Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap</title>
+      <link>https://arxiv.org/abs/2611.03633v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.03633v1</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Researchers found that while Muon speeds up pretraining, AdamW remains the superior optimizer for fine-tuning large models trained on extensive datasets, providing better downstream performance.</description>
+    </item>
+    <item>
+      <title>Paper: Strategist: Evolving Reasoning with Agents</title>
+      <link>https://arxiv.org/abs/2611.03618v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.03618v1</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Strategist automates the creation of AI reasoning workflows by evolving and reusing code-based blueprints, moving away from manual, task-specific agent strategy design.</description>
     </item>
     <item>
       <title>The Week in AI — October 30, 2026</title>
@@ -183,34 +218,6 @@
       <description>Today&#x27;s updates focus on the evolving landscape of autonomous agents, infrastructure costs, and the technical requirements for scaling AI systems securely. Claude Duet app is Anthropic’s bet on agents · OpenAI makes its Jev competitor widely available as decision model competition heats up · AI’s hidden storage bill: What inference leaves behind · 1Password launches a way for AI agents to log in on your behalf without seeing your password · Canva’s first AI image model plans designs before generating them</description>
     </item>
     <item>
-      <title>Paper: Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model</title>
-      <link>https://arxiv.org/abs/2610.32933v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.32933v1</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors developed a compact, high-performance Persian retrieval model that outperforms existing small-scale alternatives, providing a practical tool for building efficient search systems in the Persian language.</description>
-    </item>
-    <item>
-      <title>Paper: J-Comm: Jacobian-Guided Latent Communication between LLM Agents</title>
-      <link>https://arxiv.org/abs/2610.32871v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.32871v1</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This framework improves collaboration between AI agents by allowing them to share latent reasoning states through geometric consensus and Jacobian-based interfaces, enhancing multi-agent problem solving.</description>
-    </item>
-    <item>
-      <title>Paper: Generalization properties of the token perceptron: the role of embedding and vocabulary</title>
-      <link>https://arxiv.org/abs/2610.32788v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.32788v1</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This study mathematically analyzes how embedding geometry and vocabulary size influence the learning performance of linear token predictors, offering insights into the fundamental generalization limits of language models.</description>
-    </item>
-    <item>
-      <title>Paper: Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation</title>
-      <link>https://arxiv.org/abs/2610.32943v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.32943v1</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The researchers propose a distillation method that transfers predictive knowledge from sequential recommenders to semantic-ID generative models, improving recommendation accuracy by leveraging item-level distributional data.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 22, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-22</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-22</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-29</guid>
       <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
       <description>Nvidia launches new platform for reining in rogue AI agents · Florida AG requests emergency order to stop OpenAI model development · When can we say AI made a scientific discovery? · OpenAI’s AI agents need to catch up · AMD is acquiring AI company World Labs in a deal worth more than $8 billion</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — September 28, 2026</title>
-      <link>https://praviveek.online/#digest-2026-09-28</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-09-28</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the expanding integration of AI into consumer commerce, creative tools, and the ongoing challenges regarding security and public perception. Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation? · OpenAI agents tried to ‘bruteforce’ a UN website · Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India · Engram is a sampler that turns broken AI hallucinations into music · Why letting Claude clean your TV&#x27;s bloatware isn&#x27;t the best idea</description>
     </item>
   </channel>
 </rss>
