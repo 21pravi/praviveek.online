@@ -1,6 +1,100 @@
 {
-  "updated": "2026-11-03T08:09:18.808973+00:00",
+  "updated": "2026-11-04T07:42:30.675286+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-04",
+      "slug": "digest-2026-11-04",
+      "title": "AI & Tech Digest — November 4, 2026",
+      "intro": "Today's digest highlights the intersection of AI safety, enterprise integration, and the infrastructure challenges facing the rapidly expanding artificial intelligence sector.",
+      "tags": [
+        "ai safety",
+        "alignment",
+        "chips",
+        "energy",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "How “reverse game theory” could keep AI agents in check",
+          "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+          "source": "MIT Tech Review",
+          "summary": "Researchers are exploring reverse game theory to create incentive structures that encourage autonomous AI agents to operate within established safety boundaries.",
+          "tags": [
+            "ai safety",
+            "alignment"
+          ]
+        },
+        {
+          "title": "Anthropic is working on a system to prove AI models’ identity",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic is developing FlashProve to provide cryptographic verification that specific AI models generated a given response, enhancing trust in digital interactions.",
+          "tags": [
+            "security",
+            "llm"
+          ]
+        },
+        {
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "url": "https://openai.com/index/cisco-cyber",
+          "source": "OpenAI",
+          "summary": "Cisco is integrating OpenAI models into its network infrastructure to enable faster, more adaptive responses to enterprise security threats.",
+          "tags": [
+            "security",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+          "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+          "source": "MIT Tech Review",
+          "summary": "Ongoing research into superintelligence loyalty tests and control mechanisms highlights the increasing focus on managing the risks associated with autonomous AI systems.",
+          "tags": [
+            "ai safety"
+          ]
+        },
+        {
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "url": "https://openai.com/index/heimstaden",
+          "source": "OpenAI",
+          "summary": "Heimstaden is leveraging enterprise AI tools to automate property management workflows and improve operational efficiency across its European residential portfolio.",
+          "tags": [
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+          "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+          "source": "Hacker News",
+          "summary": "Postman faced criticism for automatically enabling AI features that potentially exposed user API data, raising significant concerns regarding software privacy and consent.",
+          "tags": [
+            "privacy",
+            "policy"
+          ]
+        },
+        {
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+          "source": "TechCrunch AI",
+          "summary": "Fal has reached a $16 billion valuation following a major funding round, reflecting strong market demand for specialized AI inference infrastructure.",
+          "tags": [
+            "funding",
+            "chips"
+          ]
+        },
+        {
+          "title": "Data centers are turning to old jet engines as the wait for power grows",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+          "source": "TechCrunch AI",
+          "summary": "Data center operators are repurposing retired jet engines to generate power as grid capacity constraints hinder the expansion of AI infrastructure.",
+          "tags": [
+            "infrastructure",
+            "energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-03",
@@ -7474,102 +7568,6 @@
           "source": "TechCrunch AI",
           "summary": "",
           "tags": []
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-21",
-      "slug": "digest-2026-07-21",
-      "title": "AI & Tech Digest — July 21, 2026",
-      "intro": "Today's digest examines the intersection of geopolitical strategy, hardware innovation, and the persistent challenges of algorithmic bias and safety.",
-      "tags": [
-        "alignment",
-        "chips",
-        "ethics",
-        "geopolitics",
-        "google"
-      ],
-      "items": [
-        {
-          "title": "OpenAI is scared of open-weight models. Should the US be?",
-          "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-          "source": "TechCrunch AI",
-          "summary": "Debates over restricting foreign open-weight models highlight the tension between protecting national interests and maintaining competitive AI business models.",
-          "tags": [
-            "policy",
-            "llm"
-          ]
-        },
-        {
-          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-          "source": "TechCrunch AI",
-          "summary": "Google is developing custom silicon to optimize the computational efficiency of its Gemini model architecture.",
-          "tags": [
-            "chips",
-            "google"
-          ]
-        },
-        {
-          "title": "AI is more likely than humans to form biases when hiring",
-          "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-          "source": "MIT Tech Review",
-          "summary": "Recent findings indicate that automated hiring systems may exhibit significant biases, potentially surpassing human recruiters in discriminatory screening practices.",
-          "tags": [
-            "ethics",
-            "hiring"
-          ]
-        },
-        {
-          "title": "Safety and alignment in an era of long-horizon models",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "source": "OpenAI",
-          "summary": "OpenAI's research into long-horizon models emphasizes the necessity of iterative deployment to identify and mitigate emerging safety risks.",
-          "tags": [
-            "safety",
-            "alignment"
-          ]
-        },
-        {
-          "title": "Who's afraid of Chinese models?",
-          "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-          "source": "Hacker News",
-          "summary": "Geopolitical concerns regarding Chinese AI development are fueling internal divisions among policymakers and industry leaders over regulatory strategy.",
-          "tags": [
-            "policy",
-            "geopolitics"
-          ]
-        },
-        {
-          "title": "The Download: AI hiring biases, and weather data sabotage",
-          "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-          "source": "MIT Tech Review",
-          "summary": "Automated recruitment tools risk perpetuating systemic inequality by encoding human and data-driven biases into the hiring process.",
-          "tags": [
-            "ethics",
-            "hiring"
-          ]
-        },
-        {
-          "title": "NVIDIA data center hardware is being cooled with water 'hotter than a hot tub'",
-          "url": "https://www.engadget.com/2214770/nvidia-data-center-liquid-cooling-temperature-heat/",
-          "source": "Engadget",
-          "summary": "NVIDIA is utilizing high-temperature liquid cooling systems to manage the thermal output of modern data center hardware.",
-          "tags": [
-            "hardware",
-            "infrastructure"
-          ]
-        },
-        {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "source": "MIT Tech Review",
-          "summary": "Conflicting perspectives within the current administration regarding Chinese AI capabilities are creating instability for domestic technology firms.",
-          "tags": [
-            "policy",
-            "geopolitics"
-          ]
         }
       ]
     }

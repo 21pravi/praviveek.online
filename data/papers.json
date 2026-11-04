@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-03T08:09:42.080443+00:00",
+  "updated": "2026-11-04T07:42:43.477371+00:00",
   "items": [
+    {
+      "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
+      "url": "https://arxiv.org/abs/2611.05345v1",
+      "date": "2026-11-03",
+      "summary": "The authors show that speculative decoding can introduce reasoning errors in long-horizon AI agents, suggesting that speed optimizations must be carefully validated for complex task planning.",
+      "authors": "Hongyin Luo, Wei Fang, Lijie Yang et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
+      "url": "https://arxiv.org/abs/2611.05320v1",
+      "date": "2026-11-03",
+      "summary": "This framework uses LLM agents to automatically generate synthetic robot training data, significantly reducing the time and cost associated with manual teleoperation for robotics.",
+      "authors": "Kewei Zhang, Juncheng Ma, Guodong Lv et al.",
+      "tags": [
+        "robotics",
+        "data-generation",
+        "paper"
+      ]
+    },
+    {
+      "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
+      "url": "https://arxiv.org/abs/2611.05319v1",
+      "date": "2026-11-03",
+      "summary": "The researchers propose treating recommendation systems as a two-way communication process between users and items, improving performance by giving items the same self-descriptive capabilities as users.",
+      "authors": "Zhen Tao, Xun Zhou, Xuhui Chen et al.",
+      "tags": [
+        "recommendation",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
+      "url": "https://arxiv.org/abs/2611.05309v1",
+      "date": "2026-11-03",
+      "summary": "This compact neural network architecture accelerates gravitational-wave signal analysis by using spectral refinement, offering a faster alternative to traditional, computationally expensive SNR calculations.",
+      "authors": "Ioannis Tsioulis, Anastasios Tefas, Nikolaos Stergioulas",
+      "tags": [
+        "regression",
+        "physics",
+        "paper"
+      ]
+    },
     {
       "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
       "url": "https://arxiv.org/abs/2611.03575v1",
@@ -670,54 +718,6 @@
       "tags": [
         "security",
         "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Prior or Feedback? What an LLM Uses When Adapting Neural Operators",
-      "url": "https://arxiv.org/abs/2610.12325v1",
-      "date": "2026-10-08",
-      "summary": "Researchers found that LLM agents effectively use experimental feedback to tune neural operators, outperforming traditional optimization methods for scientific modeling tasks.",
-      "authors": "Julian Chan, Javier Mora Jimenez",
-      "tags": [
-        "llm",
-        "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
-      "url": "https://arxiv.org/abs/2610.12445v1",
-      "date": "2026-10-08",
-      "summary": "A new probe-based monitoring system can detect hidden deception in LLM agents with high accuracy, providing a scalable way to improve AI safety and oversight.",
-      "authors": "Oskar J. Hollinsworth, Alex F. Spies, Tigist Diriba et al.",
-      "tags": [
-        "llm",
-        "safety",
-        "paper"
-      ]
-    },
-    {
-      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
-      "url": "https://arxiv.org/abs/2610.12444v1",
-      "date": "2026-10-08",
-      "summary": "This paper introduces a more stable 4-bit quantization method for AdamW optimizer states, helping data scientists reduce memory usage without sacrificing training convergence.",
-      "authors": "Hanyang Li, Shao Tang, Daniel Thomas Braithwaite et al.",
-      "tags": [
-        "optimization",
-        "quantization",
-        "paper"
-      ]
-    },
-    {
-      "title": "SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.12402v1",
-      "date": "2026-10-08",
-      "summary": "The authors introduce a new benchmark to test if vision-language models can predict how scenes change after interventions, moving beyond simple static image description.",
-      "authors": "Hongxing Li, Jinyue Su, Dingming Li et al.",
-      "tags": [
-        "vision-language",
-        "benchmarking",
         "paper"
       ]
     }
