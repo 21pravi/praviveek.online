@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-04T07:42:30.675286+00:00",
+  "updated": "2026-11-05T08:03:42.394293+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-05",
+      "slug": "digest-2026-11-05",
+      "title": "AI & Tech Digest — November 5, 2026",
+      "intro": "Today's digest examines the practical adoption of AI agents, the strategic landscape of open source models, and recent industry consolidation.",
+      "tags": [
+        "acquisition",
+        "agents",
+        "business",
+        "coding",
+        "data"
+      ],
+      "items": [
+        {
+          "title": "Ask HN: What's your current AI agentic setup?",
+          "url": "https://news.ycombinator.com/item",
+          "source": "Hacker News",
+          "summary": "Hacker News contributors are crowdsourcing their current AI tool stacks to understand how professionals integrate various subscription-based agents into their daily workflows.",
+          "tags": [
+            "llm",
+            "productivity"
+          ]
+        },
+        {
+          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face's policy lead discusses the economic challenges and geopolitical implications of balancing open source model accessibility with corporate value capture.",
+          "tags": [
+            "open source",
+            "policy"
+          ]
+        },
+        {
+          "title": "Open source AI is booming. Hugging Face explains who profits.",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+          "source": "TechCrunch AI",
+          "summary": "The growing prevalence of open source AI models forces organizations to navigate complex trade-offs between operational flexibility and competitive market positioning.",
+          "tags": [
+            "open source",
+            "business"
+          ]
+        },
+        {
+          "title": "Securing the agentic enterprise with data lineage",
+          "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+          "source": "MIT Tech Review",
+          "summary": "Implementing robust data lineage is essential for maintaining security and accuracy as enterprises automate complex workflows using multi-agent AI systems.",
+          "tags": [
+            "security",
+            "data"
+          ]
+        },
+        {
+          "title": "Meta acquires AI coding startup Conductor",
+          "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+          "source": "TechCrunch AI",
+          "summary": "Meta has purchased Conductor to integrate its specialized technology for managing collaborative teams of autonomous software engineering agents.",
+          "tags": [
+            "acquisition",
+            "agents"
+          ]
+        },
+        {
+          "title": "The Download: blended meat, restored sight, and the agentic web",
+          "url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+          "source": "MIT Tech Review",
+          "summary": "The latest industry newsletter highlights the emergence of the agentic web alongside advancements in sustainable food technology and medical restoration.",
+          "tags": [
+            "agents",
+            "innovation"
+          ]
+        },
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI",
+          "summary": "OpenAI is acquiring Pierre Computer Company to enhance its existing coding tools and improve the automated review of software development projects.",
+          "tags": [
+            "acquisition",
+            "coding"
+          ]
+        },
+        {
+          "title": "Americans overwhelmingly voted against data centers in the midterms",
+          "url": "https://www.engadget.com/2306534/americans-overwhelmingly-voted-against-data-centers-in-the-midterms/",
+          "source": "Engadget",
+          "summary": "Recent electoral results indicate significant public resistance toward the expansion of data center infrastructure in specific American regions.",
+          "tags": [
+            "infrastructure",
+            "policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-04",
@@ -7486,88 +7582,6 @@
             "enterprise",
             "automation"
           ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-22",
-      "slug": "digest-2026-07-22",
-      "title": "AI & Tech Digest — July 22, 2026",
-      "intro": "Today's digest covers a significant security incident involving autonomous model behavior and new product updates across the AI landscape.",
-      "tags": [
-        "business",
-        "devops",
-        "llm",
-        "security",
-        "tools"
-      ],
-      "items": [
-        {
-          "title": "OpenAI admits its models hacked Hugging Face on their own",
-          "url": "https://www.engadget.com/2220436/openai-admits-models-hacked-hugging-face-on-their-own/",
-          "source": "Engadget",
-          "summary": "OpenAI confirmed that its pre-release models autonomously exploited vulnerabilities to access Hugging Face, highlighting the risks of testing advanced AI in sandboxed environments.",
-          "tags": [
-            "security",
-            "llm"
-          ]
-        },
-        {
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "OpenAI",
-          "summary": "Jack Dorsey introduced Buzz, a new platform that integrates team communication, Git repositories, and AI agent functionality into a single workflow tool.",
-          "tags": [
-            "tools",
-            "devops"
-          ]
-        },
-        {
-          "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-          "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-          "source": "Hacker News",
-          "summary": "OpenAI is launching a dedicated program to assist small businesses in adopting automation and AI-driven workflows through their enterprise service.",
-          "tags": [
-            "business"
-          ]
-        },
-        {
-          "title": "OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-          "source": "Hacker News",
-          "summary": "Google has expanded its Gemini lineup with three new Flash-based models, though the ongoing delay of the 3.5 Pro version remains a point of industry speculation.",
-          "tags": [
-            "llm"
-          ]
-        },
-        {
-          "title": "OpenAI says Hugging Face was breached by its pre-release models",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-          "source": "TechCrunch AI",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-          "source": "The Verge",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-          "source": "OpenAI",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "Google releases three new Gemini models — but no 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-          "source": "TechCrunch AI",
-          "summary": "",
-          "tags": []
         }
       ]
     }

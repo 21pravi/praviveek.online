@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-04T07:42:43.477371+00:00",
+  "updated": "2026-11-05T08:03:52.073301+00:00",
   "items": [
+    {
+      "title": "SAUCE: Summary Analysis Using Conversation Entailment",
+      "url": "https://arxiv.org/abs/2611.06812v1",
+      "date": "2026-11-04",
+      "summary": "This framework evaluates conversational summaries by checking if the summary is logically supported by the source transcript, helping data scientists detect information loss from speech-to-text errors.",
+      "authors": "Man-Ling Sung, Hemanth Kandula, Jeff Ma et al.",
+      "tags": [
+        "llm",
+        "evaluation",
+        "paper"
+      ]
+    },
+    {
+      "title": "Task-Efficient Agent Evaluation Using Cached Traces",
+      "url": "https://arxiv.org/abs/2611.06803v1",
+      "date": "2026-11-04",
+      "summary": "The authors propose using LLM-generated summaries of execution traces to more accurately benchmark agent performance, allowing for better evaluation with fewer task executions.",
+      "authors": "Ben Johnson, Hayden Helm",
+      "tags": [
+        "agents",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "url": "https://arxiv.org/abs/2611.06914v1",
+      "date": "2026-11-04",
+      "summary": "This research investigates how providing richer context to social simulation agents can reduce behavioral inconsistency, helping practitioners build more stable and reliable LLM-based social models.",
+      "authors": "Mattia Greiche, Reihaneh Rabbany, Maximilian Puelma Touzel",
+      "tags": [
+        "llm",
+        "robustness",
+        "paper"
+      ]
+    },
+    {
+      "title": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents",
+      "url": "https://arxiv.org/abs/2611.06868v1",
+      "date": "2026-11-04",
+      "summary": "The authors demonstrate that generating multiple candidate actions at each step and using a selector model to pick the best one improves LLM agent performance on complex tasks.",
+      "authors": "Jalaj Bhandari, Dhawal Gupta, Hongli Zhan et al.",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
     {
       "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
       "url": "https://arxiv.org/abs/2611.05345v1",
@@ -670,54 +718,6 @@
       "tags": [
         "robotics",
         "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Same Query, Different Answer: Run-to-Run Variance in Semantic Query Processing",
-      "url": "https://arxiv.org/abs/2610.13823v1",
-      "date": "2026-10-09",
-      "summary": "Researchers found that LLMs produce inconsistent results for the same query even at zero temperature, meaning data scientists must account for non-deterministic outputs in production pipelines.",
-      "authors": "Oktie Hassanzadeh, Dharmashankar Subramanian",
-      "tags": [
-        "llm",
-        "reliability",
-        "paper"
-      ]
-    },
-    {
-      "title": "Task Context Shapes Component Roles in Language Models",
-      "url": "https://arxiv.org/abs/2610.13895v1",
-      "date": "2026-10-09",
-      "summary": "This study analyzes how LLM attention heads adapt their roles based on specific task contexts, offering practitioners better insight into how model components influence final predictions.",
-      "authors": "Sovesh Mohapatra, Dani S Bassett",
-      "tags": [
-        "interpretability",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
-      "url": "https://arxiv.org/abs/2610.13889v1",
-      "date": "2026-10-09",
-      "summary": "The authors introduce a tool retrieval framework that uses real-time execution feedback to prioritize reliable tools, helping developers build more stable AI agent workflows.",
-      "authors": "Weiliang Chen, Song Liao",
-      "tags": [
-        "agents",
-        "retrieval",
-        "paper"
-      ]
-    },
-    {
-      "title": "X-AgentRed: Red-Teaming Personal Agents in Evolving Multi-Service Ecosystems",
-      "url": "https://arxiv.org/abs/2610.13886v1",
-      "date": "2026-10-09",
-      "summary": "This paper presents a red-teaming method to detect harmful outcomes in AI agents by systematically testing how different service interactions can lead to unintended consequences.",
-      "authors": "Yeonsung Jung, Zhiyuan Wang, Zifan Wang et al.",
-      "tags": [
-        "security",
-        "agents",
         "paper"
       ]
     }
