@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-05T08:03:52.073301+00:00",
+  "updated": "2026-11-06T08:08:10.036289+00:00",
   "items": [
+    {
+      "title": "Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation",
+      "url": "https://arxiv.org/abs/2611.08295v1",
+      "date": "2026-11-05",
+      "summary": "This research uses transformers to map muscle signals to robotic force, helping therapists create more effective, personalized rehabilitation plans that target actual neuromotor recovery.",
+      "authors": "Gabriel Parra, Kimia Khoshnami, Daniel S. Brown et al.",
+      "tags": [
+        "robotics",
+        "healthcare",
+        "paper"
+      ]
+    },
+    {
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "url": "https://arxiv.org/abs/2611.08487v1",
+      "date": "2026-11-05",
+      "summary": "The authors propose that dense user embeddings are actually combinations of interpretable behavioral patterns, offering a way to make opaque recommendation models more transparent and explainable.",
+      "authors": "Jonathan Kozaczuk, Zheng Dong, Noyan Evirgen et al.",
+      "tags": [
+        "embeddings",
+        "recsys",
+        "paper"
+      ]
+    },
+    {
+      "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization",
+      "url": "https://arxiv.org/abs/2611.08483v1",
+      "date": "2026-11-05",
+      "summary": "SwarmEvolve speeds up evolutionary search by using low-cost agents that process information in latent space, bypassing slow text generation to improve computational problem-solving efficiency.",
+      "authors": "Qile Jiang, George Em Karniadakis",
+      "tags": [
+        "llm",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "url": "https://arxiv.org/abs/2611.08452v1",
+      "date": "2026-11-05",
+      "summary": "ReproBridge introduces a standardized framework for packaging ML research artifacts, helping agents and researchers more reliably reproduce experiments by capturing essential procedural context.",
+      "authors": "Yubo Wang, Rui Meng, Jaehyun Nam et al.",
+      "tags": [
+        "reproducibility",
+        "mlops",
+        "paper"
+      ]
+    },
     {
       "title": "SAUCE: Summary Analysis Using Conversation Entailment",
       "url": "https://arxiv.org/abs/2611.06812v1",
@@ -670,54 +718,6 @@
       "tags": [
         "gaming",
         "agentic",
-        "paper"
-      ]
-    },
-    {
-      "title": "Back-Translation Still Matters: Leveraging Monolingual Data for Low-Resource Machine Translation with LLMs",
-      "url": "https://arxiv.org/abs/2610.18818v1",
-      "date": "2026-10-13",
-      "summary": "The authors show that using back-translation with monolingual data significantly improves machine translation performance in low-resource languages compared to relying solely on few-shot prompting or fine-tuning.",
-      "authors": "Divyanshu Bathla, Parag Singla, Jitin Singla",
-      "tags": [
-        "translation",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "SkillScaffold: Scaffolding Agentic Reinforcement Learning with Policy-Adaptive Skill Credit Assignment and Selective Injection",
-      "url": "https://arxiv.org/abs/2610.18807v1",
-      "date": "2026-10-13",
-      "summary": "This paper introduces a method to improve agentic reinforcement learning by selectively injecting and evaluating relevant skills, reducing the computational cost and instability of traditional rollout-based credit assignment.",
-      "authors": "Wenlin Zhong, Hao Wang, Kun Yuan et al.",
-      "tags": [
-        "reinforcement learning",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.18683v1",
-      "date": "2026-10-13",
-      "summary": "The authors propose a framework that improves how LLM agents learn by assigning credit more intelligently across multi-turn actions, avoiding the pitfalls of uniform reward distribution without needing extra critic models.",
-      "authors": "Bowen Ding, Mingda Wan, Yuhan Chen et al.",
-      "tags": [
-        "reinforcement learning",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "ChunkAct: Action Chunking for Agentic Robotics",
-      "url": "https://arxiv.org/abs/2610.18874v1",
-      "date": "2026-10-13",
-      "summary": "By grouping robotic actions into chunks, this method reduces the redundant reasoning overhead of LLMs in control loops, making robot task execution significantly more efficient.",
-      "authors": "Bingxin Xu, Wenrui Bao, Xinxin Liu et al.",
-      "tags": [
-        "robotics",
-        "llm",
         "paper"
       ]
     }
