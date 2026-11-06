@@ -1,6 +1,43 @@
 {
-  "updated": "2026-11-06T08:08:05.225408+00:00",
+  "updated": "2026-11-06T19:37:16.461007+00:00",
   "issues": [
+    {
+      "type": "roundup",
+      "date": "2026-11-06",
+      "slug": "roundup-2026-11-06",
+      "title": "The Week in AI — November 6, 2026",
+      "intro": "The industry is shifting from mere chat interfaces to persistent, autonomous agents, forcing a reckoning with physical infrastructure, security, and public trust.",
+      "tags": [
+        "ai agents",
+        "data centers",
+        "ai security",
+        "infrastructure",
+        "alignment"
+      ],
+      "items": [
+        {
+          "title": "The Rise of Agentic Workflows",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "From Perplexity and Airbnb to Meta, the industry is aggressively moving toward autonomous agents that execute multi-step tasks rather than just generating text. For data scientists, this shifts the focus from model performance to building robust, secure orchestration layers and data lineage pipelines that can handle persistent, real-world actions.",
+          "tags": []
+        },
+        {
+          "title": "The Physicality of AI Infrastructure",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "AI is no longer just software; it is a massive, power-hungry physical footprint facing intense public and regulatory backlash. As data centers struggle with energy constraints and environmental lawsuits, practitioners must account for the rising cost and geopolitical volatility of the underlying compute hardware.",
+          "tags": []
+        },
+        {
+          "title": "Security at Machine Speed",
+          "url": "",
+          "source": "Weekly synthesis",
+          "summary": "As agents gain the ability to manipulate code and network infrastructure, the attack surface has expanded exponentially, prompting a surge in security-focused acquisitions. Data scientists must now prioritize 'defensive AI' and cryptographic verification, as the risks of agent misalignment and data exposure move from theoretical to operational threats.",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-06",
@@ -7494,93 +7531,6 @@
           "url": "",
           "source": "Weekly synthesis",
           "summary": "The intersection of intellectual property theft, national security concerns, and internal corporate rivalries is creating a hostile environment for open-weight models. Data scientists should expect increased regulatory friction and a tightening of the 'open' ecosystem as labs and nations treat model weights as strategic assets.",
-          "tags": []
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-24",
-      "slug": "digest-2026-07-24",
-      "title": "AI & Tech Digest — July 24, 2026",
-      "intro": "Today's updates highlight advancements in specialized hardware, personal health data integration, and the evolving utility of voice-enabled AI models.",
-      "tags": [
-        "chips",
-        "generative ai",
-        "hardware",
-        "healthcare",
-        "llm"
-      ],
-      "items": [
-        {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "source": "TechCrunch AI",
-          "summary": "Etched secured a significant valuation for its specialized hardware designed to accelerate AI inference without relying on traditional GPU architectures.",
-          "tags": [
-            "chips",
-            "hardware"
-          ]
-        },
-        {
-          "title": "OpenAI makes ChatGPT Health available to all US users",
-          "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI is expanding its health-focused features to all US users, enabling the integration of personal medical records and fitness tracking data into its chatbot.",
-          "tags": [
-            "healthcare",
-            "llm"
-          ]
-        },
-        {
-          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-          "source": "The Verge",
-          "summary": "Anthropic has upgraded its voice interface by incorporating its more powerful Opus and Sonnet models, expanding functionality across third-party productivity applications.",
-          "tags": [
-            "llm",
-            "voice"
-          ]
-        },
-        {
-          "title": "Anthropic updates Claude voice mode with more capable models",
-          "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-          "source": "TechCrunch AI",
-          "summary": "Runway introduced a model routing tool that helps developers optimize generative media workflows by automatically selecting models based on specific performance or cost requirements.",
-          "tags": [
-            "generative ai",
-            "tools"
-          ]
-        },
-        {
-          "title": "Claude’s voice mode is now available for Opus and Sonnet",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-          "source": "The Verge",
-          "summary": "Cybersecurity researchers report that current AI safety guardrails are creating unintended obstacles when attempting to identify and analyze software vulnerabilities.",
-          "tags": [
-            "security",
-            "policy"
-          ]
-        },
-        {
-          "title": "Runway launches AI model router as generative media gets crowded",
-          "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-          "source": "TechCrunch AI",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "OpenAI once again makes the case for giving ChatGPT your health records",
-          "url": "https://www.engadget.com/2222059/openai-once-again-makes-the-case-for-giving-chatgpt-your-health-records/",
-          "source": "Engadget",
-          "summary": "",
-          "tags": []
-        },
-        {
-          "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-          "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-          "source": "TechCrunch AI",
-          "summary": "",
           "tags": []
         }
       ]

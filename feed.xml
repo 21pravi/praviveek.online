@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 08:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 19:37:16 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — November 6, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-11-06</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The industry is shifting from mere chat interfaces to persistent, autonomous agents, forcing a reckoning with physical infrastructure, security, and public trust. The Rise of Agentic Workflows · The Physicality of AI Infrastructure · Security at Machine Speed</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 6, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-06</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-02</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <description>This week, the industry pivoted from simple chatbot interfaces to a chaotic, agent-driven ecosystem that threatens to bypass traditional software paradigms and app stores entirely. The Death of the App · Agent Security and Governance · Hardware as the Agent Interface</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 2, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-02</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the shift toward AI-integrated hardware, evolving agent-based interfaces, and the ongoing organizational challenges within leading AI research firms. Hearing tech startup Legato launches its AI hearing glasses · OpenAI cuts ties with 3 safety researchers, WSJ reports · Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground · ChatGPT can now help you virtually try on clothes · Neurable launches its newest brain-scanning headphones</description>
     </item>
   </channel>
 </rss>
