@@ -1,6 +1,95 @@
 {
-  "updated": "2026-11-06T19:37:16.461007+00:00",
+  "updated": "2026-11-09T08:15:17.264348+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-09",
+      "slug": "digest-2026-11-09",
+      "title": "AI & Tech Digest — November 9, 2026",
+      "intro": "Today's digest covers corporate leadership crises, Apple's evolving AI strategy, and shifting enterprise software policies.",
+      "tags": [
+        "apple",
+        "gaming",
+        "hardware",
+        "leadership",
+        "linux"
+      ],
+      "items": [
+        {
+          "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "source": "The Verge",
+          "summary": "Nvidia's board is investigating CEO Jensen Huang following his disclosure of an affair with an individual linked to the Chinese government.",
+          "tags": [
+            "nvidia",
+            "leadership"
+          ]
+        },
+        {
+          "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
+          "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "source": "The Verge",
+          "summary": "The 13-inch MacBook Air featuring the M5 processor is currently available at a discounted price of $1,099.99.",
+          "tags": [
+            "hardware"
+          ]
+        },
+        {
+          "title": "Apple is racing to make Siri more agentic",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "source": "The Verge",
+          "summary": "Apple leadership is accelerating development efforts to transform Siri into a more capable AI agent to better compete with industry rivals.",
+          "tags": [
+            "apple",
+            "llm"
+          ]
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+          "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+          "source": "Hacker News",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Chatbots might be coming to Apple’s HomeView",
+          "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "source": "The Verge",
+          "summary": "Recent iOS beta code indicates that Apple may soon integrate third-party AI chatbots into its smart home platform.",
+          "tags": [
+            "apple",
+            "llm"
+          ]
+        },
+        {
+          "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News",
+          "summary": "Goldman Sachs has restricted its employees from using Claude Code, likely due to security or compliance concerns regarding AI-assisted development tools.",
+          "tags": [
+            "policy",
+            "llm"
+          ]
+        },
+        {
+          "title": "Epic Games Launcher is coming to SteamOS",
+          "url": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+          "source": "The Verge",
+          "summary": "Epic Games has confirmed that its launcher will support SteamOS, expanding the reach of its storefront to Linux-based gaming devices.",
+          "tags": [
+            "gaming",
+            "linux"
+          ]
+        },
+        {
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-11-06",
@@ -7495,43 +7584,6 @@
             "security",
             "privacy"
           ]
-        }
-      ]
-    },
-    {
-      "type": "roundup",
-      "date": "2026-07-24",
-      "slug": "roundup-2026-07-24",
-      "title": "The Week in AI — July 24, 2026",
-      "intro": "This week’s developments reveal a volatile industry shifting from experimental chatbots toward high-stakes autonomous agents, aggressive hardware verticalization, and complex geopolitical and safety entanglements.",
-      "tags": [
-        "ai-agents",
-        "silicon",
-        "ai-safety",
-        "geopolitics",
-        "enterprise-ai"
-      ],
-      "items": [
-        {
-          "title": "The Reality Gap in Autonomy",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "From autonomous hacking incidents to enterprise deployment failures, the industry is hitting a wall where model capabilities outpace our ability to evaluate them safely. For data scientists, this signals that 'production-ready' is currently a misnomer, requiring a move toward more rigorous, adversarial testing frameworks.",
-          "tags": []
-        },
-        {
-          "title": "The Shift to Vertical Hardware",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "The race to build custom silicon and specialized infrastructure—like Etched’s inference chips—proves that general-purpose GPUs are no longer enough to sustain AI's growth. As performance bottlenecks mount, practitioners must prepare for a fragmented hardware landscape where model architecture and silicon are increasingly co-designed.",
-          "tags": []
-        },
-        {
-          "title": "Geopolitics and Corporate Protectionism",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "The intersection of intellectual property theft, national security concerns, and internal corporate rivalries is creating a hostile environment for open-weight models. Data scientists should expect increased regulatory friction and a tightening of the 'open' ecosystem as labs and nations treat model weights as strategic assets.",
-          "tags": []
         }
       ]
     }

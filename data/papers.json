@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-06T08:08:10.036289+00:00",
+  "updated": "2026-11-09T08:15:19.600941+00:00",
   "items": [
+    {
+      "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "url": "https://arxiv.org/abs/2611.09891v1",
+      "date": "2026-11-06",
+      "summary": "This method caches LLM reasoning steps into CPU-executable code, allowing you to solve repetitive tasks much faster and cheaper without needing to re-run expensive model inference.",
+      "authors": "Peter Belcak, Greg Heinrich, Saurav Muralidharan et al.",
+      "tags": [
+        "llm",
+        "optimization",
+        "paper"
+      ]
+    },
+    {
+      "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+      "url": "https://arxiv.org/abs/2611.09863v1",
+      "date": "2026-11-06",
+      "summary": "The authors propose a new alignment technique that preserves both the overall data structure and specific pair-wise relationships, improving performance in complex multimodal machine learning tasks.",
+      "authors": "Ruizhi Yuan, Zeqiu Yu, Wei Gao et al.",
+      "tags": [
+        "multimodal",
+        "alignment",
+        "paper"
+      ]
+    },
+    {
+      "title": "Discovering formally verified quantum programs with AI",
+      "url": "https://arxiv.org/abs/2611.09822v1",
+      "date": "2026-11-06",
+      "summary": "This paper demonstrates an AI-driven approach to discovering and verifying new quantum algorithms, potentially accelerating the development of quantum software beyond human-expert capabilities.",
+      "authors": "Sergey Shirobokov, Ben Jaderberg, Katerina Hristova et al.",
+      "tags": [
+        "quantum",
+        "ai-for-science",
+        "paper"
+      ]
+    },
+    {
+      "title": "Generative Latent Priors for Interpreting and Steering Protein Language Models",
+      "url": "https://arxiv.org/abs/2611.09818v1",
+      "date": "2026-11-06",
+      "summary": "By using diffusion models to map protein language model activations, researchers can better interpret and steer complex protein representations without making rigid structural assumptions.",
+      "authors": "Daniel Hinjos, Lucía Urcelay",
+      "tags": [
+        "bioinformatics",
+        "interpretability",
+        "paper"
+      ]
+    },
     {
       "title": "Transformer-Based Trajectory Prescription for sEMG-Optimizing Robot-Mediated Rehabilitation",
       "url": "https://arxiv.org/abs/2611.08295v1",
@@ -670,54 +718,6 @@
       "tags": [
         "agents",
         "tool-use",
-        "paper"
-      ]
-    },
-    {
-      "title": "PhySGA: A Physics-Space Grounded Agentic Framework for Generalizable and Interactive 3D Composition",
-      "url": "https://arxiv.org/abs/2610.20560v1",
-      "date": "2026-10-14",
-      "summary": "This framework improves 3D object placement by grounding AI agents in physical laws, helping developers create more realistic simulations and interactive digital environments.",
-      "authors": "Weichen Lyu, Chong Xia, Mingyu Dong et al.",
-      "tags": [
-        "3d",
-        "simulation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Bayesian Learning to Select Fair Classifiers",
-      "url": "https://arxiv.org/abs/2610.20514v1",
-      "date": "2026-10-14",
-      "summary": "This Bayesian approach helps data scientists dynamically select the best models in real-time streams while balancing prediction accuracy with fairness constraints.",
-      "authors": "Saatvik Kher, Hyungrok Do, Judy Zhong et al.",
-      "tags": [
-        "fairness",
-        "bayesian",
-        "paper"
-      ]
-    },
-    {
-      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
-      "url": "https://arxiv.org/abs/2610.20607v1",
-      "date": "2026-10-14",
-      "summary": "This method uses a hierarchical architecture to efficiently fine-tune robotic manipulation tasks with minimal human intervention, making real-world deployment more practical.",
-      "authors": "Zhefei Gong, Hefeifei Jiang, Zehao Wang et al.",
-      "tags": [
-        "robotics",
-        "reinforcement learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Player-1: Learning to Play from Synthetic Experience",
-      "url": "https://arxiv.org/abs/2610.20584v1",
-      "date": "2026-10-14",
-      "summary": "This framework enables AI agents to master complex video games using synthetic experiences, reducing the reliance on massive sets of human gameplay demonstrations.",
-      "authors": "Mingyu Ouyang, Yiran Wang, Siyuan Hu et al.",
-      "tags": [
-        "gaming",
-        "agentic",
         "paper"
       ]
     }

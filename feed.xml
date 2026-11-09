@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 19:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:15:19 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 9, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-09</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers corporate leadership crises, Apple&#x27;s evolving AI strategy, and shifting enterprise software policies. Here’s the full text of Jensen Huang’s memo to Nvidia · Apple’s M5 MacBook Air is down to its lowest price since July · Apple is racing to make Siri more agentic · Nvidia CEO Jensen Huang&#x27;s letter to staff about affair · Chatbots might be coming to Apple’s HomeView</description>
+    </item>
     <item>
       <title>The Week in AI — November 6, 2026</title>
       <link>https://praviveek.online/#roundup-2026-11-06</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of specialized AI agents across enterprise, cybersecurity, and consumer travel sectors. Perplexity launches its own take on AI agents for work · GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents · Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure · OpenAI released a new cybersecurity model. Is that enough? · Airbnb says it’s launching an AI travel agent in the first half of 2027</description>
+    </item>
+    <item>
+      <title>Paper: CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse</title>
+      <link>https://arxiv.org/abs/2611.09891v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.09891v1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This method caches LLM reasoning steps into CPU-executable code, allowing you to solve repetitive tasks much faster and cheaper without needing to re-run expensive model inference.</description>
+    </item>
+    <item>
+      <title>Paper: Flow-Guided Target-Space Alignment via Path Consistency</title>
+      <link>https://arxiv.org/abs/2611.09863v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.09863v1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a new alignment technique that preserves both the overall data structure and specific pair-wise relationships, improving performance in complex multimodal machine learning tasks.</description>
+    </item>
+    <item>
+      <title>Paper: Discovering formally verified quantum programs with AI</title>
+      <link>https://arxiv.org/abs/2611.09822v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.09822v1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper demonstrates an AI-driven approach to discovering and verifying new quantum algorithms, potentially accelerating the development of quantum software beyond human-expert capabilities.</description>
+    </item>
+    <item>
+      <title>Paper: Generative Latent Priors for Interpreting and Steering Protein Language Models</title>
+      <link>https://arxiv.org/abs/2611.09818v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.09818v1</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>By using diffusion models to map protein language model activations, researchers can better interpret and steer complex protein representations without making rigid structural assumptions.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 5, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest examines the rapid evolution of AI agents, the challenges of monitoring their behavior, and new industrial applications for world models. Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction · Google&#x27;s Gemini 4 Carbon promises &#x27;significant leap&#x27; in AI coding and cybersecurity · How we detect frontier model misalignment · We urgently need to monitor AI agents’ actions in real time · US investigated Chinese spy plot aimed at Nvidia CEO</description>
     </item>
     <item>
-      <title>Paper: Latent Reasoning in Continuous Space for Unified Multimodal Models</title>
-      <link>https://arxiv.org/abs/2610.42149v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.42149v1</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a method to align language-based reasoning with continuous image generation, allowing multimodal models to achieve better controllability and scaling similar to large language models.</description>
-    </item>
-    <item>
-      <title>Paper: TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents</title>
-      <link>https://arxiv.org/abs/2610.42004v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.42004v1</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a benchmark that evaluates LLM negotiation skills by measuring the real-world economic impact of their agreements rather than just the dialogue quality.</description>
-    </item>
-    <item>
-      <title>Paper: AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration</title>
-      <link>https://arxiv.org/abs/2610.42001v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.42001v1</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The researchers developed an automated system that continuously updates meta-analyses on human-AI collaboration, helping practitioners stay current with evolving evidence on effective AI integration.</description>
-    </item>
-    <item>
-      <title>Paper: Hierarchical World Models with Implicit Dynamics</title>
-      <link>https://arxiv.org/abs/2610.42146v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2610.42146v1</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The authors present a hierarchical world model that improves long-horizon planning for embodied agents by separating high-level state transitions from low-level control, reducing cumulative errors.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — October 29, 2026</title>
       <link>https://praviveek.online/#digest-2026-10-29</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-29</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-05</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the intersection of AI performance limits, hardware discounts, and the operational challenges of managing automated submissions in technical ecosystems. An AI couldn’t beat humans at StarCraft, so it decided to cheat · The iPad Mini is slightly cheaper again during Prime Day · The MacBook Air M5 is $200 off for the first time in months · Sony digital camera model numbers explained: Bigger isn&#x27;t always better · Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</description>
-    </item>
-    <item>
-      <title>The Week in AI — October 2, 2026</title>
-      <link>https://praviveek.online/#roundup-2026-10-02</link>
-      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-02</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>This week, the industry pivoted from simple chatbot interfaces to a chaotic, agent-driven ecosystem that threatens to bypass traditional software paradigms and app stores entirely. The Death of the App · Agent Security and Governance · Hardware as the Agent Interface</description>
     </item>
   </channel>
 </rss>
