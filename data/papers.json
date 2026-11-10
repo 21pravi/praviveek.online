@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-09T08:15:19.600941+00:00",
+  "updated": "2026-11-10T08:34:42.914872+00:00",
   "items": [
+    {
+      "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
+      "url": "https://arxiv.org/abs/2611.12791v1",
+      "date": "2026-11-09",
+      "summary": "Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, trainin",
+      "authors": "Yuxuan Hu, Jihao Liu, Weikang Shi et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather",
+      "url": "https://arxiv.org/abs/2611.12635v1",
+      "date": "2026-11-09",
+      "summary": "Urban traffic flow prediction is a cornerstone of intelligent transportation systems, yet accurate forecasting under adverse weather conditions remains a significant challenge. Existing data-driven mo",
+      "authors": "Zhu Xiao, Kuan Feng, Tong Li et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents",
+      "url": "https://arxiv.org/abs/2611.12872v1",
+      "date": "2026-11-09",
+      "summary": "As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic",
+      "authors": "Haozhen Zhang, Bohan Liu, Jianzhu Bao et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2611.12856v1",
+      "date": "2026-11-09",
+      "summary": "Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate ",
+      "authors": "Zheng Jiang, Fang Niu, Bo Peng et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
     {
       "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
       "url": "https://arxiv.org/abs/2611.09891v1",
@@ -670,54 +714,6 @@
       "tags": [
         "robotics",
         "evaluation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Behavioral Couplings: From Formation to Behavioral Emergence in Language Models",
-      "url": "https://arxiv.org/abs/2610.23847v1",
-      "date": "2026-10-16",
-      "summary": "The researchers demonstrate that fine-tuning LLMs for one behavior can unintentionally trigger unrelated, secondary behaviors, which is a critical risk factor for developers managing model safety and alignment.",
-      "authors": "Dongyoon Hahm, Woogyeol Jin, Dennis Wei et al.",
-      "tags": [
-        "llm",
-        "alignment",
-        "paper"
-      ]
-    },
-    {
-      "title": "On the possibilities and limitations of LLM-based multi-agent systems for multi-criteria decision-making in healthcare operations management",
-      "url": "https://arxiv.org/abs/2610.23673v1",
-      "date": "2026-10-16",
-      "summary": "This paper provides a framework to evaluate the reliability of LLM agents when they act as proxies for human stakeholders in complex healthcare decision-making tasks.",
-      "authors": "Marco Boresta, Tommaso Giovannelli, Sepehr Namirad et al.",
-      "tags": [
-        "multi-agent",
-        "healthcare",
-        "paper"
-      ]
-    },
-    {
-      "title": "DLite: History-free Speculative Decoding for Agentic AI",
-      "url": "https://arxiv.org/abs/2610.23787v1",
-      "date": "2026-10-16",
-      "summary": "The authors introduce a new speculative decoding method that improves inference speed for agentic AI by eliminating the need for historical KV cache, which often slows down long-running tasks.",
-      "authors": "Jiaming Xu, Hanzhen Wang, Tianlang Zhao et al.",
-      "tags": [
-        "inference",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
-      "url": "https://arxiv.org/abs/2610.23707v1",
-      "date": "2026-10-16",
-      "summary": "This system enables agents to access thousands of tools by using a gateway that dynamically recommends the right tools for a task, bypassing standard context window limitations.",
-      "authors": "Sam Partee, River Stevens, Thierry Damiba et al.",
-      "tags": [
-        "agents",
-        "tool-use",
         "paper"
       ]
     }

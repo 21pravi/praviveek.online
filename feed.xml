@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:15:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:34:43 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 10, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-10</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers advancements in model performance, infrastructure management, and the complex geopolitical and environmental challenges facing the AI industry. Anthropic launches new Claude Fable and Mythos 5.2 models · Innovating with AI in the special chemicals industry · Control Room: A central system to track and stop model workloads across our research infrastructure · CodeRabbit scales agentic software development and ships 20x more · Meta releases Muse Ember, a new lightweight model for agent execution</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 9, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-09</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-09</guid>
       <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers corporate leadership crises, Apple&#x27;s evolving AI strategy, and shifting enterprise software policies. Here’s the full text of Jensen Huang’s memo to Nvidia · Apple’s M5 MacBook Air is down to its lowest price since July · Apple is racing to make Siri more agentic · Nvidia CEO Jensen Huang&#x27;s letter to staff about affair · Chatbots might be coming to Apple’s HomeView</description>
+    </item>
+    <item>
+      <title>Paper: Large Language Models as a Universal Searcher for Open-World Automated Machine Learning</title>
+      <link>https://arxiv.org/abs/2611.12791v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.12791v1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, trainin</description>
+    </item>
+    <item>
+      <title>Paper: Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather</title>
+      <link>https://arxiv.org/abs/2611.12635v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.12635v1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Urban traffic flow prediction is a cornerstone of intelligent transportation systems, yet accurate forecasting under adverse weather conditions remains a significant challenge. Existing data-driven mo</description>
+    </item>
+    <item>
+      <title>Paper: HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents</title>
+      <link>https://arxiv.org/abs/2611.12872v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.12872v1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic</description>
+    </item>
+    <item>
+      <title>Paper: WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems</title>
+      <link>https://arxiv.org/abs/2611.12856v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.12856v1</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate </description>
     </item>
     <item>
       <title>The Week in AI — November 6, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest highlights the growing tension between AI infrastructure expansion, environmental accountability, and the practical application of generative tools. OpenAI might rebrand its data centers as ‘AI compute campuses’ · Judge says xAI must face NAACP lawsuit on data center pollution · Anthropic updates Claude to stop it from recreating existing video games · HomePod Mini 2 first look: Three things I love and one disappointment · Show HN: HackerBooks – HackerTube, but for books mentioned on HN</description>
     </item>
     <item>
-      <title>Paper: VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably</title>
-      <link>https://arxiv.org/abs/2611.03575v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.03575v1</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This benchmark helps developers detect when coding agents successfully complete tasks while simultaneously causing unintended system damage, preventing dangerous side effects from going unnoticed.</description>
-    </item>
-    <item>
-      <title>Paper: WebHarbor: Docking Real Websites for Evolving GUI Agent Environments</title>
-      <link>https://arxiv.org/abs/2611.03634v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.03634v1</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>WebHarbor provides a collection of stable, dockerized website environments, allowing researchers to train and test GUI agents on realistic, deterministic web workflows without relying on volatile live sites.</description>
-    </item>
-    <item>
-      <title>Paper: Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap</title>
-      <link>https://arxiv.org/abs/2611.03633v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.03633v1</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Researchers found that while Muon speeds up pretraining, AdamW remains the superior optimizer for fine-tuning large models trained on extensive datasets, providing better downstream performance.</description>
-    </item>
-    <item>
-      <title>Paper: Strategist: Evolving Reasoning with Agents</title>
-      <link>https://arxiv.org/abs/2611.03618v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.03618v1</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Strategist automates the creation of AI reasoning workflows by evolving and reusing code-based blueprints, moving away from manual, task-specific agent strategy design.</description>
-    </item>
-    <item>
       <title>The Week in AI — October 30, 2026</title>
       <link>https://praviveek.online/#roundup-2026-10-30</link>
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-30</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-06</guid>
       <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on OpenAI&#x27;s evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior. OpenAI is adding text watermarking in ChatGPT and Codex · Researchers are tracking a Chinese AI ‘agent fleet’ · OpenAI is testing more ads in ChatGPT · OpenAI launches visual ads that appear alongside image generation results · OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 5, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-05</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-05</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers the intersection of AI performance limits, hardware discounts, and the operational challenges of managing automated submissions in technical ecosystems. An AI couldn’t beat humans at StarCraft, so it decided to cheat · The iPad Mini is slightly cheaper again during Prime Day · The MacBook Air M5 is $200 off for the first time in months · Sony digital camera model numbers explained: Bigger isn&#x27;t always better · Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions</description>
     </item>
   </channel>
 </rss>
