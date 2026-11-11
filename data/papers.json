@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-10T08:34:42.914872+00:00",
+  "updated": "2026-11-11T07:55:17.764248+00:00",
   "items": [
+    {
+      "title": "The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs",
+      "url": "https://arxiv.org/abs/2611.14357v1",
+      "date": "2026-11-10",
+      "summary": "Researchers demonstrate that utilizing the initial state in recurrent time series foundation models significantly improves forecasting performance without increasing the computational cost of long-context inference.",
+      "authors": "Bernhard Voggenberger, Christian Ganhör, Levente Zólyomi et al.",
+      "tags": [
+        "time-series",
+        "forecasting",
+        "paper"
+      ]
+    },
+    {
+      "title": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows",
+      "url": "https://arxiv.org/abs/2611.14492v1",
+      "date": "2026-11-10",
+      "summary": "ReTrace converts expensive LLM-based agent workflows into efficient, code-based processes, reducing latency and costs for repetitive business automation tasks.",
+      "authors": "Kaiyuan Hou, Yang Ping Kuo, Indranil Bhattacharya et al.",
+      "tags": [
+        "llm",
+        "automation",
+        "paper"
+      ]
+    },
+    {
+      "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
+      "url": "https://arxiv.org/abs/2611.14491v1",
+      "date": "2026-11-10",
+      "summary": "TimeSeek introduces a multi-task, multi-domain pretraining approach to improve the adaptability and generalization of time series foundation models across diverse analytical tasks.",
+      "authors": "Peng Chen, Yihang Wang, Zhongwen Rao et al.",
+      "tags": [
+        "time-series",
+        "foundation-models",
+        "paper"
+      ]
+    },
+    {
+      "title": "Accurate predictions of properties of energetic materials with tabular foundation models",
+      "url": "https://arxiv.org/abs/2611.14462v1",
+      "date": "2026-11-10",
+      "summary": "The TabPFN foundation model achieves superior predictive accuracy for material properties compared to traditional machine learning methods like XGBoost, even without manual hyperparameter tuning.",
+      "authors": "Vagn Krister Nes Glomsrud, Mathias Bynke, Lars Henry Berge Olsen et al.",
+      "tags": [
+        "tabular-data",
+        "machine-learning",
+        "paper"
+      ]
+    },
     {
       "title": "Large Language Models as a Universal Searcher for Open-World Automated Machine Learning",
       "url": "https://arxiv.org/abs/2611.12791v1",
@@ -666,54 +714,6 @@
       "tags": [
         "feature selection",
         "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "url": "https://arxiv.org/abs/2610.26860v1",
-      "date": "2026-10-19",
-      "summary": "This framework improves multimodal agents by integrating external tools and memory, helping them solve complex visual tasks that base models cannot handle through reasoning alone.",
-      "authors": "Yu Zhou, Cheng-Fu Yang, Rui Sun et al.",
-      "tags": [
-        "multimodal",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "WeAct: Dynamic Weight Switching as Agent Actions",
-      "url": "https://arxiv.org/abs/2610.26847v1",
-      "date": "2026-10-19",
-      "summary": "This method prevents catastrophic forgetting in long-horizon agents by dynamically switching between specialized LoRA adapters during task execution instead of using static model weights.",
-      "authors": "Rui Shi, Xunjian Yin, Jiacheng Sang et al.",
-      "tags": [
-        "llm",
-        "adapters",
-        "paper"
-      ]
-    },
-    {
-      "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-      "url": "https://arxiv.org/abs/2610.26852v1",
-      "date": "2026-10-19",
-      "summary": "This framework improves multi-robot navigation safety by allowing robots to share uncertainty estimates, enabling better coordination in unpredictable human-shared environments.",
-      "authors": "Zehao Wang, Jianpeng Yao, Yuping Wang et al.",
-      "tags": [
-        "robotics",
-        "uncertainty",
-        "paper"
-      ]
-    },
-    {
-      "title": "Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy",
-      "url": "https://arxiv.org/abs/2610.26848v1",
-      "date": "2026-10-19",
-      "summary": "This study establishes a systematic way to measure how well language models improve their physical manipulation skills through self-correction, identifying key bottlenecks in their learning process.",
-      "authors": "Zekai Li, Jiayi Yu, Jinlu Zhang et al.",
-      "tags": [
-        "robotics",
-        "evaluation",
         "paper"
       ]
     }

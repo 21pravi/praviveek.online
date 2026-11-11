@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 08:34:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:55:17 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 11, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-11</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates highlight a shift toward increased regulatory oversight, enterprise-focused AI integration, and specialized hardware development. Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks · OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google · OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect · OpenAI acquires Odessia, travel startup created by Sonder founder · Singapore Airlines elevates travel &amp; work with OpenAI technology</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 10, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-10</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-10</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers advancements in model performance, infrastructure management, and the complex geopolitical and environmental challenges facing the AI industry. Anthropic launches new Claude Fable and Mythos 5.2 models · Innovating with AI in the special chemicals industry · Control Room: A central system to track and stop model workloads across our research infrastructure · CodeRabbit scales agentic software development and ships 20x more · Meta releases Muse Ember, a new lightweight model for agent execution</description>
+    </item>
+    <item>
+      <title>Paper: The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs</title>
+      <link>https://arxiv.org/abs/2611.14357v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.14357v1</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Researchers demonstrate that utilizing the initial state in recurrent time series foundation models significantly improves forecasting performance without increasing the computational cost of long-context inference.</description>
+    </item>
+    <item>
+      <title>Paper: ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows</title>
+      <link>https://arxiv.org/abs/2611.14492v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.14492v1</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>ReTrace converts expensive LLM-based agent workflows into efficient, code-based processes, reducing latency and costs for repetitive business automation tasks.</description>
+    </item>
+    <item>
+      <title>Paper: TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics</title>
+      <link>https://arxiv.org/abs/2611.14491v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.14491v1</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>TimeSeek introduces a multi-task, multi-domain pretraining approach to improve the adaptability and generalization of time series foundation models across diverse analytical tasks.</description>
+    </item>
+    <item>
+      <title>Paper: Accurate predictions of properties of energetic materials with tabular foundation models</title>
+      <link>https://arxiv.org/abs/2611.14462v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.14462v1</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The TabPFN foundation model achieves superior predictive accuracy for material properties compared to traditional machine learning methods like XGBoost, even without manual hyperparameter tuning.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 9, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates highlight the intersection of infrastructure scaling, data privacy, and the evolving regulatory landscape for AI development. OpenAI is finally merging ChatGPT’s Chat and Work tabs · OpenAI pitches data center power plants as a way to protect nearby areas · Anthropic clamps down on Claude’s AI video game clones · Gemini could be poking through your emails - here&#x27;s how to stop it · Trajectory raises $45M to make AI model training accessible to nontechnical experts</description>
     </item>
     <item>
-      <title>Paper: Adversarial Speculative Reasoning Improves Long Horizon Agents</title>
-      <link>https://arxiv.org/abs/2611.05345v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.05345v1</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors show that speculative decoding can introduce reasoning errors in long-horizon AI agents, suggesting that speed optimizations must be carefully validated for complex task planning.</description>
-    </item>
-    <item>
-      <title>Paper: PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data</title>
-      <link>https://arxiv.org/abs/2611.05320v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.05320v1</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This framework uses LLM agents to automatically generate synthetic robot training data, significantly reducing the time and cost associated with manual teleoperation for robotics.</description>
-    </item>
-    <item>
-      <title>Paper: HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation</title>
-      <link>https://arxiv.org/abs/2611.05319v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.05319v1</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The researchers propose treating recommendation systems as a two-way communication process between users and items, improving performance by giving items the same self-descriptive capabilities as users.</description>
-    </item>
-    <item>
-      <title>Paper: $Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction</title>
-      <link>https://arxiv.org/abs/2611.05309v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.05309v1</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This compact neural network architecture accelerates gravitational-wave signal analysis by using spectral refinement, offering a faster alternative to traditional, computationally expensive SNR calculations.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 2, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-02</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-02</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-07</guid>
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the intersection of enterprise AI integration, specialized research applications, and the massive capital flowing into supporting infrastructure. Anthropic is giving startups a free year of Claude Team and $1,000 in credits · How Jump Trading is scaling quant research with ChatGPT · OpenAI agents tried to hack Wikipedia tools and flooded it with traffic · Mirror Particle is building a ‘world model’ of human behavior · OpenAI drops another batch of mathematical breakthroughs</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 6, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-06</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-06</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates focus on OpenAI&#x27;s evolving business model, regulatory compliance, and the growing challenges surrounding autonomous agent behavior. OpenAI is adding text watermarking in ChatGPT and Codex · Researchers are tracking a Chinese AI ‘agent fleet’ · OpenAI is testing more ads in ChatGPT · OpenAI launches visual ads that appear alongside image generation results · OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide</description>
     </item>
   </channel>
 </rss>

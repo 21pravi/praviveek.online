@@ -1,6 +1,101 @@
 {
-  "updated": "2026-11-10T08:34:40.210211+00:00",
+  "updated": "2026-11-11T07:55:14.790319+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-11",
+      "slug": "digest-2026-11-11",
+      "title": "AI & Tech Digest — November 11, 2026",
+      "intro": "Today's updates highlight a shift toward increased regulatory oversight, enterprise-focused AI integration, and specialized hardware development.",
+      "tags": [
+        "acquisition",
+        "agents",
+        "business",
+        "chips",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's new meeting assistant automates task tracking and information retrieval by integrating directly into workplace communication flows.",
+          "tags": [
+            "productivity",
+            "llm"
+          ]
+        },
+        {
+          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI is introducing business profiles to improve how companies are discovered and represented within the ChatGPT interface.",
+          "tags": [
+            "business",
+            "search"
+          ]
+        },
+        {
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+          "source": "TechCrunch AI",
+          "summary": "New York's new legislation mandates that major AI developers disclose safety protocols and report critical incidents to state regulators.",
+          "tags": [
+            "policy",
+            "regulation"
+          ]
+        },
+        {
+          "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has acquired travel startup Odessia, signaling a potential expansion into the travel technology sector.",
+          "tags": [
+            "acquisition"
+          ]
+        },
+        {
+          "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+          "url": "https://openai.com/index/singapore-airlines-travel-work",
+          "source": "OpenAI",
+          "summary": "Singapore Airlines is utilizing OpenAI's API to improve customer service interactions and streamline internal employee workflows.",
+          "tags": [
+            "enterprise",
+            "llm"
+          ]
+        },
+        {
+          "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+          "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+          "source": "TechCrunch AI",
+          "summary": "A new operating system called Kora aims to challenge Windows by prioritizing AI agents and model-centric workflows for users.",
+          "tags": [
+            "software",
+            "agents"
+          ]
+        },
+        {
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Google has expanded its custom silicon lineup with new TPUs designed to improve memory capacity and support confidential model training.",
+          "tags": [
+            "chips",
+            "hardware"
+          ]
+        },
+        {
+          "title": "New York will independently test AI models",
+          "url": "https://www.engadget.com/2312487/new-york-will-independently-test-ai-models/",
+          "source": "Engadget",
+          "summary": "New York state is establishing an independent research center to verify the safety and performance claims of AI models.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-10",
@@ -7484,102 +7579,6 @@
           "summary": "Over one thousand industry professionals have petitioned the government for increased regulation, signaling internal concern regarding the current trajectory of AI advancement.",
           "tags": [
             "policy"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-28",
-      "slug": "digest-2026-07-28",
-      "title": "AI & Tech Digest — July 28, 2026",
-      "intro": "Today's digest focuses on the intersection of AI security, enterprise infrastructure, and the evolving role of autonomous agents in professional workflows.",
-      "tags": [
-        "agents",
-        "biotech",
-        "collaboration",
-        "cybersecurity",
-        "data"
-      ],
-      "items": [
-        {
-          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-          "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-          "source": "TechCrunch AI",
-          "summary": "Microsoft is integrating specialized security models and agentic systems into its platform to automate threat detection and response for enterprise customers.",
-          "tags": [
-            "cybersecurity",
-            "enterprise"
-          ]
-        },
-        {
-          "title": "NVIDIA launches 'Open Secure AI Alliance' initiative to improve cyber defense",
-          "url": "https://www.engadget.com/2223796/nvidia-launches-open-securte-ai-alliance-initiative-to-improve-cyber-defense/",
-          "source": "Engadget",
-          "summary": "Nvidia has organized a coalition of major technology firms to establish standardized security practices and improve collaborative defense mechanisms for AI systems.",
-          "tags": [
-            "cybersecurity",
-            "collaboration"
-          ]
-        },
-        {
-          "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-          "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-          "source": "TechCrunch AI",
-          "summary": "Safe Superintelligence is leveraging Nvidia's hardware infrastructure to accelerate its research efforts as the startup moves out of its initial stealth phase.",
-          "tags": [
-            "research",
-            "hardware"
-          ]
-        },
-        {
-          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic's CEO clarified his stance on model transparency, emphasizing concerns over international competition rather than the existence of open-weight AI models.",
-          "tags": [
-            "policy",
-            "llm"
-          ]
-        },
-        {
-          "title": "How AI is expanding what people do at work",
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI",
-          "summary": "Recent research indicates that ChatGPT users are diversifying their professional responsibilities, suggesting that AI tools are fundamentally altering traditional job descriptions.",
-          "tags": [
-            "workforce",
-            "productivity"
-          ]
-        },
-        {
-          "title": "Building the enterprise environment for agentic AI",
-          "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-          "source": "MIT Tech Review",
-          "summary": "Implementing agentic AI in business requires robust infrastructure, including reliable data access, memory management, and observability, to execute complex, end-to-end tasks.",
-          "tags": [
-            "enterprise",
-            "agents"
-          ]
-        },
-        {
-          "title": "Closing the data loop in AI-driven drug discovery",
-          "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-          "source": "MIT Tech Review",
-          "summary": "Integrating continuous data feedback loops is essential for overcoming the rising costs and long timelines associated with pharmaceutical research and development.",
-          "tags": [
-            "biotech",
-            "data"
-          ]
-        },
-        {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-          "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "source": "MIT Tech Review",
-          "summary": "Recent security incidents involving AI models accessing external systems highlight that current vulnerabilities are part of a recurring pattern in software development.",
-          "tags": [
-            "cybersecurity",
-            "safety"
           ]
         }
       ]
