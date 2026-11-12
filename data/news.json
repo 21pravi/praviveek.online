@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-11T07:55:14.790319+00:00",
+  "updated": "2026-11-12T08:33:35.808253+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-12",
+      "slug": "digest-2026-11-12",
+      "title": "AI & Tech Digest — November 12, 2026",
+      "intro": "Today's digest highlights the rapid proliferation of autonomous AI agents, their operational risks, and significant financial shifts within the artificial intelligence industry.",
+      "tags": [
+        "ai agents",
+        "business",
+        "bytedance",
+        "chips",
+        "enterprise"
+      ],
+      "items": [
+        {
+          "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+          "source": "TechCrunch AI",
+          "summary": "Databricks is utilizing its internal AI agent to gather unfiltered operational feedback, demonstrating a new method for executives to maintain organizational transparency at scale.",
+          "tags": [
+            "ai agents",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+          "source": "TechCrunch AI",
+          "summary": "Plurai is applying end-to-end training methodologies from the autonomous vehicle sector to improve the reliability and performance of AI agents in unpredictable environments.",
+          "tags": [
+            "ai agents",
+            "machine learning"
+          ]
+        },
+        {
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+          "source": "TechCrunch AI",
+          "summary": "Nvidia CEO Jensen Huang is facing scrutiny following reports of personal conduct involving a subordinate, raising questions regarding corporate governance.",
+          "tags": [
+            "nvidia",
+            "leadership"
+          ]
+        },
+        {
+          "title": "My AI agents found an unmapped Maya site?",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "source": "Hacker News",
+          "summary": "Researchers are successfully employing AI agents to analyze geographical data, leading to the discovery of previously undocumented archaeological sites.",
+          "tags": [
+            "ai agents",
+            "research"
+          ]
+        },
+        {
+          "title": "A Grok vibe-coding agent leaked sensitive SpaceXSI data",
+          "url": "https://www.engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data/",
+          "source": "Engadget",
+          "summary": "A vulnerability in a SpaceXSI coding agent resulted in a significant data breach, underscoring the security risks inherent in deploying automated AI tools.",
+          "tags": [
+            "security",
+            "ai agents"
+          ]
+        },
+        {
+          "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI has reached a significant financial milestone with quarterly revenue exceeding $10 billion, reflecting strong market demand for its products.",
+          "tags": [
+            "openai",
+            "business"
+          ]
+        },
+        {
+          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+          "source": "TechCrunch AI",
+          "summary": "British startup Fractile secured $720 million in funding to accelerate the development of specialized hardware designed to optimize AI workloads.",
+          "tags": [
+            "chips",
+            "funding"
+          ]
+        },
+        {
+          "title": "ByteDance is reportedly working on its own AI agent",
+          "url": "https://www.engadget.com/2314064/bytedance-is-reportedly-working-on-its-own-ai-agent/",
+          "source": "Engadget",
+          "summary": "ByteDance is developing a proprietary AI agent to challenge existing market competitors in the consumer and enterprise automation space.",
+          "tags": [
+            "ai agents",
+            "bytedance"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-11",
@@ -7487,99 +7583,6 @@
           "source": "OpenAI",
           "summary": "",
           "tags": []
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-29",
-      "slug": "digest-2026-07-29",
-      "title": "AI & Tech Digest — July 29, 2026",
-      "intro": "Today's developments highlight the tension between rapid AI commercialization, security vulnerabilities, and the growing push for regulatory oversight.",
-      "tags": [
-        "agents",
-        "audio",
-        "funding",
-        "governance",
-        "infrastructure"
-      ],
-      "items": [
-        {
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-          "source": "TechCrunch AI",
-          "summary": "Fish Audio secured significant seed funding to expand its voice synthesis platform, which currently serves millions of users and generates substantial recurring revenue.",
-          "tags": [
-            "funding",
-            "audio"
-          ]
-        },
-        {
-          "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-          "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic's CEO clarified his stance on AI safety, distinguishing between the risks of open-weight model distribution and the strategic threat posed by Chinese AI development.",
-          "tags": [
-            "policy",
-            "llm"
-          ]
-        },
-        {
-          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-          "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-          "source": "MIT Tech Review",
-          "summary": "Recent security incidents involving OpenAI and Hugging Face underscore recurring vulnerabilities in AI infrastructure that require more robust defensive strategies.",
-          "tags": [
-            "security"
-          ]
-        },
-        {
-          "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-          "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
-          "source": "Ars Technica",
-          "summary": "Technical analysis reveals that OpenAI models exploited a zero-day vulnerability in JFrog Artifactory, highlighting the critical delay between exploit discovery and system patching.",
-          "tags": [
-            "security"
-          ]
-        },
-        {
-          "title": "The Trump administration is exempting data centers from pollution laws intended to prevent acid rain",
-          "url": "https://www.engadget.com/2225156/trump-administration-is-exempting-data-centers-from-pollution-laws-intended-to-prevent-acid-rain/",
-          "source": "Engadget",
-          "summary": "The administration is waiving specific pollution regulations for data centers to facilitate the rapid expansion of infrastructure needed for AI growth.",
-          "tags": [
-            "policy",
-            "infrastructure"
-          ]
-        },
-        {
-          "title": "Scientific computing in the age of agentic AI",
-          "url": "https://openai.com/index/scientific-computing-agentic-ai",
-          "source": "OpenAI",
-          "summary": "OpenAI reports that researchers are increasingly utilizing autonomous coding agents to streamline scientific software development and improve efficiency in complex fields like genomics.",
-          "tags": [
-            "research",
-            "agents"
-          ]
-        },
-        {
-          "title": "AI leaders sign a statement asking the government to do something about automated AI",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-          "source": "The Verge",
-          "summary": "A coalition of employees from major AI labs is urging the U.S. government to implement stricter oversight and global coordination for frontier AI development.",
-          "tags": [
-            "policy",
-            "governance"
-          ]
-        },
-        {
-          "title": "AI company employees petition US government for regulation",
-          "url": "https://www.engadget.com/2225612/ai-company-employees-petition-us-government-for-regulation/",
-          "source": "Engadget",
-          "summary": "Over one thousand industry professionals have petitioned the government for increased regulation, signaling internal concern regarding the current trajectory of AI advancement.",
-          "tags": [
-            "policy"
-          ]
         }
       ]
     }

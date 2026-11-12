@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:55:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:33:39 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 12, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-12</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest highlights the rapid proliferation of autonomous AI agents, their operational risks, and significant financial shifts within the artificial intelligence industry. Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth · Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads · Jensen Huang accused of having another affair — with an Nvidia exec · My AI agents found an unmapped Maya site? · A Grok vibe-coding agent leaked sensitive SpaceXSI data</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 11, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-11</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the integration of advanced AI agents, interactive interfaces, and specialized hardware into consumer and business workflows. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 · Nous Research confirms it hit $1.5B valuation, launches AI agents for business users · OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots · ChatGPT is getting a lot more visual, with the launch of a new interface · OpenAI just posted hundreds more results on major math problems</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 7, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-07</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the intersection of enterprise AI integration, specialized research applications, and the massive capital flowing into supporting infrastructure. Anthropic is giving startups a free year of Claude Team and $1,000 in credits · How Jump Trading is scaling quant research with ChatGPT · OpenAI agents tried to hack Wikipedia tools and flooded it with traffic · Mirror Particle is building a ‘world model’ of human behavior · OpenAI drops another batch of mathematical breakthroughs</description>
     </item>
   </channel>
 </rss>
