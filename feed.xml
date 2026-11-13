@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:56:27 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — November 13, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-11-13</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The AI industry is shifting from passive chat interfaces to autonomous, agentic workflows, even as Nvidia’s leadership crisis threatens the stability of the underlying hardware ecosystem. The Agentic Shift is Here · Nvidia’s Fragile Dominance · Security as the New Bottleneck</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 13, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-13</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>The industry is pivoting from passive chatbots to autonomous agents, forcing a reckoning between rapid deployment, systemic safety, and the reality of enterprise integration. The Rise of Autonomous Agents · The Safety and Governance Gap · The Infrastructure of Utility</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 9, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-09</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-09</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest focuses on the evolution of agentic AI, security initiatives, and ongoing debates surrounding corporate safety culture. Google brings agentic AI to Gemini, starting with businesses · Anthropic launches free AI security scans for open-source projects · Cal AI’s 19-year-old founder just raised $10M for his new AI startup · Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost · Anthropic changes usage policy to ban model abuse and election interference</description>
     </item>
   </channel>
 </rss>
