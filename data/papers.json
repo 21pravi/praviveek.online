@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-12T08:33:39.268640+00:00",
+  "updated": "2026-11-13T08:20:34.386530+00:00",
   "items": [
+    {
+      "title": "MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI",
+      "url": "https://arxiv.org/abs/2611.17199v1",
+      "date": "2026-11-12",
+      "summary": "The authors introduce a new neighborhood-based similarity metric to improve graph-based unsupervised learning for hyperspectral imagery, helping data scientists better classify land use without needing manual labels.",
+      "authors": "Soumi Sarkar, Subhadip Boral, Sarbani Palit et al.",
+      "tags": [
+        "computer vision",
+        "graph neural networks",
+        "paper"
+      ]
+    },
+    {
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "https://arxiv.org/abs/2611.17323v1",
+      "date": "2026-11-12",
+      "summary": "This paper presents a framework for using autonomous agents to automate semi-supervised learning pipelines, allowing data scientists to leverage unlabeled data more effectively when ground-truth labels are scarce.",
+      "authors": "Ethan Lin, Akanksha Sarkar, Ziang Liu et al.",
+      "tags": [
+        "semi-supervised learning",
+        "ai agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Learning When Diffusion Language Models Should Regenerate",
+      "url": "https://arxiv.org/abs/2611.17320v1",
+      "date": "2026-11-12",
+      "summary": "The researchers developed a verification mechanism for diffusion language models that identifies errors in generated text to trigger targeted regeneration, improving accuracy in complex reasoning tasks.",
+      "authors": "Minhae Oh, Jeonghye Kim, Jinwoo Koo et al.",
+      "tags": [
+        "llm",
+        "diffusion models",
+        "paper"
+      ]
+    },
+    {
+      "title": "Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery",
+      "url": "https://arxiv.org/abs/2611.17241v1",
+      "date": "2026-11-12",
+      "summary": "The authors demonstrate that smaller, cheaper LLMs can be as effective as frontier models for heuristic discovery, proposing a bandit-based routing system to optimize cost and performance.",
+      "authors": "Samidha Verma, Ankit Anand, Sayan Ranu",
+      "tags": [
+        "llm",
+        "optimization",
+        "paper"
+      ]
+    },
     {
       "title": "The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs",
       "url": "https://arxiv.org/abs/2611.14357v1",
@@ -666,54 +714,6 @@
       "tags": [
         "reinforcement learning",
         "exploration",
-        "paper"
-      ]
-    },
-    {
-      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
-      "url": "https://arxiv.org/abs/2610.28624v1",
-      "date": "2026-10-20",
-      "summary": "This system enables warehouse robot fleets to share a memory of past events without overloading servers by only processing visual data when specifically requested.",
-      "authors": "Jad Yammine, Malek Wahidi, Abrar Anwar et al.",
-      "tags": [
-        "robotics",
-        "memory",
-        "paper"
-      ]
-    },
-    {
-      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.28586v1",
-      "date": "2026-10-20",
-      "summary": "The authors identify that agent training fails not just because of student errors, but because teachers often provide poor guidance in unfamiliar states, requiring better teacher-student alignment.",
-      "authors": "Shu Zhao, Tan Yu",
-      "tags": [
-        "reinforcement learning",
-        "distillation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Cache Engineering for Agents",
-      "url": "https://arxiv.org/abs/2610.28577v1",
-      "date": "2026-10-20",
-      "summary": "This work introduces techniques to manage LLM memory usage by optimizing how key-value caches are stored and updated, preventing performance degradation during long task sequences.",
-      "authors": "Tianyu Fu, Ruoxi Wang, Zihan Min et al.",
-      "tags": [
-        "llm",
-        "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "When Do LLMs Help with Feature Selection? A Systematic Empirical Study",
-      "url": "https://arxiv.org/abs/2610.28556v1",
-      "date": "2026-10-20",
-      "summary": "This study evaluates when using LLMs for feature selection outperforms traditional statistical methods, providing guidance on when semantic context actually adds value to tabular data tasks.",
-      "authors": "Fateme Memar, Dongjie Wang, Arvin Agah",
-      "tags": [
-        "feature selection",
-        "llm",
         "paper"
       ]
     }

@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:33:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:20:34 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 13, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-13</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers leadership shifts at Nvidia, new model releases from Google, and increased regulatory scrutiny of the semiconductor industry. Jensen Huang’s exit puts Nvidia’s support for open source in question · Nectar launches an AI agent to automate creator discovery and outreach for brands · How Amplitude ships product improvements in 1–2 days with OpenAI · Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit · Gemini 4 Hydrogen</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 12, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-12</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-12</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest highlights the rapid proliferation of autonomous AI agents, their operational risks, and significant financial shifts within the artificial intelligence industry. Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth · Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads · Jensen Huang accused of having another affair — with an Nvidia exec · My AI agents found an unmapped Maya site? · A Grok vibe-coding agent leaked sensitive SpaceXSI data</description>
+    </item>
+    <item>
+      <title>Paper: MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI</title>
+      <link>https://arxiv.org/abs/2611.17199v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.17199v1</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a new neighborhood-based similarity metric to improve graph-based unsupervised learning for hyperspectral imagery, helping data scientists better classify land use without needing manual labels.</description>
+    </item>
+    <item>
+      <title>Paper: AgentSSL: Can MLE Agents Leverage Unlabeled Data?</title>
+      <link>https://arxiv.org/abs/2611.17323v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.17323v1</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper presents a framework for using autonomous agents to automate semi-supervised learning pipelines, allowing data scientists to leverage unlabeled data more effectively when ground-truth labels are scarce.</description>
+    </item>
+    <item>
+      <title>Paper: Learning When Diffusion Language Models Should Regenerate</title>
+      <link>https://arxiv.org/abs/2611.17320v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.17320v1</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a verification mechanism for diffusion language models that identifies errors in generated text to trigger targeted regeneration, improving accuracy in complex reasoning tasks.</description>
+    </item>
+    <item>
+      <title>Paper: Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery</title>
+      <link>https://arxiv.org/abs/2611.17241v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.17241v1</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors demonstrate that smaller, cheaper LLMs can be as effective as frontier models for heuristic discovery, proposing a bandit-based routing system to optimize cost and performance.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 11, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest highlights the intersection of AI safety, enterprise integration, and the infrastructure challenges facing the rapidly expanding artificial intelligence sector. How “reverse game theory” could keep AI agents in check · Anthropic is working on a system to prove AI models’ identity · How Cisco defends at machine speed with OpenAI · The Download: controlling AI agents and “Super Intelligence” loyalty tests · Heimstaden is changing residential real estate management with AI</description>
     </item>
     <item>
-      <title>Paper: SAUCE: Summary Analysis Using Conversation Entailment</title>
-      <link>https://arxiv.org/abs/2611.06812v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.06812v1</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This framework evaluates conversational summaries by checking if the summary is logically supported by the source transcript, helping data scientists detect information loss from speech-to-text errors.</description>
-    </item>
-    <item>
-      <title>Paper: Task-Efficient Agent Evaluation Using Cached Traces</title>
-      <link>https://arxiv.org/abs/2611.06803v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.06803v1</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose using LLM-generated summaries of execution traces to more accurately benchmark agent performance, allowing for better evaluation with fewer task executions.</description>
-    </item>
-    <item>
-      <title>Paper: A Framework for Context Enrichment and Selective Robustness in LLM Social Agents</title>
-      <link>https://arxiv.org/abs/2611.06914v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.06914v1</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This research investigates how providing richer context to social simulation agents can reduce behavioral inconsistency, helping practitioners build more stable and reliable LLM-based social models.</description>
-    </item>
-    <item>
-      <title>Paper: On Turn-Level Best-of-N Sampling for Scaling LLM Agents</title>
-      <link>https://arxiv.org/abs/2611.06868v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.06868v1</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors demonstrate that generating multiple candidate actions at each step and using a selector model to pick the best one improves LLM agent performance on complex tasks.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 3, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-03</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-03</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest focuses on the evolution of agentic AI, security initiatives, and ongoing debates surrounding corporate safety culture. Google brings agentic AI to Gemini, starting with businesses · Anthropic launches free AI security scans for open-source projects · Cal AI’s 19-year-old founder just raised $10M for his new AI startup · Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost · Anthropic changes usage policy to ban model abuse and election interference</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 8, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-08</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the integration of advanced AI agents, interactive interfaces, and specialized hardware into consumer and business workflows. Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11 · Nous Research confirms it hit $1.5B valuation, launches AI agents for business users · OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots · ChatGPT is getting a lot more visual, with the launch of a new interface · OpenAI just posted hundreds more results on major math problems</description>
     </item>
   </channel>
 </rss>

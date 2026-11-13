@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-12T08:33:35.808253+00:00",
+  "updated": "2026-11-13T08:20:12.151722+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-13",
+      "slug": "digest-2026-11-13",
+      "title": "AI & Tech Digest — November 13, 2026",
+      "intro": "Today's digest covers leadership shifts at Nvidia, new model releases from Google, and increased regulatory scrutiny of the semiconductor industry.",
+      "tags": [
+        "ai agents",
+        "chips",
+        "google",
+        "leadership",
+        "llm"
+      ],
+      "items": [
+        {
+          "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
+          "source": "TechCrunch AI",
+          "summary": "The departure of Nvidia's CEO creates uncertainty regarding the company's future support for open-source AI initiatives and its strategic partnerships.",
+          "tags": [
+            "leadership",
+            "open source"
+          ]
+        },
+        {
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+          "source": "TechCrunch AI",
+          "summary": "Nectar has introduced an automated agent designed to streamline how brands identify and manage influencer marketing campaigns.",
+          "tags": [
+            "ai agents",
+            "marketing"
+          ]
+        },
+        {
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI",
+          "summary": "Amplitude is utilizing OpenAI's technology to accelerate its product development cycle by automating feature identification and coding tasks.",
+          "tags": [
+            "llm",
+            "productivity"
+          ]
+        },
+        {
+          "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+          "source": "TechCrunch AI",
+          "summary": "Hugging Face remains committed to its open-source mission despite the leadership changes at its key partner, Nvidia.",
+          "tags": [
+            "open source",
+            "policy"
+          ]
+        },
+        {
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+          "source": "Hacker News",
+          "summary": "Google has announced the release of Gemini 4 Hydrogen, a new model iteration focused on improving reasoning capabilities.",
+          "tags": [
+            "llm",
+            "google"
+          ]
+        },
+        {
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "source": "MIT Tech Review",
+          "summary": "Nvidia privately informed lawmakers that tracking chips to prevent smuggling is technically feasible, contradicting previous industry claims about implementation difficulties.",
+          "tags": [
+            "chips",
+            "policy"
+          ]
+        },
+        {
+          "title": "Google’s new Gemini model is better at understanding complicated questions",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "source": "The Verge",
+          "summary": "The latest Gemini update improves the model's ability to process multi-part queries and handle complex, nuanced user prompts.",
+          "tags": [
+            "llm",
+            "google"
+          ]
+        },
+        {
+          "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+          "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+          "source": "TechCrunch AI",
+          "summary": "Congressional representatives have opened an investigation into Nvidia's sales practices in China and its reported interactions with the Trump administration.",
+          "tags": [
+            "policy",
+            "chips"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-12",
@@ -7490,99 +7586,6 @@
             "security",
             "acquisition"
           ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-07-30",
-      "slug": "digest-2026-07-30",
-      "title": "AI & Tech Digest — July 30, 2026",
-      "intro": "Today's updates highlight shifts in AI research access, corporate competition, and the evolving hardware and investment landscape for large language models.",
-      "tags": [
-        "agents",
-        "business",
-        "efficiency",
-        "funding",
-        "hardware"
-      ],
-      "items": [
-        {
-          "title": "OpenAI will provide free AI models to select researchers",
-          "url": "https://www.engadget.com/2226656/openai-will-provide-free-ai-models-to-select-researchers/",
-          "source": "Engadget",
-          "summary": "OpenAI is granting academic researchers free access to its advanced models to help facilitate scientific collaboration and data-driven discovery.",
-          "tags": [
-            "research",
-            "llm"
-          ]
-        },
-        {
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI",
-          "summary": "Microsoft is increasingly promoting its proprietary AI models and infrastructure to investors, signaling a move to diversify beyond its existing partnerships.",
-          "tags": [
-            "business",
-            "microsoft"
-          ]
-        },
-        {
-          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-          "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-          "source": "TechCrunch AI",
-          "summary": "Encore AI secured $30 million to develop autonomous agents that synthesize customer interaction data into actionable sales strategies.",
-          "tags": [
-            "funding",
-            "agents"
-          ]
-        },
-        {
-          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-          "source": "TechCrunch AI",
-          "summary": "OpenAI leadership confirmed the company is developing dedicated hardware platforms to provide new ways for users to interact with their AI systems.",
-          "tags": [
-            "hardware",
-            "openai"
-          ]
-        },
-        {
-          "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-          "source": "The Verge",
-          "summary": "Leading AI startups are increasingly moving away from public research disclosure, raising concerns about the transparency of current technological advancements.",
-          "tags": [
-            "research",
-            "policy"
-          ]
-        },
-        {
-          "title": "AI's top startups are barely publishing their research",
-          "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-          "source": "Hacker News",
-          "summary": "Microsoft's latest financial report reveals varied returns on its significant capital allocations toward major AI research organizations.",
-          "tags": [
-            "business",
-            "investment"
-          ]
-        },
-        {
-          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-          "source": "TechCrunch AI",
-          "summary": "The latest iteration of GPT focuses on optimizing inference and agentic workflows to increase the cost-effectiveness of high-level model performance.",
-          "tags": [
-            "llm",
-            "efficiency"
-          ]
-        },
-        {
-          "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI",
-          "summary": "",
-          "tags": []
         }
       ]
     }
