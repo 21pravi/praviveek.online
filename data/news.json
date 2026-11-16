@@ -1,6 +1,100 @@
 {
-  "updated": "2026-11-13T19:56:27.445835+00:00",
+  "updated": "2026-11-16T08:11:40.020380+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-16",
+      "slug": "digest-2026-11-16",
+      "title": "AI & Tech Digest — November 16, 2026",
+      "intro": "Today's updates cover geopolitical shifts in hardware, advancements in scientific research, and the ongoing challenges in satellite deployment and consumer health technology.",
+      "tags": [
+        "ai",
+        "business",
+        "chips",
+        "funding",
+        "health"
+      ],
+      "items": [
+        {
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "source": "The Verge",
+          "summary": "Legislators are considering stricter export controls on high-performance semiconductors following concerns over corporate security and international technology transfer.",
+          "tags": [
+            "chips",
+            "policy"
+          ]
+        },
+        {
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "source": "TechCrunch AI",
+          "summary": "An Indian semiconductor startup secured significant seed funding to scale its AI-integrated sensor technology for global industrial applications.",
+          "tags": [
+            "chips",
+            "funding"
+          ]
+        },
+        {
+          "title": "The Sony Aibo was a robot revolution dressed like a dog",
+          "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+          "source": "The Verge",
+          "summary": "Reflecting on Sony's early robotic pet experiments provides historical context for how consumer expectations for autonomous machines have evolved over the last few decades.",
+          "tags": [
+            "robotics"
+          ]
+        },
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI",
+          "summary": "Researchers utilized large language models to assist in developing a nonperturbative lattice definition for the Standard Model of particle physics.",
+          "tags": [
+            "ai",
+            "science"
+          ]
+        },
+        {
+          "title": "Apple launches new app to study how people use AI for health",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "source": "TechCrunch AI",
+          "summary": "Apple introduced a research application to collect data on how individuals interact with artificial intelligence tools for managing personal health information.",
+          "tags": [
+            "health",
+            "ai"
+          ]
+        },
+        {
+          "title": "Apple's new research app is designed to make AI health tools more user-friendly",
+          "url": "https://www.engadget.com/2317303/apple-new-research-app-designed-to-make-ai-health-tools-user-friendly/",
+          "source": "Engadget",
+          "summary": "This initiative aims to improve the usability of health-focused AI tools by analyzing real-world user behavior through a dedicated study app.",
+          "tags": [
+            "health",
+            "ai"
+          ]
+        },
+        {
+          "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+          "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+          "source": "The Verge",
+          "summary": "The loss of 40 satellites during a rocket launch failure creates a significant setback for Amazon's efforts to establish a competitive orbital internet network.",
+          "tags": [
+            "space"
+          ]
+        },
+        {
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "source": "TechCrunch AI",
+          "summary": "Market analysts are evaluating the potential systemic impact on the broader technology sector if Nvidia faces increased regulatory scrutiny or leadership instability.",
+          "tags": [
+            "chips",
+            "business"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-11-13",
@@ -7491,43 +7585,6 @@
             "ai",
             "software"
           ]
-        }
-      ]
-    },
-    {
-      "type": "roundup",
-      "date": "2026-07-31",
-      "slug": "roundup-2026-07-31",
-      "title": "The Week in AI — July 31, 2026",
-      "intro": "The industry is shifting from pure model experimentation to the messy, high-stakes reality of securing, scaling, and physically integrating autonomous AI agents into the enterprise.",
-      "tags": [
-        "agentic-ai",
-        "ai-security",
-        "inference-optimization",
-        "enterprise-ai",
-        "robotics"
-      ],
-      "items": [
-        {
-          "title": "The Security-Agent Paradox",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "As we deploy autonomous agents that interact with external systems, security breaches like the Hugging Face incident are becoming inevitable. For data scientists, this means building 'agentic' systems now requires a shift toward defensive architecture, identity-based access control, and observability, rather than just optimizing model performance.",
-          "tags": []
-        },
-        {
-          "title": "Infrastructure Beyond the GPU",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "The focus is moving from training massive models to optimizing inference and specialized hardware, as evidenced by the rise of custom chips and agent-specific platforms. Data scientists must now account for cost-per-inference and hardware-level constraints, as efficiency becomes the primary lever for enterprise-grade AI adoption.",
-          "tags": []
-        },
-        {
-          "title": "The Closing of the Research Loop",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "Leading labs are increasingly keeping their methodologies proprietary while simultaneously pushing for government regulation. This creates a challenging environment for practitioners who must navigate a landscape where state-of-the-art techniques are less transparent, making internal validation and rigorous testing more critical than ever.",
-          "tags": []
         }
       ]
     }
