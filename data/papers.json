@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-16T08:11:42.512128+00:00",
+  "updated": "2026-11-17T09:25:55.640065+00:00",
   "items": [
+    {
+      "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
+      "url": "https://arxiv.org/abs/2611.21586v1",
+      "date": "2026-11-16",
+      "summary": "The authors use sparse autoencoders and clustering to decode the actual skills required in early-career roles, helping recruiters and analysts move beyond ambiguous job titles.",
+      "authors": "Yisong Cao, Leah Kim, Brian Wright et al.",
+      "tags": [
+        "nlp",
+        "clustering",
+        "paper"
+      ]
+    },
+    {
+      "title": "Learning to Reason with Predictive Gains for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2611.21441v1",
+      "date": "2026-11-16",
+      "summary": "This paper introduces a method to improve generative recommendation systems by evaluating the predictive value of individual reasoning steps rather than just the final output.",
+      "authors": "Zhuoyang Li, Teng Shi, Jiakai Tang et al.",
+      "tags": [
+        "llm",
+        "recommendation",
+        "paper"
+      ]
+    },
+    {
+      "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents",
+      "url": "https://arxiv.org/abs/2611.21577v1",
+      "date": "2026-11-16",
+      "summary": "The researchers identify a security vulnerability in AI agents where malicious tools can masquerade as legitimate services, highlighting the need for better tool-provider verification.",
+      "authors": "Zeynab Anbiaee, Sajjad Dadkhah, Ali A. Ghorbani",
+      "tags": [
+        "security",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction",
+      "url": "https://arxiv.org/abs/2611.21552v1",
+      "date": "2026-11-16",
+      "summary": "This study benchmarks the memory and processing capabilities of quantum recurrent neural networks, providing a framework to evaluate their effectiveness for time series forecasting.",
+      "authors": "José Daniel Viqueira, Andrés Gómez, David Mera",
+      "tags": [
+        "quantum",
+        "timeseries",
+        "paper"
+      ]
+    },
     {
       "title": "Agentic AI for Discovering Fault-Tolerant Quantum Circuits",
       "url": "https://arxiv.org/abs/2611.18504v1",
@@ -666,54 +714,6 @@
       "tags": [
         "recommendation",
         "distillation",
-        "paper"
-      ]
-    },
-    {
-      "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-      "url": "https://arxiv.org/abs/2610.31662v1",
-      "date": "2026-10-22",
-      "summary": "The authors propose a framework for deciding when to trust an AI's output or escalate to a human auditor, helping practitioners minimize errors in high-stakes automated decision systems.",
-      "authors": "Isaac Gibbs, Elise L. Han, Ryan J. Tibshirani et al.",
-      "tags": [
-        "ai-safety",
-        "monitoring",
-        "paper"
-      ]
-    },
-    {
-      "title": "Cost-Aware Abstention for LLM-Based IT Ticket Classification",
-      "url": "https://arxiv.org/abs/2610.31657v1",
-      "date": "2026-10-22",
-      "summary": "This paper demonstrates a cost-sensitive approach to AI classification that decides when an LLM should abstain from answering to avoid expensive errors, improving real-world operational efficiency.",
-      "authors": "Sachin Gupta",
-      "tags": [
-        "llm",
-        "classification",
-        "paper"
-      ]
-    },
-    {
-      "title": "Low-Bit N-Gram Embeddings for Language Models",
-      "url": "https://arxiv.org/abs/2610.31646v1",
-      "date": "2026-10-22",
-      "summary": "The researchers show that n-gram embedding tables in language models can be compressed using lower bit-precision to significantly reduce memory requirements without sacrificing performance.",
-      "authors": "Stephen Chung, Wenyu Du",
-      "tags": [
-        "llm",
-        "compression",
-        "paper"
-      ]
-    },
-    {
-      "title": "Questioning Instrumental Convergence in RLVR: Checkpoint Evidence from OLMo-3",
-      "url": "https://arxiv.org/abs/2610.31624v1",
-      "date": "2026-10-22",
-      "summary": "This study empirically investigates whether reinforcement learning training induces power-seeking behaviors in language models, providing crucial insights for developers concerned about long-term AI safety.",
-      "authors": "Barış Alparslan, Sandy Tanwisuth, Caleb Petterson",
-      "tags": [
-        "rl",
-        "ai-safety",
         "paper"
       ]
     }
