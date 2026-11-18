@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-17T09:25:55.640065+00:00",
+  "updated": "2026-11-18T08:44:26.393657+00:00",
   "items": [
+    {
+      "title": "Dynamic Task Allocation with Dialogue",
+      "url": "https://arxiv.org/abs/2611.23119v1",
+      "date": "2026-11-17",
+      "summary": "This paper introduces a Bayesian framework for multi-agent systems to dynamically assign tasks through communication, helping agents collaborate effectively even when they have incomplete information.",
+      "authors": "Matthew Groholski, Weiwei Gu, Nakul Gopalan",
+      "tags": [
+        "multi-agent",
+        "bayesian",
+        "paper"
+      ]
+    },
+    {
+      "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "https://arxiv.org/abs/2611.23229v1",
+      "date": "2026-11-17",
+      "summary": "The authors propose a fine-tuning method that uses a frozen pre-trained model as a teacher to prevent overfitting and catastrophic forgetting when working with limited training data.",
+      "authors": "Giannis Daras, Marios Papachristou, Adam Klivans et al.",
+      "tags": [
+        "fine-tuning",
+        "llm",
+        "paper"
+      ]
+    },
+    {
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.23228v1",
+      "date": "2026-11-17",
+      "summary": "This research introduces a technique to enable low-latency streaming inference for vision-language models, allowing them to process continuous video feeds without expensive re-computation of past frames.",
+      "authors": "Rui Ning, Om Chabra, Hari Balakrishnan",
+      "tags": [
+        "vlm",
+        "inference",
+        "paper"
+      ]
+    },
+    {
+      "title": "Distortion-Free Semantic Watermarks for Black-Box Generative Models",
+      "url": "https://arxiv.org/abs/2611.23208v1",
+      "date": "2026-11-17",
+      "summary": "The authors developed a watermarking method for generative models that protects output quality by ensuring the watermark does not alter the underlying probability distribution of the generated content.",
+      "authors": "Aviv Yossef, Or Patashnik, Or Zamir",
+      "tags": [
+        "watermarking",
+        "generative-ai",
+        "paper"
+      ]
+    },
     {
       "title": "Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering",
       "url": "https://arxiv.org/abs/2611.21586v1",
@@ -666,54 +714,6 @@
       "tags": [
         "asr",
         "multilingual",
-        "paper"
-      ]
-    },
-    {
-      "title": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model",
-      "url": "https://arxiv.org/abs/2610.32933v1",
-      "date": "2026-10-23",
-      "summary": "The authors developed a compact, high-performance Persian retrieval model that outperforms existing small-scale alternatives, providing a practical tool for building efficient search systems in the Persian language.",
-      "authors": "Yalda Taheri, Mohammad Hassan Heydari, Armon Rasooli",
-      "tags": [
-        "retrieval",
-        "nlp",
-        "paper"
-      ]
-    },
-    {
-      "title": "J-Comm: Jacobian-Guided Latent Communication between LLM Agents",
-      "url": "https://arxiv.org/abs/2610.32871v1",
-      "date": "2026-10-23",
-      "summary": "This framework improves collaboration between AI agents by allowing them to share latent reasoning states through geometric consensus and Jacobian-based interfaces, enhancing multi-agent problem solving.",
-      "authors": "Xiangwei Wang, Wei Wang, Sachith Seneviratne et al.",
-      "tags": [
-        "llm",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Generalization properties of the token perceptron: the role of embedding and vocabulary",
-      "url": "https://arxiv.org/abs/2610.32788v1",
-      "date": "2026-10-23",
-      "summary": "This study mathematically analyzes how embedding geometry and vocabulary size influence the learning performance of linear token predictors, offering insights into the fundamental generalization limits of language models.",
-      "authors": "Dario Bocchi, Matteo Negri, Flavio Nicoletti et al.",
-      "tags": [
-        "theory",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
-      "url": "https://arxiv.org/abs/2610.32943v1",
-      "date": "2026-10-23",
-      "summary": "The researchers propose a distillation method that transfers predictive knowledge from sequential recommenders to semantic-ID generative models, improving recommendation accuracy by leveraging item-level distributional data.",
-      "authors": "Yixuan Xu, Hailin Liu, Linxiang Peng et al.",
-      "tags": [
-        "recommendation",
-        "distillation",
         "paper"
       ]
     }

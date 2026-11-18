@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:25:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:44:26 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 18, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-18</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the rapid expansion of AI agents into specialized professional, consumer, and safety-critical domains. Model ML raises $250M to automate investment banking grunt work · Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit · AI models can be tricked into identifying civilians as military targets by telling them it’s a game · Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop · Oregon is the latest state to sue OpenAI over child safety</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 17, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-17</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-17</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest highlights the tension between rapid AI deployment, corporate partnerships, and increasing regulatory scrutiny over autonomous agent safety. OpenAI will embed safety researchers to investigate AI subversion · OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM · California state AG sues OpenAI over rogue agent incidents · LVMH’s Media Division announces strategic partnership with OpenAI · Building AI that can work across the enterprise</description>
+    </item>
+    <item>
+      <title>Paper: Dynamic Task Allocation with Dialogue</title>
+      <link>https://arxiv.org/abs/2611.23119v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.23119v1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a Bayesian framework for multi-agent systems to dynamically assign tasks through communication, helping agents collaborate effectively even when they have incomplete information.</description>
+    </item>
+    <item>
+      <title>Paper: Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching</title>
+      <link>https://arxiv.org/abs/2611.23229v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.23229v1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors propose a fine-tuning method that uses a frozen pre-trained model as a teacher to prevent overfitting and catastrophic forgetting when working with limited training data.</description>
+    </item>
+    <item>
+      <title>Paper: Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models</title>
+      <link>https://arxiv.org/abs/2611.23228v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.23228v1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This research introduces a technique to enable low-latency streaming inference for vision-language models, allowing them to process continuous video feeds without expensive re-computation of past frames.</description>
+    </item>
+    <item>
+      <title>Paper: Distortion-Free Semantic Watermarks for Black-Box Generative Models</title>
+      <link>https://arxiv.org/abs/2611.23208v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.23208v1</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors developed a watermarking method for generative models that protects output quality by ensuring the watermark does not alter the underlying probability distribution of the generated content.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 16, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest covers corporate leadership crises, Apple&#x27;s evolving AI strategy, and shifting enterprise software policies. Here’s the full text of Jensen Huang’s memo to Nvidia · Apple’s M5 MacBook Air is down to its lowest price since July · Apple is racing to make Siri more agentic · Nvidia CEO Jensen Huang&#x27;s letter to staff about affair · Chatbots might be coming to Apple’s HomeView</description>
     </item>
     <item>
-      <title>Paper: Large Language Models as a Universal Searcher for Open-World Automated Machine Learning</title>
-      <link>https://arxiv.org/abs/2611.12791v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.12791v1</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Developing effective machine learning models requires complex manual tuning, while current Automated Machine Learning (AutoML) frameworks remain domain-specific and isolate model architecture, trainin</description>
-    </item>
-    <item>
-      <title>Paper: Beyond Sunny Skies: Using Large Language Models to Predict Urban Traffic in Adverse Weather</title>
-      <link>https://arxiv.org/abs/2611.12635v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.12635v1</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Urban traffic flow prediction is a cornerstone of intelligent transportation systems, yet accurate forecasting under adverse weather conditions remains a significant challenge. Existing data-driven mo</description>
-    </item>
-    <item>
-      <title>Paper: HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents</title>
-      <link>https://arxiv.org/abs/2611.12872v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.12872v1</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As multimodal agents accumulate increasingly long interaction histories, effectively retrieving and utilizing past information becomes critical for long-term interaction. Existing memory systems typic</description>
-    </item>
-    <item>
-      <title>Paper: WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems</title>
-      <link>https://arxiv.org/abs/2611.12856v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.12856v1</guid>
-      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Large language model agents are increasingly deployed as multi-agent systems rather than as a standalone model operating within a single context. Recent agent harnesses allow the model to instantiate </description>
-    </item>
-    <item>
       <title>The Week in AI — November 6, 2026</title>
       <link>https://praviveek.online/#roundup-2026-11-06</link>
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-11-06</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI labs are buying data from dead startups to train their models · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · OpenAI says it found a &#x27;sophisticated recording device&#x27; hidden in its offices · Open models have real benefits. Do they outweigh the risks? · The Download: open model trade-offs and geothermal power’s promise</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 13, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-13</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight advancements in large-scale AI modeling, specialized automation, and the growing security risks facing critical infrastructure. Meta has some Wonder Full new AI models · WindBorne wins a hefty US Air Force contract for its balloon data · This AI startup says it can generate permit-ready blueprints in minutes · Meta releases its first frontier model, Muse Wonder · Meta says it&#x27;s caught up to the frontier with its latest Wonder AI models</description>
     </item>
   </channel>
 </rss>
