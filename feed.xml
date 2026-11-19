@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 08:44:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:59:22 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 19, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-19</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the evolving landscape of AI infrastructure, agentic workflows, and the technical challenges of scaling frontier model development. India’s Humyn Labs raises $47M to feed US robotics companies the data they need · Research acceleration: The jagged frontier · This smell startup says its AI nose is as good as a human’s · Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents · OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 18, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-18</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-18</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of AI agents into specialized professional, consumer, and safety-critical domains. Model ML raises $250M to automate investment banking grunt work · Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit · AI models can be tricked into identifying civilians as military targets by telling them it’s a game · Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop · Oregon is the latest state to sue OpenAI over child safety</description>
+    </item>
+    <item>
+      <title>Paper: Jailbreak Detection on Large Language Models via Contrastive Prototype Structures</title>
+      <link>https://arxiv.org/abs/2611.24936v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.24936v1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a method to detect harmful LLM prompts by comparing them against safety prototypes, offering a data-efficient alternative to training complex downstream classifiers.</description>
+    </item>
+    <item>
+      <title>Paper: Who are you? The Personal Imitation Game</title>
+      <link>https://arxiv.org/abs/2611.24888v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.24888v1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This study explores how well AI can mimic specific individuals, providing insights into the personality and stylistic markers that define unique human identities in machine interaction.</description>
+    </item>
+    <item>
+      <title>Paper: Ground, Iterate, Trace: Decomposing AI Research Ideation</title>
+      <link>https://arxiv.org/abs/2611.24887v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.24887v1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors created an agentic framework that uses knowledge graphs and creative reasoning operators to help researchers generate more grounded and novel scientific ideas.</description>
+    </item>
+    <item>
+      <title>Paper: Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws</title>
+      <link>https://arxiv.org/abs/2611.24877v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.24877v1</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper evaluates whether LLMs can reliably audit clinical models for errors, finding that their ability to detect specific, planted flaws in black-box systems is limited.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 17, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest covers advancements in model performance, infrastructure management, and the complex geopolitical and environmental challenges facing the AI industry. Anthropic launches new Claude Fable and Mythos 5.2 models · Innovating with AI in the special chemicals industry · Control Room: A central system to track and stop model workloads across our research infrastructure · CodeRabbit scales agentic software development and ships 20x more · Meta releases Muse Ember, a new lightweight model for agent execution</description>
     </item>
     <item>
-      <title>Paper: The Unused Input: The Initial State as a Conditioning Interface for Recurrent TSFMs</title>
-      <link>https://arxiv.org/abs/2611.14357v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.14357v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Researchers demonstrate that utilizing the initial state in recurrent time series foundation models significantly improves forecasting performance without increasing the computational cost of long-context inference.</description>
-    </item>
-    <item>
-      <title>Paper: ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows</title>
-      <link>https://arxiv.org/abs/2611.14492v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.14492v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>ReTrace converts expensive LLM-based agent workflows into efficient, code-based processes, reducing latency and costs for repetitive business automation tasks.</description>
-    </item>
-    <item>
-      <title>Paper: TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics</title>
-      <link>https://arxiv.org/abs/2611.14491v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.14491v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>TimeSeek introduces a multi-task, multi-domain pretraining approach to improve the adaptability and generalization of time series foundation models across diverse analytical tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Accurate predictions of properties of energetic materials with tabular foundation models</title>
-      <link>https://arxiv.org/abs/2611.14462v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.14462v1</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The TabPFN foundation model achieves superior predictive accuracy for material properties compared to traditional machine learning methods like XGBoost, even without manual hyperparameter tuning.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 9, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-09</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-09</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-15</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of autonomous agent capabilities alongside emerging regulatory and security concerns surrounding AI deployment. Amp puts AI agents to work beyond code with OpenAI models · How Third Moment Research runs 10,000 agents for 36+ hours · Anthropic warns small AI models could self-replicate through IoT devices · Floqer’s AI agents research sales prospects so teams don’t have to · Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 14, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-14</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-14</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>AI labs are buying data from dead startups to train their models · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · OpenAI says it found a &#x27;sophisticated recording device&#x27; hidden in its offices · Open models have real benefits. Do they outweigh the risks? · The Download: open model trade-offs and geothermal power’s promise</description>
     </item>
   </channel>
 </rss>
