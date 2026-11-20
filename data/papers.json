@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-19T08:59:22.404222+00:00",
+  "updated": "2026-11-20T08:46:17.725721+00:00",
   "items": [
+    {
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "url": "https://arxiv.org/abs/2611.26624v1",
+      "date": "2026-11-19",
+      "summary": "The authors created a framework that uses AI agents to play-test and iteratively refine game designs, helping developers automate the tuning process for better player engagement.",
+      "authors": "Weihao Cheng",
+      "tags": [
+        "game-design",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "Bio-PM-Guided Synthetic IMU Generation",
+      "url": "https://arxiv.org/abs/2611.26607v1",
+      "date": "2026-11-19",
+      "summary": "This study uses a pretrained biosignal encoder to generate synthetic sensor data, offering a cost-effective way to improve human activity recognition models without collecting new physical data.",
+      "authors": "Deepali Singh, Deepesh Parpani, Aviral Gupta",
+      "tags": [
+        "data-augmentation",
+        "har",
+        "paper"
+      ]
+    },
+    {
+      "title": "Represented but misread: Post-training changes how language models read out what they represent",
+      "url": "https://arxiv.org/abs/2611.26584v1",
+      "date": "2026-11-19",
+      "summary": "Researchers found that post-training makes language models worse at utilizing their internal knowledge for specific tasks, suggesting that fine-tuning alters how models interpret their own representations.",
+      "authors": "Jochen Laubrock",
+      "tags": [
+        "llm",
+        "interpretability",
+        "paper"
+      ]
+    },
+    {
+      "title": "Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)",
+      "url": "https://arxiv.org/abs/2611.26553v1",
+      "date": "2026-11-19",
+      "summary": "The authors introduce a framework to systematically replicate and investigate security failures in AI agents, providing a standardized way to diagnose the root causes of autonomous system errors.",
+      "authors": "Mengxiao Wang, Mahbub Alam, Kalyan Nakka et al.",
+      "tags": [
+        "security",
+        "agents",
+        "paper"
+      ]
+    },
     {
       "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
       "url": "https://arxiv.org/abs/2611.24936v1",
@@ -666,54 +714,6 @@
       "tags": [
         "distillation",
         "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Follow the Gradient: Tracing Safety Degradation Back to Training Data",
-      "url": "https://arxiv.org/abs/2610.37481v1",
-      "date": "2026-10-27",
-      "summary": "This method identifies specific fine-tuning data that inadvertently degrades model safety, helping developers audit training sets that bypass standard content filters.",
-      "authors": "Saket Reddy, Amro Abbas, Anshuman Suri et al.",
-      "tags": [
-        "llm",
-        "safety",
-        "paper"
-      ]
-    },
-    {
-      "title": "PerceptRL: Making Visual Perception Rewardable in MLLMs from Answers to Interactions",
-      "url": "https://arxiv.org/abs/2610.37471v1",
-      "date": "2026-10-27",
-      "summary": "PerceptRL improves multimodal model performance by using reinforcement learning to fix visual perception errors that standard caption-based training often overlooks.",
-      "authors": "Tongkun Guan, Zhibo Yang, Mingkun Yang et al.",
-      "tags": [
-        "mllm",
-        "reinforcement learning",
-        "paper"
-      ]
-    },
-    {
-      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
-      "url": "https://arxiv.org/abs/2610.37651v1",
-      "date": "2026-10-27",
-      "summary": "This framework filters out noisy or irrelevant agent failures before prompt optimization, ensuring that self-improving agents only learn from high-quality, actionable feedback.",
-      "authors": "Zack Yu, Nicholas Lee, Minjae Lee et al.",
-      "tags": [
-        "agents",
-        "optimization",
-        "paper"
-      ]
-    },
-    {
-      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-      "url": "https://arxiv.org/abs/2610.37649v1",
-      "date": "2026-10-27",
-      "summary": "Researchers tested whether LLMs can autonomously discover unknown physical laws in simulated environments, providing insights into their capacity for independent scientific reasoning.",
-      "authors": "Zhen Yang, Wen Wang, Xander Xu et al.",
-      "tags": [
-        "llm",
-        "reasoning",
         "paper"
       ]
     }

@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:59:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:46:17 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 20, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-20</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s digest covers the rapid expansion of autonomous AI agents and the evolving financial and technical challenges facing major model developers. How OpenAI’s Performance Factory keeps ChatGPT fast · Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says · Apple may be developing its own AI agent that runs your Mac · OpenAI is testing Dots personal agents on its $20 per month Plus tier · Anthropic’s IPO puts AI’s circular financing boom to the test</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 19, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-19</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-19</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the evolving landscape of AI infrastructure, agentic workflows, and the technical challenges of scaling frontier model development. India’s Humyn Labs raises $47M to feed US robotics companies the data they need · Research acceleration: The jagged frontier · This smell startup says its AI nose is as good as a human’s · Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents · OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’</description>
+    </item>
+    <item>
+      <title>Paper: PlayCraft: Designing Engaging Games from Agent Play Experience</title>
+      <link>https://arxiv.org/abs/2611.26624v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.26624v1</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors created a framework that uses AI agents to play-test and iteratively refine game designs, helping developers automate the tuning process for better player engagement.</description>
+    </item>
+    <item>
+      <title>Paper: Bio-PM-Guided Synthetic IMU Generation</title>
+      <link>https://arxiv.org/abs/2611.26607v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.26607v1</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This study uses a pretrained biosignal encoder to generate synthetic sensor data, offering a cost-effective way to improve human activity recognition models without collecting new physical data.</description>
+    </item>
+    <item>
+      <title>Paper: Represented but misread: Post-training changes how language models read out what they represent</title>
+      <link>https://arxiv.org/abs/2611.26584v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.26584v1</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Researchers found that post-training makes language models worse at utilizing their internal knowledge for specific tasks, suggesting that fine-tuning alters how models interpret their own representations.</description>
+    </item>
+    <item>
+      <title>Paper: Replication of Agentic Security Events: Audit and Investigation (ROGUE-AI)</title>
+      <link>https://arxiv.org/abs/2611.26553v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.26553v1</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a framework to systematically replicate and investigate security failures in AI agents, providing a standardized way to diagnose the root causes of autonomous system errors.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 18, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest highlights the rapid proliferation of autonomous AI agents, their operational risks, and significant financial shifts within the artificial intelligence industry. Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth · Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads · Jensen Huang accused of having another affair — with an Nvidia exec · My AI agents found an unmapped Maya site? · A Grok vibe-coding agent leaked sensitive SpaceXSI data</description>
     </item>
     <item>
-      <title>Paper: MALNISI-Infused Graph Construction and Weighted Contrastive Loss based GAT for Unsupervised Representation Learning in HSI</title>
-      <link>https://arxiv.org/abs/2611.17199v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.17199v1</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors introduce a new neighborhood-based similarity metric to improve graph-based unsupervised learning for hyperspectral imagery, helping data scientists better classify land use without needing manual labels.</description>
-    </item>
-    <item>
-      <title>Paper: AgentSSL: Can MLE Agents Leverage Unlabeled Data?</title>
-      <link>https://arxiv.org/abs/2611.17323v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.17323v1</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This paper presents a framework for using autonomous agents to automate semi-supervised learning pipelines, allowing data scientists to leverage unlabeled data more effectively when ground-truth labels are scarce.</description>
-    </item>
-    <item>
-      <title>Paper: Learning When Diffusion Language Models Should Regenerate</title>
-      <link>https://arxiv.org/abs/2611.17320v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.17320v1</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The researchers developed a verification mechanism for diffusion language models that identifies errors in generated text to trigger targeted regeneration, improving accuracy in complex reasoning tasks.</description>
-    </item>
-    <item>
-      <title>Paper: Ballad: Bandit-Based LLM Routing for Automated Heuristic Discovery</title>
-      <link>https://arxiv.org/abs/2611.17241v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.17241v1</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors demonstrate that smaller, cheaper LLMs can be as effective as frontier models for heuristic discovery, proposing a bandit-based routing system to optimize cost and performance.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 11, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-11</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-11</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-16</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description>Anthropic is letting METR researchers look under the hood with employee-level access · FTC subpoenas OpenAI and Anthropic following safety failures · Meta launches an open-weight AI model that runs on Macs · Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis · Amazon’s Bee launches two new personal AI devices, starting at $75</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 15, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-15</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-15</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the rapid expansion of autonomous agent capabilities alongside emerging regulatory and security concerns surrounding AI deployment. Amp puts AI agents to work beyond code with OpenAI models · How Third Moment Research runs 10,000 agents for 36+ hours · Anthropic warns small AI models could self-replicate through IoT devices · Floqer’s AI agents research sales prospects so teams don’t have to · Alibaba AI models cleared for use in Apple Intelligence in China just in time for the iPhone Duo launch</description>
     </item>
   </channel>
 </rss>
