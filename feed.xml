@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:46:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:38:29 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Week in AI — November 20, 2026</title>
+      <link>https://praviveek.online/#roundup-2026-11-20</link>
+      <guid isPermaLink="false">https://praviveek.online/#roundup-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The industry is pivoting from passive chatbots to autonomous agents, triggering a collision between rapid deployment, complex legal liability, and the fragility of our hardware supply chain. The Agentic Shift and Liability · Infrastructure Fragility and Circular Finance · Scientific Acceleration vs. Model Reliability</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 20, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-20</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers shifts in hardware standards, AI agent architecture, corporate governance, and the regulatory challenges facing emerging technologies. The reason why your drive shows less storage than you paid for · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text · A Savannah police officer gave her Flock login to her ICE agent husband · Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ · Cities want to put the boot on robotaxis</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 16, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-16</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-16</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Anthropic is letting METR researchers look under the hood with employee-level access · FTC subpoenas OpenAI and Anthropic following safety failures · Meta launches an open-weight AI model that runs on Macs · Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis · Amazon’s Bee launches two new personal AI devices, starting at $75</description>
     </item>
   </channel>
 </rss>
