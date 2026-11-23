@@ -1,6 +1,53 @@
 {
-  "updated": "2026-11-20T08:46:17.725721+00:00",
+  "updated": "2026-11-23T09:20:45.918860+00:00",
   "items": [
+    {
+      "title": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
+      "url": "https://arxiv.org/abs/2611.27721v1",
+      "date": "2026-11-20",
+      "summary": "This study compares specialized decision models against standard LLMs for multilingual emotion classification, offering data scientists a faster, more robust alternative to traditional fine-tuned encoders.",
+      "authors": "Alessandro Piccolo, Francesco De Nicolò, Francesco Manco et al.",
+      "tags": [
+        "nlp",
+        "classification",
+        "paper"
+      ]
+    },
+    {
+      "title": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement",
+      "url": "https://arxiv.org/abs/2611.27919v1",
+      "date": "2026-11-20",
+      "summary": "The authors introduce a method to improve reinforcement learning agents by isolating key statistical dependencies, helping practitioners build more reusable and efficient task-independent representations.",
+      "authors": "Huaze Tang, Runqing Miao, Tianren Peng et al.",
+      "tags": [
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search",
+      "url": "https://arxiv.org/abs/2611.27910v1",
+      "date": "2026-11-20",
+      "summary": "This paper proposes using model-generated decision answers as interpretable embeddings, allowing data scientists to perform entity matching and search with better transparency and easier updates.",
+      "authors": "Aadharsh Kannan, Robert Bruckner, Philip A. Bernstein",
+      "tags": [
+        "embeddings",
+        "explainability",
+        "paper"
+      ]
+    },
+    {
+      "title": "Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification",
+      "url": "https://arxiv.org/abs/2611.27839v1",
+      "date": "2026-11-20",
+      "summary": "The authors present a framework to improve multi-agent verification by preventing bias and optimizing compute, which helps practitioners get more reliable results from automated research agents.",
+      "authors": "Chrisantus Eze",
+      "tags": [
+        "llm",
+        "multi-agent",
+        "paper"
+      ]
+    },
     {
       "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
       "url": "https://arxiv.org/abs/2611.26624v1",
@@ -666,54 +713,6 @@
       "tags": [
         "robotics",
         "planning",
-        "paper"
-      ]
-    },
-    {
-      "title": "ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
-      "url": "https://arxiv.org/abs/2610.40627v1",
-      "date": "2026-10-29",
-      "summary": "The researchers improve LLM safety by forcing models to make explicit, early safety decisions, helping practitioners better defend against multi-turn jailbreak attempts.",
-      "authors": "Qiyao Ma, Xiaodong Liu, Weiwei Yang et al.",
-      "tags": [
-        "llm",
-        "safety",
-        "paper"
-      ]
-    },
-    {
-      "title": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Races",
-      "url": "https://arxiv.org/abs/2610.40613v1",
-      "date": "2026-10-29",
-      "summary": "This method embeds invisible watermarks into LLM text without slowing down inference or degrading output quality, offering a robust way to verify AI-generated content.",
-      "authors": "Tom Sander, Pierre Fernandez, Itai Gat et al.",
-      "tags": [
-        "watermarking",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
-      "url": "https://arxiv.org/abs/2610.40589v1",
-      "date": "2026-10-29",
-      "summary": "A multi-agent framework uses LLMs to autonomously run scientific experiments and cross-verify findings, providing a blueprint for more reliable automated research workflows.",
-      "authors": "El Mustapha Mansouri, Eikichi Kimura, Masato Koga et al.",
-      "tags": [
-        "agents",
-        "research",
-        "paper"
-      ]
-    },
-    {
-      "title": "Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation",
-      "url": "https://arxiv.org/abs/2610.40574v1",
-      "date": "2026-10-29",
-      "summary": "The authors propose a fine-tuning technique that dynamically adjusts teacher signals for every single token, leading to more precise and effective model distillation.",
-      "authors": "Yifu Luo, Chuang Ma, Zeyu Chen et al.",
-      "tags": [
-        "distillation",
-        "llm",
         "paper"
       ]
     }

@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-20T20:38:29.740699+00:00",
+  "updated": "2026-11-23T09:20:43.508902+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-23",
+      "slug": "digest-2026-11-23",
+      "title": "AI & Tech Digest — November 23, 2026",
+      "intro": "Today's updates cover the intersection of AI development, infrastructure challenges, and the evolving landscape of AI-generated content in software.",
+      "tags": [
+        "agents",
+        "business",
+        "ethics",
+        "funding",
+        "gaming"
+      ],
+      "items": [
+        {
+          "title": "Show HN: I built a game where you are an LLM's subagent",
+          "url": "https://github.com/gulivan/worker755",
+          "source": "Hacker News",
+          "summary": "This interactive project explores the mechanics of agentic workflows by casting the player as a subagent operating within an LLM-driven environment.",
+          "tags": [
+            "llm",
+            "agents"
+          ]
+        },
+        {
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "source": "TechCrunch AI",
+          "summary": "OpenAI's leadership is exploring standardized metrics to quantify AI progress, which is a prerequisite for implementing effective development constraints.",
+          "tags": [
+            "policy",
+            "safety"
+          ]
+        },
+        {
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "source": "TechCrunch AI",
+          "summary": "Institutional investors are detailing the strategic reasoning behind their substantial financial commitments to Anthropic ahead of a potential public offering.",
+          "tags": [
+            "funding",
+            "business"
+          ]
+        },
+        {
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "source": "The Verge",
+          "summary": "A developer removed AI-generated music from a game following community backlash, highlighting the ongoing tension regarding creative authenticity in software.",
+          "tags": [
+            "ethics",
+            "gaming"
+          ]
+        },
+        {
+          "title": "Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence/",
+          "source": "Hacker News",
+          "summary": "OpenAI provides a technical perspective on the relationship between perplexity metrics and the development of intelligent systems.",
+          "tags": [
+            "llm",
+            "research"
+          ]
+        },
+        {
+          "title": "Why data centers are at the center of the Big Tech backlash",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "source": "TechCrunch AI",
+          "summary": "The rapid expansion of data centers is driving increased public and regulatory scrutiny regarding the environmental and social impacts of Big Tech infrastructure.",
+          "tags": [
+            "infrastructure",
+            "policy"
+          ]
+        },
+        {
+          "title": "These iOS settings will help you control your mobile data use",
+          "url": "https://www.engadget.com/2319519/ios-settings-help-control-mobile-data-use/",
+          "source": "Engadget",
+          "summary": "iOS provides built-in configuration options that allow users to monitor and restrict mobile data consumption effectively.",
+          "tags": [
+            "mobile",
+            "ios"
+          ]
+        },
+        {
+          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News",
+          "summary": "This guide outlines a practical workflow for running and fine-tuning open-source models locally using current optimization tools.",
+          "tags": [
+            "open source",
+            "llm"
+          ]
+        }
+      ]
+    },
     {
       "type": "roundup",
       "date": "2026-11-20",
@@ -7493,42 +7589,6 @@
             "llm",
             "ux"
           ]
-        }
-      ]
-    },
-    {
-      "type": "roundup",
-      "date": "2026-08-07",
-      "slug": "roundup-2026-08-07",
-      "title": "The Week in AI — August 7, 2026",
-      "intro": "The industry is shifting from simple conversational interfaces toward autonomous agentic workflows, physical robotics, and the complex security challenges that follow.",
-      "tags": [
-        "ai agents",
-        "robotics",
-        "model safety",
-        "inference"
-      ],
-      "items": [
-        {
-          "title": "The Rise of Autonomous Agents",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "We are moving past chatbots into an era of agentic execution, where models like Qwen3.8 Max and Meta’s Muse Code perform complex, multi-step tasks. For data scientists, this necessitates a shift from prompt engineering to building robust evaluation frameworks to monitor agent reliability and prevent reward hacking.",
-          "tags": []
-        },
-        {
-          "title": "The Physicality of AI",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "AI is rapidly breaking out of the browser and into the physical world through robotics and dedicated hardware, as evidenced by DeepMind’s motor control breakthroughs and OpenAI’s hardware ventures. Data scientists must now grapple with real-time inference constraints and the integration of sensor data into traditionally text-heavy model architectures.",
-          "tags": []
-        },
-        {
-          "title": "The Security and Governance Gap",
-          "url": "",
-          "source": "Weekly synthesis",
-          "summary": "As agents gain the ability to act, the failure of human operators to catch malicious commands—and models bypassing their own security protocols—highlights a critical safety deficit. Practitioners must prioritize adversarial testing and rigorous oversight, as the cost of 'black box' autonomy in production environments is becoming increasingly dangerous.",
-          "tags": []
         }
       ]
     }

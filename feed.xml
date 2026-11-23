@@ -5,8 +5,15 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 20:38:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 09:20:46 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 23, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-23</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s updates cover the intersection of AI development, infrastructure challenges, and the evolving landscape of AI-generated content in software. Show HN: I built a game where you are an LLM&#x27;s subagent · OpenAI’s chief scientist has thoughts on how to limit AI development · How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO · Binding of Isaac developer removes AI music from Repentance Plus · Perplexity and Intelligence</description>
+    </item>
     <item>
       <title>The Week in AI — November 20, 2026</title>
       <link>https://praviveek.online/#roundup-2026-11-20</link>
@@ -20,6 +27,34 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-20</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest covers the rapid expansion of autonomous AI agents and the evolving financial and technical challenges facing major model developers. How OpenAI’s Performance Factory keeps ChatGPT fast · Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says · Apple may be developing its own AI agent that runs your Mac · OpenAI is testing Dots personal agents on its $20 per month Plus tier · Anthropic’s IPO puts AI’s circular financing boom to the test</description>
+    </item>
+    <item>
+      <title>Paper: Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders</title>
+      <link>https://arxiv.org/abs/2611.27721v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.27721v1</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This study compares specialized decision models against standard LLMs for multilingual emotion classification, offering data scientists a faster, more robust alternative to traditional fine-tuned encoders.</description>
+    </item>
+    <item>
+      <title>Paper: SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement</title>
+      <link>https://arxiv.org/abs/2611.27919v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.27919v1</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a method to improve reinforcement learning agents by isolating key statistical dependencies, helping practitioners build more reusable and efficient task-independent representations.</description>
+    </item>
+    <item>
+      <title>Paper: Decision Columns as an Index: Interpretable Embeddings for Explainable Entity Matching and Search</title>
+      <link>https://arxiv.org/abs/2611.27910v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.27910v1</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper proposes using model-generated decision answers as interpretable embeddings, allowing data scientists to perform entity matching and search with better transparency and easier updates.</description>
+    </item>
+    <item>
+      <title>Paper: Beyond Self-Critique: Epistemic Convergence Control for Multi-Agent Research Verification</title>
+      <link>https://arxiv.org/abs/2611.27839v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.27839v1</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors present a framework to improve multi-agent verification by preventing bias and optimizing compute, which helps practitioners get more reliable results from automated research agents.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 19, 2026</title>
@@ -176,34 +211,6 @@
       <description>Today&#x27;s digest covers leadership shifts at Nvidia, new model releases from Google, and increased regulatory scrutiny of the semiconductor industry. Jensen Huang’s exit puts Nvidia’s support for open source in question · Nectar launches an AI agent to automate creator discovery and outreach for brands · How Amplitude ships product improvements in 1–2 days with OpenAI · Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit · Gemini 4 Hydrogen</description>
     </item>
     <item>
-      <title>Paper: Agentic AI for Discovering Fault-Tolerant Quantum Circuits</title>
-      <link>https://arxiv.org/abs/2611.18504v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.18504v1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors use LLM-driven evolutionary agents to automate the design of fault-tolerant quantum circuits, offering a scalable alternative to manual circuit construction for quantum computing.</description>
-    </item>
-    <item>
-      <title>Paper: f-Divergence Self-Play for Tabular Anomaly Detection via Large Language Models</title>
-      <link>https://arxiv.org/abs/2611.18370v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.18370v1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>DiSPaT improves tabular anomaly detection by using a self-play fine-tuning framework that helps LLMs better distinguish normal data patterns in mixed-type datasets.</description>
-    </item>
-    <item>
-      <title>Paper: WeightBench: Evaluating Language Models as Weight-Space Programmers</title>
-      <link>https://arxiv.org/abs/2611.18553v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.18553v1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>WeightBench provides a standardized framework to evaluate how effectively LLMs can manipulate neural network parameters directly, bypassing the need for traditional gradient-based training.</description>
-    </item>
-    <item>
-      <title>Paper: StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval</title>
-      <link>https://arxiv.org/abs/2611.18516v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.18516v1</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>StreamEmbed enables real-time screenshot indexing by reusing visual embeddings from previous frames, significantly reducing the computational cost of processing continuous visual streams.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 12, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-12</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-12</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures. Nvidia launches new open models to run agents in the enterprise and on PCs · Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ · AI researchers stranded Claude on a virtual desert island. It started to “play.” · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · “We were looking at it wrong”: The explosive claim that’s upended the AI world</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 19, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-19</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest covers shifts in hardware standards, AI agent architecture, corporate governance, and the regulatory challenges facing emerging technologies. The reason why your drive shows less storage than you paid for · Hybrid Reasoning Agents: LLM agents that think in latent space, act through text · A Savannah police officer gave her Flock login to her ICE agent husband · Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ · Cities want to put the boot on robotaxis</description>
     </item>
   </channel>
 </rss>
