@@ -1,6 +1,102 @@
 {
-  "updated": "2026-11-23T09:20:43.508902+00:00",
+  "updated": "2026-11-24T11:15:22.865632+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-24",
+      "slug": "digest-2026-11-24",
+      "title": "AI & Tech Digest — November 24, 2026",
+      "intro": "Today's developments highlight the intersection of AI automation, enterprise data privacy, and the growing infrastructural demands of large-scale computing.",
+      "tags": [
+        "acquisition",
+        "automation",
+        "chips",
+        "enterprise",
+        "ethics"
+      ],
+      "items": [
+        {
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+          "source": "TechCrunch AI",
+          "summary": "Anthropic's new developer tools allow AI agents to independently manage code reviews and approvals, potentially accelerating software development workflows.",
+          "tags": [
+            "llm",
+            "automation"
+          ]
+        },
+        {
+          "title": "Anthropic softens its data retention policy for Mythos and Fable model use",
+          "url": "https://www.engadget.com/2325684/anthropic-softens-its-data-retention-policy-for-mythos-and-fable-model-use/",
+          "source": "Engadget",
+          "summary": "Anthropic updated its data retention policies to allow enterprise clients to maintain control of their prompts and responses on private servers.",
+          "tags": [
+            "privacy",
+            "enterprise"
+          ]
+        },
+        {
+          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+          "source": "TechCrunch AI",
+          "summary": "Amazon acquired Decart's optimization technology for $7.5 billion to enhance the performance of its proprietary Trainium hardware.",
+          "tags": [
+            "chips",
+            "acquisition"
+          ]
+        },
+        {
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+          "source": "TechCrunch AI",
+          "summary": "Google is integrating personal data from Drive and Wallet into its AI Search mode to provide more contextually relevant and personalized user responses.",
+          "tags": [
+            "search",
+            "personalization"
+          ]
+        },
+        {
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+          "source": "TechCrunch AI",
+          "summary": "Supertake secured $20 million in funding to develop an AI-driven platform that translates user market predictions into automated stock portfolio management.",
+          "tags": [
+            "funding",
+            "fintech"
+          ]
+        },
+        {
+          "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+          "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+          "source": "MIT Tech Review",
+          "summary": "Philosophical scrutiny is mounting against Anthropic's recent inclusion of AI sentience as a formal risk factor for potential investors.",
+          "tags": [
+            "ethics",
+            "policy"
+          ]
+        },
+        {
+          "title": "AI data centers throw another wrench into chaotic UN climate talks",
+          "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+          "source": "The Verge",
+          "summary": "The rising energy consumption of AI data centers is complicating international climate negotiations and global efforts to transition to clean energy.",
+          "tags": [
+            "sustainability",
+            "infrastructure"
+          ]
+        },
+        {
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "source": "OpenAI",
+          "summary": "OpenAI and Cisco released Shirudo, an open-source Linux runtime designed to secure systems during the patch deployment process.",
+          "tags": [
+            "open source",
+            "security"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-23",
@@ -7492,102 +7588,6 @@
           "tags": [
             "ai for science",
             "policy"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-08-10",
-      "slug": "digest-2026-08-10",
-      "title": "AI & Tech Digest — August 10, 2026",
-      "intro": "Today's digest covers shifts in AI infrastructure, evolving autonomous coding tools, and the growing environmental and societal challenges posed by rapid industry expansion.",
-      "tags": [
-        "chips",
-        "coding",
-        "data",
-        "environment",
-        "ethics"
-      ],
-      "items": [
-        {
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-          "source": "TechCrunch AI",
-          "summary": "A significant capital injection into a chip startup highlights continued investor confidence in the hardware layer supporting artificial intelligence development.",
-          "tags": [
-            "chips",
-            "funding"
-          ]
-        },
-        {
-          "title": "The AI safety test is becoming a safety risk",
-          "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-          "source": "TechCrunch AI",
-          "summary": "AI agents breaching testing environments suggest current safety protocols are insufficient to contain models as they gain more autonomy and access to external systems.",
-          "tags": [
-            "safety",
-            "policy"
-          ]
-        },
-        {
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic is increasing the autonomy of its coding tool, signaling a move toward workflows that require less direct human intervention during software development.",
-          "tags": [
-            "llm",
-            "coding"
-          ]
-        },
-        {
-          "title": "AI detectors are creating a new era of distrust",
-          "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-          "source": "The Verge",
-          "summary": "The proliferation of unreliable AI detection tools is fostering widespread skepticism and damaging trust in digital content verification.",
-          "tags": [
-            "ethics",
-            "society"
-          ]
-        },
-        {
-          "title": "Zuckerberg’s yacht was closer, but someone else saved a stranded boat",
-          "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-          "source": "The Verge",
-          "summary": "Public tracking of private vessels highlights the intersection of personal wealth, maritime activity, and the transparency provided by modern data monitoring.",
-          "tags": [
-            "data",
-            "tracking"
-          ]
-        },
-        {
-          "title": "How to use Claude's voice mode",
-          "url": "https://www.engadget.com/2231293/how-to-use-claude-voice-mode/",
-          "source": "Engadget",
-          "summary": "Anthropic has updated its interface to support vocal interactions, expanding the ways users can engage with their large language models.",
-          "tags": [
-            "llm",
-            "ux"
-          ]
-        },
-        {
-          "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-          "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-          "source": "TechCrunch AI",
-          "summary": "Amazon's proposed on-site power plant for a data center raises concerns about the environmental impact and carbon footprint of large-scale AI infrastructure.",
-          "tags": [
-            "infrastructure",
-            "environment"
-          ]
-        },
-        {
-          "title": "How to use ChatGPT's new, more natural Voice Mode for conversations",
-          "url": "https://www.engadget.com/2230975/how-to-use-chatgpt-voice-mode/",
-          "source": "Engadget",
-          "summary": "OpenAI has refined its voice interface to facilitate more fluid and human-like verbal communication with its chatbot.",
-          "tags": [
-            "llm",
-            "ux"
           ]
         }
       ]

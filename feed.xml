@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:15:25 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 24, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-24</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the intersection of AI automation, enterprise data privacy, and the growing infrastructural demands of large-scale computing. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes · Anthropic softens its data retention policy for Mythos and Fable model use · Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips · Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses · Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 23, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-23</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-23</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates cover the intersection of AI development, infrastructure challenges, and the evolving landscape of AI-generated content in software. Show HN: I built a game where you are an LLM&#x27;s subagent · OpenAI’s chief scientist has thoughts on how to limit AI development · How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO · Binding of Isaac developer removes AI music from Repentance Plus · Perplexity and Intelligence</description>
+    </item>
+    <item>
+      <title>Paper: TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming</title>
+      <link>https://arxiv.org/abs/2611.31233v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.31233v1</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails wh</description>
+    </item>
+    <item>
+      <title>Paper: From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems</title>
+      <link>https://arxiv.org/abs/2611.31063v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.31063v1</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>In multi-agent systems (MAS) built on large language models (LLMs), errors can propagate through intermediate messages and compromise final answers. However, outcome-based evaluation obscures how agen</description>
+    </item>
+    <item>
+      <title>Paper: Automatic Occupational Coding through Retrieval-Augmented Generation</title>
+      <link>https://arxiv.org/abs/2611.31051v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.31051v1</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Annually 1.9 million deaths and 89.7 million disability-adjusted life years are caused by exposure to agents during work (e.g., welding fumes, silica dust, and noise pollution). To improve worker heal</description>
+    </item>
+    <item>
+      <title>Paper: CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting</title>
+      <link>https://arxiv.org/abs/2611.31185v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.31185v1</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlyi</description>
     </item>
     <item>
       <title>The Week in AI — November 20, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s updates cover geopolitical shifts in hardware, advancements in scientific research, and the ongoing challenges in satellite deployment and consumer health technology. Congress wants to tighten export rules on AI chips after Nvidia spy scandal · Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market · The Sony Aibo was a robot revolution dressed like a dog · A step toward defining the Standard Model on a lattice · Apple launches new app to study how people use AI for health</description>
     </item>
     <item>
-      <title>Paper: Beyond Job Titles: Interpreting Early-Career Job Advertisements with Sparse Autoencoders and Semantic Clustering</title>
-      <link>https://arxiv.org/abs/2611.21586v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.21586v1</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors use sparse autoencoders and clustering to decode the actual skills required in early-career roles, helping recruiters and analysts move beyond ambiguous job titles.</description>
-    </item>
-    <item>
-      <title>Paper: Learning to Reason with Predictive Gains for Generative Recommendation</title>
-      <link>https://arxiv.org/abs/2611.21441v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.21441v1</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a method to improve generative recommendation systems by evaluating the predictive value of individual reasoning steps rather than just the final output.</description>
-    </item>
-    <item>
-      <title>Paper: When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based AI Agents</title>
-      <link>https://arxiv.org/abs/2611.21577v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.21577v1</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The researchers identify a security vulnerability in AI agents where malicious tools can masquerade as legitimate services, highlighting the need for better tool-provider verification.</description>
-    </item>
-    <item>
-      <title>Paper: Benchmarking memory and nonlinear processing capacity of quantum recurrent neural networks for time series prediction</title>
-      <link>https://arxiv.org/abs/2611.21552v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.21552v1</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This study benchmarks the memory and processing capabilities of quantum recurrent neural networks, providing a framework to evaluate their effectiveness for time series forecasting.</description>
-    </item>
-    <item>
       <title>The Week in AI — November 13, 2026</title>
       <link>https://praviveek.online/#roundup-2026-11-13</link>
       <guid isPermaLink="false">https://praviveek.online/#roundup-2026-11-13</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business · Plants can speak using electricity, so this startup built an AI model to decipher their language · Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’ · Anthropic pitches AI safety bill that may block a model if 50+ people could be killed · Eka is worth $1.45B thanks to a physical AI model that has experts raving</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 20, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-20</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-20</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s digest examines the evolving landscape of AI agent deployment, security risks, and the underlying research shaping future model architectures. Nvidia launches new open models to run agents in the enterprise and on PCs · Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’ · AI researchers stranded Claude on a virtual desert island. It started to “play.” · Laplace Intelligence red-teams robots and self-driving cars before they hit the real world · “We were looking at it wrong”: The explosive claim that’s upended the AI world</description>
     </item>
   </channel>
 </rss>

@@ -1,6 +1,50 @@
 {
-  "updated": "2026-11-23T09:20:45.918860+00:00",
+  "updated": "2026-11-24T11:15:25.854410+00:00",
   "items": [
+    {
+      "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
+      "url": "https://arxiv.org/abs/2611.31233v1",
+      "date": "2026-11-23",
+      "summary": "CLIP-style dual encoders map images and text through two separate towers into a shared embedding space, where the two modalities occupy distinct regions separated by a modality gap. Retrieval fails wh",
+      "authors": "Hani Alomari, Md Atabuzzaman, Chris Thomas",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "From Local Errors to System Failures: Modeling and Benchmarking Error Propagation in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2611.31063v1",
+      "date": "2026-11-23",
+      "summary": "In multi-agent systems (MAS) built on large language models (LLMs), errors can propagate through intermediate messages and compromise final answers. However, outcome-based evaluation obscures how agen",
+      "authors": "Wenlong Yu, Bingxu Lu, Qilong Wang et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "Automatic Occupational Coding through Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2611.31051v1",
+      "date": "2026-11-23",
+      "summary": "Annually 1.9 million deaths and 89.7 million disability-adjusted life years are caused by exposure to agents during work (e.g., welding fumes, silica dust, and noise pollution). To improve worker heal",
+      "authors": "Mathijs A. Langezaal, Egon L. van den Broek, Lukas P. A. Arts et al.",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
+    {
+      "title": "CO-GRAFT: Attributing Reinforcement Learning Gains in Search Agents via Role-Level Policy Grafting",
+      "url": "https://arxiv.org/abs/2611.31185v1",
+      "date": "2026-11-23",
+      "summary": "Reinforcement learning (RL) improves large language model search agents by up to 32 exact-match (EM) points over their pre-RL initializations, yet overall accuracy gains do not identify which underlyi",
+      "authors": "Ramraj Chandradevan, Sayontan Ghosh, Vinoth Selvendran",
+      "tags": [
+        "arxiv",
+        "paper"
+      ]
+    },
     {
       "title": "Decision Models for Multilingual Emotion Classification: A Comparative Study Against LLMs and Encoders",
       "url": "https://arxiv.org/abs/2611.27721v1",
@@ -665,54 +709,6 @@
       "tags": [
         "agents",
         "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-      "url": "https://arxiv.org/abs/2610.42149v1",
-      "date": "2026-10-30",
-      "summary": "The authors propose a method to align language-based reasoning with continuous image generation, allowing multimodal models to achieve better controllability and scaling similar to large language models.",
-      "authors": "Byungwoo Jeon, Yoonwoo Jeong, Hyunseok Lee et al.",
-      "tags": [
-        "multimodal",
-        "generative-ai",
-        "paper"
-      ]
-    },
-    {
-      "title": "TradeWar: A Benchmark for Execution-Grounded Trade Negotiation with Adaptive LLM Agents",
-      "url": "https://arxiv.org/abs/2610.42004v1",
-      "date": "2026-10-30",
-      "summary": "This paper introduces a benchmark that evaluates LLM negotiation skills by measuring the real-world economic impact of their agreements rather than just the dialogue quality.",
-      "authors": "Xiangyu Kong, Ruirui Yang, Xia Hou",
-      "tags": [
-        "llm",
-        "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
-      "url": "https://arxiv.org/abs/2610.42001v1",
-      "date": "2026-10-30",
-      "summary": "The researchers developed an automated system that continuously updates meta-analyses on human-AI collaboration, helping practitioners stay current with evolving evidence on effective AI integration.",
-      "authors": "Michelle Vaccaro, Abdullah Almaatouq, Thomas W. Malone",
-      "tags": [
-        "meta-analysis",
-        "human-ai",
-        "paper"
-      ]
-    },
-    {
-      "title": "Hierarchical World Models with Implicit Dynamics",
-      "url": "https://arxiv.org/abs/2610.42146v1",
-      "date": "2026-10-30",
-      "summary": "The authors present a hierarchical world model that improves long-horizon planning for embodied agents by separating high-level state transitions from low-level control, reducing cumulative errors.",
-      "authors": "Gaoyue Zhou, Yvonne Wu, Zichen Jeff Cui et al.",
-      "tags": [
-        "robotics",
-        "planning",
         "paper"
       ]
     }
