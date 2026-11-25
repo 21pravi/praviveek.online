@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-24T11:15:25.854410+00:00",
+  "updated": "2026-11-25T10:03:48.733043+00:00",
   "items": [
+    {
+      "title": "Leto: Utility-Centric Agent Memory",
+      "url": "https://arxiv.org/abs/2611.33005v1",
+      "date": "2026-11-24",
+      "summary": "This paper introduces a memory system for LLM agents that prioritizes information based on its actual utility for future responses rather than just recording past conversation history.",
+      "authors": "Shuguang Chen, Salman Paracha",
+      "tags": [
+        "llm",
+        "agents",
+        "paper"
+      ]
+    },
+    {
+      "title": "LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving",
+      "url": "https://arxiv.org/abs/2611.32954v1",
+      "date": "2026-11-24",
+      "summary": "LoomKV enables lossless compression of KV caches for LLM serving, allowing for more efficient memory usage across GPUs and SSDs without sacrificing model output quality.",
+      "authors": "Wentao Zhu, Ziao Sheng, Peng Deng et al.",
+      "tags": [
+        "llm",
+        "inference",
+        "paper"
+      ]
+    },
+    {
+      "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
+      "url": "https://arxiv.org/abs/2611.33148v1",
+      "date": "2026-11-24",
+      "summary": "The authors demonstrate that long-horizon agents can be effectively trained using only teacher actions, bypassing the need for proprietary chain-of-thought data from closed models.",
+      "authors": "Dawid J. Kopiczko, Tijmen Blankevoort, Yuki M. Asano",
+      "tags": [
+        "distillation",
+        "reinforcement learning",
+        "paper"
+      ]
+    },
+    {
+      "title": "Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges",
+      "url": "https://arxiv.org/abs/2611.33065v1",
+      "date": "2026-11-24",
+      "summary": "The researchers developed a framework to identify and mitigate human-aligned biases in LLM-based evaluators, improving the reliability of automated model assessment pipelines.",
+      "authors": "Hamin Koo, Chanjoo Jung, Fangzhao Wu et al.",
+      "tags": [
+        "llm",
+        "evaluation",
+        "paper"
+      ]
+    },
     {
       "title": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming",
       "url": "https://arxiv.org/abs/2611.31233v1",
@@ -661,54 +709,6 @@
       "tags": [
         "regression",
         "physics",
-        "paper"
-      ]
-    },
-    {
-      "title": "VeriHarm-Bench: Measuring Harmful Success in LLM Coding Agents Verifiably",
-      "url": "https://arxiv.org/abs/2611.03575v1",
-      "date": "2026-11-02",
-      "summary": "This benchmark helps developers detect when coding agents successfully complete tasks while simultaneously causing unintended system damage, preventing dangerous side effects from going unnoticed.",
-      "authors": "Wei-Lin Chen, Zhepei Wei, Xinyu Zhu et al.",
-      "tags": [
-        "llm",
-        "security",
-        "paper"
-      ]
-    },
-    {
-      "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
-      "url": "https://arxiv.org/abs/2611.03634v1",
-      "date": "2026-11-02",
-      "summary": "WebHarbor provides a collection of stable, dockerized website environments, allowing researchers to train and test GUI agents on realistic, deterministic web workflows without relying on volatile live sites.",
-      "authors": "Zhaoyang Wang, Qianhui Wu, Boyu Gou et al.",
-      "tags": [
-        "agents",
-        "gui",
-        "paper"
-      ]
-    },
-    {
-      "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
-      "url": "https://arxiv.org/abs/2611.03633v1",
-      "date": "2026-11-02",
-      "summary": "Researchers found that while Muon speeds up pretraining, AdamW remains the superior optimizer for fine-tuning large models trained on extensive datasets, providing better downstream performance.",
-      "authors": "Catherine Li, Jingchu Gai, Andrej Risteski et al.",
-      "tags": [
-        "optimization",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "Strategist: Evolving Reasoning with Agents",
-      "url": "https://arxiv.org/abs/2611.03618v1",
-      "date": "2026-11-02",
-      "summary": "Strategist automates the creation of AI reasoning workflows by evolving and reusing code-based blueprints, moving away from manual, task-specific agent strategy design.",
-      "authors": "Taiming Lu, Qi Xu, Zhigang Hua et al.",
-      "tags": [
-        "agents",
-        "reasoning",
         "paper"
       ]
     }

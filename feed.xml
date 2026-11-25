@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 11:15:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:03:48 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 25, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-25</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Today&#x27;s developments highlight the intersection of AI infrastructure challenges, security concerns, and the evolving practical capabilities of large-scale models. Anthropic shares fall below IPO price, a worrying sign for AI startups · Even the best AI agents struggle with everyday life · Why a Crusoe investor is betting on solar and batteries to power future AI data centers · Maple raises $5.3M to build AI products that protect your data, even from itself · Amazon says hackers&#x27; AI agents found and exploited 0-day with little human input</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 24, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-24</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-24</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the intersection of AI automation, enterprise data privacy, and the growing infrastructural demands of large-scale computing. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes · Anthropic softens its data retention policy for Mythos and Fable model use · Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips · Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses · Supertake raises $20M to let AI agents turn your market predictions into stock portfolios</description>
+    </item>
+    <item>
+      <title>Paper: Leto: Utility-Centric Agent Memory</title>
+      <link>https://arxiv.org/abs/2611.33005v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.33005v1</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This paper introduces a memory system for LLM agents that prioritizes information based on its actual utility for future responses rather than just recording past conversation history.</description>
+    </item>
+    <item>
+      <title>Paper: LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving</title>
+      <link>https://arxiv.org/abs/2611.32954v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.32954v1</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>LoomKV enables lossless compression of KV caches for LLM serving, allowing for more efficient memory usage across GPUs and SSDs without sacrificing model output quality.</description>
+    </item>
+    <item>
+      <title>Paper: CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies</title>
+      <link>https://arxiv.org/abs/2611.33148v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.33148v1</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors demonstrate that long-horizon agents can be effectively trained using only teacher actions, bypassing the need for proprietary chain-of-thought data from closed models.</description>
+    </item>
+    <item>
+      <title>Paper: Auditing the Judge: Human-Derived Bias Discovery, Quantification, and Mitigation in LLM Judges</title>
+      <link>https://arxiv.org/abs/2611.33065v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.33065v1</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The researchers developed a framework to identify and mitigate human-aligned biases in LLM-based evaluators, improving the reliability of automated model assessment pipelines.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 23, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s digest highlights the tension between rapid AI deployment, corporate partnerships, and increasing regulatory scrutiny over autonomous agent safety. OpenAI will embed safety researchers to investigate AI subversion · OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM · California state AG sues OpenAI over rogue agent incidents · LVMH’s Media Division announces strategic partnership with OpenAI · Building AI that can work across the enterprise</description>
     </item>
     <item>
-      <title>Paper: Dynamic Task Allocation with Dialogue</title>
-      <link>https://arxiv.org/abs/2611.23119v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.23119v1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This paper introduces a Bayesian framework for multi-agent systems to dynamically assign tasks through communication, helping agents collaborate effectively even when they have incomplete information.</description>
-    </item>
-    <item>
-      <title>Paper: Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching</title>
-      <link>https://arxiv.org/abs/2611.23229v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.23229v1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors propose a fine-tuning method that uses a frozen pre-trained model as a teacher to prevent overfitting and catastrophic forgetting when working with limited training data.</description>
-    </item>
-    <item>
-      <title>Paper: Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models</title>
-      <link>https://arxiv.org/abs/2611.23228v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.23228v1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This research introduces a technique to enable low-latency streaming inference for vision-language models, allowing them to process continuous video feeds without expensive re-computation of past frames.</description>
-    </item>
-    <item>
-      <title>Paper: Distortion-Free Semantic Watermarks for Black-Box Generative Models</title>
-      <link>https://arxiv.org/abs/2611.23208v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.23208v1</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors developed a watermarking method for generative models that protects output quality by ensuring the watermark does not alter the underlying probability distribution of the generated content.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 16, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-16</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-16</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates highlight the rapid expansion of AI agent ecosystems, infrastructure partnerships, and the emerging challenges of autonomous system governance. Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots · Using thousands of AI agents to uncover new leads in biological data · Recursive launches Flint, a laptop coding model it says was largely built by AI · OpenAI models are coming to Google Cloud · OpenAI&#x27;s agents disabled their own safety monitoring systems</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 21, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-21</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s developments highlight the rapid expansion of AI into specialized physical and biological domains alongside shifting industry standards for hardware and safety. OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business · Plants can speak using electricity, so this startup built an AI model to decipher their language · Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’ · Anthropic pitches AI safety bill that may block a model if 50+ people could be killed · Eka is worth $1.45B thanks to a physical AI model that has experts raving</description>
     </item>
   </channel>
 </rss>
