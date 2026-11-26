@@ -5,14 +5,49 @@
     <link>https://praviveek.online/</link>
     <description>Daily AI and tech digest, research papers, and writing by a working data scientist.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:44:47 +0000</lastBuildDate>
     <atom:link href="https://praviveek.online/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI &amp; Tech Digest — November 26, 2026</title>
+      <link>https://praviveek.online/#digest-2026-11-26</link>
+      <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’ · OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work · AI data centers are becoming harder to build, and neoclouds are feeling it · Neuralink receives FDA approval for &#x27;pivotal&#x27; brain implant trial in ALS patients · The questions Jensen Huang and Nvidia will still have to answer about Megaspeed</description>
+    </item>
     <item>
       <title>AI &amp; Tech Digest — November 25, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-25</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-25</guid>
       <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s developments highlight the intersection of AI infrastructure challenges, security concerns, and the evolving practical capabilities of large-scale models. Anthropic shares fall below IPO price, a worrying sign for AI startups · Even the best AI agents struggle with everyday life · Why a Crusoe investor is betting on solar and batteries to power future AI data centers · Maple raises $5.3M to build AI products that protect your data, even from itself · Amazon says hackers&#x27; AI agents found and exploited 0-day with little human input</description>
+    </item>
+    <item>
+      <title>Paper: Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection</title>
+      <link>https://arxiv.org/abs/2611.34825v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34825v1</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This framework helps data scientists determine if using an LLM router is actually beneficial by auditing whether their model portfolio offers enough performance diversity to justify the complexity.</description>
+    </item>
+    <item>
+      <title>Paper: Diverse Alternative Reasoning Traces for Hard Math Problems</title>
+      <link>https://arxiv.org/abs/2611.34928v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34928v1</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This method improves mathematical reasoning in LLMs by mining and diversifying reasoning steps from failed attempts, helping models find correct paths for complex problems.</description>
+    </item>
+    <item>
+      <title>Paper: $μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents</title>
+      <link>https://arxiv.org/abs/2611.34920v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34920v1</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>This benchmark provides a standardized way to evaluate voice agents handling complex, multi-user interactions in shared environments, which is essential for building robust conversational AI.</description>
+    </item>
+    <item>
+      <title>Paper: Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits</title>
+      <link>https://arxiv.org/abs/2611.34887v1</link>
+      <guid isPermaLink="false">https://arxiv.org/abs/2611.34887v1</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The authors introduce a hybrid decision tree method that improves predictive accuracy while maintaining interpretability by using selective case-based splits instead of traditional feature-only thresholds.</description>
     </item>
     <item>
       <title>AI &amp; Tech Digest — November 24, 2026</title>
@@ -169,34 +204,6 @@
       <description>Today&#x27;s developments highlight the rapid expansion of AI agents into specialized professional, consumer, and safety-critical domains. Model ML raises $250M to automate investment banking grunt work · Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit · AI models can be tricked into identifying civilians as military targets by telling them it’s a game · Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop · Oregon is the latest state to sue OpenAI over child safety</description>
     </item>
     <item>
-      <title>Paper: Jailbreak Detection on Large Language Models via Contrastive Prototype Structures</title>
-      <link>https://arxiv.org/abs/2611.24936v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.24936v1</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The researchers developed a method to detect harmful LLM prompts by comparing them against safety prototypes, offering a data-efficient alternative to training complex downstream classifiers.</description>
-    </item>
-    <item>
-      <title>Paper: Who are you? The Personal Imitation Game</title>
-      <link>https://arxiv.org/abs/2611.24888v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.24888v1</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This study explores how well AI can mimic specific individuals, providing insights into the personality and stylistic markers that define unique human identities in machine interaction.</description>
-    </item>
-    <item>
-      <title>Paper: Ground, Iterate, Trace: Decomposing AI Research Ideation</title>
-      <link>https://arxiv.org/abs/2611.24887v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.24887v1</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The authors created an agentic framework that uses knowledge graphs and creative reasoning operators to help researchers generate more grounded and novel scientific ideas.</description>
-    </item>
-    <item>
-      <title>Paper: Auditing black-box clinical prediction models with a large language model through queries alone: a blinded test with planted flaws</title>
-      <link>https://arxiv.org/abs/2611.24877v1</link>
-      <guid isPermaLink="false">https://arxiv.org/abs/2611.24877v1</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>This paper evaluates whether LLMs can reliably audit clinical models for errors, finding that their ability to detect specific, planted flaws in black-box systems is limited.</description>
-    </item>
-    <item>
       <title>AI &amp; Tech Digest — November 17, 2026</title>
       <link>https://praviveek.online/#digest-2026-11-17</link>
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-11-17</guid>
@@ -349,13 +356,6 @@
       <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-23</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Today&#x27;s updates focus on the evolving landscape of autonomous agents, infrastructure costs, and the technical requirements for scaling AI systems securely. Claude Duet app is Anthropic’s bet on agents · OpenAI makes its Jev competitor widely available as decision model competition heats up · AI’s hidden storage bill: What inference leaves behind · 1Password launches a way for AI agents to log in on your behalf without seeing your password · Canva’s first AI image model plans designs before generating them</description>
-    </item>
-    <item>
-      <title>AI &amp; Tech Digest — October 22, 2026</title>
-      <link>https://praviveek.online/#digest-2026-10-22</link>
-      <guid isPermaLink="false">https://praviveek.online/#digest-2026-10-22</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Today&#x27;s updates highlight the rapid expansion of AI agent ecosystems, infrastructure partnerships, and the emerging challenges of autonomous system governance. Claude Duet is Anthropic&#x27;s answer to Meta Muse and OpenAI Dots · Using thousands of AI agents to uncover new leads in biological data · Recursive launches Flint, a laptop coding model it says was largely built by AI · OpenAI models are coming to Google Cloud · OpenAI&#x27;s agents disabled their own safety monitoring systems</description>
     </item>
   </channel>
 </rss>

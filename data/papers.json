@@ -1,6 +1,54 @@
 {
-  "updated": "2026-11-25T10:03:48.733043+00:00",
+  "updated": "2026-11-26T09:44:47.595496+00:00",
   "items": [
+    {
+      "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+      "url": "https://arxiv.org/abs/2611.34825v1",
+      "date": "2026-11-25",
+      "summary": "This framework helps data scientists determine if using an LLM router is actually beneficial by auditing whether their model portfolio offers enough performance diversity to justify the complexity.",
+      "authors": "Yihang Lu, Denica Kjorvezir, Ana Gjorgjevikj et al.",
+      "tags": [
+        "llm",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
+      "url": "https://arxiv.org/abs/2611.34928v1",
+      "date": "2026-11-25",
+      "summary": "This method improves mathematical reasoning in LLMs by mining and diversifying reasoning steps from failed attempts, helping models find correct paths for complex problems.",
+      "authors": "Lukas Aichberger, Adam Golinski, Arno Blaas et al.",
+      "tags": [
+        "llm",
+        "reasoning",
+        "paper"
+      ]
+    },
+    {
+      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
+      "url": "https://arxiv.org/abs/2611.34920v1",
+      "date": "2026-11-25",
+      "summary": "This benchmark provides a standardized way to evaluate voice agents handling complex, multi-user interactions in shared environments, which is essential for building robust conversational AI.",
+      "authors": "Qihao Lin, Guanxu Chen, Shuhang Zheng et al.",
+      "tags": [
+        "voice-ai",
+        "benchmarking",
+        "paper"
+      ]
+    },
+    {
+      "title": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Splits",
+      "url": "https://arxiv.org/abs/2611.34887v1",
+      "date": "2026-11-25",
+      "summary": "The authors introduce a hybrid decision tree method that improves predictive accuracy while maintaining interpretability by using selective case-based splits instead of traditional feature-only thresholds.",
+      "authors": "Cristiano Landi, Alessio Cascione, Riccardo Guidotti",
+      "tags": [
+        "decision-trees",
+        "interpretability",
+        "paper"
+      ]
+    },
     {
       "title": "Leto: Utility-Centric Agent Memory",
       "url": "https://arxiv.org/abs/2611.33005v1",
@@ -661,54 +709,6 @@
       "tags": [
         "llm",
         "agents",
-        "paper"
-      ]
-    },
-    {
-      "title": "Adversarial Speculative Reasoning Improves Long Horizon Agents",
-      "url": "https://arxiv.org/abs/2611.05345v1",
-      "date": "2026-11-03",
-      "summary": "The authors show that speculative decoding can introduce reasoning errors in long-horizon AI agents, suggesting that speed optimizations must be carefully validated for complex task planning.",
-      "authors": "Hongyin Luo, Wei Fang, Lijie Yang et al.",
-      "tags": [
-        "llm",
-        "reasoning",
-        "paper"
-      ]
-    },
-    {
-      "title": "PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data",
-      "url": "https://arxiv.org/abs/2611.05320v1",
-      "date": "2026-11-03",
-      "summary": "This framework uses LLM agents to automatically generate synthetic robot training data, significantly reducing the time and cost associated with manual teleoperation for robotics.",
-      "authors": "Kewei Zhang, Juncheng Ma, Guodong Lv et al.",
-      "tags": [
-        "robotics",
-        "data-generation",
-        "paper"
-      ]
-    },
-    {
-      "title": "HARP: Training-Free Dual-Profile Agentic Communication for LLM-Based Recommendation",
-      "url": "https://arxiv.org/abs/2611.05319v1",
-      "date": "2026-11-03",
-      "summary": "The researchers propose treating recommendation systems as a two-way communication process between users and items, improving performance by giving items the same self-descriptive capabilities as users.",
-      "authors": "Zhen Tao, Xun Zhou, Xuhui Chen et al.",
-      "tags": [
-        "recommendation",
-        "llm",
-        "paper"
-      ]
-    },
-    {
-      "title": "$Φ$asmaNet: A Staged Spectral Token-Refinement Architecture for Fast Gravitational-Wave Signal-to-Noise Ratio Prediction",
-      "url": "https://arxiv.org/abs/2611.05309v1",
-      "date": "2026-11-03",
-      "summary": "This compact neural network architecture accelerates gravitational-wave signal analysis by using spectral refinement, offering a faster alternative to traditional, computationally expensive SNR calculations.",
-      "authors": "Ioannis Tsioulis, Anastasios Tefas, Nikolaos Stergioulas",
-      "tags": [
-        "regression",
-        "physics",
         "paper"
       ]
     }
