@@ -1,6 +1,93 @@
 {
-  "updated": "2026-11-26T09:44:44.879628+00:00",
+  "updated": "2026-11-27T09:50:47.485946+00:00",
   "issues": [
+    {
+      "type": "digest",
+      "date": "2026-11-27",
+      "slug": "digest-2026-11-27",
+      "title": "AI & Tech Digest — November 27, 2026",
+      "intro": "Today's digest covers shifts in global hardware logistics, regulatory developments in neurotechnology and AI safety, and new infrastructure for orbital computing.",
+      "tags": [
+        "ai",
+        "biotech",
+        "chips",
+        "google",
+        "hardware"
+      ],
+      "items": [
+        {
+          "title": "NVIDIA reportedly halts AI chip shipments to Southeast Asia",
+          "url": "https://www.engadget.com/2329200/nvidia-reportedly-halts-chip-shipments-to-southeast-asia/",
+          "source": "Engadget",
+          "summary": "Nvidia has suspended server shipments to several Southeast Asian nations to comply with stricter U.S. export controls aimed at preventing unauthorized access to high-end AI hardware.",
+          "tags": [
+            "chips",
+            "policy"
+          ]
+        },
+        {
+          "title": "Neuralink receives FDA approval for 'pivotal' brain implant trial in ALS patients",
+          "url": "https://www.engadget.com/2329008/neuralink-receives-fda-approval-for-brain-implant-trial-in-als-patients/",
+          "source": "Engadget",
+          "summary": "The FDA has authorized Neuralink to begin clinical trials of its brain-computer interface technology specifically for patients suffering from ALS.",
+          "tags": [
+            "biotech",
+            "hardware"
+          ]
+        },
+        {
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+          "source": "Hacker News",
+          "summary": "Google is integrating AI agents with its Model Context Protocol servers, though current implementations restrict these agents from performing actions like sending emails.",
+          "tags": [
+            "llm",
+            "google"
+          ]
+        },
+        {
+          "title": "SpaceX gets FCC approval to deploy 1 million satellites for its AI orbital data center",
+          "url": "https://www.engadget.com/2329071/spacex-gets-fcc-approval-to-deploy-1-million-satellites-for-its-ai-orbital-data-center/",
+          "source": "Engadget",
+          "summary": "The FCC has approved SpaceX's proposal to launch one million satellites, which will serve as a massive orbital data center for AI processing.",
+          "tags": [
+            "infrastructure",
+            "space"
+          ]
+        },
+        {
+          "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+          "source": "TechCrunch AI",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+          "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+          "source": "The Verge",
+          "summary": "",
+          "tags": []
+        },
+        {
+          "title": "New York state bans AI chatbot toys for kids",
+          "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+          "source": "Engadget",
+          "summary": "New York state has enacted a five-year prohibition on the retail sale of toys that utilize artificial intelligence chatbots.",
+          "tags": [
+            "policy",
+            "ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "digest",
       "date": "2026-11-26",
@@ -7465,99 +7552,6 @@
           "tags": [
             "policy",
             "data"
-          ]
-        }
-      ]
-    },
-    {
-      "type": "digest",
-      "date": "2026-08-13",
-      "slug": "digest-2026-08-13",
-      "title": "AI & Tech Digest — August 13, 2026",
-      "intro": "Today's digest covers the shift toward agentic AI implementation, enterprise infrastructure challenges, and significant capital flowing into the AI software ecosystem.",
-      "tags": [
-        "agents",
-        "data",
-        "engineering",
-        "enterprise",
-        "funding"
-      ],
-      "items": [
-        {
-          "title": "From assistance to execution: How enterprises put AI to work",
-          "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-          "source": "OpenAI",
-          "summary": "Enterprises are transitioning from simple AI assistance to using autonomous agents to perform complex workflows, highlighting a shift in how companies integrate frontier models.",
-          "tags": [
-            "llm",
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Scaling AI agents with trustworthy data",
-          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-          "source": "MIT Tech Review",
-          "summary": "Organizations are struggling to achieve ROI on agentic AI deployments due to foundational gaps in their existing data infrastructure and management systems.",
-          "tags": [
-            "data",
-            "agents"
-          ]
-        },
-        {
-          "title": "Honor launches its long-awaited Robot Phone and yes it can wiggle at you",
-          "url": "https://www.engadget.com/2235640/honor-launches-its-long-awaited-robot-phone-and-yes-it-can-wiggle-at-you/",
-          "source": "Engadget",
-          "summary": "Honor introduced a smartphone featuring a mechanical gimbal camera, demonstrating a hardware-focused approach to integrating automated physical movement into consumer devices.",
-          "tags": [
-            "hardware"
-          ]
-        },
-        {
-          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-          "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-          "source": "TechCrunch AI",
-          "summary": "Thrive Holdings secured a $2 billion investment to accelerate the integration of artificial intelligence tools within large-scale corporate environments.",
-          "tags": [
-            "funding",
-            "enterprise"
-          ]
-        },
-        {
-          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-          "source": "TechCrunch AI",
-          "summary": "Anthropic's implementation of watermarking in Claude has sparked user backlash regarding privacy and the potential for tracking AI usage in professional or academic settings.",
-          "tags": [
-            "llm",
-            "policy"
-          ]
-        },
-        {
-          "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-          "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-          "source": "TechCrunch AI",
-          "summary": "Blacksmith experienced a significant valuation increase following rapid revenue growth, underscoring the high market demand for automated software testing solutions.",
-          "tags": [
-            "funding",
-            "software"
-          ]
-        },
-        {
-          "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-          "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-          "source": "Hacker News",
-          "summary": "Tailscale identified a long-standing SQLite bug as the source of recent database corruption, illustrating the risks of relying on legacy code in modern infrastructure.",
-          "tags": [
-            "engineering"
-          ]
-        },
-        {
-          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-          "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-          "source": "TechCrunch AI",
-          "summary": "Lovable reached a $13.3 billion valuation after securing additional funding, reflecting strong investor confidence in its recent revenue performance.",
-          "tags": [
-            "funding"
           ]
         }
       ]
